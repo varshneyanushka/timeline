@@ -1,0 +1,545 @@
+subject_id,hadm_id,event_time,event_type,description,value,unit,source_table
+10003700,28623837.0,2165-04-24 05:00:00,Vitals / Charted,Admission Weight (Kg),50.4,kg,chartevents
+10003700,28623837.0,2165-04-24 05:00:00,Vitals / Charted,Ectopy Type 1,,,chartevents
+10003700,28623837.0,2165-04-24 05:00:00,Vitals / Charted,Cervical Collar Type,,,chartevents
+10003700,28623837.0,2165-04-24 05:00:00,Vitals / Charted,Cervical Collar Status,,,chartevents
+10003700,28623837.0,2165-04-24 05:10:00,Vitals / Charted,Past medical history,,,chartevents
+10003700,28623837.0,2165-04-24 05:10:00,Vitals / Charted,Insulin pump,0.0,,chartevents
+10003700,28623837.0,2165-04-24 05:12:00,Vitals / Charted,Past medical history,,,chartevents
+10003700,28623837.0,2165-04-24 05:12:00,Vitals / Charted,Is the spokesperson the Health Care Proxy,0.0,,chartevents
+10003700,28623837.0,2165-04-24 05:12:00,Vitals / Charted,Unable to assess psychological,1.0,,chartevents
+10003700,28623837.0,2165-04-24 05:12:00,Vitals / Charted,Unable to assess teaching / learning needs,1.0,,chartevents
+10003700,28623837.0,2165-04-24 05:12:00,Vitals / Charted,Social work consult,1.0,,chartevents
+10003700,28623837.0,2165-04-24 05:12:00,Vitals / Charted,Unable to assess cognitive / perceptual,1.0,,chartevents
+10003700,28623837.0,2165-04-24 05:12:00,Vitals / Charted,Unable to assess activity / mobility,1.0,,chartevents
+10003700,28623837.0,2165-04-24 05:12:00,Vitals / Charted,Intravenous  / IV access prior to admission,1.0,,chartevents
+10003700,28623837.0,2165-04-24 05:12:00,Vitals / Charted,ETOH,1.0,,chartevents
+10003700,28623837.0,2165-04-24 05:12:00,Vitals / Charted,Recreational drug use,1.0,,chartevents
+10003700,28623837.0,2165-04-24 05:12:00,Vitals / Charted,Unable to assess nutrition / education,1.0,,chartevents
+10003700,28623837.0,2165-04-24 05:12:00,Vitals / Charted,Emotional / physical / sexual harm by partner or close relation,1.0,,chartevents
+10003700,28623837.0,2165-04-24 05:16:28,Vitals / Charted,Problem List,,,chartevents
+10003700,28623837.0,2165-04-24 05:28:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,97.0,mmHg,chartevents
+10003700,28623837.0,2165-04-24 05:28:00,Vitals / Charted,Non Invasive Blood Pressure mean,110.0,mmHg,chartevents
+10003700,28623837.0,2165-04-24 05:28:00,Vitals / Charted,Non Invasive Blood Pressure systolic,152.0,mmHg,chartevents
+10003700,28623837.0,2165-04-24 05:30:00,Vitals / Charted,Heart Rate,65.0,bpm,chartevents
+10003700,28623837.0,2165-04-24 05:30:00,Vitals / Charted,Respiratory Rate,14.0,insp/min,chartevents
+10003700,28623837.0,2165-04-24 05:31:00,Vitals / Charted,O2 saturation pulseoxymetry,100.0,%,chartevents
+10003700,28623837.0,2165-04-24 05:37:00,Vitals / Charted,Heart rate Alarm - High,120.0,bpm,chartevents
+10003700,28623837.0,2165-04-24 05:37:00,Vitals / Charted,Heart Rate Alarm - Low,50.0,bpm,chartevents
+10003700,28623837.0,2165-04-24 05:37:00,Vitals / Charted,Non-Invasive Blood Pressure Alarm - High,160.0,mmHg,chartevents
+10003700,28623837.0,2165-04-24 05:37:00,Vitals / Charted,Non-Invasive Blood Pressure Alarm - Low,90.0,mmHg,chartevents
+10003700,28623837.0,2165-04-24 05:37:00,Vitals / Charted,O2 Saturation Pulseoxymetry Alarm - High,100.0,%,chartevents
+10003700,28623837.0,2165-04-24 05:37:00,Vitals / Charted,Alarms On,1.0,,chartevents
+10003700,28623837.0,2165-04-24 05:37:00,Vitals / Charted,Resp Alarm - High,30.0,insp/min,chartevents
+10003700,28623837.0,2165-04-24 05:37:00,Vitals / Charted,Resp Alarm - Low,8.0,insp/min,chartevents
+10003700,28623837.0,2165-04-24 05:37:00,Vitals / Charted,Parameters Checked,1.0,,chartevents
+10003700,28623837.0,2165-04-24 05:37:00,Vitals / Charted,SpO2 Desat Limit,88.0,%,chartevents
+10003700,28623837.0,2165-04-24 05:37:00,Vitals / Charted,O2 Saturation Pulseoxymetry Alarm - Low,90.0,%,chartevents
+10003700,28623837.0,2165-04-24 05:37:00,Vitals / Charted,NBP Alarm Source,,,chartevents
+10003700,28623837.0,2165-04-24 05:38:00,Vitals / Charted,Heart Rhythm,,,chartevents
+10003700,28623837.0,2165-04-24 05:38:00,Vitals / Charted,Temperature Fahrenheit,97.6,°F,chartevents
+10003700,28623837.0,2165-04-24 05:38:00,Vitals / Charted,Temperature Site,,,chartevents
+10003700,28623837.0,2165-04-24 05:38:00,Procedure,Nasal Swab,1.0,,procedureevents
+10003700,28623837.0,2165-04-24 05:38:00,Procedure,Nasal Swab,1.0,,procedureevents
+10003700,28623837.0,2165-04-24 05:39:00,Input,IVF ingredient,0.9077155888080596,ml,ingredientevents
+10003700,28623837.0,2165-04-24 05:39:00,Input,Water,354.99999153614044,ml,ingredientevents
+10003700,28623837.0,2165-04-24 05:39:00,Input,IVF ingredient,354.99999153614044,ml,ingredientevents
+10003700,28623837.0,2165-04-24 05:39:00,Input,LR,354.99999153614044,ml,inputevents
+10003700,28623837.0,2165-04-24 05:39:00,Input,Calories,0.9984870851039886,Kcal,ingredientevents
+10003700,28623837.0,2165-04-24 05:39:00,Input,Solution,0.9077155888080596,ml,inputevents
+10003700,28623837.0,2165-04-24 05:39:00,Input,Propofol,9.077155496925116,mg,inputevents
+10003700,28623837.0,2165-04-24 05:39:00,Input,Water,0.9077155888080596,ml,ingredientevents
+10003700,28623837.0,2165-04-24 05:40:00,Vitals / Charted,Secondary diagnosis,15.0,,chartevents
+10003700,28623837.0,2165-04-24 05:40:00,Vitals / Charted,Ambulatory aid,0.0,,chartevents
+10003700,28623837.0,2165-04-24 05:40:00,Vitals / Charted,History of falling (within 3 mnths),25.0,,chartevents
+10003700,28623837.0,2165-04-24 05:40:00,Vitals / Charted,Safety Measures,,,chartevents
+10003700,28623837.0,2165-04-24 05:40:00,Vitals / Charted,Safety Measures,,,chartevents
+10003700,28623837.0,2165-04-24 05:40:00,Vitals / Charted,Safety Measures,,,chartevents
+10003700,28623837.0,2165-04-24 05:40:00,Vitals / Charted,Safety Measures,,,chartevents
+10003700,28623837.0,2165-04-24 05:40:00,Vitals / Charted,IV/Saline lock,20.0,,chartevents
+10003700,28623837.0,2165-04-24 05:40:00,Vitals / Charted,Gait/Transferring,0.0,,chartevents
+10003700,28623837.0,2165-04-24 05:40:00,Vitals / Charted,Mental status,15.0,,chartevents
+10003700,28623837.0,2165-04-24 05:40:00,Vitals / Charted,High risk (>51) interventions,1.0,,chartevents
+10003700,28623837.0,2165-04-24 05:40:00,Vitals / Charted,Less Restrictive Measures,,,chartevents
+10003700,28623837.0,2165-04-24 05:40:00,Vitals / Charted,Safety Measures,,,chartevents
+10003700,28623837.0,2165-04-24 05:40:00,Vitals / Charted,Side Rails,,,chartevents
+10003700,28623837.0,2165-04-24 05:40:00,Vitals / Charted,Restraint (Non-violent),,,chartevents
+10003700,28623837.0,2165-04-24 05:40:00,Vitals / Charted,Reason for Restraint (Non-violent),,,chartevents
+10003700,28623837.0,2165-04-24 05:40:00,Vitals / Charted,Restraint Device (Non-violent),,,chartevents
+10003700,28623837.0,2165-04-24 05:40:00,Vitals / Charted,Face to Face Eval (Non-violent),,,chartevents
+10003700,28623837.0,2165-04-24 05:40:00,Vitals / Charted,Restraint Location,,,chartevents
+10003700,28623837.0,2165-04-24 05:40:00,Vitals / Charted,Circulation/Skin Integrity,,,chartevents
+10003700,28623837.0,2165-04-24 05:40:00,Vitals / Charted,Safety Measures,,,chartevents
+10003700,28623837.0,2165-04-24 05:40:00,Vitals / Charted,Position Change,,,chartevents
+10003700,28623837.0,2165-04-24 05:40:00,Vitals / Charted,Urinal/Bedpan,,,chartevents
+10003700,28623837.0,2165-04-24 05:40:00,Vitals / Charted,Signs of Injury from Intervention,,,chartevents
+10003700,28623837.0,2165-04-24 05:40:00,Vitals / Charted,Less Restrictive Measures,,,chartevents
+10003700,28623837.0,2165-04-24 05:40:00,Vitals / Charted,Less Restrictive Measures,,,chartevents
+10003700,28623837.0,2165-04-24 05:40:00,Vitals / Charted,Less Restrictive Measures,,,chartevents
+10003700,28623837.0,2165-04-24 05:40:00,Vitals / Charted,Less Restrictive Measures,,,chartevents
+10003700,28623837.0,2165-04-24 05:40:00,Vitals / Charted,Restraints Evaluated,,,chartevents
+10003700,28623837.0,2165-04-24 05:40:00,Vitals / Charted,Range of Motion,,,chartevents
+10003700,28623837.0,2165-04-24 05:40:00,Output,Foley,300.0,ml,outputevents
+10003700,28623837.0,2165-04-24 05:40:00,Vitals / Charted,Restraint Ordered (Non-violent),,,chartevents
+10003700,28623837.0,2165-04-24 05:40:00,Input,Water,2000.0,ml,ingredientevents
+10003700,28623837.0,2165-04-24 05:40:00,Input,Pre-Admission/Non-ICU Intake,2000.0,ml,inputevents
+10003700,28623837.0,2165-04-24 05:41:00,Vitals / Charted,Position,,,chartevents
+10003700,28623837.0,2165-04-24 05:41:00,Vitals / Charted,Activity Tolerance,,,chartevents
+10003700,28623837.0,2165-04-24 05:41:00,Vitals / Charted,Assistance Device,,,chartevents
+10003700,28623837.0,2165-04-24 05:41:00,Vitals / Charted,Activity,,,chartevents
+10003700,28623837.0,2165-04-24 05:41:00,Vitals / Charted,Turn,,,chartevents
+10003700,28623837.0,2165-04-24 05:41:00,Vitals / Charted,Head of Bed,,,chartevents
+10003700,28623837.0,2165-04-24 05:41:00,Vitals / Charted,Education Response,,,chartevents
+10003700,28623837.0,2165-04-24 05:41:00,Vitals / Charted,Education Barrier,,,chartevents
+10003700,28623837.0,2165-04-24 05:41:00,Vitals / Charted,Education Barrier,,,chartevents
+10003700,28623837.0,2165-04-24 05:41:00,Vitals / Charted,Education Method,,,chartevents
+10003700,28623837.0,2165-04-24 05:41:00,Vitals / Charted,Education Topic,,,chartevents
+10003700,28623837.0,2165-04-24 05:41:00,Vitals / Charted,Education Topic,,,chartevents
+10003700,28623837.0,2165-04-24 05:41:00,Vitals / Charted,Education Topic,,,chartevents
+10003700,28623837.0,2165-04-24 05:41:00,Vitals / Charted,Education Topic,,,chartevents
+10003700,28623837.0,2165-04-24 05:41:00,Vitals / Charted,Education Learner,,,chartevents
+10003700,28623837.0,2165-04-24 05:41:00,Vitals / Charted,Family Communication,,,chartevents
+10003700,28623837.0,2165-04-24 05:41:00,Vitals / Charted,Family Communication,,,chartevents
+10003700,28623837.0,2165-04-24 05:41:00,Vitals / Charted,Family Communication,,,chartevents
+10003700,28623837.0,2165-04-24 05:41:00,Vitals / Charted,Support Systems,,,chartevents
+10003700,28623837.0,2165-04-24 05:41:00,Vitals / Charted,Education Readiness,,,chartevents
+10003700,28623837.0,2165-04-24 05:42:00,Vitals / Charted,Skin Care,1.0,,chartevents
+10003700,28623837.0,2165-04-24 05:42:00,DateTime Obs,18 Gauge Insertion Date,2165-04-24 05:42:00,Date,datetimeevents
+10003700,28623837.0,2165-04-24 05:42:00,Vitals / Charted,Therapeutic Bed,,,chartevents
+10003700,28623837.0,2165-04-24 05:42:00,Vitals / Charted,Pressure Reducing Device,,,chartevents
+10003700,28623837.0,2165-04-24 05:42:00,Vitals / Charted,Anti Embolic Device,,,chartevents
+10003700,28623837.0,2165-04-24 05:42:00,Vitals / Charted,Back Care,1.0,,chartevents
+10003700,28623837.0,2165-04-24 05:42:00,Vitals / Charted,Eye Care,1.0,,chartevents
+10003700,28623837.0,2165-04-24 05:42:00,Procedure,18 Gauge,211.0,min,procedureevents
+10003700,28623837.0,2165-04-24 05:42:00,Procedure,18 Gauge,211.0,min,procedureevents
+10003700,28623837.0,2165-04-24 05:42:00,Vitals / Charted,18 Gauge Site Appear,,,chartevents
+10003700,28623837.0,2165-04-24 05:42:00,Vitals / Charted,18 Gauge placed in outside facility,0.0,,chartevents
+10003700,28623837.0,2165-04-24 05:42:00,Vitals / Charted,Oral Care,,,chartevents
+10003700,28623837.0,2165-04-24 05:42:00,Vitals / Charted,18 Gauge Dressing Occlusive,1.0,,chartevents
+10003700,28623837.0,2165-04-24 05:42:00,Vitals / Charted,18 Gauge placed in the field,0.0,,chartevents
+10003700,28623837.0,2165-04-24 05:44:00,Input,Fentanyl,99.99999747378752,mcg,inputevents
+10003700,28623837.0,2165-04-24 05:45:00,Input,IVF ingredient,8.825013190507889,ml,ingredientevents
+10003700,28623837.0,2165-04-24 05:45:00,Input,Water,8.825013190507889,ml,ingredientevents
+10003700,28623837.0,2165-04-24 05:45:00,Input,Calories,1.100000023841858,Kcal,ingredientevents
+10003700,28623837.0,2165-04-24 05:45:00,Input,Calories,9.707514196634293,Kcal,ingredientevents
+10003700,28623837.0,2165-04-24 05:45:00,Input,Solution,8.825013190507889,ml,inputevents
+10003700,28623837.0,2165-04-24 05:45:00,Input,Propofol,88.25012831948698,mg,inputevents
+10003700,28623837.0,2165-04-24 05:45:00,Input,Propofol,10.000000707805157,mg,inputevents
+10003700,28623837.0,2165-04-24 05:46:00,Vitals / Charted,Impaired Skin Type #1,,,chartevents
+10003700,28623837.0,2165-04-24 05:46:00,Vitals / Charted,Impaired Skin Site #1,,,chartevents
+10003700,28623837.0,2165-04-24 05:47:00,Procedure,Invasive Ventilation,206.0,min,procedureevents
+10003700,28623837.0,2165-04-24 05:47:00,Procedure,Invasive Ventilation,206.0,min,procedureevents
+10003700,28623837.0,2165-04-24 05:48:00,Vitals / Charted,Radial Pulse L,,,chartevents
+10003700,28623837.0,2165-04-24 05:49:00,Vitals / Charted,Flatus,,,chartevents
+10003700,28623837.0,2165-04-24 05:49:00,Vitals / Charted,Bowel Sounds,,,chartevents
+10003700,28623837.0,2165-04-24 05:49:00,Vitals / Charted,Abdominal Assessment,,,chartevents
+10003700,28623837.0,2165-04-24 05:49:00,Vitals / Charted,Diet Type,,,chartevents
+10003700,28623837.0,2165-04-24 05:49:00,Vitals / Charted,Nares R,,,chartevents
+10003700,28623837.0,2165-04-24 05:49:00,Vitals / Charted,Oral Cavity,,,chartevents
+10003700,28623837.0,2165-04-24 05:49:00,Vitals / Charted,LLL Lung Sounds,,,chartevents
+10003700,28623837.0,2165-04-24 05:49:00,Vitals / Charted,LUL Lung Sounds,,,chartevents
+10003700,28623837.0,2165-04-24 05:49:00,Vitals / Charted,RLL Lung Sounds,,,chartevents
+10003700,28623837.0,2165-04-24 05:49:00,Vitals / Charted,RUL Lung Sounds,,,chartevents
+10003700,28623837.0,2165-04-24 05:49:00,Vitals / Charted,Respiratory Pattern,,,chartevents
+10003700,28623837.0,2165-04-24 05:49:00,Vitals / Charted,Nares L,,,chartevents
+10003700,28623837.0,2165-04-24 05:49:00,Vitals / Charted,Respiratory Effort,,,chartevents
+10003700,28623837.0,2165-04-24 05:49:00,Vitals / Charted,GI #1 Intub Site,,,chartevents
+10003700,28623837.0,2165-04-24 05:49:00,Vitals / Charted,Cough Type,,,chartevents
+10003700,28623837.0,2165-04-24 05:49:00,Vitals / Charted,GI #1 Tube Place Check,,,chartevents
+10003700,28623837.0,2165-04-24 05:49:00,Vitals / Charted,GI #1 Tube Type,,,chartevents
+10003700,28623837.0,2165-04-24 05:49:00,Vitals / Charted,GI #1 Tube Status,,,chartevents
+10003700,28623837.0,2165-04-24 05:49:00,Vitals / Charted,GI #1 Tube Place Method,,,chartevents
+10003700,28623837.0,2165-04-24 05:49:00,Vitals / Charted,GI #1 Tube Drainage,,,chartevents
+10003700,28623837.0,2165-04-24 05:49:00,Vitals / Charted,Cough Effort,,,chartevents
+10003700,28623837.0,2165-04-24 05:50:00,Vitals / Charted,Urine Appearance,,,chartevents
+10003700,28623837.0,2165-04-24 05:50:00,Vitals / Charted,Edema Amount,,,chartevents
+10003700,28623837.0,2165-04-24 05:50:00,Vitals / Charted,Skin Condition,,,chartevents
+10003700,28623837.0,2165-04-24 05:50:00,Vitals / Charted,Braden Friction/Shear,2.0,,chartevents
+10003700,28623837.0,2165-04-24 05:50:00,Vitals / Charted,Braden Nutrition,2.0,,chartevents
+10003700,28623837.0,2165-04-24 05:50:00,Vitals / Charted,Braden Mobility,3.0,,chartevents
+10003700,28623837.0,2165-04-24 05:50:00,Vitals / Charted,Braden Activity,1.0,,chartevents
+10003700,28623837.0,2165-04-24 05:50:00,Vitals / Charted,GU Catheter Size,,,chartevents
+10003700,28623837.0,2165-04-24 05:50:00,Vitals / Charted,Braden Sensory Perception,1.0,,chartevents
+10003700,28623837.0,2165-04-24 05:50:00,Vitals / Charted,Edema Location,,,chartevents
+10003700,28623837.0,2165-04-24 05:50:00,Vitals / Charted,Skin Color,,,chartevents
+10003700,28623837.0,2165-04-24 05:50:00,Vitals / Charted,Skin Temperature,,,chartevents
+10003700,28623837.0,2165-04-24 05:50:00,Vitals / Charted,Skin Integrity,,,chartevents
+10003700,28623837.0,2165-04-24 05:50:00,Vitals / Charted,Urine Color,,,chartevents
+10003700,28623837.0,2165-04-24 05:50:00,Vitals / Charted,Urine Source,,,chartevents
+10003700,28623837.0,2165-04-24 05:50:00,Vitals / Charted,Braden Moisture,4.0,,chartevents
+10003700,28623837.0,2165-04-24 05:52:00,Input,Calories,2.200000047683716,Kcal,ingredientevents
+10003700,28623837.0,2165-04-24 05:52:00,Input,Propofol,20.000001415610317,mg,inputevents
+10003700,28623837.0,2165-04-24 05:52:00,Input,Fentanyl,49.99999873689376,mcg,inputevents
+10003700,28623837.0,2165-04-24 05:54:00,Vitals / Charted,PT Splint Status #1,,,chartevents
+10003700,28623837.0,2165-04-24 05:54:00,Vitals / Charted,LLE Temp,,,chartevents
+10003700,28623837.0,2165-04-24 05:54:00,Vitals / Charted,RLE Temp,,,chartevents
+10003700,28623837.0,2165-04-24 05:54:00,Vitals / Charted,PT Splint Location #1,,,chartevents
+10003700,28623837.0,2165-04-24 05:54:00,Vitals / Charted,RUE Temp,,,chartevents
+10003700,28623837.0,2165-04-24 05:54:00,Vitals / Charted,Dorsal PedPulse R,,,chartevents
+10003700,28623837.0,2165-04-24 05:54:00,Vitals / Charted,LUE Temp,,,chartevents
+10003700,28623837.0,2165-04-24 05:54:00,Vitals / Charted,PostTib. Pulses R,,,chartevents
+10003700,28623837.0,2165-04-24 05:54:00,Vitals / Charted,Dorsal PedPulse L,,,chartevents
+10003700,28623837.0,2165-04-24 05:54:00,Vitals / Charted,Capillary Refill R,,,chartevents
+10003700,28623837.0,2165-04-24 05:54:00,Vitals / Charted,PostTib. Pulses L,,,chartevents
+10003700,28623837.0,2165-04-24 05:54:00,Vitals / Charted,LUE Color,,,chartevents
+10003700,28623837.0,2165-04-24 05:54:00,Vitals / Charted,Capillary Refill L,,,chartevents
+10003700,28623837.0,2165-04-24 05:55:00,Vitals / Charted,GCS - Eye Opening,2.0,,chartevents
+10003700,28623837.0,2165-04-24 05:55:00,Vitals / Charted,GCS - Verbal Response,1.0,,chartevents
+10003700,28623837.0,2165-04-24 05:55:00,Vitals / Charted,GCS - Motor Response,5.0,,chartevents
+10003700,28623837.0,2165-04-24 05:55:00,Vitals / Charted,Gag Reflex,,,chartevents
+10003700,28623837.0,2165-04-24 05:55:00,Vitals / Charted,Cough Reflex,,,chartevents
+10003700,28623837.0,2165-04-24 05:55:00,Vitals / Charted,Pupil Size Right,,,chartevents
+10003700,28623837.0,2165-04-24 05:55:00,Vitals / Charted,Spontaneous Movement,,,chartevents
+10003700,28623837.0,2165-04-24 05:55:00,Vitals / Charted,Response to Stimuli (Type),,,chartevents
+10003700,28623837.0,2165-04-24 05:55:00,Vitals / Charted,RU Strength/Movement,,,chartevents
+10003700,28623837.0,2165-04-24 05:55:00,Vitals / Charted,RL Strength/Movement,,,chartevents
+10003700,28623837.0,2165-04-24 05:55:00,Vitals / Charted,Orientation,,,chartevents
+10003700,28623837.0,2165-04-24 05:55:00,Vitals / Charted,Speech,,,chartevents
+10003700,28623837.0,2165-04-24 05:55:00,Vitals / Charted,Corneal Reflex Right,,,chartevents
+10003700,28623837.0,2165-04-24 05:55:00,Vitals / Charted,LU Strength/Movement,,,chartevents
+10003700,28623837.0,2165-04-24 05:55:00,Vitals / Charted,Corneal Reflex Left,,,chartevents
+10003700,28623837.0,2165-04-24 05:55:00,Vitals / Charted,Pupil Size Left,,,chartevents
+10003700,28623837.0,2165-04-24 05:55:00,Vitals / Charted,Response,,,chartevents
+10003700,28623837.0,2165-04-24 05:55:00,Vitals / Charted,Level of Consciousness,,,chartevents
+10003700,28623837.0,2165-04-24 05:55:00,Vitals / Charted,Pupil Response Right,,,chartevents
+10003700,28623837.0,2165-04-24 05:55:00,Vitals / Charted,Pupil Response Left,,,chartevents
+10003700,28623837.0,2165-04-24 05:55:00,Vitals / Charted,LL Strength/Movement,,,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,Expiratory Ratio,4.0,,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,Slope,,,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,Flow Sensitivity,,,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,Plateau Pressure,21.0,cmH2O,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,Peak Insp. Pressure,25.0,cmH2O,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,Flow Pattern,,,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,Respiratory Rate (Total),22.0,insp/min,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,Respiratory Rate (Set),14.0,insp/min,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,Minute Volume,9.0,L/min,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,Tidal Volume (observed),426.0,mL,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,O2 saturation pulseoxymetry,100.0,%,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,Tidal Volume (set),500.0,mL,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,Ventilator Mode,2.0,,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,Ventilator Type,1.0,,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,Inspired O2 Fraction,40.0,,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,Ventilator Tank #1,1200.0,,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,Ventilator Tank #2,2800.0,,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,Heart Rate,56.0,bpm,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,Heart Rhythm,,,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,Non Invasive Blood Pressure systolic,126.0,mmHg,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,78.0,mmHg,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,O2 Delivery Device(s),,,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,Inspiratory Ratio,1.0,,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,Minute Volume Alarm - Low,3.0,L/min,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,PEEP set,5.0,cmH2O,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,RSBI Deferred,,,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,Inspiratory Time,0.85,sec,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,Cuff Pressure,25.0,cmH2O,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,ETT Mark (location),,,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,ETT Location,,,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,ETT Type,,,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,ETT Mark (cm),,,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,LLL Lung Sounds,,,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,LUL Lung Sounds,,,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,Minute Volume Alarm - High,20.0,L/min,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,RLL Lung Sounds,,,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,ETT Size (ID),,,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,Humidification,,,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,Total PEEP Level,5.0,cmH2O,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,Mean Airway Pressure,14.0,cmH2O,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,Apnea Interval,20.0,sec,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,Fspn High,20.0,insp/min,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,Vti High,1.5,mL,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,Respiratory Rate,14.0,insp/min,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,Paw High,40.0,cmH2O,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,RUL Lung Sounds,,,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,Non Invasive Blood Pressure mean,88.0,mmHg,chartevents
+10003700,28623837.0,2165-04-24 06:00:00,Vitals / Charted,Flow Rate (variable/fixed),,,chartevents
+10003700,28623837.0,2165-04-24 06:02:00,Vitals / Charted,Head of Bed,,,chartevents
+10003700,28623837.0,2165-04-24 06:02:00,Vitals / Charted,Activity,,,chartevents
+10003700,28623837.0,2165-04-24 06:02:00,Vitals / Charted,Turn,,,chartevents
+10003700,28623837.0,2165-04-24 06:02:00,Vitals / Charted,Back Care,1.0,,chartevents
+10003700,28623837.0,2165-04-24 06:02:00,Vitals / Charted,Assistance Device,,,chartevents
+10003700,28623837.0,2165-04-24 06:02:00,Vitals / Charted,Activity Tolerance,,,chartevents
+10003700,28623837.0,2165-04-24 06:02:00,Vitals / Charted,Skin Care,1.0,,chartevents
+10003700,28623837.0,2165-04-24 06:02:00,Vitals / Charted,Position,,,chartevents
+10003700,28623837.0,2165-04-24 06:04:00,Input,Fentanyl,49.99999873689376,mcg,inputevents
+10003700,28623837.0,2165-04-24 06:05:00,Vitals / Charted,Cervical Collar Type,,,chartevents
+10003700,28623837.0,2165-04-24 06:05:00,Vitals / Charted,Cervical Collar Status,,,chartevents
+10003700,28623837.0,2165-04-24 06:09:00,Vitals / Charted,Service,,,chartevents
+10003700,28623837.0,2165-04-24 06:09:00,Vitals / Charted,Admission Weight (lbs.),110.9,,chartevents
+10003700,28623837.0,2165-04-24 06:09:00,Vitals / Charted,Ectopy Type 1,,,chartevents
+10003700,28623837.0,2165-04-24 06:09:00,Vitals / Charted,Heart Rate,55.0,bpm,chartevents
+10003700,28623837.0,2165-04-24 06:09:00,Vitals / Charted,Respiratory Rate,14.0,insp/min,chartevents
+10003700,28623837.0,2165-04-24 06:09:00,Vitals / Charted,O2 saturation pulseoxymetry,100.0,%,chartevents
+10003700,28623837.0,2165-04-24 06:09:00,Vitals / Charted,Code Status,,,chartevents
+10003700,28623837.0,2165-04-24 06:20:00,Input,IVF ingredient,26.0066556930542,ml,ingredientevents
+10003700,28623837.0,2165-04-24 06:20:00,Input,Solution,26.0066556930542,ml,inputevents
+10003700,28623837.0,2165-04-24 06:20:00,Input,Calories,28.60731869935989,Kcal,ingredientevents
+10003700,28623837.0,2165-04-24 06:20:00,Input,Water,26.0066556930542,ml,ingredientevents
+10003700,28623837.0,2165-04-24 06:20:00,Input,Propofol,260.0665409117937,mg,inputevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Fspn High,20.0,insp/min,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Ventilator Type,1.0,,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Flow Pattern,,,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Flow Rate (variable/fixed),,,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Flow Sensitivity,,,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,RUL Lung Sounds,,,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Minute Volume,6.1,L/min,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,LUL Lung Sounds,,,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,ETT Mark (cm),,,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,ETT Mark (location),,,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Apnea Interval,20.0,sec,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Vti High,1.5,mL,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Paw High,40.0,cmH2O,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Ventilator Mode,49.0,,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,ETT Location,,,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,ETT Size (ID),,,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Inspired O2 Fraction,40.0,,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,RLL Lung Sounds,,,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,PEEP set,5.0,cmH2O,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Minute Volume Alarm - Low,3.0,L/min,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,O2 saturation pulseoxymetry,100.0,%,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Ventilator Tank #2,2800.0,,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Ventilator Tank #1,1200.0,,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Humidification,,,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Slope,,,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,ETT Type,,,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Total PEEP Level,5.0,cmH2O,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,LLL Lung Sounds,,,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Minute Volume Alarm - High,20.0,L/min,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Plateau Pressure,20.0,cmH2O,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Cuff Volume (mL),6.0,mL,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Tidal Volume (set),500.0,mL,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Respiratory Rate,14.0,insp/min,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Non Invasive Blood Pressure mean,109.0,mmHg,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Cuff Volume/units,,,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Non Invasive Blood Pressure systolic,150.0,mmHg,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Heart Rate,57.0,bpm,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Ectopy Type 1,,,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Temperature Site,,,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Alarms On,1.0,,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Parameters Checked,1.0,,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Temperature Fahrenheit,97.8,°F,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Heart Rhythm,,,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Respiratory Rate (Total),14.0,insp/min,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,97.0,mmHg,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,SBT Started,,,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Sputum Amount,,,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Sputum Source,,,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Inspiratory Ratio,1.0,,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Expiratory Ratio,4.0,,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Inspiratory Time,0.85,sec,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Mean Airway Pressure,8.0,cmH2O,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Peak Insp. Pressure,22.0,cmH2O,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Respiratory Rate (spontaneous),0.0,insp/min,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Respiratory Rate (Set),14.0,insp/min,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Cuff Pressure,25.0,cmH2O,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,Tidal Volume (observed),451.0,mL,chartevents
+10003700,28623837.0,2165-04-24 07:00:00,Vitals / Charted,SBT Deferred,,,chartevents
+10003700,28623837.0,2165-04-24 07:30:00,Input,Water,1.700000088661909,ml,ingredientevents
+10003700,28623837.0,2165-04-24 07:30:00,Input,Solution,1.700000088661909,ml,inputevents
+10003700,28623837.0,2165-04-24 07:30:00,Input,Fentanyl (Concentrate),0.0850000055834243,mg,inputevents
+10003700,28623837.0,2165-04-24 07:30:00,Input,IVF ingredient,1.700000088661909,ml,ingredientevents
+10003700,28623837.0,2165-04-24 07:37:00,Vitals / Charted,O2 Delivery Device(s),,,chartevents
+10003700,28623837.0,2165-04-24 07:39:00,Vitals / Charted,Ionized Calcium,1.17,mmol/L,chartevents
+10003700,28623837.0,2165-04-24 07:39:00,Vitals / Charted,Arterial O2 pressure,194.0,mmHg,chartevents
+10003700,28623837.0,2165-04-24 07:39:00,Vitals / Charted,Arterial CO2 Pressure,33.0,mmHg,chartevents
+10003700,28623837.0,2165-04-24 07:39:00,Vitals / Charted,PH (Arterial),7.49,units,chartevents
+10003700,28623837.0,2165-04-24 07:39:00,Vitals / Charted,Arterial Base Excess,3.0,mEq/L,chartevents
+10003700,28623837.0,2165-04-24 07:39:00,Vitals / Charted,TCO2 (calc) Arterial,26.0,mEq/L,chartevents
+10003700,28623837.0,2165-04-24 07:39:00,Vitals / Charted,Lactic Acid,1.0,mmol/L,chartevents
+10003700,28623837.0,2165-04-24 07:50:00,Vitals / Charted,Non-Invasive Blood Pressure Alarm - Low,90.0,mmHg,chartevents
+10003700,28623837.0,2165-04-24 07:50:00,Vitals / Charted,O2 Saturation Pulseoxymetry Alarm - High,100.0,%,chartevents
+10003700,28623837.0,2165-04-24 07:50:00,Vitals / Charted,Heart Rate Alarm - Low,50.0,bpm,chartevents
+10003700,28623837.0,2165-04-24 07:50:00,Vitals / Charted,Resp Alarm - High,40.0,insp/min,chartevents
+10003700,28623837.0,2165-04-24 07:50:00,Vitals / Charted,Resp Alarm - Low,8.0,insp/min,chartevents
+10003700,28623837.0,2165-04-24 07:50:00,Vitals / Charted,NBP Alarm Source,,,chartevents
+10003700,28623837.0,2165-04-24 07:50:00,Vitals / Charted,Heart rate Alarm - High,130.0,bpm,chartevents
+10003700,28623837.0,2165-04-24 07:50:00,Vitals / Charted,Non-Invasive Blood Pressure Alarm - High,160.0,mmHg,chartevents
+10003700,28623837.0,2165-04-24 07:50:00,Vitals / Charted,O2 Saturation Pulseoxymetry Alarm - Low,92.0,%,chartevents
+10003700,28623837.0,2165-04-24 07:50:00,Vitals / Charted,SpO2 Desat Limit,90.0,%,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,GI #1 Intub Site,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Education Learner,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,GI #1 Tube Drainage,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Urine Source,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Urine Color,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,GU Catheter Size,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Skin Integrity,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Flatus,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Skin Temperature,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Edema Location,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Braden Sensory Perception,4.0,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Braden Moisture,4.0,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Braden Activity,4.0,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Braden Mobility,4.0,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Braden Nutrition,4.0,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Skin Color,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Braden Friction/Shear,3.0,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Bowel Sounds,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Diet Type,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,RUL Lung Sounds,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,RLL Lung Sounds,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,LUL Lung Sounds,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,LLL Lung Sounds,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Respiratory Effort,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Cough Effort,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Abdominal Assessment,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Cough Type,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,RUE Temp,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,LUE Temp,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,RLE Temp,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,LLE Temp,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Oral Cavity,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Nares R,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Capillary Refill L,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,GI #1 Tube Type,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,GI #1 Tube Status,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Skin Condition,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Less Restrictive Measures,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Less Restrictive Measures,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Less Restrictive Measures,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Less Restrictive Measures,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Less Restrictive Measures,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Less Restrictive Measures,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Signs of Injury from Intervention,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Less Restrictive Measures,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Patient/Family Informed,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Side  Rails,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Support Systems,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Restraints Evaluated,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Urinal/Bedpan,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Food and Fluid,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Status and Comfort,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Edema Amount,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Urine Appearance,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Nares L,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,GI #1 Tube Place Method,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Side Rails,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Restraint (Non-violent),,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Restraint Ordered (Non-violent),,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Reason for Restraint (Non-violent),,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Restraint Device (Non-violent),,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Face to Face Eval (Non-violent),,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Restraint Location,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Circulation/Skin Integrity,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Position Change,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Range of Motion,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Status and Comfort,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Respiratory Pattern,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,LLE Color,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,LUE Color,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,RLE Color,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Anti Embolic Device,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Pressure Reducing Device,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Therapeutic Bed,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Mental status,15.0,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Gait/Transferring,0.0,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,IV/Saline lock,20.0,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Cervical Collar Type,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Ambulatory aid,0.0,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,History of falling (within 3 mnths),25.0,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Position,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Activity Tolerance,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Assistance Device,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Activity,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,18 Gauge placed in the field,0.0,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Secondary diagnosis,15.0,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Family Communication,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Cervical Collar Status,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Anti Embolic Device Status,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,18 Gauge Dressing Occlusive,1.0,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,18 Gauge placed in outside facility,0.0,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,18 Gauge Site Appear,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Impaired Skin Drainage Amount #1,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Impaired Skin Type #1,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Impaired Skin Drainage #1,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,PT Splint Location #1,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Impaired Skin Site #1,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Oral Care,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Oral Care,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Back Care,1.0,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Skin Care,1.0,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Eye Care,1.0,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,PT Splint Status #1,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Subglottal Suctioning,1.0,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Head of Bed,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Turn,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Education Method,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Gag Reflex,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Cough Reflex,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Pupil Size Right,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Spontaneous Movement,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Pupil Size Left,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Level of Consciousness,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Speech,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Pupil Response Right,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Dorsal PedPulse R,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Radial Pulse R,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Dorsal PedPulse L,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Radial Pulse L,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Capillary Refill R,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,RUE Color,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Pupil Response Left,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Education Response,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,GCS - Motor Response,4.0,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Orientation,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Education Method,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Education Barrier,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Education Readiness,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,DateTime Obs,18 Gauge Insertion Date,2165-04-24 00:00:00,Date,datetimeevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Education Topic,,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Tidal Volume (set),350.0,mL,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,GCS - Verbal Response,1.0,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Ventilator Type,1.0,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Heart Rate,56.0,bpm,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Non Invasive Blood Pressure systolic,124.0,mmHg,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,70.0,mmHg,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Non Invasive Blood Pressure mean,82.0,mmHg,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Respiratory Rate,14.0,insp/min,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,O2 saturation pulseoxymetry,100.0,%,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,GCS - Eye Opening,1.0,,chartevents
+10003700,28623837.0,2165-04-24 08:00:00,Vitals / Charted,Family Communication,,,chartevents
+10003700,29107104.0,2165-05-13 10:00:00,Prescription,Enoxaparin Sodium,40,mg,prescriptions
+10003700,29107104.0,2165-05-13 10:00:00,Pharmacy,Enoxaparin Sodium,,NaN,pharmacy
+10003700,29107104.0,2165-05-13 13:57:00,Transfer,ED Emergency Department,NaN,NaN,transfers
+10003700,29107104.0,2165-05-13 18:06:00,Admission,EW EMER.,NaN,NaN,admissions
+10003700,29107104.0,2165-05-13 18:06:34,Service,ORTHO,NaN,NaN,services
+10003700,29107104.0,2165-05-13 19:00:00,Pharmacy,Influenza Virus Vaccine,,NaN,pharmacy
+10003700,29107104.0,2165-05-13 19:00:00,Prescription,Senna,1,TAB,prescriptions
+10003700,29107104.0,2165-05-13 19:00:00,Prescription,Potassium Chl 20 mEq / 1000 mL D5 1/2 NS,1000,mL,prescriptions
+10003700,29107104.0,2165-05-13 19:00:00,Pharmacy,Clonazepam,,NaN,pharmacy
+10003700,29107104.0,2165-05-13 19:00:00,Prescription,Ondansetron,4,mg,prescriptions
+10003700,29107104.0,2165-05-13 19:00:00,Prescription,OxycoDONE (Immediate Release) ,5-15,mg,prescriptions
+10003700,29107104.0,2165-05-13 19:00:00,Pharmacy,OxycoDONE (Immediate Release) ,,NaN,pharmacy
+10003700,29107104.0,2165-05-13 19:00:00,Pharmacy,Ondansetron,,NaN,pharmacy
+10003700,29107104.0,2165-05-13 19:00:00,Prescription,Clonazepam,2,mg,prescriptions
+10003700,29107104.0,2165-05-13 19:00:00,Prescription,Influenza Virus Vaccine,0.5,mL,prescriptions
+10003700,29107104.0,2165-05-13 19:00:00,Prescription,HYDROmorphone (Dilaudid),0.5,mg,prescriptions
+10003700,29107104.0,2165-05-13 19:00:00,Pharmacy,,,NaN,pharmacy
+10003700,29107104.0,2165-05-13 19:00:00,Pharmacy,Senna,,NaN,pharmacy
+10003700,29107104.0,2165-05-13 19:00:00,Prescription,Sodium Chloride 0.9%  Flush,3,mL,prescriptions
+10003700,29107104.0,2165-05-13 19:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+10003700,29107104.0,2165-05-13 19:00:00,Pharmacy,Sodium Chloride 0.9%  Flush,,NaN,pharmacy
+10003700,29107104.0,2165-05-13 19:34:00,Transfer,admit Medicine,NaN,NaN,transfers
+10003700,29107104.0,2165-05-13 20:00:00,Prescription,Gabapentin,600,mg,prescriptions
+10003700,29107104.0,2165-05-13 20:00:00,Pharmacy,Docusate Sodium,,NaN,pharmacy
+10003700,29107104.0,2165-05-13 20:00:00,Pharmacy,Clonazepam,,NaN,pharmacy
+10003700,29107104.0,2165-05-13 20:00:00,Prescription,Diazepam,10,mg,prescriptions
+10003700,29107104.0,2165-05-13 20:00:00,Prescription,Lithium Carbonate CR (Eskalith),450,mg,prescriptions
+10003700,29107104.0,2165-05-13 20:00:00,Prescription,Clonazepam,2,mg,prescriptions
+10003700,29107104.0,2165-05-13 20:00:00,Pharmacy,Gabapentin,,NaN,pharmacy
+10003700,29107104.0,2165-05-13 20:00:00,Pharmacy,Clonazepam,,NaN,pharmacy
+10003700,29107104.0,2165-05-13 20:00:00,Pharmacy,Diazepam,,NaN,pharmacy
+10003700,29107104.0,2165-05-13 20:00:00,Pharmacy,Lithium Carbonate CR (Eskalith),,NaN,pharmacy
+10003700,29107104.0,2165-05-13 20:00:00,Prescription,Clonazepam,2,mg,prescriptions
+10003700,29107104.0,2165-05-13 20:00:00,Prescription,Docusate Sodium,100,mg,prescriptions
+10003700,29107104.0,2165-05-14 10:00:00,Prescription,Lidocaine 5% Patch,1,PTCH,prescriptions
+10003700,29107104.0,2165-05-14 10:00:00,Pharmacy,Lidocaine 5% Patch,,NaN,pharmacy
+10003700,29107104.0,2165-05-14 13:00:00,Pharmacy,CefazoLIN,,NaN,pharmacy
+10003700,29107104.0,2165-05-14 13:00:00,Pharmacy,,,NaN,pharmacy
+10003700,29107104.0,2165-05-14 13:00:00,Prescription,CefazoLIN,2,gm,prescriptions
+10003700,29107104.0,2165-05-14 13:00:00,Prescription,LR,1000,mL,prescriptions
+10003700,29107104.0,2165-05-14 13:00:00,Prescription,0.9% Sodium Chloride,100,mL,prescriptions
+10003700,29107104.0,2165-05-14 22:00:00,Pharmacy,Metronidazole Gel 0.75%-Vaginal,,NaN,pharmacy
+10003700,29107104.0,2165-05-14 22:00:00,Prescription,Metronidazole Gel 0.75%-Vaginal,1,Appl,prescriptions
+10003700,29107104.0,2165-05-16 13:41:30,Transfer,discharge,NaN,NaN,transfers

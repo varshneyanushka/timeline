@@ -1,0 +1,1889 @@
+subject_id,hadm_id,event_time,event_type,description,value,unit,source_table
+10002223,22494570.0,2158-01-15 06:49:00,Transfer,ED Emergency Department,NaN,NaN,transfers
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,Richmond-RAS Scale,0.0,,chartevents
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,Pain Management,,,chartevents
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,Pain Assessment Method,,,chartevents
+10002223,22494570.0,2158-01-15 08:00:00,Output,Chest Tube #2,1300.0,ml,outputevents
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,Untoward Effect,,,chartevents
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,Pain Level Response,4.0,,chartevents
+10002223,22494570.0,2158-01-15 08:00:00,Admission,EW EMER.,NaN,NaN,admissions
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,Daily Wake Up,,,chartevents
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,Heart Rate,88.0,bpm,chartevents
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,Respiratory Rate,27.0,insp/min,chartevents
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,O2 saturation pulseoxymetry,98.0,%,chartevents
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,Temperature Fahrenheit,98.5,°F,chartevents
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,Temperature Site,,,chartevents
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,RUL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,RLL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,LUL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,LLL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,Sputum Amount,,,chartevents
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,Pain Level,9.0,,chartevents
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,Pain Cause,,,chartevents
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,Pain Level Acceptable,,,chartevents
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,Pain Type,,,chartevents
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,Heart rate Alarm - High,120.0,bpm,chartevents
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,Heart Rate Alarm - Low,50.0,bpm,chartevents
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,Non-Invasive Blood Pressure Alarm - High,160.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,Pain Location,,,chartevents
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,O2 Saturation Pulseoxymetry Alarm - High,100.0,%,chartevents
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,O2 Saturation Pulseoxymetry Alarm - Low,92.0,%,chartevents
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,Resp Alarm - High,30.0,insp/min,chartevents
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,Resp Alarm - Low,8.0,insp/min,chartevents
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,Non-Invasive Blood Pressure Alarm - Low,90.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,Alarms On,1.0,,chartevents
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,Parameters Checked,1.0,,chartevents
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,Daily Wake Up Deferred,,,chartevents
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,Ectopy Type 1,,,chartevents
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,Pain Present,,,chartevents
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,NBP Alarm Source,,,chartevents
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,SpO2 Desat Limit,88.0,%,chartevents
+10002223,22494570.0,2158-01-15 08:00:00,Vitals / Charted,Heart Rhythm,,,chartevents
+10002223,22494570.0,2158-01-15 08:01:00,Vitals / Charted,Heart Rate,99.0,bpm,chartevents
+10002223,22494570.0,2158-01-15 08:01:00,Vitals / Charted,Respiratory Rate,20.0,insp/min,chartevents
+10002223,22494570.0,2158-01-15 08:01:00,Vitals / Charted,O2 saturation pulseoxymetry,100.0,%,chartevents
+10002223,22494570.0,2158-01-15 08:01:00,Vitals / Charted,Admission Weight (Kg),82.0,kg,chartevents
+10002223,22494570.0,2158-01-15 08:01:00,Vitals / Charted,Height,70.0,Inch,chartevents
+10002223,22494570.0,2158-01-15 08:01:00,Vitals / Charted,Height (cm),178.0,cm,chartevents
+10002223,22494570.0,2158-01-15 08:01:49,Service,TRAUM,NaN,NaN,services
+10002223,22494570.0,2158-01-15 08:01:49,Transfer,admit Trauma SICU (TSICU),NaN,NaN,transfers
+10002223,22494570.0,2158-01-15 08:15:00,Vitals / Charted,O2 saturation pulseoxymetry,98.0,%,chartevents
+10002223,22494570.0,2158-01-15 08:15:00,Vitals / Charted,Heart Rate,100.0,bpm,chartevents
+10002223,22494570.0,2158-01-15 08:15:00,Vitals / Charted,Respiratory Rate,29.0,insp/min,chartevents
+10002223,22494570.0,2158-01-15 08:18:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,67.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 08:18:00,Vitals / Charted,Non Invasive Blood Pressure systolic,123.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 08:18:00,Vitals / Charted,Non Invasive Blood Pressure mean,80.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 08:30:00,Procedure,18 Gauge,1849.0,min,procedureevents
+10002223,22494570.0,2158-01-15 08:30:00,DateTime Obs,18 Gauge Insertion Date,2158-01-15 09:38:00,Date,datetimeevents
+10002223,22494570.0,2158-01-15 08:30:00,Procedure,18 Gauge,1849.0,min,procedureevents
+10002223,22494570.0,2158-01-15 08:30:00,Vitals / Charted,18 Gauge placed in the field,0.0,,chartevents
+10002223,22494570.0,2158-01-15 08:30:00,Vitals / Charted,18 Gauge Dressing Occlusive,1.0,,chartevents
+10002223,22494570.0,2158-01-15 08:30:00,Vitals / Charted,18 Gauge placed in outside facility,1.0,,chartevents
+10002223,22494570.0,2158-01-15 08:30:00,Input,Fentanyl,99.99999747378752,mcg,inputevents
+10002223,22494570.0,2158-01-15 08:30:00,Vitals / Charted,O2 saturation pulseoxymetry,99.0,%,chartevents
+10002223,22494570.0,2158-01-15 08:30:00,Vitals / Charted,Respiratory Rate,28.0,insp/min,chartevents
+10002223,22494570.0,2158-01-15 08:30:00,Vitals / Charted,Non Invasive Blood Pressure mean,78.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 08:30:00,Vitals / Charted,Heart Rate,90.0,bpm,chartevents
+10002223,22494570.0,2158-01-15 08:30:00,Vitals / Charted,Non Invasive Blood Pressure systolic,134.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 08:30:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,56.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 08:30:00,Vitals / Charted,18 Gauge Site Appear,,,chartevents
+10002223,22494570.0,2158-01-15 08:35:00,Vitals / Charted,Heart Rate,97.0,bpm,chartevents
+10002223,22494570.0,2158-01-15 08:35:00,Vitals / Charted,Respiratory Rate,25.0,insp/min,chartevents
+10002223,22494570.0,2158-01-15 08:35:00,Vitals / Charted,O2 saturation pulseoxymetry,93.0,%,chartevents
+10002223,22494570.0,2158-01-15 08:37:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,59.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 08:37:00,Vitals / Charted,Non Invasive Blood Pressure mean,73.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 08:37:00,Vitals / Charted,Non Invasive Blood Pressure systolic,119.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 08:42:00,Procedure,Chest Tube Placed,1.0,,procedureevents
+10002223,22494570.0,2158-01-15 08:42:00,Procedure,Chest Tube Placed,1.0,,procedureevents
+10002223,22494570.0,2158-01-15 08:43:00,Input,LR,989.9999763965608,ml,inputevents
+10002223,22494570.0,2158-01-15 08:43:00,Procedure,Chest Tube Removed,1.0,,procedureevents
+10002223,22494570.0,2158-01-15 08:43:00,Input,IVF ingredient,989.9999763965608,ml,ingredientevents
+10002223,22494570.0,2158-01-15 08:43:00,Input,Water,989.9999763965608,ml,ingredientevents
+10002223,22494570.0,2158-01-15 08:43:00,Procedure,Chest Tube Removed,1.0,,procedureevents
+10002223,22494570.0,2158-01-15 08:44:00,Input,Hydromorphone (Dilaudid),2.0000000949949026,mg,inputevents
+10002223,22494570.0,2158-01-15 08:58:00,Output,Foley,450.0,ml,outputevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Braden Activity,4.0,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Braden Mobility,3.0,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,LLE Color,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,RUE Temp,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Capillary Refill L,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Braden Moisture,4.0,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Braden Nutrition,2.0,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Braden Sensory Perception,4.0,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Diet Type,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Skin Color,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Skin Temperature,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Skin Integrity,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,GU Catheter Size,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Urine Color,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Urine Source,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Bowel Sounds,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Abdominal Assessment,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Nares R,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Oral Cavity,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,LLE Temp,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,RLE Temp,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,LUE Temp,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Edema Location,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,LUE Color,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Non Invasive Blood Pressure systolic,115.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,RUE Color,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,GCS - Motor Response,6.0,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Speech,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Gag Reflex,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Cough Reflex,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Pupil Size Right,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Spontaneous Movement,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Response to Stimuli (Type),,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,GCS - Verbal Response,5.0,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,RU Strength/Movement,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,LU Strength/Movement,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,LL Strength/Movement,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Corneal Reflex Right,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Corneal Reflex Left,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Pupil Size Left,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Response,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Level of Consciousness,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,RL Strength/Movement,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,RLE Color,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Orientation,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,O2 Delivery Device(s),,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Capillary Refill R,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Radial Pulse L,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Dorsal PedPulse L,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Radial Pulse R,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Dorsal PedPulse R,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Pain Present,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Pain Type,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,GCS - Eye Opening,4.0,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Pain Location,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Pain Level,2.0,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Pain Management,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Pain Level Acceptable,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Pain Assessment Method,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Untoward Effect,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,O2 Flow,4.0,L/min,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Pain Level Response,1.0,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Pain Cause,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Braden Friction/Shear,2.0,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Urine Appearance,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Pupil Response Right,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,CT #1 Leak,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,CT #1 Crepitus,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,CT #1 Dressing,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,CT #1 Drainage,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,CT #1 Fluctuate,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,CT #1 Suction Amount,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Chest Tube Site # 1,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,CT #1 Suction Type,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Ectopy Type 1,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Respiratory Rate,25.0,insp/min,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Non Invasive Blood Pressure mean,74.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,60.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Heart Rhythm,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Heart Rate,103.0,bpm,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Oral Care,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Bed Bath,1.0,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,O2 saturation pulseoxymetry,99.0,%,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Back Care,1.0,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Respiratory Pattern,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,RLL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Prescription,Bisacodyl,10,mg,prescriptions
+10002223,22494570.0,2158-01-15 09:00:00,Prescription,Bisacodyl,10,mg,prescriptions
+10002223,22494570.0,2158-01-15 09:00:00,Prescription,HYDROmorphone (Dilaudid),0.25-0.5,mg,prescriptions
+10002223,22494570.0,2158-01-15 09:00:00,Prescription,Senna,1,TAB,prescriptions
+10002223,22494570.0,2158-01-15 09:00:00,Prescription,LR,1000,mL,prescriptions
+10002223,22494570.0,2158-01-15 09:00:00,Pharmacy,Bisacodyl,,NaN,pharmacy
+10002223,22494570.0,2158-01-15 09:00:00,Pharmacy,Bisacodyl,,NaN,pharmacy
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,RUL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+10002223,22494570.0,2158-01-15 09:00:00,Pharmacy,,,NaN,pharmacy
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Skin Condition,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,LLL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Cough Type,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Cough Effort,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Respiratory Effort,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,LUL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Pharmacy,Senna,,NaN,pharmacy
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Skin Care,1.0,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Pupil Response Left,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Position,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,IV/Saline lock,20.0,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Secondary diagnosis,0.0,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,History of falling (within 3 mnths),0.0,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Education Response,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Education Method,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Education Barrier,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Gait/Transferring,0.0,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Education Readiness,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Family Communication,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Family Communication,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Family Communication,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Eye Care,1.0,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Education Topic,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Education Learner,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Support Systems,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Mental status,0.0,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Ambulatory aid,0.0,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Activity Tolerance,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Assistance Device,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Activity,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Turn,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Head of Bed,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Side Rails,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Education Topic,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Nares L,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Support Systems,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Output,Chest Tube #1,50.0,ml,outputevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-15 09:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-15 09:38:00,Vitals / Charted,16 Gauge Site Appear,,,chartevents
+10002223,22494570.0,2158-01-15 09:38:00,Vitals / Charted,16 Gauge placed in outside facility,1.0,,chartevents
+10002223,22494570.0,2158-01-15 09:38:00,Vitals / Charted,16 Gauge Dressing Occlusive,1.0,,chartevents
+10002223,22494570.0,2158-01-15 09:38:00,Procedure,16 Gauge,1781.0,min,procedureevents
+10002223,22494570.0,2158-01-15 09:38:00,Procedure,16 Gauge,1781.0,min,procedureevents
+10002223,22494570.0,2158-01-15 09:38:00,DateTime Obs,16 Gauge Insertion Date,2158-01-15 09:39:00,Date,datetimeevents
+10002223,22494570.0,2158-01-15 09:38:00,Vitals / Charted,16 Gauge placed in the field,0.0,,chartevents
+10002223,22494570.0,2158-01-15 09:51:00,Vitals / Charted,Impaired Skin Drainage Amount #1,,,chartevents
+10002223,22494570.0,2158-01-15 09:51:00,Vitals / Charted,Impaired Skin  - Dressing Status #1,,,chartevents
+10002223,22494570.0,2158-01-15 09:51:00,Vitals / Charted,Impaired Skin Site #1,,,chartevents
+10002223,22494570.0,2158-01-15 09:51:00,Vitals / Charted,Tunneling Present #1,,,chartevents
+10002223,22494570.0,2158-01-15 09:51:00,Vitals / Charted,Impaired Skin Cleanse #1,,,chartevents
+10002223,22494570.0,2158-01-15 09:51:00,Vitals / Charted,Impaired Skin Width #1,2.0,cm,chartevents
+10002223,22494570.0,2158-01-15 09:51:00,Vitals / Charted,Impaired Skin Wound Base #1,,,chartevents
+10002223,22494570.0,2158-01-15 09:51:00,Vitals / Charted,Impaired Skin Drainage #1,,,chartevents
+10002223,22494570.0,2158-01-15 09:51:00,Vitals / Charted,Impaired Skin Type #1,,,chartevents
+10002223,22494570.0,2158-01-15 09:51:00,Vitals / Charted,Impaired Skin Treatment #1,,,chartevents
+10002223,22494570.0,2158-01-15 09:51:00,Vitals / Charted,Surrounding Tissue #1,,,chartevents
+10002223,22494570.0,2158-01-15 09:51:00,Vitals / Charted,Impaired Skin Length #1,2.0,cm,chartevents
+10002223,22494570.0,2158-01-15 10:00:00,Pharmacy,Fentanyl Citrate,,NaN,pharmacy
+10002223,22494570.0,2158-01-15 10:00:00,Output,Foley,300.0,ml,outputevents
+10002223,22494570.0,2158-01-15 10:00:00,Output,Chest Tube #1,60.0,ml,outputevents
+10002223,22494570.0,2158-01-15 10:00:00,Vitals / Charted,Impaired Skin Treatment #2,,,chartevents
+10002223,22494570.0,2158-01-15 10:00:00,Vitals / Charted,Impaired Skin Cleanse #2,,,chartevents
+10002223,22494570.0,2158-01-15 10:00:00,Prescription,Fentanyl Citrate,100-200,mcg,prescriptions
+10002223,22494570.0,2158-01-15 10:00:00,Vitals / Charted,Ectopy Type 1,,,chartevents
+10002223,22494570.0,2158-01-15 10:00:00,Vitals / Charted,O2 saturation pulseoxymetry,100.0,%,chartevents
+10002223,22494570.0,2158-01-15 10:00:00,Vitals / Charted,Respiratory Rate,32.0,insp/min,chartevents
+10002223,22494570.0,2158-01-15 10:00:00,Vitals / Charted,Impaired Skin Type #2,,,chartevents
+10002223,22494570.0,2158-01-15 10:00:00,Vitals / Charted,Heart Rhythm,,,chartevents
+10002223,22494570.0,2158-01-15 10:00:00,Vitals / Charted,Impaired Skin Site #2,,,chartevents
+10002223,22494570.0,2158-01-15 10:00:00,Vitals / Charted,Impaired Skin Wound Base #2,,,chartevents
+10002223,22494570.0,2158-01-15 10:00:00,Vitals / Charted,Impaired Skin Length #2,1.0,cm,chartevents
+10002223,22494570.0,2158-01-15 10:00:00,Vitals / Charted,Non Invasive Blood Pressure mean,52.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 10:00:00,Vitals / Charted,Surrounding Tissue #2,,,chartevents
+10002223,22494570.0,2158-01-15 10:00:00,Vitals / Charted,Impaired Skin Width #2,1.0,cm,chartevents
+10002223,22494570.0,2158-01-15 10:00:00,Vitals / Charted,Tunneling Present #2,,,chartevents
+10002223,22494570.0,2158-01-15 10:00:00,Vitals / Charted,Impaired Skin  - Dressing Status #2,,,chartevents
+10002223,22494570.0,2158-01-15 10:00:00,Vitals / Charted,Heart Rate,90.0,bpm,chartevents
+10002223,22494570.0,2158-01-15 10:03:00,Vitals / Charted,Service,,,chartevents
+10002223,22494570.0,2158-01-15 10:03:00,Vitals / Charted,Code Status,,,chartevents
+10002223,22494570.0,2158-01-15 10:03:00,Vitals / Charted,Admission Weight (lbs.),180.4,,chartevents
+10002223,22494570.0,2158-01-15 10:05:00,Vitals / Charted,Difficulty swallowing,0.0,,chartevents
+10002223,22494570.0,2158-01-15 10:05:00,Vitals / Charted,Special diet,1.0,,chartevents
+10002223,22494570.0,2158-01-15 10:05:00,Vitals / Charted,Unintentional weight loss >10 lbs.,0.0,,chartevents
+10002223,22494570.0,2158-01-15 10:05:00,Vitals / Charted,Appetite,,,chartevents
+10002223,22494570.0,2158-01-15 10:05:00,Vitals / Charted,Teaching directed toward,,,chartevents
+10002223,22494570.0,2158-01-15 10:05:00,Vitals / Charted,Currently experiencing pain,1.0,,chartevents
+10002223,22494570.0,2158-01-15 10:05:00,Vitals / Charted,Discharge needs,0.0,,chartevents
+10002223,22494570.0,2158-01-15 10:05:00,Vitals / Charted,Baseline pain level,0.0,,chartevents
+10002223,22494570.0,2158-01-15 10:05:00,Vitals / Charted,Sexuality / reproductive problems,0.0,,chartevents
+10002223,22494570.0,2158-01-15 10:05:00,Vitals / Charted,Tobacco Use History,,,chartevents
+10002223,22494570.0,2158-01-15 10:05:00,Vitals / Charted,Dialysis patient,0.0,,chartevents
+10002223,22494570.0,2158-01-15 10:05:00,Vitals / Charted,Recreational drug use,1.0,,chartevents
+10002223,22494570.0,2158-01-15 10:05:00,Vitals / Charted,Balance,,,chartevents
+10002223,22494570.0,2158-01-15 10:05:00,Vitals / Charted,Intravenous  / IV access prior to admission,1.0,,chartevents
+10002223,22494570.0,2158-01-15 10:05:00,Vitals / Charted,Use of assistive devices,,,chartevents
+10002223,22494570.0,2158-01-15 10:05:00,Vitals / Charted,Judgement,,,chartevents
+10002223,22494570.0,2158-01-15 10:05:00,Vitals / Charted,History of slips / falls,0.0,,chartevents
+10002223,22494570.0,2158-01-15 10:05:00,Vitals / Charted,Self ADL,1.0,,chartevents
+10002223,22494570.0,2158-01-15 10:05:00,Vitals / Charted,Interpreter,,,chartevents
+10002223,22494570.0,2158-01-15 10:05:00,Vitals / Charted,Social work consult,0.0,,chartevents
+10002223,22494570.0,2158-01-15 10:05:00,Vitals / Charted,Any fear in relationships,0.0,,chartevents
+10002223,22494570.0,2158-01-15 10:05:00,Vitals / Charted,Living situation,,,chartevents
+10002223,22494570.0,2158-01-15 10:05:00,Vitals / Charted,Is the spokesperson the Health Care Proxy,1.0,,chartevents
+10002223,22494570.0,2158-01-15 10:05:00,Vitals / Charted,Admission Weight (lbs.),180.4,,chartevents
+10002223,22494570.0,2158-01-15 10:05:00,Vitals / Charted,Service,,,chartevents
+10002223,22494570.0,2158-01-15 10:05:00,Vitals / Charted,Code Status,,,chartevents
+10002223,22494570.0,2158-01-15 10:05:00,Vitals / Charted,ETOH,1.0,,chartevents
+10002223,22494570.0,2158-01-15 10:05:00,Vitals / Charted,Emotional / physical / sexual harm by partner or close relation,0.0,,chartevents
+10002223,22494570.0,2158-01-15 10:05:00,Vitals / Charted,Visual / hearing deficit,0.0,,chartevents
+10002223,22494570.0,2158-01-15 10:12:00,Vitals / Charted,Non Invasive Blood Pressure systolic,124.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 10:12:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,69.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 11:00:00,Vitals / Charted,Position,,,chartevents
+10002223,22494570.0,2158-01-15 11:00:00,Output,Foley,200.0,ml,outputevents
+10002223,22494570.0,2158-01-15 11:00:00,Vitals / Charted,Activity Tolerance,,,chartevents
+10002223,22494570.0,2158-01-15 11:00:00,Vitals / Charted,Assistance Device,,,chartevents
+10002223,22494570.0,2158-01-15 11:00:00,Vitals / Charted,Activity,,,chartevents
+10002223,22494570.0,2158-01-15 11:00:00,Vitals / Charted,Turn,,,chartevents
+10002223,22494570.0,2158-01-15 11:00:00,Vitals / Charted,Head of Bed,,,chartevents
+10002223,22494570.0,2158-01-15 11:00:00,Vitals / Charted,Ectopy Type 1,,,chartevents
+10002223,22494570.0,2158-01-15 11:00:00,Output,Chest Tube #1,40.0,ml,outputevents
+10002223,22494570.0,2158-01-15 11:00:00,Vitals / Charted,Respiratory Rate,29.0,insp/min,chartevents
+10002223,22494570.0,2158-01-15 11:00:00,Vitals / Charted,O2 saturation pulseoxymetry,99.0,%,chartevents
+10002223,22494570.0,2158-01-15 11:00:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,62.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 11:00:00,Vitals / Charted,Non Invasive Blood Pressure systolic,118.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 11:00:00,Vitals / Charted,Heart Rhythm,,,chartevents
+10002223,22494570.0,2158-01-15 11:00:00,Vitals / Charted,Heart Rate,77.0,bpm,chartevents
+10002223,22494570.0,2158-01-15 11:00:00,Vitals / Charted,Non Invasive Blood Pressure mean,75.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,GCS - Eye Opening,4.0,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Richmond-RAS Scale,0.0,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Daily Wake Up,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,O2 Delivery Device(s),,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Orientation,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,GCS - Verbal Response,5.0,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,GCS - Motor Response,6.0,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Speech,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Gag Reflex,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Pain Level Response,4.0,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Cough Reflex,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Radial Pulse L,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Spontaneous Movement,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Response to Stimuli (Type),,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,RU Strength/Movement,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,RL Strength/Movement,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,LU Strength/Movement,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,LL Strength/Movement,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Sputum Amount,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Dorsal PedPulse R,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Radial Pulse R,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Dorsal PedPulse L,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Impaired Skin Type #2,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Capillary Refill R,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Pupil Size Right,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,O2 Flow,4.0,L/min,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Pain Type,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Pain Assessment Method,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Impaired Skin  - Dressing Status #1,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Tunneling Present #2,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Surrounding Tissue #2,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Impaired Skin Wound Base #2,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Impaired Skin Width #2,1.0,cm,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Heart Rate,74.0,bpm,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Heart Rhythm,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Non Invasive Blood Pressure systolic,111.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,80.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Non Invasive Blood Pressure mean,85.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Respiratory Rate,19.0,insp/min,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,O2 saturation pulseoxymetry,92.0,%,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Ectopy Type 1,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Temperature Fahrenheit,98.6,°F,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Parameters Checked,1.0,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Alarms On,1.0,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Temperature Site,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Daily Wake Up Deferred,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Pain Present,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,RUE Color,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Pain Location,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Pain Cause,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Pain Level,9.0,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Pain Management,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Pain Level Acceptable,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Untoward Effect,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,RLE Color,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,LLE Color,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Impaired Skin  - Dressing Status #2,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Side Rails,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Nares L,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Urine Appearance,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Skin Condition,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,CT #1 Suction Type,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,CT #1 Leak,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Braden Nutrition,2.0,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Braden Mobility,3.0,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Braden Activity,4.0,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Braden Moisture,4.0,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Braden Sensory Perception,4.0,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Edema Location,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Braden Friction/Shear,2.0,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Skin Color,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Impaired Skin Length #2,1.0,cm,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Impaired Skin Cleanse #2,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Impaired Skin Drainage Amount #1,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Impaired Skin Width #1,2.0,cm,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Tunneling Present #1,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Surrounding Tissue #1,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Impaired Skin Length #1,2.0,cm,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Impaired Skin Drainage #1,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Impaired Skin Wound Base #1,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Impaired Skin Treatment #1,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Impaired Skin Cleanse #1,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Impaired Skin Site #1,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Impaired Skin Type #1,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Skin Temperature,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Skin Integrity,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,GU Catheter Size,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,RUE Temp,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Response,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Pupil Size Left,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Corneal Reflex Left,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Corneal Reflex Right,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Capillary Refill L,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,LUE Temp,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Cough Type,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Respiratory Effort,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,LLL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,LUL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,RLL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,RUL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Respiratory Pattern,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Cough Effort,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,RLE Temp,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,LLE Temp,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Level of Consciousness,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Urine Color,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Urine Source,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Bowel Sounds,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Abdominal Assessment,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Diet Type,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Nares R,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Oral Cavity,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,CT #1 Crepitus,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,CT #1 Dressing,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,CT #1 Drainage,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,CT #1 Fluctuate,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,CT #1 Suction Amount,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Chest Tube Site # 1,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Pupil Response Left,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Pupil Response Right,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,LUE Color,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Impaired Skin Site #2,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Vitals / Charted,Impaired Skin Treatment #2,,,chartevents
+10002223,22494570.0,2158-01-15 12:00:00,Input,Hydromorphone (Dilaudid),0.5000000237487257,mg,inputevents
+10002223,22494570.0,2158-01-15 12:00:00,Output,Foley,150.0,ml,outputevents
+10002223,22494570.0,2158-01-15 12:00:00,Output,Chest Tube #1,20.0,ml,outputevents
+10002223,22494570.0,2158-01-15 12:14:00,Vitals / Charted,16 Gauge placed in the field,0.0,,chartevents
+10002223,22494570.0,2158-01-15 12:14:00,DateTime Obs,16 Gauge Insertion Date,2158-01-15 00:00:00,Date,datetimeevents
+10002223,22494570.0,2158-01-15 12:14:00,DateTime Obs,18 Gauge Insertion Date,2158-01-15 00:00:00,Date,datetimeevents
+10002223,22494570.0,2158-01-15 12:14:00,Vitals / Charted,18 Gauge Dressing Occlusive,1.0,,chartevents
+10002223,22494570.0,2158-01-15 12:14:00,Vitals / Charted,16 Gauge Dressing Occlusive,1.0,,chartevents
+10002223,22494570.0,2158-01-15 12:14:00,Vitals / Charted,18 Gauge placed in the field,0.0,,chartevents
+10002223,22494570.0,2158-01-15 12:14:00,Vitals / Charted,18 Gauge Site Appear,,,chartevents
+10002223,22494570.0,2158-01-15 12:14:00,Vitals / Charted,18 Gauge placed in outside facility,1.0,,chartevents
+10002223,22494570.0,2158-01-15 12:14:00,Vitals / Charted,16 Gauge Site Appear,,,chartevents
+10002223,22494570.0,2158-01-15 12:14:00,Vitals / Charted,16 Gauge placed in outside facility,1.0,,chartevents
+10002223,22494570.0,2158-01-15 13:00:00,Vitals / Charted,Activity,,,chartevents
+10002223,22494570.0,2158-01-15 13:00:00,Output,Foley,45.0,ml,outputevents
+10002223,22494570.0,2158-01-15 13:00:00,Vitals / Charted,Head of Bed,,,chartevents
+10002223,22494570.0,2158-01-15 13:00:00,Vitals / Charted,Untoward Effect,,,chartevents
+10002223,22494570.0,2158-01-15 13:00:00,Vitals / Charted,Pain Assessment Method,,,chartevents
+10002223,22494570.0,2158-01-15 13:00:00,Vitals / Charted,Pain Level Acceptable,,,chartevents
+10002223,22494570.0,2158-01-15 13:00:00,Vitals / Charted,Pain Present,,,chartevents
+10002223,22494570.0,2158-01-15 13:00:00,Vitals / Charted,Turn,,,chartevents
+10002223,22494570.0,2158-01-15 13:00:00,Vitals / Charted,Non Invasive Blood Pressure mean,77.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 13:00:00,Vitals / Charted,Non Invasive Blood Pressure systolic,122.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 13:00:00,Vitals / Charted,Ectopy Type 1,,,chartevents
+10002223,22494570.0,2158-01-15 13:00:00,Vitals / Charted,O2 saturation pulseoxymetry,98.0,%,chartevents
+10002223,22494570.0,2158-01-15 13:00:00,Vitals / Charted,Respiratory Rate,16.0,insp/min,chartevents
+10002223,22494570.0,2158-01-15 13:00:00,Vitals / Charted,Heart Rhythm,,,chartevents
+10002223,22494570.0,2158-01-15 13:00:00,Vitals / Charted,Heart Rate,76.0,bpm,chartevents
+10002223,22494570.0,2158-01-15 13:00:00,Vitals / Charted,Oral Care,,,chartevents
+10002223,22494570.0,2158-01-15 13:00:00,Vitals / Charted,Back Care,1.0,,chartevents
+10002223,22494570.0,2158-01-15 13:00:00,Vitals / Charted,Position,,,chartevents
+10002223,22494570.0,2158-01-15 13:00:00,Vitals / Charted,Activity Tolerance,,,chartevents
+10002223,22494570.0,2158-01-15 13:00:00,Vitals / Charted,Assistance Device,,,chartevents
+10002223,22494570.0,2158-01-15 13:00:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,62.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 13:00:00,Output,Chest Tube #1,20.0,ml,outputevents
+10002223,22494570.0,2158-01-15 13:02:00,Lab Result,Hematocrit| Blood,32.5,%,labevents
+10002223,22494570.0,2158-01-15 13:02:00,Vitals / Charted,Hematocrit (serum),32.5,%,chartevents
+10002223,22494570.0,2158-01-15 14:00:00,Vitals / Charted,RLL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-15 14:00:00,Vitals / Charted,LUL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-15 14:00:00,Vitals / Charted,LLL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-15 14:00:00,Vitals / Charted,Sputum Amount,,,chartevents
+10002223,22494570.0,2158-01-15 14:00:00,Output,Chest Tube #1,10.0,ml,outputevents
+10002223,22494570.0,2158-01-15 14:00:00,Output,Foley,200.0,ml,outputevents
+10002223,22494570.0,2158-01-15 14:00:00,Vitals / Charted,Ectopy Type 1,,,chartevents
+10002223,22494570.0,2158-01-15 14:00:00,Vitals / Charted,O2 saturation pulseoxymetry,99.0,%,chartevents
+10002223,22494570.0,2158-01-15 14:00:00,Vitals / Charted,Respiratory Rate,20.0,insp/min,chartevents
+10002223,22494570.0,2158-01-15 14:00:00,Vitals / Charted,Non Invasive Blood Pressure mean,87.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 14:00:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,74.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 14:00:00,Vitals / Charted,Heart Rhythm,,,chartevents
+10002223,22494570.0,2158-01-15 14:00:00,Vitals / Charted,Heart Rate,93.0,bpm,chartevents
+10002223,22494570.0,2158-01-15 14:00:00,Vitals / Charted,RUL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-15 14:00:00,Vitals / Charted,Non Invasive Blood Pressure systolic,130.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 15:00:00,Vitals / Charted,Respiratory Rate,13.0,insp/min,chartevents
+10002223,22494570.0,2158-01-15 15:00:00,Output,Chest Tube #1,0.0,ml,outputevents
+10002223,22494570.0,2158-01-15 15:00:00,Vitals / Charted,Heart Rate,66.0,bpm,chartevents
+10002223,22494570.0,2158-01-15 15:00:00,Vitals / Charted,Heart Rhythm,,,chartevents
+10002223,22494570.0,2158-01-15 15:00:00,Vitals / Charted,Non Invasive Blood Pressure systolic,127.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 15:00:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,66.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 15:00:00,Vitals / Charted,Non Invasive Blood Pressure mean,78.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 15:00:00,Output,Foley,100.0,ml,outputevents
+10002223,22494570.0,2158-01-15 15:00:00,Vitals / Charted,O2 saturation pulseoxymetry,99.0,%,chartevents
+10002223,22494570.0,2158-01-15 15:00:00,Vitals / Charted,Ectopy Type 1,,,chartevents
+10002223,22494570.0,2158-01-15 15:54:00,Input,Hydromorphone (Dilaudid),0.5000000237487257,mg,inputevents
+10002223,22494570.0,2158-01-15 15:57:00,Vitals / Charted,18 Gauge Site Appear,,,chartevents
+10002223,22494570.0,2158-01-15 15:57:00,Vitals / Charted,18 Gauge placed in outside facility,1.0,,chartevents
+10002223,22494570.0,2158-01-15 15:57:00,Vitals / Charted,16 Gauge Dressing Occlusive,1.0,,chartevents
+10002223,22494570.0,2158-01-15 15:57:00,DateTime Obs,16 Gauge Insertion Date,2158-01-15 00:00:00,Date,datetimeevents
+10002223,22494570.0,2158-01-15 15:57:00,Vitals / Charted,18 Gauge Dressing Occlusive,1.0,,chartevents
+10002223,22494570.0,2158-01-15 15:57:00,Vitals / Charted,16 Gauge Site Appear,,,chartevents
+10002223,22494570.0,2158-01-15 15:57:00,Vitals / Charted,16 Gauge placed in the field,0.0,,chartevents
+10002223,22494570.0,2158-01-15 15:57:00,Vitals / Charted,18 Gauge placed in the field,0.0,,chartevents
+10002223,22494570.0,2158-01-15 15:57:00,Vitals / Charted,16 Gauge placed in outside facility,1.0,,chartevents
+10002223,22494570.0,2158-01-15 15:57:00,DateTime Obs,18 Gauge Insertion Date,2158-01-15 00:00:00,Date,datetimeevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Respiratory Effort,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Cough Effort,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Cough Type,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,CT #1 Fluctuate,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,CT #1 Suction Amount,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Nares R,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Oral Cavity,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,CT #1 Crepitus,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,CT #1 Drainage,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Chest Tube Site # 1,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,CT #1 Dressing,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Response,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Abdominal Assessment,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,LLL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Pupil Size Left,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Corneal Reflex Left,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Corneal Reflex Right,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Capillary Refill L,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Braden Friction/Shear,2.0,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Braden Nutrition,2.0,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Braden Mobility,3.0,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Braden Activity,4.0,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Braden Moisture,4.0,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Braden Sensory Perception,4.0,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Edema Location,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Skin Color,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Skin Temperature,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Skin Integrity,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,GU Catheter Size,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Urine Color,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Urine Source,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Bowel Sounds,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Diet Type,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,LUL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Gag Reflex,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,RUL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,GCS - Eye Opening,4.0,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Richmond-RAS Scale,0.0,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Daily Wake Up,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,O2 Delivery Device(s),,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Pain Level Response,4.0,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Sputum Amount,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,O2 Flow,3.0,L/min,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Untoward Effect,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Pain Assessment Method,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Pain Level Acceptable,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Pain Management,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Pain Level,9.0,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Pain Cause,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Pain Location,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Pain Type,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Pain Present,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Daily Wake Up Deferred,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,GCS - Verbal Response,5.0,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,RLL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,GCS - Motor Response,6.0,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Cough Reflex,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Respiratory Pattern,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,LLE Color,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,LUE Color,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,RLE Color,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,RUE Color,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Capillary Refill R,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Radial Pulse L,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Dorsal PedPulse L,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Radial Pulse R,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Dorsal PedPulse R,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,LL Strength/Movement,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,LU Strength/Movement,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,RL Strength/Movement,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,RU Strength/Movement,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Response to Stimuli (Type),,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Spontaneous Movement,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Pupil Size Right,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Speech,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Orientation,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,CT #1 Leak,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,LUE Temp,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Impaired Skin Site #2,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Impaired Skin Type #2,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Impaired Skin Width #2,1.0,cm,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Impaired Skin Wound Base #2,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Surrounding Tissue #2,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Tunneling Present #2,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Impaired Skin  - Dressing Status #1,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Impaired Skin  - Dressing Status #2,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Output,Foley,45.0,ml,outputevents
+10002223,22494570.0,2158-01-15 16:00:00,Output,Chest Tube #1,40.0,ml,outputevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,RUE Temp,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Heart Rate,61.0,bpm,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Heart Rhythm,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Non Invasive Blood Pressure systolic,127.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,69.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Non Invasive Blood Pressure mean,82.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Respiratory Rate,13.0,insp/min,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,O2 saturation pulseoxymetry,99.0,%,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Temperature Site,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Ectopy Type 1,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,LLE Temp,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Impaired Skin Length #2,1.0,cm,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Impaired Skin Cleanse #2,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Impaired Skin Treatment #2,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Impaired Skin Width #1,2.0,cm,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Urine Appearance,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Nares L,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Level of Consciousness,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Pupil Response Right,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Pupil Response Left,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Side Rails,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Temperature Fahrenheit,98.6,°F,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Impaired Skin Site #1,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Impaired Skin Cleanse #1,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Impaired Skin Treatment #1,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Impaired Skin Drainage Amount #1,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Head of Bed,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Skin Condition,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Turn,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Assistance Device,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Activity Tolerance,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Position,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Parameters Checked,1.0,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,RLE Temp,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Impaired Skin Wound Base #1,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Impaired Skin Drainage #1,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Impaired Skin Type #1,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Impaired Skin Length #1,2.0,cm,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Surrounding Tissue #1,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Tunneling Present #1,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,CT #1 Suction Type,,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Alarms On,1.0,,chartevents
+10002223,22494570.0,2158-01-15 16:00:00,Vitals / Charted,Activity,,,chartevents
+10002223,22494570.0,2158-01-15 17:00:00,Vitals / Charted,Non Invasive Blood Pressure systolic,121.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 17:00:00,Vitals / Charted,Heart Rhythm,,,chartevents
+10002223,22494570.0,2158-01-15 17:00:00,Output,Foley,100.0,ml,outputevents
+10002223,22494570.0,2158-01-15 17:00:00,Output,Chest Tube #1,0.0,ml,outputevents
+10002223,22494570.0,2158-01-15 17:00:00,Vitals / Charted,Non Invasive Blood Pressure mean,84.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 17:00:00,Vitals / Charted,Heart Rate,69.0,bpm,chartevents
+10002223,22494570.0,2158-01-15 17:00:00,Vitals / Charted,Respiratory Rate,32.0,insp/min,chartevents
+10002223,22494570.0,2158-01-15 17:00:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,73.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 17:00:00,Vitals / Charted,Ectopy Type 1,,,chartevents
+10002223,22494570.0,2158-01-15 17:00:00,Vitals / Charted,O2 Delivery Device(s),,,chartevents
+10002223,22494570.0,2158-01-15 17:00:00,Vitals / Charted,O2 saturation pulseoxymetry,99.0,%,chartevents
+10002223,22494570.0,2158-01-15 17:00:00,Vitals / Charted,Richmond-RAS Scale,0.0,,chartevents
+10002223,22494570.0,2158-01-15 17:00:00,Vitals / Charted,Daily Wake Up,,,chartevents
+10002223,22494570.0,2158-01-15 17:00:00,Vitals / Charted,Pain Level Response,4.0,,chartevents
+10002223,22494570.0,2158-01-15 17:00:00,Vitals / Charted,Untoward Effect,,,chartevents
+10002223,22494570.0,2158-01-15 17:00:00,Vitals / Charted,Pain Assessment Method,,,chartevents
+10002223,22494570.0,2158-01-15 17:00:00,Vitals / Charted,Pain Level Acceptable,,,chartevents
+10002223,22494570.0,2158-01-15 17:00:00,Vitals / Charted,O2 Flow,2.0,L/min,chartevents
+10002223,22494570.0,2158-01-15 17:00:00,Vitals / Charted,Pain Management,,,chartevents
+10002223,22494570.0,2158-01-15 17:00:00,Vitals / Charted,Pain Level,9.0,,chartevents
+10002223,22494570.0,2158-01-15 17:00:00,Vitals / Charted,Pain Cause,,,chartevents
+10002223,22494570.0,2158-01-15 17:00:00,Vitals / Charted,Pain Location,,,chartevents
+10002223,22494570.0,2158-01-15 17:00:00,Vitals / Charted,Pain Type,,,chartevents
+10002223,22494570.0,2158-01-15 17:00:00,Vitals / Charted,Pain Present,,,chartevents
+10002223,22494570.0,2158-01-15 17:00:00,Vitals / Charted,Daily Wake Up Deferred,,,chartevents
+10002223,22494570.0,2158-01-15 17:13:39,Vitals / Charted,Problem List,,,chartevents
+10002223,22494570.0,2158-01-15 17:21:00,Input,Hydromorphone (Dilaudid),0.5000000237487257,mg,inputevents
+10002223,22494570.0,2158-01-15 18:00:00,Vitals / Charted,Pain Level Acceptable,,,chartevents
+10002223,22494570.0,2158-01-15 18:00:00,Vitals / Charted,Pain Assessment Method,,,chartevents
+10002223,22494570.0,2158-01-15 18:00:00,Vitals / Charted,Untoward Effect,,,chartevents
+10002223,22494570.0,2158-01-15 18:00:00,Vitals / Charted,Pain Level Response,4.0,,chartevents
+10002223,22494570.0,2158-01-15 18:00:00,Vitals / Charted,Daily Wake Up,,,chartevents
+10002223,22494570.0,2158-01-15 18:00:00,Vitals / Charted,Richmond-RAS Scale,0.0,,chartevents
+10002223,22494570.0,2158-01-15 18:00:00,Vitals / Charted,Activity,,,chartevents
+10002223,22494570.0,2158-01-15 18:00:00,Vitals / Charted,O2 Delivery Device(s),,,chartevents
+10002223,22494570.0,2158-01-15 18:00:00,Vitals / Charted,Head of Bed,,,chartevents
+10002223,22494570.0,2158-01-15 18:00:00,Vitals / Charted,Turn,,,chartevents
+10002223,22494570.0,2158-01-15 18:00:00,Vitals / Charted,Assistance Device,,,chartevents
+10002223,22494570.0,2158-01-15 18:00:00,Vitals / Charted,Activity Tolerance,,,chartevents
+10002223,22494570.0,2158-01-15 18:00:00,Vitals / Charted,Position,,,chartevents
+10002223,22494570.0,2158-01-15 18:00:00,Vitals / Charted,O2 Flow,1.0,L/min,chartevents
+10002223,22494570.0,2158-01-15 18:00:00,Vitals / Charted,Pain Level,9.0,,chartevents
+10002223,22494570.0,2158-01-15 18:00:00,Vitals / Charted,Pain Management,,,chartevents
+10002223,22494570.0,2158-01-15 18:00:00,Vitals / Charted,Pain Cause,,,chartevents
+10002223,22494570.0,2158-01-15 18:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+10002223,22494570.0,2158-01-15 18:00:00,Output,Chest Tube #1,30.0,ml,outputevents
+10002223,22494570.0,2158-01-15 18:00:00,Output,Foley,175.0,ml,outputevents
+10002223,22494570.0,2158-01-15 18:00:00,Vitals / Charted,Heart Rate,77.0,bpm,chartevents
+10002223,22494570.0,2158-01-15 18:00:00,Vitals / Charted,Heart Rhythm,,,chartevents
+10002223,22494570.0,2158-01-15 18:00:00,Vitals / Charted,Non Invasive Blood Pressure systolic,117.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 18:00:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,60.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 18:00:00,Vitals / Charted,Non Invasive Blood Pressure mean,74.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 18:00:00,Vitals / Charted,Respiratory Rate,22.0,insp/min,chartevents
+10002223,22494570.0,2158-01-15 18:00:00,Vitals / Charted,O2 saturation pulseoxymetry,99.0,%,chartevents
+10002223,22494570.0,2158-01-15 18:00:00,Vitals / Charted,Ectopy Type 1,,,chartevents
+10002223,22494570.0,2158-01-15 18:00:00,Vitals / Charted,Daily Wake Up Deferred,,,chartevents
+10002223,22494570.0,2158-01-15 18:00:00,Vitals / Charted,Pain Present,,,chartevents
+10002223,22494570.0,2158-01-15 18:00:00,Vitals / Charted,Pain Type,,,chartevents
+10002223,22494570.0,2158-01-15 18:00:00,Vitals / Charted,Pain Location,,,chartevents
+10002223,22494570.0,2158-01-15 18:00:00,Prescription,HYDROmorphone (Dilaudid),0.5-1,mg,prescriptions
+10002223,22494570.0,2158-01-15 18:21:00,Lab Result,Hematocrit| Blood,30.5,%,labevents
+10002223,22494570.0,2158-01-15 18:21:00,Vitals / Charted,Hematocrit (serum),30.5,%,chartevents
+10002223,22494570.0,2158-01-15 18:36:00,Input,Hydromorphone (Dilaudid),0.5000000237487257,mg,inputevents
+10002223,22494570.0,2158-01-15 18:37:00,Input,Water,1000.000022649765,ml,ingredientevents
+10002223,22494570.0,2158-01-15 18:37:00,Input,IVF ingredient,1000.000022649765,ml,ingredientevents
+10002223,22494570.0,2158-01-15 18:37:00,Input,LR,1000.000022649765,ml,inputevents
+10002223,22494570.0,2158-01-15 19:00:00,Vitals / Charted,Richmond-RAS Scale,0.0,,chartevents
+10002223,22494570.0,2158-01-15 19:00:00,Vitals / Charted,Pain Present,,,chartevents
+10002223,22494570.0,2158-01-15 19:00:00,Vitals / Charted,Ectopy Type 1,,,chartevents
+10002223,22494570.0,2158-01-15 19:00:00,Vitals / Charted,O2 saturation pulseoxymetry,98.0,%,chartevents
+10002223,22494570.0,2158-01-15 19:00:00,Vitals / Charted,Respiratory Rate,23.0,insp/min,chartevents
+10002223,22494570.0,2158-01-15 19:00:00,Vitals / Charted,Non Invasive Blood Pressure mean,88.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 19:00:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,76.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 19:00:00,Vitals / Charted,Heart Rhythm,,,chartevents
+10002223,22494570.0,2158-01-15 19:00:00,Vitals / Charted,Heart Rate,57.0,bpm,chartevents
+10002223,22494570.0,2158-01-15 19:00:00,Vitals / Charted,O2 Delivery Device(s),,,chartevents
+10002223,22494570.0,2158-01-15 19:00:00,Vitals / Charted,O2 Flow,1.0,L/min,chartevents
+10002223,22494570.0,2158-01-15 19:00:00,Vitals / Charted,Untoward Effect,,,chartevents
+10002223,22494570.0,2158-01-15 19:00:00,Vitals / Charted,Pain Assessment Method,,,chartevents
+10002223,22494570.0,2158-01-15 19:00:00,Vitals / Charted,Pain Level Acceptable,,,chartevents
+10002223,22494570.0,2158-01-15 19:00:00,Vitals / Charted,Non Invasive Blood Pressure systolic,133.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 19:00:00,Vitals / Charted,Pain Type,,,chartevents
+10002223,22494570.0,2158-01-15 19:00:00,Vitals / Charted,Pain Cause,,,chartevents
+10002223,22494570.0,2158-01-15 19:00:00,Vitals / Charted,Pain Level,2.0,,chartevents
+10002223,22494570.0,2158-01-15 19:00:00,Vitals / Charted,Pain Management,,,chartevents
+10002223,22494570.0,2158-01-15 19:00:00,Vitals / Charted,Pain Location,,,chartevents
+10002223,22494570.0,2158-01-15 19:00:00,Vitals / Charted,Pain Management,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,RUE Temp,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Braden Mobility,3.0,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Braden Activity,1.0,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Braden Moisture,3.0,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Braden Sensory Perception,4.0,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Edema Location,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Skin Color,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Skin Temperature,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Skin Integrity,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,GU Catheter Size,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Urine Color,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Urine Source,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Bowel Sounds,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Abdominal Assessment,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Nares R,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,CT #1 Crepitus,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,CT #1 Dressing,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,CT #1 Drainage,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,CT #1 Fluctuate,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,CT #1 Suction Amount,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Chest Tube Site # 1,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Pupil Response Left,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Pupil Response Right,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Level of Consciousness,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,LLE Temp,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,RLE Temp,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,LUE Temp,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Braden Nutrition,2.0,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Oral Cavity,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,CT #1 Leak,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,CT #1 Suction Type,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Ectopy Type 1,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,O2 saturation pulseoxymetry,96.0,%,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Respiratory Rate,22.0,insp/min,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Non Invasive Blood Pressure mean,88.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,75.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Non Invasive Blood Pressure systolic,134.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Heart Rhythm,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Heart Rate,85.0,bpm,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Incentive Spirometry,1.0,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Cough/Deep Breath,1.0,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Anti Embolic Device,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Pressure Reducing Device,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Therapeutic Bed,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Braden Friction/Shear,2.0,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Mental status,0.0,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,IV/Saline lock,20.0,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Ambulatory aid,0.0,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Secondary diagnosis,0.0,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,History of falling (within 3 mnths),0.0,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,All Medications Tolerated without Adverse Side Effects,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Side Rails,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Nares L,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Urine Appearance,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Skin Condition,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Gait/Transferring,0.0,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Response,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Corneal Reflex Left,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Corneal Reflex Right,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,GCS - Eye Opening,4.0,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,O2 Delivery Device(s),,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,O2 Flow,1.0,L/min,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Untoward Effect,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Pain Assessment Method,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Pain Level Acceptable,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Pain Management,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Pain Level,8.0,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Pain Cause,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Pain Location,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Pain Type,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Richmond-RAS Scale,0.0,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Pain Present,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,NBP Alarm Source,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,SpO2 Desat Limit,88.0,%,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Temperature Site,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Alarms On,1.0,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Parameters Checked,1.0,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Resp Alarm - Low,8.0,insp/min,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Resp Alarm - High,30.0,insp/min,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,O2 Saturation Pulseoxymetry Alarm - Low,92.0,%,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,O2 Saturation Pulseoxymetry Alarm - High,100.0,%,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Temperature Fahrenheit,96.9,°F,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Non-Invasive Blood Pressure Alarm - Low,90.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Non-Invasive Blood Pressure Alarm - High,160.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Heart Rate Alarm - Low,50.0,bpm,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Heart rate Alarm - High,120.0,bpm,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Orientation,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,GCS - Verbal Response,5.0,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,GCS - Motor Response,6.0,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Speech,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Capillary Refill L,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Cough Type,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Cough Effort,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Respiratory Effort,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,LLL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,LUL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,RLL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,RUL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Respiratory Pattern,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,LLE Color,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,LUE Color,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,RLE Color,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,RUE Color,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Pupil Size Left,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Capillary Refill R,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,PostTib. Pulses L,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Dorsal PedPulse L,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Radial Pulse R,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,PostTib. Pulses R,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,LL Strength/Movement,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,LU Strength/Movement,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,RL Strength/Movement,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,RU Strength/Movement,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Response to Stimuli (Type),,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Spontaneous Movement,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Pupil Size Right,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Cough Reflex,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Gag Reflex,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Radial Pulse L,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Diet Type,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Vitals / Charted,Dorsal PedPulse R,,,chartevents
+10002223,22494570.0,2158-01-15 20:00:00,Prescription,Docusate Sodium (Liquid),100,mg,prescriptions
+10002223,22494570.0,2158-01-15 20:00:00,Pharmacy,Docusate Sodium (Liquid),,NaN,pharmacy
+10002223,22494570.0,2158-01-15 20:00:00,Input,Hydromorphone (Dilaudid),1.0000000474974513,mg,inputevents
+10002223,22494570.0,2158-01-15 20:00:00,Output,Chest Tube #1,30.0,ml,outputevents
+10002223,22494570.0,2158-01-15 20:00:00,Output,Foley,225.0,ml,outputevents
+10002223,22494570.0,2158-01-15 20:01:00,Vitals / Charted,Support Systems,,,chartevents
+10002223,22494570.0,2158-01-15 20:01:00,Vitals / Charted,Education Response,,,chartevents
+10002223,22494570.0,2158-01-15 20:01:00,Vitals / Charted,Education Method,,,chartevents
+10002223,22494570.0,2158-01-15 20:01:00,Vitals / Charted,Education Readiness,,,chartevents
+10002223,22494570.0,2158-01-15 20:01:00,Vitals / Charted,Education Barrier,,,chartevents
+10002223,22494570.0,2158-01-15 20:01:00,Vitals / Charted,Education Topic,,,chartevents
+10002223,22494570.0,2158-01-15 20:01:00,Vitals / Charted,Education Topic,,,chartevents
+10002223,22494570.0,2158-01-15 20:01:00,Vitals / Charted,Education Learner,,,chartevents
+10002223,22494570.0,2158-01-15 20:01:00,Vitals / Charted,Family Communication,,,chartevents
+10002223,22494570.0,2158-01-15 20:01:00,Vitals / Charted,Support Systems,,,chartevents
+10002223,22494570.0,2158-01-15 20:01:00,Vitals / Charted,Education Topic,,,chartevents
+10002223,22494570.0,2158-01-15 20:03:00,Vitals / Charted,16 Gauge Site Appear,,,chartevents
+10002223,22494570.0,2158-01-15 20:03:00,Vitals / Charted,Surrounding Tissue #2,,,chartevents
+10002223,22494570.0,2158-01-15 20:03:00,Vitals / Charted,Tunneling Present #2,,,chartevents
+10002223,22494570.0,2158-01-15 20:03:00,Vitals / Charted,18 Gauge Site Appear,,,chartevents
+10002223,22494570.0,2158-01-15 20:03:00,Vitals / Charted,16 Gauge placed in outside facility,1.0,,chartevents
+10002223,22494570.0,2158-01-15 20:03:00,Vitals / Charted,16 Gauge placed in the field,0.0,,chartevents
+10002223,22494570.0,2158-01-15 20:03:00,Vitals / Charted,16 Gauge Dressing Occlusive,1.0,,chartevents
+10002223,22494570.0,2158-01-15 20:03:00,Vitals / Charted,18 Gauge Dressing Occlusive,1.0,,chartevents
+10002223,22494570.0,2158-01-15 20:03:00,Vitals / Charted,Impaired Skin  - Dressing Status #1,,,chartevents
+10002223,22494570.0,2158-01-15 20:03:00,Vitals / Charted,Impaired Skin  - Dressing Status #2,,,chartevents
+10002223,22494570.0,2158-01-15 20:03:00,Vitals / Charted,Impaired Skin Wound Base #2,,,chartevents
+10002223,22494570.0,2158-01-15 20:03:00,Vitals / Charted,18 Gauge placed in the field,0.0,,chartevents
+10002223,22494570.0,2158-01-15 20:03:00,Vitals / Charted,18 Gauge placed in outside facility,1.0,,chartevents
+10002223,22494570.0,2158-01-15 20:03:00,Vitals / Charted,Impaired Skin Width #2,1.0,cm,chartevents
+10002223,22494570.0,2158-01-15 20:03:00,Vitals / Charted,Impaired Skin Length #2,1.0,cm,chartevents
+10002223,22494570.0,2158-01-15 20:03:00,Vitals / Charted,Impaired Skin Treatment #2,,,chartevents
+10002223,22494570.0,2158-01-15 20:03:00,DateTime Obs,16 Gauge Insertion Date,2158-01-15 00:00:00,Date,datetimeevents
+10002223,22494570.0,2158-01-15 20:03:00,DateTime Obs,18 Gauge Insertion Date,2158-01-15 00:00:00,Date,datetimeevents
+10002223,22494570.0,2158-01-15 20:03:00,Vitals / Charted,Impaired Skin Site #1,,,chartevents
+10002223,22494570.0,2158-01-15 20:03:00,Vitals / Charted,Impaired Skin Cleanse #1,,,chartevents
+10002223,22494570.0,2158-01-15 20:03:00,Vitals / Charted,Impaired Skin Treatment #1,,,chartevents
+10002223,22494570.0,2158-01-15 20:03:00,Vitals / Charted,Impaired Skin Type #2,,,chartevents
+10002223,22494570.0,2158-01-15 20:03:00,Vitals / Charted,Impaired Skin Drainage #1,,,chartevents
+10002223,22494570.0,2158-01-15 20:03:00,Vitals / Charted,Impaired Skin Type #1,,,chartevents
+10002223,22494570.0,2158-01-15 20:03:00,Vitals / Charted,Impaired Skin Wound Base #1,,,chartevents
+10002223,22494570.0,2158-01-15 20:03:00,Vitals / Charted,Surrounding Tissue #1,,,chartevents
+10002223,22494570.0,2158-01-15 20:03:00,Vitals / Charted,Tunneling Present #1,,,chartevents
+10002223,22494570.0,2158-01-15 20:03:00,Vitals / Charted,Impaired Skin Width #1,2.0,cm,chartevents
+10002223,22494570.0,2158-01-15 20:03:00,Vitals / Charted,Impaired Skin Drainage Amount #1,,,chartevents
+10002223,22494570.0,2158-01-15 20:03:00,Vitals / Charted,Impaired Skin Cleanse #2,,,chartevents
+10002223,22494570.0,2158-01-15 20:03:00,Vitals / Charted,Impaired Skin Site #2,,,chartevents
+10002223,22494570.0,2158-01-15 20:03:00,Vitals / Charted,Impaired Skin Length #1,2.0,cm,chartevents
+10002223,22494570.0,2158-01-15 21:00:00,Output,Foley,240.0,ml,outputevents
+10002223,22494570.0,2158-01-15 21:00:00,Vitals / Charted,Heart Rate,73.0,bpm,chartevents
+10002223,22494570.0,2158-01-15 21:00:00,Vitals / Charted,Heart Rhythm,,,chartevents
+10002223,22494570.0,2158-01-15 21:00:00,Vitals / Charted,Non Invasive Blood Pressure mean,83.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 21:00:00,Vitals / Charted,Respiratory Rate,19.0,insp/min,chartevents
+10002223,22494570.0,2158-01-15 21:00:00,Vitals / Charted,O2 saturation pulseoxymetry,98.0,%,chartevents
+10002223,22494570.0,2158-01-15 21:00:00,Vitals / Charted,Ectopy Type 1,,,chartevents
+10002223,22494570.0,2158-01-15 21:00:00,Vitals / Charted,Pain Location,,,chartevents
+10002223,22494570.0,2158-01-15 21:00:00,Vitals / Charted,Pain Type,,,chartevents
+10002223,22494570.0,2158-01-15 21:00:00,Vitals / Charted,Pain Present,,,chartevents
+10002223,22494570.0,2158-01-15 21:00:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,70.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 21:00:00,Vitals / Charted,Non Invasive Blood Pressure systolic,128.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 21:00:00,Vitals / Charted,Richmond-RAS Scale,0.0,,chartevents
+10002223,22494570.0,2158-01-15 21:00:00,Vitals / Charted,Untoward Effect,,,chartevents
+10002223,22494570.0,2158-01-15 21:00:00,Vitals / Charted,Pain Level Acceptable,,,chartevents
+10002223,22494570.0,2158-01-15 21:00:00,Vitals / Charted,Pain Level,1.0,,chartevents
+10002223,22494570.0,2158-01-15 21:00:00,Vitals / Charted,Pain Cause,,,chartevents
+10002223,22494570.0,2158-01-15 21:00:00,Vitals / Charted,Pain Cause,,,chartevents
+10002223,22494570.0,2158-01-15 21:00:00,Vitals / Charted,Pain Assessment Method,,,chartevents
+10002223,22494570.0,2158-01-15 22:00:00,Vitals / Charted,Heart Rhythm,,,chartevents
+10002223,22494570.0,2158-01-15 22:00:00,Vitals / Charted,Incentive Spirometry,1.0,,chartevents
+10002223,22494570.0,2158-01-15 22:00:00,Vitals / Charted,Cough/Deep Breath,1.0,,chartevents
+10002223,22494570.0,2158-01-15 22:00:00,Vitals / Charted,Ectopy Type 1,,,chartevents
+10002223,22494570.0,2158-01-15 22:00:00,Vitals / Charted,O2 saturation pulseoxymetry,99.0,%,chartevents
+10002223,22494570.0,2158-01-15 22:00:00,Vitals / Charted,Non Invasive Blood Pressure mean,79.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 22:00:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,65.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 22:00:00,Vitals / Charted,Non Invasive Blood Pressure systolic,128.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 22:00:00,Vitals / Charted,Anti Embolic Device Status,,,chartevents
+10002223,22494570.0,2158-01-15 22:00:00,Vitals / Charted,Respiratory Rate,25.0,insp/min,chartevents
+10002223,22494570.0,2158-01-15 22:00:00,Vitals / Charted,Anti Embolic Device,,,chartevents
+10002223,22494570.0,2158-01-15 22:00:00,Vitals / Charted,Position,,,chartevents
+10002223,22494570.0,2158-01-15 22:00:00,Vitals / Charted,Head of Bed,,,chartevents
+10002223,22494570.0,2158-01-15 22:00:00,Vitals / Charted,Turn,,,chartevents
+10002223,22494570.0,2158-01-15 22:00:00,Vitals / Charted,Activity,,,chartevents
+10002223,22494570.0,2158-01-15 22:00:00,Vitals / Charted,Heart Rate,70.0,bpm,chartevents
+10002223,22494570.0,2158-01-15 22:00:00,Output,Foley,150.0,ml,outputevents
+10002223,22494570.0,2158-01-15 22:00:00,Vitals / Charted,Activity Tolerance,,,chartevents
+10002223,22494570.0,2158-01-15 22:00:00,Vitals / Charted,Therapeutic Bed,,,chartevents
+10002223,22494570.0,2158-01-15 22:00:00,Vitals / Charted,Pressure Reducing Device,,,chartevents
+10002223,22494570.0,2158-01-15 22:00:00,Vitals / Charted,Assistance Device,,,chartevents
+10002223,22494570.0,2158-01-15 23:00:00,Vitals / Charted,Cough/Deep Breath,1.0,,chartevents
+10002223,22494570.0,2158-01-15 23:00:00,Vitals / Charted,Richmond-RAS Scale,0.0,,chartevents
+10002223,22494570.0,2158-01-15 23:00:00,Vitals / Charted,Pain Assessment Method,,,chartevents
+10002223,22494570.0,2158-01-15 23:00:00,Vitals / Charted,Pain Level Acceptable,,,chartevents
+10002223,22494570.0,2158-01-15 23:00:00,Vitals / Charted,Pain Management,,,chartevents
+10002223,22494570.0,2158-01-15 23:00:00,Vitals / Charted,Pain Level,5.0,,chartevents
+10002223,22494570.0,2158-01-15 23:00:00,Vitals / Charted,Pain Cause,,,chartevents
+10002223,22494570.0,2158-01-15 23:00:00,Vitals / Charted,Pain Cause,,,chartevents
+10002223,22494570.0,2158-01-15 23:00:00,Vitals / Charted,Pain Present,,,chartevents
+10002223,22494570.0,2158-01-15 23:00:00,Vitals / Charted,Pain Type,,,chartevents
+10002223,22494570.0,2158-01-15 23:00:00,Vitals / Charted,Ectopy Type 1,,,chartevents
+10002223,22494570.0,2158-01-15 23:00:00,Vitals / Charted,O2 saturation pulseoxymetry,99.0,%,chartevents
+10002223,22494570.0,2158-01-15 23:00:00,Vitals / Charted,Non Invasive Blood Pressure mean,78.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 23:00:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,64.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 23:00:00,Vitals / Charted,Non Invasive Blood Pressure systolic,124.0,mmHg,chartevents
+10002223,22494570.0,2158-01-15 23:00:00,Vitals / Charted,Heart Rhythm,,,chartevents
+10002223,22494570.0,2158-01-15 23:00:00,Vitals / Charted,Heart Rate,60.0,bpm,chartevents
+10002223,22494570.0,2158-01-15 23:00:00,Vitals / Charted,Pain Location,,,chartevents
+10002223,22494570.0,2158-01-15 23:00:00,Vitals / Charted,Respiratory Rate,24.0,insp/min,chartevents
+10002223,22494570.0,2158-01-15 23:00:00,Vitals / Charted,Untoward Effect,,,chartevents
+10002223,22494570.0,2158-01-15 23:00:00,Output,Foley,250.0,ml,outputevents
+10002223,22494570.0,2158-01-15 23:00:00,Input,Hydromorphone (Dilaudid),1.0000000474974513,mg,inputevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Non Invasive Blood Pressure systolic,121.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,61.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Non Invasive Blood Pressure mean,74.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,GCS - Eye Opening,4.0,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Orientation,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,GCS - Verbal Response,5.0,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,GCS - Motor Response,6.0,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Speech,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Gag Reflex,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Prescription,Calcium Gluconate,2-4,g,prescriptions
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Pupil Size Right,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Spontaneous Movement,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Response to Stimuli (Type),,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,RU Strength/Movement,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,RL Strength/Movement,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,LU Strength/Movement,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,LL Strength/Movement,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Dorsal PedPulse R,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,PostTib. Pulses R,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Radial Pulse R,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Dorsal PedPulse L,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Cough Reflex,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Side Rails,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Anti Embolic Device Status,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Respiratory Rate,12.0,insp/min,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,O2 saturation pulseoxymetry,99.0,%,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Parameters Checked,1.0,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Alarms On,1.0,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Ectopy Type 1,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Pain Present,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Pain Location,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Pain Level,0.0,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Pain Level Acceptable,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Pain Assessment Method,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Untoward Effect,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,O2 Flow,1.0,L/min,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,O2 Delivery Device(s),,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Richmond-RAS Scale,0.0,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Head of Bed,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Turn,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Activity,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Assistance Device,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Activity Tolerance,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Therapeutic Bed,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Pressure Reducing Device,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Anti Embolic Device,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Prescription,SW,50-100,mL,prescriptions
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,PostTib. Pulses L,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Radial Pulse L,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Capillary Refill R,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,CT #1 Drainage,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,CT #1 Dressing,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,CT #1 Crepitus,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Oral Cavity,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Nares R,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Diet Type,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Abdominal Assessment,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Bowel Sounds,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,CT #1 Leak,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,CT #1 Suction Type,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Nares L,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,All Medications Tolerated without Adverse Side Effects,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Urine Source,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Urine Color,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,GU Catheter Size,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Skin Integrity,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Skin Temperature,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Skin Color,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Edema Location,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Skin Condition,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Urine Appearance,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Temperature Fahrenheit,97.5,°F,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Temperature Site,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,CT #1 Fluctuate,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,CT #1 Suction Amount,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Chest Tube Site # 1,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Cough Type,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,RUE Color,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,RLE Color,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,LUE Color,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,LLE Color,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Capillary Refill L,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Corneal Reflex Right,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Corneal Reflex Left,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Pupil Size Left,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Response,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,RUE Temp,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,LUE Temp,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Heart Rhythm,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,RLE Temp,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Level of Consciousness,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Pupil Response Right,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Pupil Response Left,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Pronator drift present,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Respiratory Pattern,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,RUL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,RLL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,LUL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,LLL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Respiratory Effort,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Cough Effort,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,LLE Temp,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Heart Rate,62.0,bpm,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Vitals / Charted,Position,,,chartevents
+10002223,22494570.0,2158-01-16 00:00:00,Prescription,Calcium Gluconate,4,g,prescriptions
+10002223,22494570.0,2158-01-16 00:00:00,Prescription,Dextrose 50%,12.5,gm,prescriptions
+10002223,22494570.0,2158-01-16 00:00:00,Prescription,0.9% Sodium Chloride,500-1000,mL,prescriptions
+10002223,22494570.0,2158-01-16 00:00:00,Prescription,Potassium Chloride,40-60,mEq,prescriptions
+10002223,22494570.0,2158-01-16 00:00:00,Prescription,0.9% Sodium Chloride,2,BAG,prescriptions
+10002223,22494570.0,2158-01-16 00:00:00,Pharmacy,Glucagon,,NaN,pharmacy
+10002223,22494570.0,2158-01-16 00:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+10002223,22494570.0,2158-01-16 00:00:00,Pharmacy,Potassium Phosphate,,NaN,pharmacy
+10002223,22494570.0,2158-01-16 00:00:00,Pharmacy,Magnesium Sulfate,,NaN,pharmacy
+10002223,22494570.0,2158-01-16 00:00:00,Pharmacy,Insulin,,NaN,pharmacy
+10002223,22494570.0,2158-01-16 00:00:00,Pharmacy,Potassium Phosphate,,NaN,pharmacy
+10002223,22494570.0,2158-01-16 00:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+10002223,22494570.0,2158-01-16 00:00:00,Pharmacy,Calcium Gluconate,,NaN,pharmacy
+10002223,22494570.0,2158-01-16 00:00:00,Pharmacy,Magnesium Sulfate,,NaN,pharmacy
+10002223,22494570.0,2158-01-16 00:00:00,Pharmacy,Magnesium Sulfate,,NaN,pharmacy
+10002223,22494570.0,2158-01-16 00:00:00,Pharmacy,Calcium Gluconate,,NaN,pharmacy
+10002223,22494570.0,2158-01-16 00:00:00,Pharmacy,Dextrose 50%,,NaN,pharmacy
+10002223,22494570.0,2158-01-16 00:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+10002223,22494570.0,2158-01-16 00:00:00,Pharmacy,Calcium Gluconate,,NaN,pharmacy
+10002223,22494570.0,2158-01-16 00:00:00,Output,Chest Tube #1,0.0,ml,outputevents
+10002223,22494570.0,2158-01-16 00:00:00,Prescription,Calcium Gluconate,2,g,prescriptions
+10002223,22494570.0,2158-01-16 00:00:00,Output,Foley,350.0,ml,outputevents
+10002223,22494570.0,2158-01-16 00:00:00,Prescription,0.9% Sodium Chloride,1,BAG,prescriptions
+10002223,22494570.0,2158-01-16 00:00:00,Prescription,SW,50,mL,prescriptions
+10002223,22494570.0,2158-01-16 00:00:00,Prescription,Potassium Chloride,60,mEq,prescriptions
+10002223,22494570.0,2158-01-16 00:00:00,Prescription,0.9% Sodium Chloride,1000,mL,prescriptions
+10002223,22494570.0,2158-01-16 00:00:00,Prescription,Potassium Phosphate,15,mmol,prescriptions
+10002223,22494570.0,2158-01-16 00:00:00,Prescription,0.9% Sodium Chloride,500,mL,prescriptions
+10002223,22494570.0,2158-01-16 00:00:00,Prescription,Magnesium Sulfate,2,gm,prescriptions
+10002223,22494570.0,2158-01-16 00:00:00,Prescription,Magnesium Sulfate,2-4,gm,prescriptions
+10002223,22494570.0,2158-01-16 00:00:00,Prescription,0.9% Sodium Chloride,1-2,BAG,prescriptions
+10002223,22494570.0,2158-01-16 00:00:00,Prescription,Insulin,0,UNIT,prescriptions
+10002223,22494570.0,2158-01-16 00:00:00,Prescription,SW,100,mL,prescriptions
+10002223,22494570.0,2158-01-16 00:00:00,Prescription,Potassium Phosphate,15-30,mmol,prescriptions
+10002223,22494570.0,2158-01-16 00:00:00,Prescription,0.9% Sodium Chloride,500-500,mL,prescriptions
+10002223,22494570.0,2158-01-16 00:00:00,Prescription,Potassium Chloride,20-40,mEq,prescriptions
+10002223,22494570.0,2158-01-16 00:00:00,Prescription,SW,200-400,mL,prescriptions
+10002223,22494570.0,2158-01-16 00:00:00,Prescription,Glucagon,1,mg,prescriptions
+10002223,22494570.0,2158-01-16 00:00:00,Prescription,Magnesium Sulfate,4,gm,prescriptions
+10002223,22494570.0,2158-01-16 01:00:00,Vitals / Charted,Non Invasive Blood Pressure systolic,119.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 01:00:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,61.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 01:00:00,Vitals / Charted,Heart Rhythm,,,chartevents
+10002223,22494570.0,2158-01-16 01:00:00,Output,Foley,275.0,ml,outputevents
+10002223,22494570.0,2158-01-16 01:00:00,Vitals / Charted,O2 saturation pulseoxymetry,98.0,%,chartevents
+10002223,22494570.0,2158-01-16 01:00:00,Vitals / Charted,Ectopy Type 1,,,chartevents
+10002223,22494570.0,2158-01-16 01:00:00,Vitals / Charted,Heart Rate,63.0,bpm,chartevents
+10002223,22494570.0,2158-01-16 01:00:00,Vitals / Charted,Non Invasive Blood Pressure mean,74.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 01:00:00,Vitals / Charted,Respiratory Rate,13.0,insp/min,chartevents
+10002223,22494570.0,2158-01-16 01:50:00,Lab Result,MCHC| Blood,35.5,%,labevents
+10002223,22494570.0,2158-01-16 01:50:00,Vitals / Charted,Calcium non-ionized,8.7,mg/dL,chartevents
+10002223,22494570.0,2158-01-16 01:50:00,Vitals / Charted,Phosphorous,3.5,mg/dL,chartevents
+10002223,22494570.0,2158-01-16 01:50:00,Vitals / Charted,Anion gap,14.0,mEq/L,chartevents
+10002223,22494570.0,2158-01-16 01:50:00,Vitals / Charted,Potassium (serum),3.9,mEq/L,chartevents
+10002223,22494570.0,2158-01-16 01:50:00,Vitals / Charted,HCO3 (serum),26.0,mEq/L,chartevents
+10002223,22494570.0,2158-01-16 01:50:00,Vitals / Charted,Sodium (serum),138.0,mEq/L,chartevents
+10002223,22494570.0,2158-01-16 01:50:00,Vitals / Charted,BUN,9.0,mg/dL,chartevents
+10002223,22494570.0,2158-01-16 01:50:00,Vitals / Charted,Magnesium,2.0,mg/dL,chartevents
+10002223,22494570.0,2158-01-16 01:50:00,Vitals / Charted,Creatinine (serum),0.8,mg/dL,chartevents
+10002223,22494570.0,2158-01-16 01:50:00,Vitals / Charted,Chloride (serum),102.0,mEq/L,chartevents
+10002223,22494570.0,2158-01-16 01:50:00,Vitals / Charted,WBC,10.1,K/uL,chartevents
+10002223,22494570.0,2158-01-16 01:50:00,Vitals / Charted,Platelet Count,130.0,K/uL,chartevents
+10002223,22494570.0,2158-01-16 01:50:00,Vitals / Charted,Hematocrit (serum),30.8,%,chartevents
+10002223,22494570.0,2158-01-16 01:50:00,Vitals / Charted,Hemoglobin,10.9,g/dl,chartevents
+10002223,22494570.0,2158-01-16 01:50:00,Lab Result,MCV| Blood,88.0,fL,labevents
+10002223,22494570.0,2158-01-16 01:50:00,Lab Result,White Blood Cells| Blood,10.1,K/uL,labevents
+10002223,22494570.0,2158-01-16 01:50:00,Vitals / Charted,Glucose (serum),88.0,mg/dL,chartevents
+10002223,22494570.0,2158-01-16 01:50:00,Lab Result,RDW| Blood,13.1,%,labevents
+10002223,22494570.0,2158-01-16 01:50:00,Lab Result,MCH| Blood,31.1,pg,labevents
+10002223,22494570.0,2158-01-16 01:50:00,Lab Result,Hemoglobin| Blood,10.9,g/dL,labevents
+10002223,22494570.0,2158-01-16 01:50:00,Lab Result,Red Blood Cells| Blood,3.52,m/uL,labevents
+10002223,22494570.0,2158-01-16 01:50:00,Lab Result,Hematocrit| Blood,30.8,%,labevents
+10002223,22494570.0,2158-01-16 01:50:00,Lab Result,Urea Nitrogen| Blood,9.0,mg/dL,labevents
+10002223,22494570.0,2158-01-16 01:50:00,Lab Result,Sodium| Blood,138.0,mEq/L,labevents
+10002223,22494570.0,2158-01-16 01:50:00,Lab Result,Potassium| Blood,3.9,mEq/L,labevents
+10002223,22494570.0,2158-01-16 01:50:00,Lab Result,Phosphate| Blood,3.5,mg/dL,labevents
+10002223,22494570.0,2158-01-16 01:50:00,Lab Result,Magnesium| Blood,2.0,mg/dL,labevents
+10002223,22494570.0,2158-01-16 01:50:00,Lab Result,Chloride| Blood,102.0,mEq/L,labevents
+10002223,22494570.0,2158-01-16 01:50:00,Lab Result,Creatinine| Blood,0.8,mg/dL,labevents
+10002223,22494570.0,2158-01-16 01:50:00,Lab Result,"Calcium, Total| Blood",8.7,mg/dL,labevents
+10002223,22494570.0,2158-01-16 01:50:00,Lab Result,Platelet Count| Blood,130.0,K/uL,labevents
+10002223,22494570.0,2158-01-16 01:50:00,Lab Result,Anion Gap| Blood,14.0,mEq/L,labevents
+10002223,22494570.0,2158-01-16 01:50:00,Lab Result,Glucose| Blood,88.0,mg/dL,labevents
+10002223,22494570.0,2158-01-16 01:50:00,Lab Result,Bicarbonate| Blood,26.0,mEq/L,labevents
+10002223,22494570.0,2158-01-16 02:00:00,Vitals / Charted,History of falling (within 3 mnths),0.0,,chartevents
+10002223,22494570.0,2158-01-16 02:00:00,Vitals / Charted,Anti Embolic Device Status,,,chartevents
+10002223,22494570.0,2158-01-16 02:00:00,Vitals / Charted,Ambulatory aid,0.0,,chartevents
+10002223,22494570.0,2158-01-16 02:00:00,Vitals / Charted,IV/Saline lock,20.0,,chartevents
+10002223,22494570.0,2158-01-16 02:00:00,Vitals / Charted,Gait/Transferring,0.0,,chartevents
+10002223,22494570.0,2158-01-16 02:00:00,Vitals / Charted,Position,,,chartevents
+10002223,22494570.0,2158-01-16 02:00:00,Vitals / Charted,Anti Embolic Device,,,chartevents
+10002223,22494570.0,2158-01-16 02:00:00,Vitals / Charted,Pressure Reducing Device,,,chartevents
+10002223,22494570.0,2158-01-16 02:00:00,Vitals / Charted,Therapeutic Bed,,,chartevents
+10002223,22494570.0,2158-01-16 02:00:00,Vitals / Charted,Mental status,0.0,,chartevents
+10002223,22494570.0,2158-01-16 02:00:00,Vitals / Charted,Activity Tolerance,,,chartevents
+10002223,22494570.0,2158-01-16 02:00:00,Vitals / Charted,O2 saturation pulseoxymetry,99.0,%,chartevents
+10002223,22494570.0,2158-01-16 02:00:00,Vitals / Charted,Secondary diagnosis,0.0,,chartevents
+10002223,22494570.0,2158-01-16 02:00:00,Vitals / Charted,Ectopy Type 1,,,chartevents
+10002223,22494570.0,2158-01-16 02:00:00,Vitals / Charted,Assistance Device,,,chartevents
+10002223,22494570.0,2158-01-16 02:00:00,Vitals / Charted,Turn,,,chartevents
+10002223,22494570.0,2158-01-16 02:00:00,Vitals / Charted,Glucose finger stick (range 70-100),89.0,,chartevents
+10002223,22494570.0,2158-01-16 02:00:00,Vitals / Charted,Pain Present,,,chartevents
+10002223,22494570.0,2158-01-16 02:00:00,Vitals / Charted,Activity,,,chartevents
+10002223,22494570.0,2158-01-16 02:00:00,Output,Foley,375.0,ml,outputevents
+10002223,22494570.0,2158-01-16 02:00:00,Vitals / Charted,Respiratory Rate,19.0,insp/min,chartevents
+10002223,22494570.0,2158-01-16 02:00:00,Vitals / Charted,Heart Rhythm,,,chartevents
+10002223,22494570.0,2158-01-16 02:00:00,Vitals / Charted,Pain Location,,,chartevents
+10002223,22494570.0,2158-01-16 02:00:00,Vitals / Charted,Pain Level,0.0,,chartevents
+10002223,22494570.0,2158-01-16 02:00:00,Vitals / Charted,Pain Level Acceptable,,,chartevents
+10002223,22494570.0,2158-01-16 02:00:00,Vitals / Charted,Pain Assessment Method,,,chartevents
+10002223,22494570.0,2158-01-16 02:00:00,Vitals / Charted,Untoward Effect,,,chartevents
+10002223,22494570.0,2158-01-16 02:00:00,Vitals / Charted,Head of Bed,,,chartevents
+10002223,22494570.0,2158-01-16 02:00:00,Vitals / Charted,Heart Rate,68.0,bpm,chartevents
+10002223,22494570.0,2158-01-16 02:00:00,Vitals / Charted,Richmond-RAS Scale,-1.0,,chartevents
+10002223,22494570.0,2158-01-16 02:03:00,Vitals / Charted,Non Invasive Blood Pressure systolic,125.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 02:03:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,67.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 02:03:00,Vitals / Charted,Non Invasive Blood Pressure mean,83.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 03:00:00,Vitals / Charted,Heart Rate,67.0,bpm,chartevents
+10002223,22494570.0,2158-01-16 03:00:00,Vitals / Charted,Heart Rhythm,,,chartevents
+10002223,22494570.0,2158-01-16 03:00:00,Vitals / Charted,Non Invasive Blood Pressure systolic,121.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 03:00:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,59.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 03:00:00,Vitals / Charted,Respiratory Rate,17.0,insp/min,chartevents
+10002223,22494570.0,2158-01-16 03:00:00,Vitals / Charted,Non Invasive Blood Pressure mean,74.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 03:00:00,Vitals / Charted,Ectopy Type 1,,,chartevents
+10002223,22494570.0,2158-01-16 03:00:00,Vitals / Charted,O2 saturation pulseoxymetry,100.0,%,chartevents
+10002223,22494570.0,2158-01-16 03:00:00,Output,Foley,250.0,ml,outputevents
+10002223,22494570.0,2158-01-16 03:18:00,Vitals / Charted,Impaired Skin Cleanse #1,,,chartevents
+10002223,22494570.0,2158-01-16 03:18:00,Vitals / Charted,Impaired Skin Treatment #1,,,chartevents
+10002223,22494570.0,2158-01-16 03:18:00,Vitals / Charted,Impaired Skin  - Dressing Status #1,,,chartevents
+10002223,22494570.0,2158-01-16 03:18:00,Vitals / Charted,Impaired Skin Drainage Amount #1,,,chartevents
+10002223,22494570.0,2158-01-16 03:18:00,Vitals / Charted,Impaired Skin Width #1,2.0,cm,chartevents
+10002223,22494570.0,2158-01-16 03:18:00,Vitals / Charted,Tunneling Present #1,,,chartevents
+10002223,22494570.0,2158-01-16 03:18:00,Vitals / Charted,Surrounding Tissue #1,,,chartevents
+10002223,22494570.0,2158-01-16 03:18:00,Vitals / Charted,Impaired Skin Length #1,2.0,cm,chartevents
+10002223,22494570.0,2158-01-16 03:18:00,Vitals / Charted,Impaired Skin Type #1,,,chartevents
+10002223,22494570.0,2158-01-16 03:18:00,Vitals / Charted,Impaired Skin Drainage #1,,,chartevents
+10002223,22494570.0,2158-01-16 03:18:00,Vitals / Charted,Impaired Skin Wound Base #1,,,chartevents
+10002223,22494570.0,2158-01-16 03:18:00,Vitals / Charted,Impaired Skin Site #1,,,chartevents
+10002223,22494570.0,2158-01-16 03:19:00,Vitals / Charted,Impaired Skin  - Dressing Status #2,,,chartevents
+10002223,22494570.0,2158-01-16 03:19:00,Vitals / Charted,Tunneling Present #2,,,chartevents
+10002223,22494570.0,2158-01-16 03:19:00,Vitals / Charted,Surrounding Tissue #2,,,chartevents
+10002223,22494570.0,2158-01-16 03:19:00,Vitals / Charted,Impaired Skin Wound Base #2,,,chartevents
+10002223,22494570.0,2158-01-16 03:19:00,Vitals / Charted,Impaired Skin Type #2,,,chartevents
+10002223,22494570.0,2158-01-16 03:19:00,Vitals / Charted,Impaired Skin Treatment #2,,,chartevents
+10002223,22494570.0,2158-01-16 03:19:00,Vitals / Charted,Impaired Skin Site #2,,,chartevents
+10002223,22494570.0,2158-01-16 03:19:00,Vitals / Charted,Impaired Skin Length #2,1.0,cm,chartevents
+10002223,22494570.0,2158-01-16 03:19:00,Vitals / Charted,Impaired Skin Cleanse #2,,,chartevents
+10002223,22494570.0,2158-01-16 03:19:00,Vitals / Charted,Impaired Skin Width #2,1.0,cm,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,LL Strength/Movement,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,LU Strength/Movement,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,RL Strength/Movement,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,RU Strength/Movement,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Response to Stimuli (Type),,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Cough Reflex,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,GCS - Verbal Response,5.0,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,GCS - Motor Response,6.0,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Speech,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Gag Reflex,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Orientation,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Dorsal PedPulse R,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,LUL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Radial Pulse R,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Dorsal PedPulse L,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,PostTib. Pulses L,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Radial Pulse L,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Capillary Refill R,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,RUE Color,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,RLE Color,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,LUE Color,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,LLE Color,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,RUL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,RLL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,LLL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Spontaneous Movement,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,PostTib. Pulses R,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Pupil Size Right,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Respiratory Pattern,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Respiratory Effort,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,RLE Temp,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,LLE Temp,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Skin Condition,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Urine Appearance,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Nares L,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Level of Consciousness,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,O2 Delivery Device(s),,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Pupil Response Right,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Pupil Response Left,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,All Medications Tolerated without Adverse Side Effects,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Pronator drift present,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Temperature Fahrenheit,97.8,°F,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Parameters Checked,1.0,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Alarms On,1.0,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Temperature Site,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Chest Tube Site # 1,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,CT #1 Suction Amount,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,CT #1 Fluctuate,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,CT #1 Drainage,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,CT #1 Dressing,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,CT #1 Crepitus,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,CT #1 Leak,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,CT #1 Suction Type,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,LUE Temp,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,O2 Flow,1.0,L/min,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,RUE Temp,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Pupil Size Left,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Cough Effort,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Cough Type,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Oral Cavity,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Nares R,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Diet Type,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Abdominal Assessment,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Bowel Sounds,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Urine Source,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Urine Color,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,GU Catheter Size,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Skin Integrity,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Skin Temperature,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Skin Color,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Edema Location,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Braden Sensory Perception,4.0,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Braden Moisture,3.0,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Braden Activity,1.0,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Braden Mobility,3.0,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Braden Nutrition,2.0,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Braden Friction/Shear,2.0,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Capillary Refill L,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Corneal Reflex Right,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Corneal Reflex Left,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Response,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,GCS - Eye Opening,4.0,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Untoward Effect,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Output,Foley,175.0,ml,outputevents
+10002223,22494570.0,2158-01-16 04:00:00,Output,Chest Tube #1,40.0,ml,outputevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Head of Bed,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Turn,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Activity,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Assistance Device,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Activity Tolerance,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Therapeutic Bed,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Pressure Reducing Device,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Anti Embolic Device,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Anti Embolic Device Status,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Side Rails,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Richmond-RAS Scale,-1.0,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Position,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Pain Assessment Method,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Pain Level Acceptable,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Pain Level,0.0,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Pain Present,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Ectopy Type 1,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,O2 saturation pulseoxymetry,99.0,%,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Pain Location,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Non Invasive Blood Pressure mean,79.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,65.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Non Invasive Blood Pressure systolic,121.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Heart Rhythm,,,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Heart Rate,64.0,bpm,chartevents
+10002223,22494570.0,2158-01-16 04:00:00,Vitals / Charted,Respiratory Rate,20.0,insp/min,chartevents
+10002223,22494570.0,2158-01-16 04:34:00,Input,LR,964.9999769926072,ml,inputevents
+10002223,22494570.0,2158-01-16 04:34:00,Input,IVF ingredient,964.9999769926072,ml,ingredientevents
+10002223,22494570.0,2158-01-16 04:34:00,Input,Water,964.9999769926072,ml,ingredientevents
+10002223,22494570.0,2158-01-16 05:00:00,Vitals / Charted,Non Invasive Blood Pressure systolic,118.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 05:00:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,62.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 05:00:00,Vitals / Charted,Non Invasive Blood Pressure mean,75.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 05:00:00,Vitals / Charted,Respiratory Rate,19.0,insp/min,chartevents
+10002223,22494570.0,2158-01-16 05:00:00,Vitals / Charted,O2 saturation pulseoxymetry,100.0,%,chartevents
+10002223,22494570.0,2158-01-16 05:00:00,Vitals / Charted,Ectopy Type 1,,,chartevents
+10002223,22494570.0,2158-01-16 05:00:00,Vitals / Charted,Daily Weight,78.8,kg,chartevents
+10002223,22494570.0,2158-01-16 05:00:00,Vitals / Charted,Heart Rate,66.0,bpm,chartevents
+10002223,22494570.0,2158-01-16 05:00:00,Vitals / Charted,Heart Rhythm,,,chartevents
+10002223,22494570.0,2158-01-16 05:00:00,Output,Foley,275.0,ml,outputevents
+10002223,22494570.0,2158-01-16 05:59:00,Input,Hydromorphone (Dilaudid),1.0000000474974513,mg,inputevents
+10002223,22494570.0,2158-01-16 06:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-16 06:00:00,Vitals / Charted,Pain Cause,,,chartevents
+10002223,22494570.0,2158-01-16 06:00:00,Vitals / Charted,Pain Location,,,chartevents
+10002223,22494570.0,2158-01-16 06:00:00,Vitals / Charted,Pain Type,,,chartevents
+10002223,22494570.0,2158-01-16 06:00:00,Vitals / Charted,Pain Present,,,chartevents
+10002223,22494570.0,2158-01-16 06:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-16 06:00:00,Vitals / Charted,Heart Rhythm,,,chartevents
+10002223,22494570.0,2158-01-16 06:00:00,Vitals / Charted,Non Invasive Blood Pressure systolic,120.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 06:00:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,72.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 06:00:00,Vitals / Charted,Non Invasive Blood Pressure mean,83.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 06:00:00,Vitals / Charted,Respiratory Rate,16.0,insp/min,chartevents
+10002223,22494570.0,2158-01-16 06:00:00,Vitals / Charted,O2 saturation pulseoxymetry,98.0,%,chartevents
+10002223,22494570.0,2158-01-16 06:00:00,Vitals / Charted,Ectopy Type 1,,,chartevents
+10002223,22494570.0,2158-01-16 06:00:00,Vitals / Charted,Pain Cause,,,chartevents
+10002223,22494570.0,2158-01-16 06:00:00,Vitals / Charted,Pain Cause,,,chartevents
+10002223,22494570.0,2158-01-16 06:00:00,Vitals / Charted,Pain Level,5.0,,chartevents
+10002223,22494570.0,2158-01-16 06:00:00,Vitals / Charted,Pain Management,,,chartevents
+10002223,22494570.0,2158-01-16 06:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-16 06:00:00,Vitals / Charted,Side Rails,,,chartevents
+10002223,22494570.0,2158-01-16 06:00:00,Vitals / Charted,Anti Embolic Device Status,,,chartevents
+10002223,22494570.0,2158-01-16 06:00:00,Vitals / Charted,Position,,,chartevents
+10002223,22494570.0,2158-01-16 06:00:00,Vitals / Charted,Anti Embolic Device,,,chartevents
+10002223,22494570.0,2158-01-16 06:00:00,Vitals / Charted,Pressure Reducing Device,,,chartevents
+10002223,22494570.0,2158-01-16 06:00:00,Vitals / Charted,Therapeutic Bed,,,chartevents
+10002223,22494570.0,2158-01-16 06:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-16 06:00:00,Vitals / Charted,Activity Tolerance,,,chartevents
+10002223,22494570.0,2158-01-16 06:00:00,Vitals / Charted,Activity,,,chartevents
+10002223,22494570.0,2158-01-16 06:00:00,Vitals / Charted,Head of Bed,,,chartevents
+10002223,22494570.0,2158-01-16 06:00:00,Vitals / Charted,Richmond-RAS Scale,0.0,,chartevents
+10002223,22494570.0,2158-01-16 06:00:00,Vitals / Charted,Untoward Effect,,,chartevents
+10002223,22494570.0,2158-01-16 06:00:00,Vitals / Charted,Pain Assessment Method,,,chartevents
+10002223,22494570.0,2158-01-16 06:00:00,Vitals / Charted,Pain Level Acceptable,,,chartevents
+10002223,22494570.0,2158-01-16 06:00:00,Vitals / Charted,Pain Management,,,chartevents
+10002223,22494570.0,2158-01-16 06:00:00,Vitals / Charted,Assistance Device,,,chartevents
+10002223,22494570.0,2158-01-16 06:00:00,Vitals / Charted,Heart Rate,84.0,bpm,chartevents
+10002223,22494570.0,2158-01-16 06:00:00,Vitals / Charted,Turn,,,chartevents
+10002223,22494570.0,2158-01-16 06:00:00,Output,Foley,250.0,ml,outputevents
+10002223,22494570.0,2158-01-16 06:00:00,Procedure,Chest X-Ray,1.0,,procedureevents
+10002223,22494570.0,2158-01-16 06:00:00,Procedure,Chest X-Ray,1.0,,procedureevents
+10002223,22494570.0,2158-01-16 06:01:00,Vitals / Charted,Skin Care,1.0,,chartevents
+10002223,22494570.0,2158-01-16 06:01:00,Vitals / Charted,Back Care,1.0,,chartevents
+10002223,22494570.0,2158-01-16 06:01:00,Vitals / Charted,Oral Care,,,chartevents
+10002223,22494570.0,2158-01-16 06:01:00,Vitals / Charted,Oral Care,,,chartevents
+10002223,22494570.0,2158-01-16 06:01:00,Vitals / Charted,Eye Care,1.0,,chartevents
+10002223,22494570.0,2158-01-16 07:00:00,Vitals / Charted,Heart Rate,62.0,bpm,chartevents
+10002223,22494570.0,2158-01-16 07:00:00,Vitals / Charted,Heart Rhythm,,,chartevents
+10002223,22494570.0,2158-01-16 07:00:00,Vitals / Charted,Non Invasive Blood Pressure systolic,120.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 07:00:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,61.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 07:00:00,Vitals / Charted,Non Invasive Blood Pressure mean,74.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 07:00:00,Vitals / Charted,O2 saturation pulseoxymetry,98.0,%,chartevents
+10002223,22494570.0,2158-01-16 07:00:00,Vitals / Charted,Ectopy Type 1,,,chartevents
+10002223,22494570.0,2158-01-16 07:00:00,Vitals / Charted,Respiratory Rate,15.0,insp/min,chartevents
+10002223,22494570.0,2158-01-16 07:59:00,Vitals / Charted,18 Gauge Site Appear,,,chartevents
+10002223,22494570.0,2158-01-16 07:59:00,Vitals / Charted,16 Gauge Site Appear,,,chartevents
+10002223,22494570.0,2158-01-16 07:59:00,Vitals / Charted,16 Gauge placed in outside facility,1.0,,chartevents
+10002223,22494570.0,2158-01-16 07:59:00,Vitals / Charted,18 Gauge placed in outside facility,1.0,,chartevents
+10002223,22494570.0,2158-01-16 07:59:00,Vitals / Charted,16 Gauge Dressing Occlusive,1.0,,chartevents
+10002223,22494570.0,2158-01-16 07:59:00,Vitals / Charted,18 Gauge Dressing Occlusive,1.0,,chartevents
+10002223,22494570.0,2158-01-16 07:59:00,DateTime Obs,16 Gauge Insertion Date,2158-01-15 00:00:00,Date,datetimeevents
+10002223,22494570.0,2158-01-16 07:59:00,Vitals / Charted,18 Gauge placed in the field,0.0,,chartevents
+10002223,22494570.0,2158-01-16 07:59:00,DateTime Obs,18 Gauge Insertion Date,2158-01-15 00:00:00,Date,datetimeevents
+10002223,22494570.0,2158-01-16 07:59:00,Vitals / Charted,16 Gauge placed in the field,0.0,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Impaired Skin Length #2,1.0,cm,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,GU Catheter Size,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Skin Integrity,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Skin Temperature,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Skin Color,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Edema Location,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Braden Sensory Perception,4.0,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Braden Moisture,4.0,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Braden Activity,1.0,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Braden Mobility,3.0,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Braden Nutrition,2.0,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Urine Color,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Braden Friction/Shear,2.0,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Urine Appearance,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Nares L,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Side Rails,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,All Medications Tolerated without Adverse Side Effects,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Support Systems,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Support Systems,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Family Communication,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,History of falling (within 3 mnths),0.0,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Secondary diagnosis,0.0,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Ambulatory aid,0.0,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Skin Condition,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,IV/Saline lock,20.0,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Urine Source,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Abdominal Assessment,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,CT #1 Drainage,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,CT #1 Dressing,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,O2 saturation pulseoxymetry,98.0,%,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,CT #1 Crepitus,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Capillary Refill L,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Corneal Reflex Right,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Corneal Reflex Left,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Pupil Size Left,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Response,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,RUE Temp,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Bowel Sounds,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,LUE Temp,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,LLE Temp,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,CT #1 Leak,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,CT #1 Suction Type,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Level of Consciousness,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Pupil Response Right,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Pupil Response Left,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Pronator drift present,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Oral Cavity,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Nares R,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Diet Type,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,RLE Temp,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Impaired Skin Cleanse #2,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Gait/Transferring,0.0,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Surrounding Tissue #1,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Tunneling Present #1,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Impaired Skin Width #1,2.0,cm,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,CT #1 Fluctuate,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Respiratory Rate,18.0,insp/min,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Non Invasive Blood Pressure mean,80.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,63.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Non Invasive Blood Pressure systolic,128.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Heart Rate,62.0,bpm,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Impaired Skin Drainage Amount #1,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Impaired Skin Length #1,2.0,cm,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Impaired Skin  - Dressing Status #2,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Incentive Spirometry,1.0,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Cough/Deep Breath,1.0,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Anti Embolic Device Status,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Tunneling Present #2,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Surrounding Tissue #2,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Impaired Skin Wound Base #2,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Impaired Skin Width #2,1.0,cm,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Impaired Skin Type #2,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Impaired Skin Treatment #2,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Impaired Skin Site #2,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Impaired Skin  - Dressing Status #1,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Mental status,0.0,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Impaired Skin Type #1,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Impaired Skin Wound Base #1,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Impaired Skin Site #1,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Impaired Skin Cleanse #1,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Impaired Skin Treatment #1,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Education Learner,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Education Topic,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Education Topic,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Education Readiness,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Impaired Skin Drainage #1,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Education Barrier,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Education Response,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Head of Bed,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Turn,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Activity,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Assistance Device,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Activity Tolerance,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Therapeutic Bed,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Pressure Reducing Device,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Anti Embolic Device,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Position,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Education Method,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,CT #1 Suction Amount,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Respiratory Pattern,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Cough Type,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,RUL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Untoward Effect,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Pain Assessment Method,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Pain Level Acceptable,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Pain Management,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Pain Level,0.0,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Pain Cause,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Pain Location,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Pain Type,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Pain Present,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,NBP Alarm Source,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,SpO2 Desat Limit,88.0,%,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Glucose finger stick (range 70-100),90.0,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Ectopy Type 1,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Temperature Site,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Alarms On,1.0,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Parameters Checked,1.0,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Resp Alarm - Low,8.0,insp/min,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Resp Alarm - High,30.0,insp/min,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,O2 Saturation Pulseoxymetry Alarm - Low,92.0,%,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,O2 Saturation Pulseoxymetry Alarm - High,100.0,%,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Temperature Fahrenheit,97.2,°F,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Non-Invasive Blood Pressure Alarm - Low,90.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Non-Invasive Blood Pressure Alarm - High,160.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Heart Rhythm,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Heart rate Alarm - High,120.0,bpm,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Output,Foley,250.0,ml,outputevents
+10002223,22494570.0,2158-01-16 08:00:00,Output,Chest Tube #1,0.0,ml,outputevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Chest Tube Site # 1,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,RLL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,LUL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Heart Rate Alarm - Low,50.0,bpm,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Pain Level Response,0.0,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,LLE Color,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Respiratory Effort,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Cough Effort,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,LLL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,RLE Color,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,RUE Color,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Capillary Refill R,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Radial Pulse L,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,PostTib. Pulses L,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Dorsal PedPulse L,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Radial Pulse R,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,PostTib. Pulses R,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Dorsal PedPulse R,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,LL Strength/Movement,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,LUE Color,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,RL Strength/Movement,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Orientation,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,GCS - Eye Opening,4.0,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Richmond-RAS Scale,0.0,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,LU Strength/Movement,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,GCS - Verbal Response,5.0,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,GCS - Motor Response,6.0,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,O2 Delivery Device(s),,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Gag Reflex,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Cough Reflex,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Pupil Size Right,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Spontaneous Movement,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Response to Stimuli (Type),,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,RU Strength/Movement,,,chartevents
+10002223,22494570.0,2158-01-16 08:00:00,Vitals / Charted,Speech,,,chartevents
+10002223,22494570.0,2158-01-16 09:00:00,Vitals / Charted,Heart Rate,62.0,bpm,chartevents
+10002223,22494570.0,2158-01-16 09:00:00,Vitals / Charted,Heart Rhythm,,,chartevents
+10002223,22494570.0,2158-01-16 09:00:00,Vitals / Charted,Non Invasive Blood Pressure systolic,120.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 09:00:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,65.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 09:00:00,Vitals / Charted,Non Invasive Blood Pressure mean,77.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 09:00:00,Vitals / Charted,Respiratory Rate,19.0,insp/min,chartevents
+10002223,22494570.0,2158-01-16 09:00:00,Vitals / Charted,Ectopy Type 1,,,chartevents
+10002223,22494570.0,2158-01-16 09:00:00,Vitals / Charted,O2 saturation pulseoxymetry,98.0,%,chartevents
+10002223,22494570.0,2158-01-16 10:00:00,Vitals / Charted,Heart Rate,64.0,bpm,chartevents
+10002223,22494570.0,2158-01-16 10:00:00,Vitals / Charted,Pain Management,,,chartevents
+10002223,22494570.0,2158-01-16 10:00:00,Vitals / Charted,Pain Level,5.0,,chartevents
+10002223,22494570.0,2158-01-16 10:00:00,Vitals / Charted,Pain Cause,,,chartevents
+10002223,22494570.0,2158-01-16 10:00:00,Vitals / Charted,Pain Cause,,,chartevents
+10002223,22494570.0,2158-01-16 10:00:00,Vitals / Charted,Ectopy Type 1,,,chartevents
+10002223,22494570.0,2158-01-16 10:00:00,Vitals / Charted,Pain Management,,,chartevents
+10002223,22494570.0,2158-01-16 10:00:00,Output,Foley,350.0,ml,outputevents
+10002223,22494570.0,2158-01-16 10:00:00,Vitals / Charted,Pain Cause,,,chartevents
+10002223,22494570.0,2158-01-16 10:00:00,Vitals / Charted,Pain Location,,,chartevents
+10002223,22494570.0,2158-01-16 10:00:00,Vitals / Charted,Respiratory Rate,16.0,insp/min,chartevents
+10002223,22494570.0,2158-01-16 10:00:00,Vitals / Charted,Non Invasive Blood Pressure mean,75.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 10:00:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,61.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 10:00:00,Vitals / Charted,Non Invasive Blood Pressure systolic,120.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 10:00:00,Vitals / Charted,Heart Rhythm,,,chartevents
+10002223,22494570.0,2158-01-16 10:00:00,Vitals / Charted,O2 saturation pulseoxymetry,97.0,%,chartevents
+10002223,22494570.0,2158-01-16 10:00:00,Vitals / Charted,Pain Level Acceptable,,,chartevents
+10002223,22494570.0,2158-01-16 10:00:00,Vitals / Charted,Incentive Spirometry,1.0,,chartevents
+10002223,22494570.0,2158-01-16 10:00:00,Vitals / Charted,Untoward Effect,,,chartevents
+10002223,22494570.0,2158-01-16 10:00:00,Vitals / Charted,Pain Present,,,chartevents
+10002223,22494570.0,2158-01-16 10:00:00,Vitals / Charted,Pain Assessment Method,,,chartevents
+10002223,22494570.0,2158-01-16 10:00:00,Vitals / Charted,Richmond-RAS Scale,0.0,,chartevents
+10002223,22494570.0,2158-01-16 10:00:00,Vitals / Charted,Cough/Deep Breath,1.0,,chartevents
+10002223,22494570.0,2158-01-16 10:00:00,Vitals / Charted,Anti Embolic Device Status,,,chartevents
+10002223,22494570.0,2158-01-16 10:00:00,Vitals / Charted,Position,,,chartevents
+10002223,22494570.0,2158-01-16 10:00:00,Vitals / Charted,Anti Embolic Device,,,chartevents
+10002223,22494570.0,2158-01-16 10:00:00,Vitals / Charted,Pain Type,,,chartevents
+10002223,22494570.0,2158-01-16 10:00:00,Vitals / Charted,Therapeutic Bed,,,chartevents
+10002223,22494570.0,2158-01-16 10:00:00,Vitals / Charted,Activity Tolerance,,,chartevents
+10002223,22494570.0,2158-01-16 10:00:00,Vitals / Charted,Assistance Device,,,chartevents
+10002223,22494570.0,2158-01-16 10:00:00,Vitals / Charted,Activity,,,chartevents
+10002223,22494570.0,2158-01-16 10:00:00,Vitals / Charted,Head of Bed,,,chartevents
+10002223,22494570.0,2158-01-16 10:00:00,Vitals / Charted,Turn,,,chartevents
+10002223,22494570.0,2158-01-16 10:00:00,Vitals / Charted,Pressure Reducing Device,,,chartevents
+10002223,22494570.0,2158-01-16 10:48:00,Input,Hydromorphone (Dilaudid),0.5000000237487257,mg,inputevents
+10002223,22494570.0,2158-01-16 11:00:00,Vitals / Charted,Ectopy Type 1,,,chartevents
+10002223,22494570.0,2158-01-16 11:00:00,Vitals / Charted,O2 saturation pulseoxymetry,96.0,%,chartevents
+10002223,22494570.0,2158-01-16 11:00:00,Vitals / Charted,Non Invasive Blood Pressure mean,88.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 11:00:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,82.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 11:00:00,Vitals / Charted,Non Invasive Blood Pressure systolic,111.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 11:00:00,Vitals / Charted,Heart Rate,98.0,bpm,chartevents
+10002223,22494570.0,2158-01-16 11:00:00,Vitals / Charted,Respiratory Rate,17.0,insp/min,chartevents
+10002223,22494570.0,2158-01-16 11:00:00,Vitals / Charted,Heart Rhythm,,,chartevents
+10002223,22494570.0,2158-01-16 11:39:00,Input,Hydromorphone (Dilaudid),0.5000000237487257,mg,inputevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Skin Temperature,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Skin Color,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Edema Location,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Braden Sensory Perception,4.0,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,O2 Delivery Device(s),,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,GU Catheter Size,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,LLE Temp,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,RLE Temp,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,LUE Temp,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,RUE Temp,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Response,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Pupil Size Left,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Level of Consciousness,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Corneal Reflex Left,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Capillary Refill L,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Cough Type,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Cough Effort,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Respiratory Effort,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,LLL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,LUL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Corneal Reflex Right,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Braden Moisture,4.0,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Pupil Response Right,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Pupil Response Left,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Urine Color,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Urine Source,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Bowel Sounds,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Abdominal Assessment,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Diet Type,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Nares R,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Oral Cavity,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,CT #1 Crepitus,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,CT #1 Dressing,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,CT #1 Drainage,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,CT #1 Fluctuate,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,CT #1 Suction Amount,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Chest Tube Site # 1,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Richmond-RAS Scale,0.0,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Pronator drift present,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Skin Integrity,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Braden Activity,1.0,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Nares L,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Braden Nutrition,2.0,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Tunneling Present #1,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Impaired Skin Width #1,2.0,cm,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Impaired Skin Drainage Amount #1,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Impaired Skin Cleanse #2,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Impaired Skin Length #2,1.0,cm,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Impaired Skin Site #2,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Impaired Skin Treatment #2,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Impaired Skin Type #2,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Surrounding Tissue #1,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Impaired Skin Width #2,1.0,cm,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Surrounding Tissue #2,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Tunneling Present #2,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Impaired Skin  - Dressing Status #1,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Impaired Skin  - Dressing Status #2,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Head of Bed,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Turn,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Activity,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Assistance Device,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Impaired Skin Wound Base #2,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Braden Mobility,3.0,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Impaired Skin Length #1,2.0,cm,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Impaired Skin Drainage #1,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Braden Friction/Shear,2.0,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,CT #1 Leak,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,CT #1 Suction Type,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Skin Condition,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Urine Appearance,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,RLL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Side Rails,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,All Medications Tolerated without Adverse Side Effects,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Impaired Skin Type #1,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Impaired Skin Site #1,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Impaired Skin Cleanse #1,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Impaired Skin Treatment #1,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Impaired Skin Wound Base #1,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Safety Measures,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,RUL Lung Sounds,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Therapeutic Bed,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,LLE Color,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Pain Cause,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Pain Cause,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Pain Cause,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Pain Location,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Pain Type,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Pain Present,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,GCS - Eye Opening,4.0,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Ectopy Type 1,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Temperature Site,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Alarms On,1.0,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Parameters Checked,1.0,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Temperature Fahrenheit,97.6,°F,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Pain Level,5.0,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Respiratory Pattern,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Non Invasive Blood Pressure mean,69.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,53.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Non Invasive Blood Pressure systolic,116.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Heart Rhythm,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Heart Rate,94.0,bpm,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Output,Foley,250.0,ml,outputevents
+10002223,22494570.0,2158-01-16 12:00:00,Output,Chest Tube #1,50.0,ml,outputevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Activity Tolerance,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Anti Embolic Device Status,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Position,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Anti Embolic Device,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Pressure Reducing Device,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Respiratory Rate,16.0,insp/min,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Pain Management,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,O2 saturation pulseoxymetry,98.0,%,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Pain Level Acceptable,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Pain Management,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Radial Pulse L,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Capillary Refill R,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,RUE Color,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,RLE Color,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,PostTib. Pulses L,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Dorsal PedPulse L,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,LUE Color,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Radial Pulse R,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,PostTib. Pulses R,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,LL Strength/Movement,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,LU Strength/Movement,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,RL Strength/Movement,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Dorsal PedPulse R,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Response to Stimuli (Type),,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Pain Assessment Method,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Untoward Effect,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,RU Strength/Movement,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Orientation,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,GCS - Verbal Response,5.0,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,GCS - Motor Response,6.0,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,O2 Flow,1.0,L/min,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Gag Reflex,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Cough Reflex,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Pupil Size Right,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Spontaneous Movement,,,chartevents
+10002223,22494570.0,2158-01-16 12:00:00,Vitals / Charted,Speech,,,chartevents
+10002223,22494570.0,2158-01-16 12:22:00,Vitals / Charted,18 Gauge Site Appear,,,chartevents
+10002223,22494570.0,2158-01-16 12:22:00,Vitals / Charted,16 Gauge placed in the field,0.0,,chartevents
+10002223,22494570.0,2158-01-16 12:22:00,Vitals / Charted,16 Gauge Site Appear,,,chartevents
+10002223,22494570.0,2158-01-16 12:22:00,Vitals / Charted,16 Gauge placed in outside facility,1.0,,chartevents
+10002223,22494570.0,2158-01-16 12:22:00,Vitals / Charted,18 Gauge placed in outside facility,1.0,,chartevents
+10002223,22494570.0,2158-01-16 12:22:00,Vitals / Charted,16 Gauge Dressing Occlusive,1.0,,chartevents
+10002223,22494570.0,2158-01-16 12:22:00,Vitals / Charted,18 Gauge Dressing Occlusive,1.0,,chartevents
+10002223,22494570.0,2158-01-16 12:22:00,Vitals / Charted,18 Gauge placed in the field,0.0,,chartevents
+10002223,22494570.0,2158-01-16 12:22:00,DateTime Obs,18 Gauge Insertion Date,2158-01-15 00:00:00,Date,datetimeevents
+10002223,22494570.0,2158-01-16 12:22:00,DateTime Obs,16 Gauge Insertion Date,2158-01-15 00:00:00,Date,datetimeevents
+10002223,22494570.0,2158-01-16 12:29:00,Vitals / Charted,Hematocrit (serum),31.4,%,chartevents
+10002223,22494570.0,2158-01-16 12:29:00,Lab Result,Hematocrit| Blood,31.4,%,labevents
+10002223,22494570.0,2158-01-16 13:00:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,60.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 13:00:00,Vitals / Charted,Non Invasive Blood Pressure systolic,123.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 13:00:00,Vitals / Charted,Heart Rhythm,,,chartevents
+10002223,22494570.0,2158-01-16 13:00:00,Vitals / Charted,Heart Rate,90.0,bpm,chartevents
+10002223,22494570.0,2158-01-16 13:00:00,Vitals / Charted,Respiratory Rate,20.0,insp/min,chartevents
+10002223,22494570.0,2158-01-16 13:00:00,Vitals / Charted,O2 saturation pulseoxymetry,99.0,%,chartevents
+10002223,22494570.0,2158-01-16 13:00:00,Vitals / Charted,Ectopy Type 1,,,chartevents
+10002223,22494570.0,2158-01-16 13:00:00,Vitals / Charted,Non Invasive Blood Pressure mean,73.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 13:43:00,Input,Hydromorphone (Dilaudid),1.0000000474974513,mg,inputevents
+10002223,22494570.0,2158-01-16 14:00:00,Vitals / Charted,Ectopy Type 1,,,chartevents
+10002223,22494570.0,2158-01-16 14:00:00,Vitals / Charted,Heart Rhythm,,,chartevents
+10002223,22494570.0,2158-01-16 14:00:00,Vitals / Charted,Respiratory Rate,26.0,insp/min,chartevents
+10002223,22494570.0,2158-01-16 14:00:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,66.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 14:00:00,Vitals / Charted,Non Invasive Blood Pressure systolic,136.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 14:00:00,Vitals / Charted,Heart Rate,83.0,bpm,chartevents
+10002223,22494570.0,2158-01-16 14:00:00,Vitals / Charted,O2 saturation pulseoxymetry,99.0,%,chartevents
+10002223,22494570.0,2158-01-16 14:00:00,Vitals / Charted,Non Invasive Blood Pressure mean,82.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 14:00:00,Output,Foley,225.0,ml,outputevents
+10002223,22494570.0,2158-01-16 14:13:00,Input,Water,108.3333307504654,ml,ingredientevents
+10002223,22494570.0,2158-01-16 14:13:00,Input,IVF ingredient,108.3333307504654,ml,ingredientevents
+10002223,22494570.0,2158-01-16 14:13:00,Input,LR,108.3333307504654,ml,inputevents
+10002223,22494570.0,2158-01-16 15:00:00,Vitals / Charted,Heart Rate,92.0,bpm,chartevents
+10002223,22494570.0,2158-01-16 15:00:00,Vitals / Charted,Non Invasive Blood Pressure mean,80.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 15:00:00,Vitals / Charted,Heart Rhythm,,,chartevents
+10002223,22494570.0,2158-01-16 15:00:00,Vitals / Charted,Non Invasive Blood Pressure systolic,100.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 15:00:00,Vitals / Charted,Ectopy Type 1,,,chartevents
+10002223,22494570.0,2158-01-16 15:00:00,Vitals / Charted,O2 saturation pulseoxymetry,99.0,%,chartevents
+10002223,22494570.0,2158-01-16 15:00:00,Vitals / Charted,Respiratory Rate,19.0,insp/min,chartevents
+10002223,22494570.0,2158-01-16 15:00:00,Vitals / Charted,Non Invasive Blood Pressure diastolic,75.0,mmHg,chartevents
+10002223,22494570.0,2158-01-16 15:19:24,Transfer,transfer Surgery/Trauma,NaN,NaN,transfers
+10002223,22494570.0,2158-01-16 15:29:46,Transfer,transfer Surgery/Trauma,NaN,NaN,transfers
+10002223,22494570.0,2158-01-16 16:00:00,Prescription,Sodium Chloride 0.9%  Flush,3,mL,prescriptions
+10002223,22494570.0,2158-01-16 16:00:00,Pharmacy,Sodium Chloride 0.9%  Flush,,NaN,pharmacy
+10002223,22494570.0,2158-01-16 20:00:00,Prescription,Heparin,5000,UNIT,prescriptions
+10002223,22494570.0,2158-01-16 20:00:00,Pharmacy,Heparin,,NaN,pharmacy
+10002223,22494570.0,2158-01-17 05:44:00,Lab Result,MCH| Blood,30.1,pg,labevents
+10002223,22494570.0,2158-01-17 05:44:00,Lab Result,MCHC| Blood,33.9,%,labevents
+10002223,22494570.0,2158-01-17 05:44:00,Lab Result,MCV| Blood,89.0,fL,labevents
+10002223,22494570.0,2158-01-17 05:44:00,Lab Result,White Blood Cells| Blood,8.8,K/uL,labevents
+10002223,22494570.0,2158-01-17 05:44:00,Lab Result,Red Blood Cells| Blood,3.51,m/uL,labevents
+10002223,22494570.0,2158-01-17 05:44:00,Lab Result,Hemoglobin| Blood,10.6,g/dL,labevents
+10002223,22494570.0,2158-01-17 05:44:00,Lab Result,Hematocrit| Blood,31.2,%,labevents
+10002223,22494570.0,2158-01-17 05:44:00,Lab Result,Phosphate| Blood,3.4,mg/dL,labevents
+10002223,22494570.0,2158-01-17 05:44:00,Lab Result,Sodium| Blood,139.0,mEq/L,labevents
+10002223,22494570.0,2158-01-17 05:44:00,Lab Result,Anion Gap| Blood,12.0,mEq/L,labevents
+10002223,22494570.0,2158-01-17 05:44:00,Lab Result,Urea Nitrogen| Blood,10.0,mg/dL,labevents
+10002223,22494570.0,2158-01-17 05:44:00,Lab Result,"Calcium, Total| Blood",8.7,mg/dL,labevents
+10002223,22494570.0,2158-01-17 05:44:00,Lab Result,Chloride| Blood,99.0,mEq/L,labevents
+10002223,22494570.0,2158-01-17 05:44:00,Lab Result,Bicarbonate| Blood,32.0,mEq/L,labevents
+10002223,22494570.0,2158-01-17 05:44:00,Lab Result,Glucose| Blood,106.0,mg/dL,labevents
+10002223,22494570.0,2158-01-17 05:44:00,Lab Result,Magnesium| Blood,2.1,mg/dL,labevents
+10002223,22494570.0,2158-01-17 05:44:00,Lab Result,RDW| Blood,13.0,%,labevents
+10002223,22494570.0,2158-01-17 05:44:00,Lab Result,Potassium| Blood,3.7,mEq/L,labevents
+10002223,22494570.0,2158-01-17 05:44:00,Lab Result,Creatinine| Blood,0.8,mg/dL,labevents
+10002223,22494570.0,2158-01-17 05:44:00,Lab Result,Platelet Count| Blood,167.0,K/uL,labevents
+10002223,22494570.0,2158-01-17 11:00:00,Pharmacy,OxycoDONE (Immediate Release) ,,NaN,pharmacy
+10002223,22494570.0,2158-01-17 11:00:00,Prescription,OxycoDONE (Immediate Release) ,5-10,mg,prescriptions
+10002223,22494570.0,2158-01-17 13:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+10002223,22494570.0,2158-01-17 13:00:00,Prescription,Potassium Chloride,20,mEq,prescriptions
+10002223,22494570.0,2158-01-17 20:00:00,Pharmacy,Docusate Sodium,,NaN,pharmacy
+10002223,22494570.0,2158-01-17 20:00:00,Prescription,Docusate Sodium,100,mg,prescriptions
+10002223,22494570.0,2158-01-18 05:15:00,Lab Result,Anion Gap| Blood,11.0,mEq/L,labevents
+10002223,22494570.0,2158-01-18 05:15:00,Lab Result,"Calcium, Total| Blood",9.3,mg/dL,labevents
+10002223,22494570.0,2158-01-18 05:15:00,Lab Result,White Blood Cells| Blood,8.4,K/uL,labevents
+10002223,22494570.0,2158-01-18 05:15:00,Lab Result,Bicarbonate| Blood,31.0,mEq/L,labevents
+10002223,22494570.0,2158-01-18 05:15:00,Lab Result,RDW| Blood,13.4,%,labevents
+10002223,22494570.0,2158-01-18 05:15:00,Lab Result,Platelet Count| Blood,168.0,K/uL,labevents
+10002223,22494570.0,2158-01-18 05:15:00,Lab Result,MCV| Blood,88.0,fL,labevents
+10002223,22494570.0,2158-01-18 05:15:00,Lab Result,MCHC| Blood,35.8,%,labevents
+10002223,22494570.0,2158-01-18 05:15:00,Lab Result,MCH| Blood,31.3,pg,labevents
+10002223,22494570.0,2158-01-18 05:15:00,Lab Result,Hemoglobin| Blood,11.0,g/dL,labevents
+10002223,22494570.0,2158-01-18 05:15:00,Lab Result,Red Blood Cells| Blood,3.51,m/uL,labevents
+10002223,22494570.0,2158-01-18 05:15:00,Lab Result,Urea Nitrogen| Blood,5.0,mg/dL,labevents
+10002223,22494570.0,2158-01-18 05:15:00,Lab Result,Sodium| Blood,139.0,mEq/L,labevents
+10002223,22494570.0,2158-01-18 05:15:00,Lab Result,Potassium| Blood,3.8,mEq/L,labevents
+10002223,22494570.0,2158-01-18 05:15:00,Lab Result,Phosphate| Blood,3.4,mg/dL,labevents
+10002223,22494570.0,2158-01-18 05:15:00,Lab Result,Magnesium| Blood,2.0,mg/dL,labevents
+10002223,22494570.0,2158-01-18 05:15:00,Lab Result,Glucose| Blood,103.0,mg/dL,labevents
+10002223,22494570.0,2158-01-18 05:15:00,Lab Result,Creatinine| Blood,0.8,mg/dL,labevents
+10002223,22494570.0,2158-01-18 05:15:00,Lab Result,Chloride| Blood,101.0,mEq/L,labevents
+10002223,22494570.0,2158-01-18 05:15:00,Lab Result,Hematocrit| Blood,30.7,%,labevents
+10002223,22494570.0,2158-01-18 09:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+10002223,22494570.0,2158-01-18 09:00:00,Prescription,Potassium Chloride,40,mEq,prescriptions
+10002223,22494570.0,2158-01-18 09:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+10002223,22494570.0,2158-01-18 09:00:00,Prescription,Potassium Chloride,40,mEq,prescriptions
+10002223,22494570.0,2158-01-19 05:40:00,Lab Result,White Blood Cells| Blood,9.1,K/uL,labevents
+10002223,22494570.0,2158-01-19 05:40:00,Lab Result,Red Blood Cells| Blood,3.54,m/uL,labevents
+10002223,22494570.0,2158-01-19 05:40:00,Lab Result,RDW| Blood,13.6,%,labevents
+10002223,22494570.0,2158-01-19 05:40:00,Lab Result,Platelet Count| Blood,218.0,K/uL,labevents
+10002223,22494570.0,2158-01-19 05:40:00,Lab Result,Hemoglobin| Blood,10.7,g/dL,labevents
+10002223,22494570.0,2158-01-19 05:40:00,Lab Result,MCHC| Blood,33.6,%,labevents
+10002223,22494570.0,2158-01-19 05:40:00,Lab Result,MCH| Blood,30.3,pg,labevents
+10002223,22494570.0,2158-01-19 05:40:00,Lab Result,Hematocrit| Blood,32.0,%,labevents
+10002223,22494570.0,2158-01-19 05:40:00,Lab Result,MCV| Blood,90.0,fL,labevents
+10002223,22494570.0,2158-01-20 19:29:36,Transfer,discharge,NaN,NaN,transfers
