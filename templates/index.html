@@ -162,8 +162,11 @@
                         };
                     });
 
+                    const namePart = filename.replace("patient_timeline", "").replace(".csv", "");
+                    const [subject_id, hadm_id] = namePart.split("_");
+                    
                     const layout = {
-                        title: `Patient timeline for patient ${filename.split('_')[1]} admission ${filename.split('_')[2].replace('.csv', '')}`,
+                        title: `Patient timeline for patient ${subject_id} admission ${hadm_id}`,
                         xaxis: {
                             title: 'Time',
                             type: 'date',
