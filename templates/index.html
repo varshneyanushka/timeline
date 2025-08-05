@@ -163,7 +163,7 @@
                     });
 
                     const layout = {
-                        title: `Patient Timeline - ${filename}`,
+                        title: `Patient timeline for patient ${filename.split('_')[1]} admission ${filename.split('_')[2].replace('.csv', '')}`,
                         xaxis: {
                             title: 'Time',
                             type: 'date',
