@@ -1,0 +1,1236 @@
+subject_id,hadm_id,event_time,event_type,description,value,unit,source_table
+14996129,22633440.0,2181-09-01 08:00:00,Pharmacy,Bacitracin Ointment,,NaN,pharmacy
+14996129,22633440.0,2181-09-01 08:00:00,Prescription,Bacitracin Ointment,1,Appl,prescriptions
+14996129,22633440.0,2181-09-01 14:29:00,Transfer,ED Emergency Department,NaN,NaN,transfers
+14996129,22633440.0,2181-09-01 15:58:00,Admission,EW EMER.,NaN,NaN,admissions
+14996129,22633440.0,2181-09-01 15:59:00,Service,TRAUM,NaN,NaN,services
+14996129,22633440.0,2181-09-01 17:53:00,Transfer,admit Trauma SICU (TSICU),NaN,NaN,transfers
+14996129,22633440.0,2181-09-01 17:55:00,Procedure,18 Gauge,3167.0,min,procedureevents
+14996129,22633440.0,2181-09-01 17:55:00,Procedure,18 Gauge,3167.0,min,procedureevents
+14996129,22633440.0,2181-09-01 17:55:00,DateTime Obs,18 Gauge Insertion Date,2181-09-01 17:55:00,Date,datetimeevents
+14996129,22633440.0,2181-09-01 17:56:00,Procedure,18 Gauge,6244.0,min,procedureevents
+14996129,22633440.0,2181-09-01 17:56:00,DateTime Obs,18 Gauge Insertion Date,2181-09-01 17:56:00,Date,datetimeevents
+14996129,22633440.0,2181-09-01 17:56:00,Procedure,18 Gauge,6244.0,min,procedureevents
+14996129,22633440.0,2181-09-01 17:57:00,Input,IVF ingredient,1.853658467531204,ml,ingredientevents
+14996129,22633440.0,2181-09-01 17:57:00,Input,Water,1.853658467531204,ml,ingredientevents
+14996129,22633440.0,2181-09-01 17:57:00,Input,Solution,1.853658467531204,ml,inputevents
+14996129,22633440.0,2181-09-01 17:57:00,Input,Propofol,18.5365853831172,mg,inputevents
+14996129,22633440.0,2181-09-01 17:57:00,Input,Calories,2.0390242859721184,Kcal,ingredientevents
+14996129,22633440.0,2181-09-01 17:58:00,Procedure,20 Gauge,7300.0,min,procedureevents
+14996129,22633440.0,2181-09-01 17:58:00,DateTime Obs,20 Gauge Insertion Date,2181-09-01 17:58:00,Date,datetimeevents
+14996129,22633440.0,2181-09-01 17:58:00,Procedure,20 Gauge,7300.0,min,procedureevents
+14996129,22633440.0,2181-09-01 18:00:00,Medication Admin,,NaN,NaN,emar
+14996129,22633440.0,2181-09-01 18:00:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-01 18:00:00,Procedure,Invasive Ventilation,5645.0,min,procedureevents
+14996129,22633440.0,2181-09-01 18:00:00,Procedure,Invasive Ventilation,5645.0,min,procedureevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,Anion Gap| Blood,11.0,mEq/L,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,Basophils| Blood,0.1,%,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,Absolute Lymphocyte Count| Blood,0.86,K/uL,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,Urea Nitrogen| Blood,17.0,mg/dL,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,Sodium| Blood,139.0,mEq/L,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,Potassium| Blood,4.2,mEq/L,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,Phosphate| Blood,3.8,mg/dL,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,Magnesium| Blood,1.8,mg/dL,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,I| Blood,1.0,,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,H| Blood,3.0,,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,Creatinine| Blood,0.4,mg/dL,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,Creatine Kinase (CK)| Blood,68.0,IU/L,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,Chloride| Blood,102.0,mEq/L,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,"Calcium, Total| Blood",8.2,mg/dL,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,Bicarbonate| Blood,26.0,mEq/L,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,Eosinophils| Blood,0.1,%,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,Hematocrit| Blood,31.0,%,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,L| Blood,4.0,,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,Lymphocytes| Blood,6.2,%,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,PTT| Blood,28.1,sec,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,PT| Blood,12.4,sec,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,INR(PT)| Blood,1.1,,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,RDW-SD| Blood,41.1,fL,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,Immature Granulocytes| Blood,0.4,%,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,Absolute Neutrophil Count| Blood,11.6,K/uL,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,Absolute Monocyte Count| Blood,1.39,K/uL,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,Absolute Eosinophil Count| Blood,0.02,K/uL,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,Absolute Basophil Count| Blood,0.02,K/uL,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,White Blood Cells| Blood,13.9,K/uL,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,RDW| Blood,11.7,%,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,Platelet Count| Blood,175.0,K/uL,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,Neutrophils| Blood,83.2,%,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,Monocytes| Blood,10.0,%,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,MCV| Blood,96.0,fL,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,MCHC| Blood,32.3,g/dL,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,MCH| Blood,30.9,pg,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,Hemoglobin| Blood,10.0,g/dL,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,Red Blood Cells| Blood,3.24,m/uL,labevents
+14996129,22633440.0,2181-09-01 18:07:00,Lab Result,Glucose| Blood,123.0,mg/dL,labevents
+14996129,22633440.0,2181-09-01 18:15:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-01 18:15:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-01 18:15:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-01 18:18:00,Input,Water,993.2999877929688,ml,ingredientevents
+14996129,22633440.0,2181-09-01 18:18:00,Input,NaCl 0.9%,993.2999877929688,ml,inputevents
+14996129,22633440.0,2181-09-01 18:18:00,Input,IVF ingredient,993.2999877929688,ml,ingredientevents
+14996129,22633440.0,2181-09-01 18:27:00,Lab Result,pO2| Blood,57.0,mm Hg,labevents
+14996129,22633440.0,2181-09-01 18:27:00,Lab Result,Free Calcium| Blood,1.14,mmol/L,labevents
+14996129,22633440.0,2181-09-01 18:27:00,Lab Result,Lactate| Blood,1.7,mmol/L,labevents
+14996129,22633440.0,2181-09-01 18:27:00,Lab Result,pH| Blood,7.28,units,labevents
+14996129,22633440.0,2181-09-01 18:27:00,Lab Result,pCO2| Blood,55.0,mm Hg,labevents
+14996129,22633440.0,2181-09-01 18:27:00,Lab Result,Specimen Type| Blood,,,labevents
+14996129,22633440.0,2181-09-01 18:27:00,Lab Result,Base Excess| Blood,-1.0,mEq/L,labevents
+14996129,22633440.0,2181-09-01 18:27:00,Lab Result,Calculated Total CO2| Blood,27.0,mEq/L,labevents
+14996129,22633440.0,2181-09-01 18:38:00,Procedure,Portable Chest X-Ray,1.0,,procedureevents
+14996129,22633440.0,2181-09-01 18:38:00,Procedure,Portable Chest X-Ray,1.0,,procedureevents
+14996129,22633440.0,2181-09-01 18:41:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-01 18:41:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-01 18:41:00,Medication Admin,Lidocaine Jelly 2% (Glydo),NaN,NaN,emar
+14996129,22633440.0,2181-09-01 18:45:00,Procedure,Surgical Procedure at Bedside,1.0,,procedureevents
+14996129,22633440.0,2181-09-01 18:45:00,Procedure,Surgical Procedure at Bedside,1.0,,procedureevents
+14996129,22633440.0,2181-09-01 18:47:00,Lab Result,Specimen Type| Blood,,,labevents
+14996129,22633440.0,2181-09-01 18:47:00,Lab Result,pO2| Blood,156.0,mm Hg,labevents
+14996129,22633440.0,2181-09-01 18:47:00,Lab Result,pH| Blood,7.37,units,labevents
+14996129,22633440.0,2181-09-01 18:47:00,Lab Result,pCO2| Blood,47.0,mm Hg,labevents
+14996129,22633440.0,2181-09-01 18:47:00,Lab Result,Base Excess| Blood,1.0,mEq/L,labevents
+14996129,22633440.0,2181-09-01 18:47:00,Lab Result,Calculated Total CO2| Blood,28.0,mEq/L,labevents
+14996129,22633440.0,2181-09-01 19:00:00,Prescription,Sodium Chloride 0.9%  Flush,3-10,mL,prescriptions
+14996129,22633440.0,2181-09-01 19:00:00,Prescription,Mouth Care Oral Rinse,15,mL,prescriptions
+14996129,22633440.0,2181-09-01 19:00:00,Pharmacy,Lidocaine Jelly 2% (Glydo),,NaN,pharmacy
+14996129,22633440.0,2181-09-01 19:00:00,Prescription,Lactated Ringers,1000,mL,prescriptions
+14996129,22633440.0,2181-09-01 19:00:00,Pharmacy,,,NaN,pharmacy
+14996129,22633440.0,2181-09-01 19:00:00,Prescription,Lidocaine Jelly 2% (Glydo),1,Appl,prescriptions
+14996129,22633440.0,2181-09-01 19:00:00,Pharmacy,Sodium Chloride 0.9%  Flush,,NaN,pharmacy
+14996129,22633440.0,2181-09-01 19:00:00,Pharmacy,Mouth Care Oral Rinse,,NaN,pharmacy
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,Magnesium Sulfate,2,gm,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,Acetaminophen IV,1000,mg,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Medication Admin,Propofol,NaN,NaN,emar
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,SW,600,mL,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,Potassium Chloride,60,mEq,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,Potassium Chloride,60,mEq,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,Iso-Osmotic Dextrose,50,mL,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,Potassium Chloride,40,mEq,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,CeFAZolin,2,g,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,SW,400,mL,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,Propofol,1000,mg,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,Bag,1,BAG,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,SW,600,mL,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Pharmacy,Sodium Chloride 0.9%  Flush,,NaN,pharmacy
+14996129,22633440.0,2181-09-01 20:00:00,Pharmacy,Calcium Gluconate sliding scale (Critical Care-Ionized calcium),,NaN,pharmacy
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,Propofol,200,mg,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,Vial,4,VIAL,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,Calcium Gluconate,4,g,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,Sodium Chloride 0.9%  Flush,3-10,mL,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,Bag,1,BAG,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,Magnesium Sulfate,2,gm,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,Sodium Chloride 0.9%  Flush,3-10,mL,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,0.9% Sodium Chloride,100,mL,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,LevETIRAcetam,500,mg,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,Vial,0,VIAL,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,Glucose Gel,15,g,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,Calcium Gluconate,0,g,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,Famotidine,20,mg,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,Glucagon,1,mg,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,Insulin,0,UNIT,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,Dextrose 50%,12.5,gm,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,0.9% Sodium Chloride,250,mL,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,Sodium Phosphate,15,mmol,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,SW,200,mL,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,Potassium Chloride,20,mEq,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,Calcium Gluconate sliding scale (Critical Care-Ionized calcium),2,g,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,Sodium Chloride 0.9%,1000,mL,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,Bag,2,BAG,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,Iso-Osmotic Sodium Chloride,1,BAG,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Pharmacy,Magnesium Sulfate Replacement (Critical Care and Oncology),,NaN,pharmacy
+14996129,22633440.0,2181-09-01 20:00:00,Pharmacy,Glucagon,,NaN,pharmacy
+14996129,22633440.0,2181-09-01 20:00:00,Pharmacy,Famotidine,,NaN,pharmacy
+14996129,22633440.0,2181-09-01 20:00:00,Pharmacy,,,NaN,pharmacy
+14996129,22633440.0,2181-09-01 20:00:00,Pharmacy,CeFAZolin,,NaN,pharmacy
+14996129,22633440.0,2181-09-01 20:00:00,Pharmacy,Sodium Chloride 0.9%  Flush,,NaN,pharmacy
+14996129,22633440.0,2181-09-01 20:00:00,Pharmacy,LevETIRAcetam,,NaN,pharmacy
+14996129,22633440.0,2181-09-01 20:00:00,Pharmacy,Calcium Gluconate sliding scale (Critical Care-Ionized calcium),,NaN,pharmacy
+14996129,22633440.0,2181-09-01 20:00:00,Pharmacy,Potassium Chloride Replacement (Critical Care and Oncology),,NaN,pharmacy
+14996129,22633440.0,2181-09-01 20:00:00,Pharmacy,Calcium Gluconate sliding scale (Critical Care-Ionized calcium),,NaN,pharmacy
+14996129,22633440.0,2181-09-01 20:00:00,Pharmacy,Propofol,,NaN,pharmacy
+14996129,22633440.0,2181-09-01 20:00:00,Pharmacy,Glucose Gel,,NaN,pharmacy
+14996129,22633440.0,2181-09-01 20:00:00,Pharmacy,Magnesium Sulfate Replacement (Critical Care and Oncology),,NaN,pharmacy
+14996129,22633440.0,2181-09-01 20:00:00,Pharmacy,Acetaminophen IV,,NaN,pharmacy
+14996129,22633440.0,2181-09-01 20:00:00,Pharmacy,Potassium Chloride Replacement (Critical Care and Oncology),,NaN,pharmacy
+14996129,22633440.0,2181-09-01 20:00:00,Pharmacy,Potassium Chloride Replacement (Critical Care and Oncology),,NaN,pharmacy
+14996129,22633440.0,2181-09-01 20:00:00,Pharmacy,Potassium Chloride Replacement (Critical Care and Oncology),,NaN,pharmacy
+14996129,22633440.0,2181-09-01 20:00:00,Prescription,Magnesium Sulfate,4,gm,prescriptions
+14996129,22633440.0,2181-09-01 20:00:00,Pharmacy,Sodium Phosphate,,NaN,pharmacy
+14996129,22633440.0,2181-09-01 20:00:00,Pharmacy,Propofol,,NaN,pharmacy
+14996129,22633440.0,2181-09-01 20:00:00,Pharmacy,Magnesium Sulfate Replacement (Critical Care and Oncology),,NaN,pharmacy
+14996129,22633440.0,2181-09-01 20:00:00,Pharmacy,Dextrose 50%,,NaN,pharmacy
+14996129,22633440.0,2181-09-01 20:00:00,Pharmacy,Insulin,,NaN,pharmacy
+14996129,22633440.0,2181-09-01 20:16:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-01 20:16:00,Medication Admin,Insulin,NaN,NaN,emar
+14996129,22633440.0,2181-09-01 20:16:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-01 20:16:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-01 20:16:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-01 20:16:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-01 20:16:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-01 20:16:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-01 20:16:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-01 20:16:00,Medication Admin,,NaN,NaN,emar
+14996129,22633440.0,2181-09-01 20:16:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-01 20:17:00,Lab Result,Urobilinogen| Urine,2.0,mg/dL,labevents
+14996129,22633440.0,2181-09-01 20:17:00,Lab Result,Urine Mucous| Urine,,/hpf,labevents
+14996129,22633440.0,2181-09-01 20:17:00,Lab Result,Blood| Urine,,,labevents
+14996129,22633440.0,2181-09-01 20:17:00,Lab Result,Urine Color| Urine,,,labevents
+14996129,22633440.0,2181-09-01 20:17:00,Lab Result,Urine Appearance| Urine,,,labevents
+14996129,22633440.0,2181-09-01 20:17:00,Lab Result,Specific Gravity| Urine,, ,labevents
+14996129,22633440.0,2181-09-01 20:17:00,Lab Result,RBC| Urine,,#/hpf,labevents
+14996129,22633440.0,2181-09-01 20:17:00,Lab Result,Nitrite| Urine,,,labevents
+14996129,22633440.0,2181-09-01 20:17:00,Lab Result,Bacteria| Urine,,/hpf,labevents
+14996129,22633440.0,2181-09-01 20:17:00,Lab Result,Bilirubin| Urine,,,labevents
+14996129,22633440.0,2181-09-01 20:17:00,Lab Result,Epithelial Cells| Urine,0.0,#/hpf,labevents
+14996129,22633440.0,2181-09-01 20:17:00,Lab Result,Glucose| Urine,,mg/dL,labevents
+14996129,22633440.0,2181-09-01 20:17:00,Lab Result,Ketone| Urine,10.0,mg/dL,labevents
+14996129,22633440.0,2181-09-01 20:17:00,Lab Result,Leukocytes| Urine,,,labevents
+14996129,22633440.0,2181-09-01 20:17:00,Lab Result,pH| Urine,6.5,units,labevents
+14996129,22633440.0,2181-09-01 20:17:00,Lab Result,Protein| Urine,30.0,mg/dL,labevents
+14996129,22633440.0,2181-09-01 20:17:00,Lab Result,Yeast| Urine,,/hpf,labevents
+14996129,22633440.0,2181-09-01 20:17:00,Lab Result,WBC| Urine,,#/hpf,labevents
+14996129,22633440.0,2181-09-01 20:18:00,Output,Foley,550.0,ml,outputevents
+14996129,22633440.0,2181-09-01 20:19:00,Procedure,Foley Catheter,7300.0,min,procedureevents
+14996129,22633440.0,2181-09-01 20:19:00,Procedure,Foley Catheter,7300.0,min,procedureevents
+14996129,22633440.0,2181-09-01 20:20:00,Procedure,EEG (Continuous),6756.0,min,procedureevents
+14996129,22633440.0,2181-09-01 20:20:00,Procedure,Urine Culture,1.0,,procedureevents
+14996129,22633440.0,2181-09-01 20:20:00,Procedure,EEG (Continuous),6756.0,min,procedureevents
+14996129,22633440.0,2181-09-01 20:20:00,Procedure,Urine Culture,1.0,,procedureevents
+14996129,22633440.0,2181-09-01 20:27:00,Medication Admin,Famotidine,NaN,NaN,emar
+14996129,22633440.0,2181-09-01 20:27:00,Medication Admin,Mouth Care Oral Rinse,NaN,NaN,emar
+14996129,22633440.0,2181-09-01 20:27:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-01 20:27:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-01 20:27:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-01 20:27:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-01 20:34:00,Input,Famotidine (Pepcid),1.0,dose,inputevents
+14996129,22633440.0,2181-09-01 20:34:00,Input,Solution,50.0,ml,inputevents
+14996129,22633440.0,2181-09-01 20:34:00,Input,Water,50.0,ml,ingredientevents
+14996129,22633440.0,2181-09-01 20:34:00,Input,IVF ingredient,50.0,ml,ingredientevents
+14996129,22633440.0,2181-09-01 20:50:00,Input,Solution,99.9999976158142,ml,inputevents
+14996129,22633440.0,2181-09-01 20:50:00,Input,IVF ingredient,99.9999976158142,ml,ingredientevents
+14996129,22633440.0,2181-09-01 20:50:00,Input,Water,99.9999976158142,ml,ingredientevents
+14996129,22633440.0,2181-09-01 20:50:00,Input,Acetaminophen-IV,1000.0000521540642,mg,inputevents
+14996129,22633440.0,2181-09-01 20:58:00,DateTime Obs,18 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-01 20:58:00,DateTime Obs,20 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-01 22:00:00,Output,Foley,150.0,ml,outputevents
+14996129,22633440.0,2181-09-01 22:00:00,Pharmacy,Pantoprazole,,NaN,pharmacy
+14996129,22633440.0,2181-09-01 22:00:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-01 22:00:00,Prescription,Pantoprazole,40,mg,prescriptions
+14996129,22633440.0,2181-09-01 22:00:00,Medication Admin,Insulin,NaN,NaN,emar
+14996129,22633440.0,2181-09-01 22:00:00,Prescription,Vial,1,VIAL,prescriptions
+14996129,22633440.0,2181-09-01 22:11:00,Input,NaCl 0.9%,500.0,ml,inputevents
+14996129,22633440.0,2181-09-01 22:11:00,Input,IVF ingredient,500.0,ml,ingredientevents
+14996129,22633440.0,2181-09-01 22:11:00,Input,Water,500.0,ml,ingredientevents
+14996129,22633440.0,2181-09-01 22:12:00,Medication Admin,,NaN,NaN,emar
+14996129,22633440.0,2181-09-01 22:12:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-01 22:12:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-01 22:14:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-01 22:14:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-01 22:14:00,Medication Admin,Bacitracin Ointment,NaN,NaN,emar
+14996129,22633440.0,2181-09-01 23:00:00,Output,Foley,75.0,ml,outputevents
+14996129,22633440.0,2181-09-01 23:00:00,Pharmacy,,,NaN,pharmacy
+14996129,22633440.0,2181-09-01 23:00:00,Prescription,Sodium Chloride 0.9%,1000,mL,prescriptions
+14996129,22633440.0,2181-09-01 23:01:00,Lab Result,Base Excess| Blood,0.0,mEq/L,labevents
+14996129,22633440.0,2181-09-01 23:01:00,Lab Result,pO2| Blood,204.0,mm Hg,labevents
+14996129,22633440.0,2181-09-01 23:01:00,Lab Result,pCO2| Blood,34.0,mm Hg,labevents
+14996129,22633440.0,2181-09-01 23:01:00,Lab Result,pH| Blood,7.43,units,labevents
+14996129,22633440.0,2181-09-01 23:01:00,Lab Result,Specimen Type| Blood,,,labevents
+14996129,22633440.0,2181-09-01 23:01:00,Lab Result,Calculated Total CO2| Blood,23.0,mEq/L,labevents
+14996129,22633440.0,2181-09-02 00:00:00,Output,Foley,75.0,ml,outputevents
+14996129,22633440.0,2181-09-02 00:00:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 00:00:00,Medication Admin,CeFAZolin,NaN,NaN,emar
+14996129,22633440.0,2181-09-02 00:00:00,DateTime Obs,Foley Cath Insertion Date,2181-09-01 00:20:00,Date,datetimeevents
+14996129,22633440.0,2181-09-02 00:00:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 00:32:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 00:32:00,Medication Admin,,NaN,NaN,emar
+14996129,22633440.0,2181-09-02 00:32:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 00:59:00,Lab Result,INR(PT)| Blood,1.1,,labevents
+14996129,22633440.0,2181-09-02 00:59:00,Lab Result,Red Blood Cells| Blood,3.33,m/uL,labevents
+14996129,22633440.0,2181-09-02 00:59:00,Lab Result,RDW-SD| Blood,41.9,fL,labevents
+14996129,22633440.0,2181-09-02 00:59:00,Lab Result,Platelet Count| Blood,177.0,K/uL,labevents
+14996129,22633440.0,2181-09-02 00:59:00,Lab Result,Phosphate| Blood,3.3,mg/dL,labevents
+14996129,22633440.0,2181-09-02 00:59:00,Lab Result,PT| Blood,12.1,sec,labevents
+14996129,22633440.0,2181-09-02 00:59:00,Lab Result,PTT| Blood,26.6,sec,labevents
+14996129,22633440.0,2181-09-02 00:59:00,Lab Result,Sodium| Blood,140.0,mEq/L,labevents
+14996129,22633440.0,2181-09-02 00:59:00,Lab Result,Magnesium| Blood,1.8,mg/dL,labevents
+14996129,22633440.0,2181-09-02 00:59:00,Lab Result,Thyroid Stimulating Hormone| Blood,,uIU/mL,labevents
+14996129,22633440.0,2181-09-02 00:59:00,Lab Result,Thyroxine (T4)| Blood,10.0,ug/dL,labevents
+14996129,22633440.0,2181-09-02 00:59:00,Lab Result,Triiodothyronine (T3)| Blood,138.0,ng/dL,labevents
+14996129,22633440.0,2181-09-02 00:59:00,Lab Result,Urea Nitrogen| Blood,15.0,mg/dL,labevents
+14996129,22633440.0,2181-09-02 00:59:00,Lab Result,L| Blood,15.0,,labevents
+14996129,22633440.0,2181-09-02 00:59:00,Lab Result,Hematocrit| Blood,32.1,%,labevents
+14996129,22633440.0,2181-09-02 00:59:00,Lab Result,Hemoglobin| Blood,10.5,g/dL,labevents
+14996129,22633440.0,2181-09-02 00:59:00,Lab Result,MCH| Blood,31.5,pg,labevents
+14996129,22633440.0,2181-09-02 00:59:00,Lab Result,MCHC| Blood,32.7,g/dL,labevents
+14996129,22633440.0,2181-09-02 00:59:00,Lab Result,MCV| Blood,96.0,fL,labevents
+14996129,22633440.0,2181-09-02 00:59:00,Lab Result,Potassium| Blood,4.2,mEq/L,labevents
+14996129,22633440.0,2181-09-02 00:59:00,Lab Result,I| Blood,1.0,,labevents
+14996129,22633440.0,2181-09-02 00:59:00,Lab Result,RDW| Blood,11.9,%,labevents
+14996129,22633440.0,2181-09-02 00:59:00,Lab Result,H| Blood,75.0,,labevents
+14996129,22633440.0,2181-09-02 00:59:00,Lab Result,White Blood Cells| Blood,10.8,K/uL,labevents
+14996129,22633440.0,2181-09-02 00:59:00,Lab Result,"Bilirubin, Total| Blood",0.9,mg/dL,labevents
+14996129,22633440.0,2181-09-02 00:59:00,Lab Result,Bicarbonate| Blood,22.0,mEq/L,labevents
+14996129,22633440.0,2181-09-02 00:59:00,Lab Result,Anion Gap| Blood,13.0,mEq/L,labevents
+14996129,22633440.0,2181-09-02 00:59:00,Lab Result,Chloride| Blood,105.0,mEq/L,labevents
+14996129,22633440.0,2181-09-02 00:59:00,Lab Result,"Calcium, Total| Blood",8.3,mg/dL,labevents
+14996129,22633440.0,2181-09-02 00:59:00,Lab Result,Creatine Kinase (CK)| Blood,187.0,IU/L,labevents
+14996129,22633440.0,2181-09-02 00:59:00,Lab Result,Albumin| Blood,3.0,g/dL,labevents
+14996129,22633440.0,2181-09-02 00:59:00,Lab Result,Creatinine| Blood,0.5,mg/dL,labevents
+14996129,22633440.0,2181-09-02 00:59:00,Lab Result,Alanine Aminotransferase (ALT)| Blood,10.0,IU/L,labevents
+14996129,22633440.0,2181-09-02 00:59:00,Lab Result,Glucose| Blood,91.0,mg/dL,labevents
+14996129,22633440.0,2181-09-02 00:59:00,Lab Result,Alkaline Phosphatase| Blood,72.0,IU/L,labevents
+14996129,22633440.0,2181-09-02 00:59:00,Lab Result,Asparate Aminotransferase (AST)| Blood,26.0,IU/L,labevents
+14996129,22633440.0,2181-09-02 01:00:00,Output,Foley,55.0,ml,outputevents
+14996129,22633440.0,2181-09-02 01:11:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 01:11:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 01:11:00,Medication Admin,,NaN,NaN,emar
+14996129,22633440.0,2181-09-02 01:11:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 01:11:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-02 01:11:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-02 01:11:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-02 01:11:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 01:11:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 01:11:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 01:11:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 01:11:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 01:14:00,Input,Calories,8.5,Kcal,ingredientevents
+14996129,22633440.0,2181-09-02 01:14:00,Input,IVF ingredient,50.0,ml,ingredientevents
+14996129,22633440.0,2181-09-02 01:14:00,Input,Cefazolin,1.0,dose,inputevents
+14996129,22633440.0,2181-09-02 01:14:00,Input,Water,50.0,ml,ingredientevents
+14996129,22633440.0,2181-09-02 01:14:00,Input,Dextrose 5%,50.0,ml,inputevents
+14996129,22633440.0,2181-09-02 02:00:00,Output,Foley,40.0,ml,outputevents
+14996129,22633440.0,2181-09-02 02:22:00,Input,Magnesium Sulfate,2.0000001043081284,grams,inputevents
+14996129,22633440.0,2181-09-02 02:22:00,Input,NaCl 0.9%,49.999998807907104,ml,inputevents
+14996129,22633440.0,2181-09-02 02:22:00,Input,IVF ingredient,49.999998807907104,ml,ingredientevents
+14996129,22633440.0,2181-09-02 02:22:00,Input,Water,49.999998807907104,ml,ingredientevents
+14996129,22633440.0,2181-09-02 02:24:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 02:24:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 02:24:00,Medication Admin,Insulin,NaN,NaN,emar
+14996129,22633440.0,2181-09-02 02:24:00,Medication Admin,Magnesium Sulfate Replacement (Critical Care and Oncology),NaN,NaN,emar
+14996129,22633440.0,2181-09-02 02:24:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 03:00:00,Output,Foley,25.0,ml,outputevents
+14996129,22633440.0,2181-09-02 04:00:00,DateTime Obs,Foley Cath Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-02 04:00:00,Output,Foley,40.0,ml,outputevents
+14996129,22633440.0,2181-09-02 04:14:00,Input,Water,994.9999762773514,ml,ingredientevents
+14996129,22633440.0,2181-09-02 04:14:00,Input,NaCl 0.9%,994.9999762773514,ml,inputevents
+14996129,22633440.0,2181-09-02 04:14:00,Input,IVF ingredient,994.9999762773514,ml,ingredientevents
+14996129,22633440.0,2181-09-02 04:18:00,DateTime Obs,20 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-02 04:18:00,DateTime Obs,18 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-02 05:00:00,Output,Foley,40.0,ml,outputevents
+14996129,22633440.0,2181-09-02 05:55:00,Procedure,Portable Chest X-Ray,1.0,,procedureevents
+14996129,22633440.0,2181-09-02 05:55:00,Procedure,Portable Chest X-Ray,1.0,,procedureevents
+14996129,22633440.0,2181-09-02 06:00:00,Output,Foley,25.0,ml,outputevents
+14996129,22633440.0,2181-09-02 07:00:00,Output,Foley,20.0,ml,outputevents
+14996129,22633440.0,2181-09-02 07:05:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 07:05:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 07:05:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 07:05:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 07:05:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 07:05:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 07:05:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 07:05:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 07:05:00,Medication Admin,LevETIRAcetam,NaN,NaN,emar
+14996129,22633440.0,2181-09-02 07:05:00,Medication Admin,Acetaminophen IV,NaN,NaN,emar
+14996129,22633440.0,2181-09-02 07:05:00,Medication Admin,Mouth Care Oral Rinse,NaN,NaN,emar
+14996129,22633440.0,2181-09-02 07:05:00,Medication Admin,CeFAZolin,NaN,NaN,emar
+14996129,22633440.0,2181-09-02 07:07:00,Input,Water,99.9999976158142,ml,ingredientevents
+14996129,22633440.0,2181-09-02 07:07:00,Input,IVF ingredient,99.9999976158142,ml,ingredientevents
+14996129,22633440.0,2181-09-02 07:07:00,Input,NaCl 0.9%,99.9999976158142,ml,inputevents
+14996129,22633440.0,2181-09-02 07:07:00,Input,Levetiracetam (Keppra),500.0000260770321,mg,inputevents
+14996129,22633440.0,2181-09-02 07:09:00,DateTime Obs,20 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-02 07:09:00,DateTime Obs,18 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-02 07:21:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 07:21:00,Medication Admin,Pantoprazole,NaN,NaN,emar
+14996129,22633440.0,2181-09-02 07:21:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 07:22:00,Input,IVF ingredient,10.0,ml,ingredientevents
+14996129,22633440.0,2181-09-02 07:22:00,Input,Water,10.0,ml,ingredientevents
+14996129,22633440.0,2181-09-02 07:22:00,Input,Pantoprazole (Protonix),1.0,dose,inputevents
+14996129,22633440.0,2181-09-02 07:22:00,Input,Solution,10.0,ml,inputevents
+14996129,22633440.0,2181-09-02 07:24:00,Input,Acetaminophen-IV,1000.0000521540642,mg,inputevents
+14996129,22633440.0,2181-09-02 07:24:00,Input,Solution,99.9999976158142,ml,inputevents
+14996129,22633440.0,2181-09-02 07:24:00,Input,Water,99.9999976158142,ml,ingredientevents
+14996129,22633440.0,2181-09-02 07:24:00,Input,IVF ingredient,99.9999976158142,ml,ingredientevents
+14996129,22633440.0,2181-09-02 07:37:00,Input,Cefazolin,1.0,dose,inputevents
+14996129,22633440.0,2181-09-02 07:37:00,Input,Dextrose 5%,50.0,ml,inputevents
+14996129,22633440.0,2181-09-02 07:37:00,Input,Water,50.0,ml,ingredientevents
+14996129,22633440.0,2181-09-02 07:37:00,Input,Calories,8.5,Kcal,ingredientevents
+14996129,22633440.0,2181-09-02 07:37:00,Input,IVF ingredient,50.0,ml,ingredientevents
+14996129,22633440.0,2181-09-02 07:45:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 07:45:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 07:45:00,Medication Admin,Insulin,NaN,NaN,emar
+14996129,22633440.0,2181-09-02 07:45:00,Medication Admin,Bacitracin Ointment,NaN,NaN,emar
+14996129,22633440.0,2181-09-02 07:45:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 08:00:00,Output,Foley,20.0,ml,outputevents
+14996129,22633440.0,2181-09-02 08:00:00,Medication Admin,Erythromycin 0.5% Ophth Oint,NaN,NaN,emar
+14996129,22633440.0,2181-09-02 08:00:00,DateTime Obs,Foley Cath Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-02 08:00:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 09:00:00,Prescription,Insulin,0,UNIT,prescriptions
+14996129,22633440.0,2181-09-02 09:00:00,Pharmacy,Insulin,,NaN,pharmacy
+14996129,22633440.0,2181-09-02 09:00:00,Output,Foley,20.0,ml,outputevents
+14996129,22633440.0,2181-09-02 10:00:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 10:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-02 10:00:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 10:00:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 10:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-02 10:00:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 10:00:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 10:00:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 10:00:00,Prescription,Erythromycin 0.5% Ophth Oint,0.5,in,prescriptions
+14996129,22633440.0,2181-09-02 10:00:00,Pharmacy,Erythromycin 0.5% Ophth Oint,,NaN,pharmacy
+14996129,22633440.0,2181-09-02 10:00:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 10:00:00,Output,Foley,25.0,ml,outputevents
+14996129,22633440.0,2181-09-02 10:00:00,Medication Admin,,NaN,NaN,emar
+14996129,22633440.0,2181-09-02 10:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-02 10:00:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 11:00:00,Output,Foley,20.0,ml,outputevents
+14996129,22633440.0,2181-09-02 12:00:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 12:00:00,Output,Foley,20.0,ml,outputevents
+14996129,22633440.0,2181-09-02 12:00:00,Medication Admin,Erythromycin 0.5% Ophth Oint,NaN,NaN,emar
+14996129,22633440.0,2181-09-02 12:53:00,DateTime Obs,20 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-02 12:53:00,DateTime Obs,18 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-02 13:00:00,Output,Foley,20.0,ml,outputevents
+14996129,22633440.0,2181-09-02 14:00:00,Output,Foley,60.0,ml,outputevents
+14996129,22633440.0,2181-09-02 14:00:00,Medication Admin,Insulin,NaN,NaN,emar
+14996129,22633440.0,2181-09-02 14:00:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 14:11:00,Input,NaCl 0.9%,1000.0000219345092,ml,inputevents
+14996129,22633440.0,2181-09-02 14:11:00,Input,IVF ingredient,1000.0000219345092,ml,ingredientevents
+14996129,22633440.0,2181-09-02 14:11:00,Input,Water,1000.0000219345092,ml,ingredientevents
+14996129,22633440.0,2181-09-02 15:00:00,Output,Foley,30.0,ml,outputevents
+14996129,22633440.0,2181-09-02 16:00:00,Medication Admin,Erythromycin 0.5% Ophth Oint,NaN,NaN,emar
+14996129,22633440.0,2181-09-02 16:00:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 16:00:00,DateTime Obs,Foley Cath Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-02 16:00:00,Output,Foley,30.0,ml,outputevents
+14996129,22633440.0,2181-09-02 16:18:00,Medication Admin,CeFAZolin,NaN,NaN,emar
+14996129,22633440.0,2181-09-02 16:18:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 16:18:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 16:32:00,Lab Result,Base Excess| Blood,-3.0,mEq/L,labevents
+14996129,22633440.0,2181-09-02 16:32:00,Lab Result,Calculated Total CO2| Blood,22.0,mEq/L,labevents
+14996129,22633440.0,2181-09-02 16:32:00,Lab Result,pCO2| Blood,36.0,mm Hg,labevents
+14996129,22633440.0,2181-09-02 16:32:00,Lab Result,pH| Blood,7.37,units,labevents
+14996129,22633440.0,2181-09-02 16:32:00,Lab Result,pO2| Blood,118.0,mm Hg,labevents
+14996129,22633440.0,2181-09-02 16:32:00,Lab Result,Specimen Type| Blood,,,labevents
+14996129,22633440.0,2181-09-02 17:00:00,Output,Foley,30.0,ml,outputevents
+14996129,22633440.0,2181-09-02 18:00:00,Output,Foley,30.0,ml,outputevents
+14996129,22633440.0,2181-09-02 18:10:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 18:10:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 18:10:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 18:10:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 18:10:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-02 18:10:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 18:10:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 18:10:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-02 18:10:00,Medication Admin,,NaN,NaN,emar
+14996129,22633440.0,2181-09-02 18:10:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 18:10:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 18:10:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-02 19:45:00,Medication Admin,Insulin,NaN,NaN,emar
+14996129,22633440.0,2181-09-02 19:45:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 19:52:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 19:52:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 19:52:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 19:52:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 19:52:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 19:52:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 19:52:00,Medication Admin,Mouth Care Oral Rinse,NaN,NaN,emar
+14996129,22633440.0,2181-09-02 19:52:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 19:52:00,Medication Admin,Bacitracin Ointment,NaN,NaN,emar
+14996129,22633440.0,2181-09-02 19:52:00,Medication Admin,Pantoprazole,NaN,NaN,emar
+14996129,22633440.0,2181-09-02 19:52:00,Medication Admin,LevETIRAcetam,NaN,NaN,emar
+14996129,22633440.0,2181-09-02 19:52:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 20:00:00,Output,Foley,80.0,ml,outputevents
+14996129,22633440.0,2181-09-02 20:04:00,Input,IVF ingredient,99.9999976158142,ml,ingredientevents
+14996129,22633440.0,2181-09-02 20:04:00,Input,Piggyback,99.9999976158142,ml,inputevents
+14996129,22633440.0,2181-09-02 20:04:00,Input,Water,99.9999976158142,ml,ingredientevents
+14996129,22633440.0,2181-09-02 20:07:00,DateTime Obs,Foley Cath Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-02 20:09:00,DateTime Obs,18 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-02 20:09:00,DateTime Obs,20 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-02 20:57:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 20:57:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-02 20:57:00,Medication Admin,Erythromycin 0.5% Ophth Oint,NaN,NaN,emar
+14996129,22633440.0,2181-09-02 21:00:00,Output,Foley,30.0,ml,outputevents
+14996129,22633440.0,2181-09-02 22:00:00,Output,Foley,30.0,ml,outputevents
+14996129,22633440.0,2181-09-02 23:00:00,Output,Foley,35.0,ml,outputevents
+14996129,22633440.0,2181-09-03 00:00:00,Output,Foley,40.0,ml,outputevents
+14996129,22633440.0,2181-09-03 00:05:00,Input,NaCl 0.9%,996.7000052928925,ml,inputevents
+14996129,22633440.0,2181-09-03 00:05:00,Input,Water,996.7000052928925,ml,ingredientevents
+14996129,22633440.0,2181-09-03 00:05:00,Input,IVF ingredient,996.7000052928925,ml,ingredientevents
+14996129,22633440.0,2181-09-03 00:20:00,Medication Admin,CeFAZolin,NaN,NaN,emar
+14996129,22633440.0,2181-09-03 00:20:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 00:20:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 00:35:00,Input,Water,50.0,ml,ingredientevents
+14996129,22633440.0,2181-09-03 00:35:00,Input,Calories,8.5,Kcal,ingredientevents
+14996129,22633440.0,2181-09-03 00:35:00,Input,IVF ingredient,50.0,ml,ingredientevents
+14996129,22633440.0,2181-09-03 00:35:00,Input,Cefazolin,1.0,dose,inputevents
+14996129,22633440.0,2181-09-03 00:35:00,Input,Dextrose 5%,50.0,ml,inputevents
+14996129,22633440.0,2181-09-03 00:37:00,DateTime Obs,Foley Cath Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-03 01:00:00,Output,Foley,30.0,ml,outputevents
+14996129,22633440.0,2181-09-03 02:00:00,Output,Foley,35.0,ml,outputevents
+14996129,22633440.0,2181-09-03 02:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-03 02:00:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 02:20:00,Lab Result,PTT| Blood,27.8,sec,labevents
+14996129,22633440.0,2181-09-03 02:20:00,Lab Result,PT| Blood,12.6,sec,labevents
+14996129,22633440.0,2181-09-03 02:20:00,Lab Result,Hematocrit| Blood,28.4,%,labevents
+14996129,22633440.0,2181-09-03 02:20:00,Lab Result,"Fibrinogen, Functional| Blood",399.0,mg/dL,labevents
+14996129,22633440.0,2181-09-03 02:20:00,Lab Result,L| Blood,5.0,,labevents
+14996129,22633440.0,2181-09-03 02:20:00,Lab Result,Hemoglobin| Blood,9.3,g/dL,labevents
+14996129,22633440.0,2181-09-03 02:20:00,Lab Result,MCH| Blood,31.8,pg,labevents
+14996129,22633440.0,2181-09-03 02:20:00,Lab Result,MCHC| Blood,32.7,g/dL,labevents
+14996129,22633440.0,2181-09-03 02:20:00,Lab Result,MCV| Blood,97.0,fL,labevents
+14996129,22633440.0,2181-09-03 02:20:00,Lab Result,Platelet Count| Blood,169.0,K/uL,labevents
+14996129,22633440.0,2181-09-03 02:20:00,Lab Result,RDW| Blood,12.1,%,labevents
+14996129,22633440.0,2181-09-03 02:20:00,Lab Result,Red Blood Cells| Blood,2.92,m/uL,labevents
+14996129,22633440.0,2181-09-03 02:20:00,Lab Result,White Blood Cells| Blood,11.8,K/uL,labevents
+14996129,22633440.0,2181-09-03 02:20:00,Lab Result,Anion Gap| Blood,15.0,mEq/L,labevents
+14996129,22633440.0,2181-09-03 02:20:00,Lab Result,INR(PT)| Blood,1.2,,labevents
+14996129,22633440.0,2181-09-03 02:20:00,Lab Result,Bicarbonate| Blood,19.0,mEq/L,labevents
+14996129,22633440.0,2181-09-03 02:20:00,Lab Result,Chloride| Blood,107.0,mEq/L,labevents
+14996129,22633440.0,2181-09-03 02:20:00,Lab Result,Creatinine| Blood,0.6,mg/dL,labevents
+14996129,22633440.0,2181-09-03 02:20:00,Lab Result,Glucose| Blood,120.0,mg/dL,labevents
+14996129,22633440.0,2181-09-03 02:20:00,Lab Result,H| Blood,13.0,,labevents
+14996129,22633440.0,2181-09-03 02:20:00,Lab Result,I| Blood,1.0,,labevents
+14996129,22633440.0,2181-09-03 02:20:00,Lab Result,Magnesium| Blood,2.2,mg/dL,labevents
+14996129,22633440.0,2181-09-03 02:20:00,Lab Result,Phosphate| Blood,2.9,mg/dL,labevents
+14996129,22633440.0,2181-09-03 02:20:00,Lab Result,Potassium| Blood,4.0,mEq/L,labevents
+14996129,22633440.0,2181-09-03 02:20:00,Lab Result,Sodium| Blood,141.0,mEq/L,labevents
+14996129,22633440.0,2181-09-03 02:20:00,Lab Result,Urea Nitrogen| Blood,22.0,mg/dL,labevents
+14996129,22633440.0,2181-09-03 02:20:00,Lab Result,"Calcium, Total| Blood",8.3,mg/dL,labevents
+14996129,22633440.0,2181-09-03 02:20:00,Lab Result,RDW-SD| Blood,43.2,fL,labevents
+14996129,22633440.0,2181-09-03 02:30:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 02:30:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 02:30:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 02:30:00,Medication Admin,Insulin,NaN,NaN,emar
+14996129,22633440.0,2181-09-03 02:30:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-03 03:00:00,Output,Foley,65.0,ml,outputevents
+14996129,22633440.0,2181-09-03 04:00:00,Output,Foley,50.0,ml,outputevents
+14996129,22633440.0,2181-09-03 04:03:00,DateTime Obs,Foley Cath Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-03 04:07:00,DateTime Obs,18 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-03 04:08:00,DateTime Obs,20 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-03 04:56:00,Lab Result,Specimen Type| Blood,,,labevents
+14996129,22633440.0,2181-09-03 04:56:00,Lab Result,pO2| Blood,102.0,mm Hg,labevents
+14996129,22633440.0,2181-09-03 04:56:00,Lab Result,pH| Blood,7.37,units,labevents
+14996129,22633440.0,2181-09-03 04:56:00,Lab Result,pCO2| Blood,36.0,mm Hg,labevents
+14996129,22633440.0,2181-09-03 04:56:00,Lab Result,Free Calcium| Blood,1.21,mmol/L,labevents
+14996129,22633440.0,2181-09-03 04:56:00,Lab Result,Calculated Total CO2| Blood,22.0,mEq/L,labevents
+14996129,22633440.0,2181-09-03 04:56:00,Lab Result,Base Excess| Blood,-3.0,mEq/L,labevents
+14996129,22633440.0,2181-09-03 04:56:00,Lab Result,Lactate| Blood,1.0,mmol/L,labevents
+14996129,22633440.0,2181-09-03 05:00:00,Output,Foley,40.0,ml,outputevents
+14996129,22633440.0,2181-09-03 05:20:00,Medication Admin,,NaN,NaN,emar
+14996129,22633440.0,2181-09-03 05:20:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 05:20:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 05:21:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-03 05:21:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 05:21:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 06:00:00,Output,Foley,40.0,ml,outputevents
+14996129,22633440.0,2181-09-03 07:00:00,Pharmacy,Acetaminophen IV,,NaN,pharmacy
+14996129,22633440.0,2181-09-03 07:00:00,Prescription,Acetaminophen IV,1000,mg,prescriptions
+14996129,22633440.0,2181-09-03 08:00:00,Input,Solution,99.9999976158142,ml,inputevents
+14996129,22633440.0,2181-09-03 08:00:00,Output,Foley,75.0,ml,outputevents
+14996129,22633440.0,2181-09-03 08:00:00,Pharmacy,Heparin,,NaN,pharmacy
+14996129,22633440.0,2181-09-03 08:00:00,Prescription,Heparin,5000,UNIT,prescriptions
+14996129,22633440.0,2181-09-03 08:00:00,Input,Acetaminophen-IV,1000.0000521540642,mg,inputevents
+14996129,22633440.0,2181-09-03 08:00:00,DateTime Obs,Foley Cath Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-03 08:00:00,Input,IVF ingredient,99.9999976158142,ml,ingredientevents
+14996129,22633440.0,2181-09-03 08:00:00,Input,Water,99.9999976158142,ml,ingredientevents
+14996129,22633440.0,2181-09-03 08:10:00,Medication Admin,Insulin,NaN,NaN,emar
+14996129,22633440.0,2181-09-03 08:10:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 08:14:00,Medication Admin,Acetaminophen IV,NaN,NaN,emar
+14996129,22633440.0,2181-09-03 08:14:00,Medication Admin,CeFAZolin,NaN,NaN,emar
+14996129,22633440.0,2181-09-03 08:14:00,Medication Admin,Bacitracin Ointment,NaN,NaN,emar
+14996129,22633440.0,2181-09-03 08:14:00,Medication Admin,Pantoprazole,NaN,NaN,emar
+14996129,22633440.0,2181-09-03 08:14:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 08:14:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 08:14:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 08:14:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 08:14:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 08:14:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 08:14:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 08:14:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 08:14:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 08:14:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 08:14:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 08:14:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 08:14:00,Medication Admin,Erythromycin 0.5% Ophth Oint,NaN,NaN,emar
+14996129,22633440.0,2181-09-03 08:14:00,Medication Admin,LevETIRAcetam,NaN,NaN,emar
+14996129,22633440.0,2181-09-03 08:16:00,Medication Admin,Mouth Care Oral Rinse,NaN,NaN,emar
+14996129,22633440.0,2181-09-03 08:16:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 08:16:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 08:30:00,Input,Levetiracetam (Keppra),500.0,mg,inputevents
+14996129,22633440.0,2181-09-03 08:30:00,Input,NaCl 0.9%,100.0,ml,inputevents
+14996129,22633440.0,2181-09-03 08:30:00,Input,Water,100.0,ml,ingredientevents
+14996129,22633440.0,2181-09-03 08:30:00,Input,IVF ingredient,100.0,ml,ingredientevents
+14996129,22633440.0,2181-09-03 08:37:00,Input,Calories,8.5,Kcal,ingredientevents
+14996129,22633440.0,2181-09-03 08:37:00,Input,Cefazolin,1.0,dose,inputevents
+14996129,22633440.0,2181-09-03 08:37:00,Input,Dextrose 5%,50.0,ml,inputevents
+14996129,22633440.0,2181-09-03 08:37:00,Input,IVF ingredient,50.0,ml,ingredientevents
+14996129,22633440.0,2181-09-03 08:37:00,Input,Water,50.0,ml,ingredientevents
+14996129,22633440.0,2181-09-03 08:38:00,Output,Oral Gastric,400.0,ml,outputevents
+14996129,22633440.0,2181-09-03 08:45:00,DateTime Obs,18 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-03 08:46:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-03 08:46:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 08:46:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 08:46:00,DateTime Obs,20 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-03 08:46:00,Procedure,EKG,1.0,,procedureevents
+14996129,22633440.0,2181-09-03 08:46:00,Procedure,EKG,1.0,,procedureevents
+14996129,22633440.0,2181-09-03 08:47:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-03 08:47:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 08:47:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 09:00:00,Output,Foley,50.0,ml,outputevents
+14996129,22633440.0,2181-09-03 10:00:00,Output,Foley,60.0,ml,outputevents
+14996129,22633440.0,2181-09-03 10:03:00,Input,NaCl 0.9%,988.300014257431,ml,inputevents
+14996129,22633440.0,2181-09-03 10:03:00,Input,IVF ingredient,988.300014257431,ml,ingredientevents
+14996129,22633440.0,2181-09-03 10:03:00,Input,Water,988.300014257431,ml,ingredientevents
+14996129,22633440.0,2181-09-03 11:00:00,Output,Foley,50.0,ml,outputevents
+14996129,22633440.0,2181-09-03 12:00:00,DateTime Obs,Foley Cath Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-03 12:00:00,Output,Foley,75.0,ml,outputevents
+14996129,22633440.0,2181-09-03 12:28:00,Medication Admin,Erythromycin 0.5% Ophth Oint,NaN,NaN,emar
+14996129,22633440.0,2181-09-03 12:28:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 12:28:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 12:28:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 12:28:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 12:28:00,Medication Admin,,NaN,NaN,emar
+14996129,22633440.0,2181-09-03 12:41:00,DateTime Obs,20 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-03 12:41:00,DateTime Obs,18 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-03 13:00:00,Output,Foley,30.0,ml,outputevents
+14996129,22633440.0,2181-09-03 13:01:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-03 13:01:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 13:01:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 14:00:00,Output,Foley,30.0,ml,outputevents
+14996129,22633440.0,2181-09-03 14:27:00,Medication Admin,Insulin,NaN,NaN,emar
+14996129,22633440.0,2181-09-03 14:27:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 15:09:00,Output,Foley,50.0,ml,outputevents
+14996129,22633440.0,2181-09-03 16:00:00,Output,Oral Gastric,50.0,ml,outputevents
+14996129,22633440.0,2181-09-03 16:00:00,DateTime Obs,Foley Cath Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-03 16:05:00,Medication Admin,CeFAZolin,NaN,NaN,emar
+14996129,22633440.0,2181-09-03 16:05:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 16:05:00,Output,Foley,40.0,ml,outputevents
+14996129,22633440.0,2181-09-03 16:05:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 16:05:00,Medication Admin,Erythromycin 0.5% Ophth Oint,NaN,NaN,emar
+14996129,22633440.0,2181-09-03 16:05:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 16:05:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 16:24:00,DateTime Obs,20 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-03 16:24:00,DateTime Obs,18 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-03 16:48:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 16:48:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 16:48:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-03 16:49:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 16:49:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 16:49:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-03 17:00:00,Output,Foley,60.0,ml,outputevents
+14996129,22633440.0,2181-09-03 18:00:00,Output,Foley,40.0,ml,outputevents
+14996129,22633440.0,2181-09-03 19:00:00,Output,Foley,65.0,ml,outputevents
+14996129,22633440.0,2181-09-03 19:18:00,DateTime Obs,18 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-03 19:18:00,DateTime Obs,20 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-03 19:32:00,Medication Admin,Pantoprazole,NaN,NaN,emar
+14996129,22633440.0,2181-09-03 19:32:00,Medication Admin,LevETIRAcetam,NaN,NaN,emar
+14996129,22633440.0,2181-09-03 19:32:00,Medication Admin,Erythromycin 0.5% Ophth Oint,NaN,NaN,emar
+14996129,22633440.0,2181-09-03 19:32:00,Medication Admin,Mouth Care Oral Rinse,NaN,NaN,emar
+14996129,22633440.0,2181-09-03 19:32:00,Medication Admin,,NaN,NaN,emar
+14996129,22633440.0,2181-09-03 19:32:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 19:32:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 19:32:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 19:32:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 19:32:00,Medication Admin,Bacitracin Ointment,NaN,NaN,emar
+14996129,22633440.0,2181-09-03 19:32:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 19:32:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 19:32:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 19:32:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 19:32:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 19:32:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 19:32:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 19:32:00,Medication Admin,Insulin,NaN,NaN,emar
+14996129,22633440.0,2181-09-03 19:32:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 19:32:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 19:33:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 19:33:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-03 19:33:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-03 19:36:00,Input,Levetiracetam (Keppra),500.0,mg,inputevents
+14996129,22633440.0,2181-09-03 19:36:00,Input,NaCl 0.9%,100.0,ml,inputevents
+14996129,22633440.0,2181-09-03 19:36:00,Input,Water,100.0,ml,ingredientevents
+14996129,22633440.0,2181-09-03 19:36:00,Input,IVF ingredient,100.0,ml,ingredientevents
+14996129,22633440.0,2181-09-03 19:56:00,Input,Water,748.3333154916763,ml,ingredientevents
+14996129,22633440.0,2181-09-03 19:56:00,Input,NaCl 0.9%,748.3333154916763,ml,inputevents
+14996129,22633440.0,2181-09-03 19:56:00,Input,IVF ingredient,748.3333154916763,ml,ingredientevents
+14996129,22633440.0,2181-09-03 20:00:00,DateTime Obs,Foley Cath Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-03 20:00:00,Output,Foley,100.0,ml,outputevents
+14996129,22633440.0,2181-09-03 21:00:00,Output,Foley,70.0,ml,outputevents
+14996129,22633440.0,2181-09-03 22:00:00,Output,Foley,65.0,ml,outputevents
+14996129,22633440.0,2181-09-03 22:49:00,DateTime Obs,18 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-03 23:00:00,Output,Oral Gastric,25.0,ml,outputevents
+14996129,22633440.0,2181-09-03 23:00:00,Output,Foley,75.0,ml,outputevents
+14996129,22633440.0,2181-09-03 23:59:00,DateTime Obs,20 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-03 23:59:00,DateTime Obs,18 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-04 00:00:00,Input,Cefazolin,1.0,dose,inputevents
+14996129,22633440.0,2181-09-04 00:00:00,Input,Dextrose 5%,50.0,ml,inputevents
+14996129,22633440.0,2181-09-04 00:00:00,Input,Water,50.0,ml,ingredientevents
+14996129,22633440.0,2181-09-04 00:00:00,Input,Calories,8.5,Kcal,ingredientevents
+14996129,22633440.0,2181-09-04 00:00:00,Output,Foley,50.0,ml,outputevents
+14996129,22633440.0,2181-09-04 00:00:00,Input,IVF ingredient,50.0,ml,ingredientevents
+14996129,22633440.0,2181-09-04 00:00:00,DateTime Obs,Foley Cath Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-04 00:02:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 00:02:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 00:02:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 00:02:00,Medication Admin,CeFAZolin,NaN,NaN,emar
+14996129,22633440.0,2181-09-04 00:02:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 00:02:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-04 00:02:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-04 00:02:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 00:02:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 00:03:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 00:03:00,Medication Admin,,NaN,NaN,emar
+14996129,22633440.0,2181-09-04 00:03:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 01:00:00,Output,Foley,75.0,ml,outputevents
+14996129,22633440.0,2181-09-04 02:00:00,Output,Foley,70.0,ml,outputevents
+14996129,22633440.0,2181-09-04 02:02:00,Procedure,20 Gauge,2878.0,min,procedureevents
+14996129,22633440.0,2181-09-04 02:02:00,Procedure,20 Gauge,2878.0,min,procedureevents
+14996129,22633440.0,2181-09-04 02:02:00,DateTime Obs,20 Gauge Insertion Date,2181-09-04 05:24:00,Date,datetimeevents
+14996129,22633440.0,2181-09-04 02:09:00,Lab Result,I| Blood,1.0,,labevents
+14996129,22633440.0,2181-09-04 02:09:00,Lab Result,Potassium| Blood,3.7,mEq/L,labevents
+14996129,22633440.0,2181-09-04 02:09:00,Lab Result,Phosphate| Blood,1.8,mg/dL,labevents
+14996129,22633440.0,2181-09-04 02:09:00,Lab Result,Magnesium| Blood,2.0,mg/dL,labevents
+14996129,22633440.0,2181-09-04 02:09:00,Lab Result,Anion Gap| Blood,15.0,mEq/L,labevents
+14996129,22633440.0,2181-09-04 02:09:00,Lab Result,Creatinine| Blood,0.4,mg/dL,labevents
+14996129,22633440.0,2181-09-04 02:09:00,Lab Result,Chloride| Blood,109.0,mEq/L,labevents
+14996129,22633440.0,2181-09-04 02:09:00,Lab Result,"Calcium, Total| Blood",8.4,mg/dL,labevents
+14996129,22633440.0,2181-09-04 02:09:00,Lab Result,Bicarbonate| Blood,22.0,mEq/L,labevents
+14996129,22633440.0,2181-09-04 02:09:00,Lab Result,Sodium| Blood,146.0,mEq/L,labevents
+14996129,22633440.0,2181-09-04 02:09:00,Lab Result,Glucose| Blood,118.0,mg/dL,labevents
+14996129,22633440.0,2181-09-04 02:09:00,Lab Result,Urea Nitrogen| Blood,22.0,mg/dL,labevents
+14996129,22633440.0,2181-09-04 02:09:00,Lab Result,H| Blood,7.0,,labevents
+14996129,22633440.0,2181-09-04 02:09:00,Lab Result,Hematocrit| Blood,27.8,%,labevents
+14996129,22633440.0,2181-09-04 02:09:00,Lab Result,RDW-SD| Blood,42.2,fL,labevents
+14996129,22633440.0,2181-09-04 02:09:00,Lab Result,INR(PT)| Blood,1.2,,labevents
+14996129,22633440.0,2181-09-04 02:09:00,Lab Result,White Blood Cells| Blood,12.1,K/uL,labevents
+14996129,22633440.0,2181-09-04 02:09:00,Lab Result,Red Blood Cells| Blood,2.9,m/uL,labevents
+14996129,22633440.0,2181-09-04 02:09:00,Lab Result,RDW| Blood,12.0,%,labevents
+14996129,22633440.0,2181-09-04 02:09:00,Lab Result,Platelet Count| Blood,170.0,K/uL,labevents
+14996129,22633440.0,2181-09-04 02:09:00,Lab Result,L| Blood,4.0,,labevents
+14996129,22633440.0,2181-09-04 02:09:00,Lab Result,MCV| Blood,96.0,fL,labevents
+14996129,22633440.0,2181-09-04 02:09:00,Lab Result,PT| Blood,13.1,sec,labevents
+14996129,22633440.0,2181-09-04 02:09:00,Lab Result,Hemoglobin| Blood,9.1,g/dL,labevents
+14996129,22633440.0,2181-09-04 02:09:00,Lab Result,MCH| Blood,31.4,pg,labevents
+14996129,22633440.0,2181-09-04 02:09:00,Lab Result,MCHC| Blood,32.7,g/dL,labevents
+14996129,22633440.0,2181-09-04 02:09:00,Lab Result,PTT| Blood,26.3,sec,labevents
+14996129,22633440.0,2181-09-04 02:15:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 02:15:00,Medication Admin,Insulin,NaN,NaN,emar
+14996129,22633440.0,2181-09-04 03:00:00,Output,Foley,65.0,ml,outputevents
+14996129,22633440.0,2181-09-04 03:14:00,Input,Water,99.9999976158142,ml,ingredientevents
+14996129,22633440.0,2181-09-04 03:14:00,Input,IVF ingredient,99.9999976158142,ml,ingredientevents
+14996129,22633440.0,2181-09-04 03:14:00,Input,Solution,99.9999976158142,ml,inputevents
+14996129,22633440.0,2181-09-04 03:14:00,Input,Acetaminophen-IV,1000.0000521540642,mg,inputevents
+14996129,22633440.0,2181-09-04 03:17:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 03:17:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 03:17:00,Medication Admin,Acetaminophen IV,NaN,NaN,emar
+14996129,22633440.0,2181-09-04 03:34:00,Input,Potassium Chloride,10.000000298023224,mEq,inputevents
+14996129,22633440.0,2181-09-04 03:34:00,Input,KCL (Bolus),99.9999976158142,ml,inputevents
+14996129,22633440.0,2181-09-04 03:34:00,Input,Water,99.9999976158142,ml,ingredientevents
+14996129,22633440.0,2181-09-04 03:34:00,Input,IVF ingredient,99.9999976158142,ml,ingredientevents
+14996129,22633440.0,2181-09-04 03:39:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 03:39:00,Medication Admin,Potassium Chloride Replacement (Critical Care and Oncology),NaN,NaN,emar
+14996129,22633440.0,2181-09-04 03:39:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 04:00:00,Output,Foley,60.0,ml,outputevents
+14996129,22633440.0,2181-09-04 04:00:00,DateTime Obs,Foley Cath Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-04 04:45:00,Input,KCL (Bolus),99.9999976158142,ml,inputevents
+14996129,22633440.0,2181-09-04 04:45:00,Input,Potassium Chloride,10.000000298023224,mEq,inputevents
+14996129,22633440.0,2181-09-04 04:45:00,Input,IVF ingredient,99.9999976158142,ml,ingredientevents
+14996129,22633440.0,2181-09-04 04:45:00,Input,Water,99.9999976158142,ml,ingredientevents
+14996129,22633440.0,2181-09-04 04:50:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 04:50:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 04:50:00,Medication Admin,Potassium Chloride Replacement (Critical Care and Oncology),NaN,NaN,emar
+14996129,22633440.0,2181-09-04 05:00:00,Input,Na Phos,15.00000071246177,mmol,inputevents
+14996129,22633440.0,2181-09-04 05:00:00,Output,Foley,70.0,ml,outputevents
+14996129,22633440.0,2181-09-04 05:00:00,Input,Water,249.99999403953552,ml,ingredientevents
+14996129,22633440.0,2181-09-04 05:00:00,Input,IVF ingredient,249.99999403953552,ml,ingredientevents
+14996129,22633440.0,2181-09-04 05:00:00,Input,Piggyback,249.99999403953552,ml,inputevents
+14996129,22633440.0,2181-09-04 05:02:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 05:02:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 05:02:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 05:02:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 05:02:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-04 05:02:00,Medication Admin,Sodium Phosphate,NaN,NaN,emar
+14996129,22633440.0,2181-09-04 05:04:00,DateTime Obs,20 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-04 05:04:00,DateTime Obs,18 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-04 05:25:00,Input,IVF ingredient,248.2670211791992,ml,ingredientevents
+14996129,22633440.0,2181-09-04 05:25:00,Input,Water,248.2670211791992,ml,ingredientevents
+14996129,22633440.0,2181-09-04 05:25:00,Input,NaCl 0.9%,248.2670211791992,ml,inputevents
+14996129,22633440.0,2181-09-04 06:00:00,Output,Foley,65.0,ml,outputevents
+14996129,22633440.0,2181-09-04 07:45:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 07:45:00,Input,Water,100.0,ml,ingredientevents
+14996129,22633440.0,2181-09-04 07:45:00,Medication Admin,LevETIRAcetam,NaN,NaN,emar
+14996129,22633440.0,2181-09-04 07:45:00,Medication Admin,Insulin,NaN,NaN,emar
+14996129,22633440.0,2181-09-04 07:45:00,Input,Levetiracetam (Keppra),500.0,mg,inputevents
+14996129,22633440.0,2181-09-04 07:45:00,Input,NaCl 0.9%,100.0,ml,inputevents
+14996129,22633440.0,2181-09-04 07:45:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 07:45:00,Input,IVF ingredient,100.0,ml,ingredientevents
+14996129,22633440.0,2181-09-04 07:45:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 07:54:00,Input,Water,14.999999642372131,ml,ingredientevents
+14996129,22633440.0,2181-09-04 07:54:00,Input,IVF ingredient,14.999999642372131,ml,ingredientevents
+14996129,22633440.0,2181-09-04 07:54:00,Input,NaCl 0.9%,14.999999642372131,ml,inputevents
+14996129,22633440.0,2181-09-04 08:00:00,DateTime Obs,Foley Cath Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-04 08:00:00,Procedure,Family updated by RN,1.0,,procedureevents
+14996129,22633440.0,2181-09-04 08:00:00,Procedure,Family updated by RN,1.0,,procedureevents
+14996129,22633440.0,2181-09-04 08:03:00,Input,Water,50.0,ml,ingredientevents
+14996129,22633440.0,2181-09-04 08:03:00,Input,IVF ingredient,50.0,ml,ingredientevents
+14996129,22633440.0,2181-09-04 08:03:00,Input,Calories,8.5,Kcal,ingredientevents
+14996129,22633440.0,2181-09-04 08:03:00,Input,Dextrose 5%,50.0,ml,inputevents
+14996129,22633440.0,2181-09-04 08:03:00,Input,Cefazolin,1.0,dose,inputevents
+14996129,22633440.0,2181-09-04 08:05:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 08:05:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 08:05:00,Medication Admin,CeFAZolin,NaN,NaN,emar
+14996129,22633440.0,2181-09-04 08:06:00,Output,Foley,95.0,ml,outputevents
+14996129,22633440.0,2181-09-04 08:10:00,Medication Admin,Pantoprazole,NaN,NaN,emar
+14996129,22633440.0,2181-09-04 08:10:00,Input,Solution,10.0,ml,inputevents
+14996129,22633440.0,2181-09-04 08:10:00,Input,IVF ingredient,10.0,ml,ingredientevents
+14996129,22633440.0,2181-09-04 08:10:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 08:10:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 08:10:00,Input,Water,10.0,ml,ingredientevents
+14996129,22633440.0,2181-09-04 08:10:00,Input,Pantoprazole (Protonix),1.0,dose,inputevents
+14996129,22633440.0,2181-09-04 08:11:00,Medication Admin,Heparin,NaN,NaN,emar
+14996129,22633440.0,2181-09-04 08:11:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 08:11:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 08:12:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 08:12:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 08:12:00,Medication Admin,,NaN,NaN,emar
+14996129,22633440.0,2181-09-04 08:13:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 08:13:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 08:13:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-04 08:13:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-04 08:13:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 08:13:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 08:23:00,Medication Admin,Bacitracin Ointment,NaN,NaN,emar
+14996129,22633440.0,2181-09-04 08:23:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 08:23:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 08:24:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 08:24:00,Medication Admin,Erythromycin 0.5% Ophth Oint,NaN,NaN,emar
+14996129,22633440.0,2181-09-04 08:24:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 08:26:00,Medication Admin,Mouth Care Oral Rinse,NaN,NaN,emar
+14996129,22633440.0,2181-09-04 08:26:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 08:26:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 08:40:00,Input,NaCl 0.9%,686.6999497413635,ml,inputevents
+14996129,22633440.0,2181-09-04 08:40:00,Input,Water,686.6999497413635,ml,ingredientevents
+14996129,22633440.0,2181-09-04 08:40:00,Input,IVF ingredient,686.6999497413635,ml,ingredientevents
+14996129,22633440.0,2181-09-04 10:45:00,Output,Foley,175.0,ml,outputevents
+14996129,22633440.0,2181-09-04 11:00:00,DateTime Obs,20 Gauge Insertion Date,2181-09-04 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-04 11:00:00,DateTime Obs,18 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-04 13:00:00,Prescription,Morphine Sulfate,4,mg,prescriptions
+14996129,22633440.0,2181-09-04 13:00:00,Pharmacy,Acetaminophen IV,,NaN,pharmacy
+14996129,22633440.0,2181-09-04 13:00:00,Pharmacy,Morphine Sulfate,,NaN,pharmacy
+14996129,22633440.0,2181-09-04 13:00:00,DateTime Obs,Foley Cath Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-04 13:00:00,Prescription,Acetaminophen IV,1000,mg,prescriptions
+14996129,22633440.0,2181-09-04 13:20:00,Medication Admin,Erythromycin 0.5% Ophth Oint,NaN,NaN,emar
+14996129,22633440.0,2181-09-04 13:20:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 13:20:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 13:24:00,Output,Foley,185.0,ml,outputevents
+14996129,22633440.0,2181-09-04 13:45:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 13:45:00,Medication Admin,Insulin,NaN,NaN,emar
+14996129,22633440.0,2181-09-04 14:00:00,Output,Foley,33.0,ml,outputevents
+14996129,22633440.0,2181-09-04 14:26:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 14:26:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 14:26:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-04 15:32:00,Input,NaCl 0.9%,29.999999284744263,ml,inputevents
+14996129,22633440.0,2181-09-04 15:32:00,Input,Water,29.999999284744263,ml,ingredientevents
+14996129,22633440.0,2181-09-04 15:32:00,Input,IVF ingredient,29.999999284744263,ml,ingredientevents
+14996129,22633440.0,2181-09-04 15:45:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 15:45:00,Medication Admin,,NaN,NaN,emar
+14996129,22633440.0,2181-09-04 15:45:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 15:46:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 15:46:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 15:46:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 15:46:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 15:46:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-04 15:46:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-04 15:49:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 15:49:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 15:49:00,Medication Admin,CeFAZolin,NaN,NaN,emar
+14996129,22633440.0,2181-09-04 15:50:00,Input,Water,50.0,ml,ingredientevents
+14996129,22633440.0,2181-09-04 15:50:00,Input,IVF ingredient,50.0,ml,ingredientevents
+14996129,22633440.0,2181-09-04 15:50:00,Input,Calories,8.5,Kcal,ingredientevents
+14996129,22633440.0,2181-09-04 15:50:00,Input,Cefazolin,1.0,dose,inputevents
+14996129,22633440.0,2181-09-04 15:50:00,Input,Dextrose 5%,50.0,ml,inputevents
+14996129,22633440.0,2181-09-04 15:52:00,Medication Admin,Erythromycin 0.5% Ophth Oint,NaN,NaN,emar
+14996129,22633440.0,2181-09-04 15:52:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 15:52:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 16:00:00,Output,Foley,120.0,ml,outputevents
+14996129,22633440.0,2181-09-04 16:20:00,Input,NaCl 0.9%,963.3000991344452,ml,inputevents
+14996129,22633440.0,2181-09-04 16:20:00,Input,Water,963.3000991344452,ml,ingredientevents
+14996129,22633440.0,2181-09-04 16:20:00,Input,IVF ingredient,963.3000991344452,ml,ingredientevents
+14996129,22633440.0,2181-09-04 18:00:00,DateTime Obs,Foley Cath Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-04 18:00:00,Output,Foley,145.0,ml,outputevents
+14996129,22633440.0,2181-09-04 19:38:00,Medication Admin,LevETIRAcetam,NaN,NaN,emar
+14996129,22633440.0,2181-09-04 19:38:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 19:38:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 19:38:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 19:38:00,Medication Admin,Mouth Care Oral Rinse,NaN,NaN,emar
+14996129,22633440.0,2181-09-04 19:38:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 19:38:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 19:38:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 19:38:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 19:38:00,Medication Admin,Heparin,NaN,NaN,emar
+14996129,22633440.0,2181-09-04 19:38:00,Medication Admin,Pantoprazole,NaN,NaN,emar
+14996129,22633440.0,2181-09-04 19:38:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 19:39:00,Medication Admin,Bacitracin Ointment,NaN,NaN,emar
+14996129,22633440.0,2181-09-04 19:39:00,Medication Admin,Erythromycin 0.5% Ophth Oint,NaN,NaN,emar
+14996129,22633440.0,2181-09-04 19:39:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 19:39:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 19:39:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 19:39:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 19:55:00,Input,Levetiracetam (Keppra),500.0000260770321,mg,inputevents
+14996129,22633440.0,2181-09-04 19:55:00,Input,IVF ingredient,99.9999976158142,ml,ingredientevents
+14996129,22633440.0,2181-09-04 19:55:00,Input,Water,99.9999976158142,ml,ingredientevents
+14996129,22633440.0,2181-09-04 19:55:00,Input,NaCl 0.9%,99.9999976158142,ml,inputevents
+14996129,22633440.0,2181-09-04 20:00:00,Output,Foley,100.0,ml,outputevents
+14996129,22633440.0,2181-09-04 20:00:00,DateTime Obs,Foley Cath Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-04 20:01:00,DateTime Obs,18 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-04 20:02:00,DateTime Obs,20 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-04 20:05:00,Input,Solution,99.9999976158142,ml,inputevents
+14996129,22633440.0,2181-09-04 20:05:00,Input,Acetaminophen-IV,1000.0000521540642,mg,inputevents
+14996129,22633440.0,2181-09-04 20:05:00,Input,Water,99.9999976158142,ml,ingredientevents
+14996129,22633440.0,2181-09-04 20:05:00,Input,IVF ingredient,99.9999976158142,ml,ingredientevents
+14996129,22633440.0,2181-09-04 20:06:00,Medication Admin,Acetaminophen IV,NaN,NaN,emar
+14996129,22633440.0,2181-09-04 20:06:00,Medication Admin,Insulin,NaN,NaN,emar
+14996129,22633440.0,2181-09-04 20:06:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 20:06:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 20:06:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 21:00:00,Output,Foley,50.0,ml,outputevents
+14996129,22633440.0,2181-09-04 22:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-04 22:00:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 22:00:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-04 22:00:00,Output,Foley,50.0,ml,outputevents
+14996129,22633440.0,2181-09-04 23:00:00,Output,Foley,40.0,ml,outputevents
+14996129,22633440.0,2181-09-05 00:00:00,Output,Foley,50.0,ml,outputevents
+14996129,22633440.0,2181-09-05 00:01:00,DateTime Obs,Foley Cath Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-05 00:48:00,Input,Water,50.0,ml,ingredientevents
+14996129,22633440.0,2181-09-05 00:48:00,Medication Admin,,NaN,NaN,emar
+14996129,22633440.0,2181-09-05 00:48:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-05 00:48:00,Input,Calories,8.5,Kcal,ingredientevents
+14996129,22633440.0,2181-09-05 00:48:00,Input,IVF ingredient,50.0,ml,ingredientevents
+14996129,22633440.0,2181-09-05 00:48:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 00:48:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 00:48:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 00:48:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 00:48:00,Medication Admin,CeFAZolin,NaN,NaN,emar
+14996129,22633440.0,2181-09-05 00:48:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 00:48:00,Input,Dextrose 5%,50.0,ml,inputevents
+14996129,22633440.0,2181-09-05 00:48:00,Input,Cefazolin,1.0,dose,inputevents
+14996129,22633440.0,2181-09-05 00:48:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 00:49:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-05 00:49:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 00:49:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 01:00:00,Output,Foley,50.0,ml,outputevents
+14996129,22633440.0,2181-09-05 01:17:00,Lab Result,Red Blood Cells| Blood,2.98,m/uL,labevents
+14996129,22633440.0,2181-09-05 01:17:00,Lab Result,L| Blood,4.0,,labevents
+14996129,22633440.0,2181-09-05 01:17:00,Lab Result,INR(PT)| Blood,1.2,,labevents
+14996129,22633440.0,2181-09-05 01:17:00,Lab Result,PT| Blood,13.0,sec,labevents
+14996129,22633440.0,2181-09-05 01:17:00,Lab Result,PTT| Blood,30.6,sec,labevents
+14996129,22633440.0,2181-09-05 01:17:00,Lab Result,RDW-SD| Blood,43.0,fL,labevents
+14996129,22633440.0,2181-09-05 01:17:00,Lab Result,White Blood Cells| Blood,9.1,K/uL,labevents
+14996129,22633440.0,2181-09-05 01:17:00,Lab Result,Hematocrit| Blood,29.2,%,labevents
+14996129,22633440.0,2181-09-05 01:17:00,Lab Result,Hemoglobin| Blood,9.4,g/dL,labevents
+14996129,22633440.0,2181-09-05 01:17:00,Lab Result,MCH| Blood,31.5,pg,labevents
+14996129,22633440.0,2181-09-05 01:17:00,Lab Result,Urea Nitrogen| Blood,21.0,mg/dL,labevents
+14996129,22633440.0,2181-09-05 01:17:00,Lab Result,MCHC| Blood,32.2,g/dL,labevents
+14996129,22633440.0,2181-09-05 01:17:00,Lab Result,MCV| Blood,98.0,fL,labevents
+14996129,22633440.0,2181-09-05 01:17:00,Lab Result,Platelet Count| Blood,180.0,K/uL,labevents
+14996129,22633440.0,2181-09-05 01:17:00,Lab Result,RDW| Blood,11.9,%,labevents
+14996129,22633440.0,2181-09-05 01:17:00,Lab Result,Sodium| Blood,146.0,mEq/L,labevents
+14996129,22633440.0,2181-09-05 01:17:00,Lab Result,Creatinine| Blood,0.4,mg/dL,labevents
+14996129,22633440.0,2181-09-05 01:17:00,Lab Result,H| Blood,7.0,,labevents
+14996129,22633440.0,2181-09-05 01:17:00,Lab Result,"Calcium, Total| Blood",8.4,mg/dL,labevents
+14996129,22633440.0,2181-09-05 01:17:00,Lab Result,Potassium| Blood,3.7,mEq/L,labevents
+14996129,22633440.0,2181-09-05 01:17:00,Lab Result,Phosphate| Blood,2.2,mg/dL,labevents
+14996129,22633440.0,2181-09-05 01:17:00,Lab Result,Magnesium| Blood,2.1,mg/dL,labevents
+14996129,22633440.0,2181-09-05 01:17:00,Lab Result,I| Blood,1.0,,labevents
+14996129,22633440.0,2181-09-05 01:17:00,Lab Result,Anion Gap| Blood,14.0,mEq/L,labevents
+14996129,22633440.0,2181-09-05 01:17:00,Lab Result,Glucose| Blood,104.0,mg/dL,labevents
+14996129,22633440.0,2181-09-05 01:17:00,Lab Result,Chloride| Blood,110.0,mEq/L,labevents
+14996129,22633440.0,2181-09-05 01:17:00,Lab Result,Bicarbonate| Blood,22.0,mEq/L,labevents
+14996129,22633440.0,2181-09-05 01:58:00,Input,IVF ingredient,28.333332657814022,ml,ingredientevents
+14996129,22633440.0,2181-09-05 01:58:00,Input,Water,28.333332657814022,ml,ingredientevents
+14996129,22633440.0,2181-09-05 01:58:00,Input,NaCl 0.9%,28.333332657814022,ml,inputevents
+14996129,22633440.0,2181-09-05 02:00:00,Output,Foley,60.0,ml,outputevents
+14996129,22633440.0,2181-09-05 02:14:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 02:14:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 02:14:00,Medication Admin,Potassium Chloride Replacement (Critical Care and Oncology),NaN,NaN,emar
+14996129,22633440.0,2181-09-05 02:16:00,Input,Potassium Chloride,10.000000298023224,mEq,inputevents
+14996129,22633440.0,2181-09-05 02:16:00,Input,Piggyback,99.9999976158142,ml,inputevents
+14996129,22633440.0,2181-09-05 02:16:00,Input,IVF ingredient,99.9999976158142,ml,ingredientevents
+14996129,22633440.0,2181-09-05 02:16:00,Input,Water,99.9999976158142,ml,ingredientevents
+14996129,22633440.0,2181-09-05 02:41:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 02:41:00,Medication Admin,Insulin,NaN,NaN,emar
+14996129,22633440.0,2181-09-05 03:00:00,Output,Foley,60.0,ml,outputevents
+14996129,22633440.0,2181-09-05 03:15:00,Input,Water,91.66666448116302,ml,ingredientevents
+14996129,22633440.0,2181-09-05 03:15:00,Input,IVF ingredient,91.66666448116302,ml,ingredientevents
+14996129,22633440.0,2181-09-05 03:15:00,Input,NaCl 0.9%,91.66666448116302,ml,inputevents
+14996129,22633440.0,2181-09-05 04:00:00,Output,Foley,50.0,ml,outputevents
+14996129,22633440.0,2181-09-05 04:09:00,Input,Water,99.9999976158142,ml,ingredientevents
+14996129,22633440.0,2181-09-05 04:09:00,Input,IVF ingredient,99.9999976158142,ml,ingredientevents
+14996129,22633440.0,2181-09-05 04:09:00,Input,Potassium Chloride,10.000000298023224,mEq,inputevents
+14996129,22633440.0,2181-09-05 04:09:00,Input,Piggyback,99.9999976158142,ml,inputevents
+14996129,22633440.0,2181-09-05 04:14:00,Medication Admin,Potassium Chloride Replacement (Critical Care and Oncology),NaN,NaN,emar
+14996129,22633440.0,2181-09-05 04:14:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 04:14:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 04:21:00,DateTime Obs,Foley Cath Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-05 05:00:00,Output,Foley,65.0,ml,outputevents
+14996129,22633440.0,2181-09-05 05:09:00,Input,Water,880.000014424324,ml,ingredientevents
+14996129,22633440.0,2181-09-05 05:09:00,Input,IVF ingredient,880.000014424324,ml,ingredientevents
+14996129,22633440.0,2181-09-05 05:09:00,Input,NaCl 0.9%,880.000014424324,ml,inputevents
+14996129,22633440.0,2181-09-05 06:00:00,Output,Foley,75.0,ml,outputevents
+14996129,22633440.0,2181-09-05 06:25:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 06:25:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-05 06:25:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 07:00:00,Output,Foley,80.0,ml,outputevents
+14996129,22633440.0,2181-09-05 07:45:00,Medication Admin,Insulin,NaN,NaN,emar
+14996129,22633440.0,2181-09-05 07:45:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 07:51:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 07:51:00,Medication Admin,CeFAZolin,NaN,NaN,emar
+14996129,22633440.0,2181-09-05 07:51:00,Medication Admin,Erythromycin 0.5% Ophth Oint,NaN,NaN,emar
+14996129,22633440.0,2181-09-05 07:51:00,Medication Admin,Heparin,NaN,NaN,emar
+14996129,22633440.0,2181-09-05 07:51:00,Medication Admin,LevETIRAcetam,NaN,NaN,emar
+14996129,22633440.0,2181-09-05 07:51:00,Medication Admin,Mouth Care Oral Rinse,NaN,NaN,emar
+14996129,22633440.0,2181-09-05 07:51:00,Medication Admin,Pantoprazole,NaN,NaN,emar
+14996129,22633440.0,2181-09-05 07:51:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 07:51:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 07:51:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 07:51:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 07:51:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 07:51:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 07:51:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 07:51:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 07:51:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 07:51:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 07:51:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 08:00:00,Output,Foley,55.0,ml,outputevents
+14996129,22633440.0,2181-09-05 08:05:00,Input,IVF ingredient,99.9999976158142,ml,ingredientevents
+14996129,22633440.0,2181-09-05 08:05:00,Input,Dextrose 5%,50.0,ml,inputevents
+14996129,22633440.0,2181-09-05 08:05:00,Input,Cefazolin,1.0,dose,inputevents
+14996129,22633440.0,2181-09-05 08:05:00,Input,Water,50.0,ml,ingredientevents
+14996129,22633440.0,2181-09-05 08:05:00,Input,Calories,8.5,Kcal,ingredientevents
+14996129,22633440.0,2181-09-05 08:05:00,Input,IVF ingredient,50.0,ml,ingredientevents
+14996129,22633440.0,2181-09-05 08:05:00,Input,Water,99.9999976158142,ml,ingredientevents
+14996129,22633440.0,2181-09-05 08:05:00,Input,Piggyback,99.9999976158142,ml,inputevents
+14996129,22633440.0,2181-09-05 08:13:00,DateTime Obs,Foley Cath Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-05 08:16:00,DateTime Obs,18 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-05 08:16:00,DateTime Obs,20 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-05 09:00:00,Output,Foley,60.0,ml,outputevents
+14996129,22633440.0,2181-09-05 09:37:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 09:37:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 09:37:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 09:37:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 09:37:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 09:37:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 09:37:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 09:37:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 09:37:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-05 09:37:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-05 09:37:00,Medication Admin,,NaN,NaN,emar
+14996129,22633440.0,2181-09-05 09:37:00,Medication Admin,Bacitracin Ointment,NaN,NaN,emar
+14996129,22633440.0,2181-09-05 10:00:00,Output,Foley,40.0,ml,outputevents
+14996129,22633440.0,2181-09-05 11:00:00,Output,Foley,50.0,ml,outputevents
+14996129,22633440.0,2181-09-05 11:50:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 11:50:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 11:50:00,Medication Admin,Erythromycin 0.5% Ophth Oint,NaN,NaN,emar
+14996129,22633440.0,2181-09-05 12:00:00,Output,Foley,125.0,ml,outputevents
+14996129,22633440.0,2181-09-05 12:18:00,DateTime Obs,Foley Cath Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-05 12:20:00,DateTime Obs,20 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-05 12:20:00,DateTime Obs,18 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-05 13:00:00,Output,Foley,45.0,ml,outputevents
+14996129,22633440.0,2181-09-05 13:56:00,Input,NaCl 0.9%,994.9999762773514,ml,inputevents
+14996129,22633440.0,2181-09-05 13:56:00,Input,Water,994.9999762773514,ml,ingredientevents
+14996129,22633440.0,2181-09-05 13:56:00,Input,IVF ingredient,994.9999762773514,ml,ingredientevents
+14996129,22633440.0,2181-09-05 14:00:00,Output,Foley,45.0,ml,outputevents
+14996129,22633440.0,2181-09-05 14:35:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 14:35:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 14:35:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 14:35:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-05 14:35:00,Medication Admin,Insulin,NaN,NaN,emar
+14996129,22633440.0,2181-09-05 15:00:00,Output,Foley,60.0,ml,outputevents
+14996129,22633440.0,2181-09-05 16:00:00,Output,Foley,40.0,ml,outputevents
+14996129,22633440.0,2181-09-05 16:03:00,Procedure,Extubation,1.0,,procedureevents
+14996129,22633440.0,2181-09-05 16:03:00,Procedure,Extubation,1.0,,procedureevents
+14996129,22633440.0,2181-09-05 16:44:00,DateTime Obs,Foley Cath Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-05 16:47:00,DateTime Obs,20 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-05 16:47:00,DateTime Obs,18 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-05 17:25:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 17:25:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 17:25:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 17:25:00,Medication Admin,Erythromycin 0.5% Ophth Oint,NaN,NaN,emar
+14996129,22633440.0,2181-09-05 17:25:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 17:25:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-05 17:25:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-05 17:25:00,Medication Admin,,NaN,NaN,emar
+14996129,22633440.0,2181-09-05 17:25:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 17:25:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 17:25:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 17:25:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 19:30:00,Input,Water,10.0,ml,ingredientevents
+14996129,22633440.0,2181-09-05 19:30:00,Input,IVF ingredient,10.0,ml,ingredientevents
+14996129,22633440.0,2181-09-05 19:30:00,Input,Pantoprazole (Protonix),1.0,dose,inputevents
+14996129,22633440.0,2181-09-05 19:30:00,Input,Solution,10.0,ml,inputevents
+14996129,22633440.0,2181-09-05 19:39:00,Medication Admin,Insulin,NaN,NaN,emar
+14996129,22633440.0,2181-09-05 19:39:00,Medication Admin,Heparin,NaN,NaN,emar
+14996129,22633440.0,2181-09-05 19:39:00,Medication Admin,Bacitracin Ointment,NaN,NaN,emar
+14996129,22633440.0,2181-09-05 19:39:00,Medication Admin,LevETIRAcetam,NaN,NaN,emar
+14996129,22633440.0,2181-09-05 19:39:00,Medication Admin,Mouth Care Oral Rinse,NaN,NaN,emar
+14996129,22633440.0,2181-09-05 19:39:00,Medication Admin,Pantoprazole,NaN,NaN,emar
+14996129,22633440.0,2181-09-05 19:39:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 19:39:00,Medication Admin,Erythromycin 0.5% Ophth Oint,NaN,NaN,emar
+14996129,22633440.0,2181-09-05 19:39:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 19:39:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 19:39:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 19:39:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 19:39:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 19:39:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 19:39:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 19:39:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 19:39:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 19:39:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 19:39:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 19:39:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 19:54:00,Input,Levetiracetam (Keppra),500.0000260770321,mg,inputevents
+14996129,22633440.0,2181-09-05 19:54:00,Input,NaCl 0.9%,99.9999976158142,ml,inputevents
+14996129,22633440.0,2181-09-05 19:54:00,Input,IVF ingredient,99.9999976158142,ml,ingredientevents
+14996129,22633440.0,2181-09-05 19:54:00,Input,Water,99.9999976158142,ml,ingredientevents
+14996129,22633440.0,2181-09-05 20:00:00,DateTime Obs,20 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-05 20:00:00,DateTime Obs,18 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-05 20:00:00,Output,Foley,120.0,ml,outputevents
+14996129,22633440.0,2181-09-05 20:00:00,DateTime Obs,Foley Cath Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-05 21:00:00,Output,Foley,65.0,ml,outputevents
+14996129,22633440.0,2181-09-05 22:00:00,Output,Foley,120.0,ml,outputevents
+14996129,22633440.0,2181-09-05 23:00:00,Output,Foley,100.0,ml,outputevents
+14996129,22633440.0,2181-09-05 23:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-05 23:00:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-05 23:53:00,Input,Water,1000.0000219345092,ml,ingredientevents
+14996129,22633440.0,2181-09-05 23:53:00,Input,NaCl 0.9%,1000.0000219345092,ml,inputevents
+14996129,22633440.0,2181-09-05 23:53:00,Input,IVF ingredient,1000.0000219345092,ml,ingredientevents
+14996129,22633440.0,2181-09-06 00:00:00,Output,Foley,100.0,ml,outputevents
+14996129,22633440.0,2181-09-06 00:00:00,DateTime Obs,Foley Cath Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-06 01:00:00,Output,Foley,65.0,ml,outputevents
+14996129,22633440.0,2181-09-06 01:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-06 01:00:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-06 02:00:00,Output,Foley,135.0,ml,outputevents
+14996129,22633440.0,2181-09-06 02:00:00,DateTime Obs,18 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-06 02:00:00,Prescription,Labetalol,5-10,mg,prescriptions
+14996129,22633440.0,2181-09-06 02:00:00,DateTime Obs,20 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-06 02:00:00,Pharmacy,Labetalol,,NaN,pharmacy
+14996129,22633440.0,2181-09-06 02:06:00,Input,Labetalol,5.000000353902578,mg,inputevents
+14996129,22633440.0,2181-09-06 02:08:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-06 02:08:00,Medication Admin,Labetalol,NaN,NaN,emar
+14996129,22633440.0,2181-09-06 02:08:00,Medication Admin,,NaN,NaN,emar
+14996129,22633440.0,2181-09-06 02:08:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-06 02:08:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-06 02:08:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-06 02:08:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-06 02:08:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-06 02:08:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-06 02:19:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-06 02:19:00,Medication Admin,Insulin,NaN,NaN,emar
+14996129,22633440.0,2181-09-06 03:00:00,Output,Foley,75.0,ml,outputevents
+14996129,22633440.0,2181-09-06 04:00:00,DateTime Obs,Foley Cath Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-06 04:00:00,Output,Foley,115.0,ml,outputevents
+14996129,22633440.0,2181-09-06 04:15:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-06 04:15:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-06 04:15:00,Input,Labetalol,10.000000707805157,mg,inputevents
+14996129,22633440.0,2181-09-06 04:15:00,Medication Admin,Labetalol,NaN,NaN,emar
+14996129,22633440.0,2181-09-06 05:00:00,Output,Foley,50.0,ml,outputevents
+14996129,22633440.0,2181-09-06 06:00:00,Output,Foley,75.0,ml,outputevents
+14996129,22633440.0,2181-09-06 07:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-06 07:00:00,Output,Foley,75.0,ml,outputevents
+14996129,22633440.0,2181-09-06 07:00:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-06 07:06:00,Medication Admin,Bacitracin Ointment,NaN,NaN,emar
+14996129,22633440.0,2181-09-06 07:06:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-06 07:06:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-06 07:06:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-06 07:06:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-06 07:06:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-06 07:06:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-06 07:06:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-06 07:06:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-06 07:06:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-06 07:06:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-06 07:06:00,Medication Admin,Pantoprazole,NaN,NaN,emar
+14996129,22633440.0,2181-09-06 07:06:00,Medication Admin,LevETIRAcetam,NaN,NaN,emar
+14996129,22633440.0,2181-09-06 07:06:00,Medication Admin,Heparin,NaN,NaN,emar
+14996129,22633440.0,2181-09-06 07:06:00,Medication Admin,Erythromycin 0.5% Ophth Oint,NaN,NaN,emar
+14996129,22633440.0,2181-09-06 07:45:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-06 07:45:00,Medication Admin,Insulin,NaN,NaN,emar
+14996129,22633440.0,2181-09-06 08:00:00,Medication Admin,Mouth Care Oral Rinse,NaN,NaN,emar
+14996129,22633440.0,2181-09-06 08:00:00,Output,Foley,100.0,ml,outputevents
+14996129,22633440.0,2181-09-06 08:00:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-06 08:19:00,Input,Piggyback,99.9999976158142,ml,inputevents
+14996129,22633440.0,2181-09-06 08:19:00,Input,IVF ingredient,99.9999976158142,ml,ingredientevents
+14996129,22633440.0,2181-09-06 08:19:00,Input,Water,99.9999976158142,ml,ingredientevents
+14996129,22633440.0,2181-09-06 08:21:00,DateTime Obs,Foley Cath Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-06 08:23:00,DateTime Obs,20 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-06 09:00:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-06 09:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-06 09:00:00,Output,Foley,125.0,ml,outputevents
+14996129,22633440.0,2181-09-06 09:25:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-06 09:25:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-06 09:25:00,Medication Admin,,NaN,NaN,emar
+14996129,22633440.0,2181-09-06 09:47:00,Input,NaCl 0.9%,858.333312869072,ml,inputevents
+14996129,22633440.0,2181-09-06 09:47:00,Input,Water,858.333312869072,ml,ingredientevents
+14996129,22633440.0,2181-09-06 09:47:00,Input,IVF ingredient,858.333312869072,ml,ingredientevents
+14996129,22633440.0,2181-09-06 10:00:00,Output,Foley,100.0,ml,outputevents
+14996129,22633440.0,2181-09-06 11:00:00,Output,Foley,75.0,ml,outputevents
+14996129,22633440.0,2181-09-06 12:00:00,Output,Foley,100.0,ml,outputevents
+14996129,22633440.0,2181-09-06 12:04:00,DateTime Obs,Foley Cath Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-06 12:06:00,DateTime Obs,20 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-06 12:08:00,Medication Admin,Erythromycin 0.5% Ophth Oint,NaN,NaN,emar
+14996129,22633440.0,2181-09-06 12:08:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-06 12:08:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-06 13:00:00,Output,Foley,75.0,ml,outputevents
+14996129,22633440.0,2181-09-06 13:00:00,Pharmacy,Metoprolol Tartrate,,NaN,pharmacy
+14996129,22633440.0,2181-09-06 13:00:00,Prescription,Metoprolol Tartrate,2.5,mg,prescriptions
+14996129,22633440.0,2181-09-06 13:50:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-06 13:50:00,Medication Admin,Insulin,NaN,NaN,emar
+14996129,22633440.0,2181-09-06 14:00:00,Output,Foley,75.0,ml,outputevents
+14996129,22633440.0,2181-09-06 15:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996129,22633440.0,2181-09-06 15:00:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-06 15:00:00,Output,Foley,105.0,ml,outputevents
+14996129,22633440.0,2181-09-06 16:00:00,Output,Foley,100.0,ml,outputevents
+14996129,22633440.0,2181-09-06 16:06:00,Medication Admin,,NaN,NaN,emar
+14996129,22633440.0,2181-09-06 16:06:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-06 16:06:00,Medication Admin,Erythromycin 0.5% Ophth Oint,NaN,NaN,emar
+14996129,22633440.0,2181-09-06 16:06:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-06 16:06:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-06 16:06:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-06 16:43:00,DateTime Obs,Foley Cath Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-06 16:44:00,DateTime Obs,20 Gauge Insertion Date,2181-09-01 00:00:00,Date,datetimeevents
+14996129,22633440.0,2181-09-06 17:00:00,Output,Foley,100.0,ml,outputevents
+14996129,22633440.0,2181-09-06 18:00:00,Output,Foley,125.0,ml,outputevents
+14996129,22633440.0,2181-09-06 18:00:00,Prescription,Morphine Sulfate,1-4,mg,prescriptions
+14996129,22633440.0,2181-09-06 18:00:00,Pharmacy,Morphine Sulfate,,NaN,pharmacy
+14996129,22633440.0,2181-09-06 18:22:00,Input,NaCl 0.9%,18.000000536441803,ml,inputevents
+14996129,22633440.0,2181-09-06 18:22:00,Input,Water,18.000000536441803,ml,ingredientevents
+14996129,22633440.0,2181-09-06 18:22:00,Input,IVF ingredient,18.000000536441803,ml,ingredientevents
+14996129,22633440.0,2181-09-06 19:43:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-06 19:43:00,Medication Admin,,NaN,NaN,emar
+14996129,22633440.0,2181-09-06 19:43:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-06 19:53:00,DateTime Obs,20 Gauge Insertion Date,2181-09-04 19:53:00,Date,datetimeevents
+14996129,22633440.0,2181-09-06 19:53:00,Procedure,20 Gauge,126.0,min,procedureevents
+14996129,22633440.0,2181-09-06 19:53:00,Procedure,20 Gauge,126.0,min,procedureevents
+14996129,22633440.0,2181-09-06 20:00:00,Output,Foley,200.0,ml,outputevents
+14996129,22633440.0,2181-09-06 21:00:00,Output,Foley,175.0,ml,outputevents
+14996129,22633440.0,2181-09-06 21:59:12,Transfer,transfer Medicine,NaN,NaN,transfers
+14996129,22633440.0,2181-09-07 07:05:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-07 07:05:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-07 07:05:00,Medication Admin,Morphine Sulfate,NaN,NaN,emar
+14996129,22633440.0,2181-09-07 11:00:00,Pharmacy,Glycopyrrolate,,NaN,pharmacy
+14996129,22633440.0,2181-09-07 11:00:00,Pharmacy,Acetaminophen,,NaN,pharmacy
+14996129,22633440.0,2181-09-07 11:00:00,Pharmacy,Bisacodyl,,NaN,pharmacy
+14996129,22633440.0,2181-09-07 11:00:00,Prescription,Glycopyrrolate,0.2,mg,prescriptions
+14996129,22633440.0,2181-09-07 11:00:00,Prescription,Acetaminophen,650,mg,prescriptions
+14996129,22633440.0,2181-09-07 11:00:00,Prescription,Bisacodyl,10,mg,prescriptions
+14996129,22633440.0,2181-09-07 13:57:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-07 13:57:00,Medication Admin,Glycopyrrolate,NaN,NaN,emar
+14996129,22633440.0,2181-09-07 13:57:00,Medication Route,,NaN,NaN,emar_detail
+14996129,22633440.0,2181-09-07 15:50:09,Transfer,discharge,NaN,NaN,transfers
+14996129,,,Medication Route,,NaN,NaN,emar_detail
+14996129,,,Medication Route,,NaN,NaN,emar_detail
+14996129,,,Medication Route,,NaN,NaN,emar_detail
+14996129,,,Medication Route,,NaN,NaN,emar_detail
+14996129,,,Medication Route,,NaN,NaN,emar_detail
+14996129,,,Medication Route,,NaN,NaN,emar_detail
+14996129,,,Medication Route,,NaN,NaN,emar_detail
+14996129,,,Medication Route,,NaN,NaN,emar_detail
+14996129,,,Medication Route,,NaN,NaN,emar_detail
+14996129,,,Medication Route,,NaN,NaN,emar_detail

@@ -1,0 +1,1013 @@
+subject_id,hadm_id,event_time,event_type,description,value,unit,source_table
+14996995,28442302.0,2179-07-24 12:41:00,Transfer,ED Emergency Department,NaN,NaN,transfers
+14996995,28442302.0,2179-07-24 22:58:00,Admission,OBSERVATION ADMIT,NaN,NaN,admissions
+14996995,28442302.0,2179-07-24 22:59:29,Service,TRAUM,NaN,NaN,services
+14996995,28442302.0,2179-07-24 23:12:00,Transfer,admit Trauma SICU (TSICU),NaN,NaN,transfers
+14996995,28442302.0,2179-07-24 23:25:00,Procedure,18 Gauge,126.0,min,procedureevents
+14996995,28442302.0,2179-07-24 23:25:00,Procedure,20 Gauge,124.0,min,procedureevents
+14996995,28442302.0,2179-07-24 23:25:00,Procedure,20 Gauge,124.0,min,procedureevents
+14996995,28442302.0,2179-07-24 23:25:00,Procedure,18 Gauge,126.0,min,procedureevents
+14996995,28442302.0,2179-07-24 23:25:00,DateTime Obs,18 Gauge Insertion Date,2179-07-24 23:25:00,Date,datetimeevents
+14996995,28442302.0,2179-07-24 23:25:00,DateTime Obs,20 Gauge Insertion Date,2179-07-24 23:26:00,Date,datetimeevents
+14996995,28442302.0,2179-07-24 23:54:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-24 23:54:00,Input,Water,998.8000053167344,ml,ingredientevents
+14996995,28442302.0,2179-07-24 23:54:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-24 23:54:00,Input,IVF ingredient,998.8000053167344,ml,ingredientevents
+14996995,28442302.0,2179-07-24 23:54:00,Input,LR,998.8000053167344,ml,inputevents
+14996995,28442302.0,2179-07-24 23:54:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996995,28442302.0,2179-07-25 00:00:00,Medication Admin,Dexmedetomidine,NaN,NaN,emar
+14996995,28442302.0,2179-07-25 00:00:00,Prescription,Acetaminophen,650,mg,prescriptions
+14996995,28442302.0,2179-07-25 00:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 00:00:00,Prescription,Docusate Sodium,100,mg,prescriptions
+14996995,28442302.0,2179-07-25 00:00:00,Pharmacy,Dexmedetomidine,,NaN,pharmacy
+14996995,28442302.0,2179-07-25 00:00:00,Prescription,Ondansetron,4,mg,prescriptions
+14996995,28442302.0,2179-07-25 00:00:00,Pharmacy,Influenza Vaccine Quadrivalent,,NaN,pharmacy
+14996995,28442302.0,2179-07-25 00:00:00,Prescription,Morphine Sulfate,1-2,mg,prescriptions
+14996995,28442302.0,2179-07-25 00:00:00,Pharmacy,Sodium Chloride 0.9%  Flush,,NaN,pharmacy
+14996995,28442302.0,2179-07-25 00:00:00,Pharmacy,Docusate Sodium,,NaN,pharmacy
+14996995,28442302.0,2179-07-25 00:00:00,Pharmacy,Morphine Sulfate,,NaN,pharmacy
+14996995,28442302.0,2179-07-25 00:00:00,Output,Void,150.0,ml,outputevents
+14996995,28442302.0,2179-07-25 00:00:00,Pharmacy,Ondansetron,,NaN,pharmacy
+14996995,28442302.0,2179-07-25 00:00:00,Prescription,Sodium Chloride 0.9%  Flush,3-10,mL,prescriptions
+14996995,28442302.0,2179-07-25 00:00:00,Prescription,Dexmedetomidine,0.4,mg,prescriptions
+14996995,28442302.0,2179-07-25 00:00:00,Prescription,0.9% Sodium Chloride,100,mL,prescriptions
+14996995,28442302.0,2179-07-25 00:00:00,Pharmacy,Acetaminophen,,NaN,pharmacy
+14996995,28442302.0,2179-07-25 00:00:00,Prescription,Influenza Vaccine Quadrivalent,0.5,mL,prescriptions
+14996995,28442302.0,2179-07-25 00:00:00,DateTime Obs,Pressure ulcer #1- Dressing change,2179-07-25 00:00:00,Date and Time,datetimeevents
+14996995,28442302.0,2179-07-25 00:06:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 00:06:00,Medication Admin,,NaN,NaN,emar
+14996995,28442302.0,2179-07-25 00:06:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 01:00:00,Prescription,Lactated Ringers,1000,mL,prescriptions
+14996995,28442302.0,2179-07-25 01:00:00,Pharmacy,,,NaN,pharmacy
+14996995,28442302.0,2179-07-25 01:15:00,Input,IVF ingredient,2.222222238779068,ml,ingredientevents
+14996995,28442302.0,2179-07-25 01:15:00,Input,Water,2.222222238779068,ml,ingredientevents
+14996995,28442302.0,2179-07-25 01:15:00,Input,NaCl 0.9%,2.222222238779068,ml,inputevents
+14996995,28442302.0,2179-07-25 01:15:00,Input,Haloperidol (Haldol),2.500000176951289,mg,inputevents
+14996995,28442302.0,2179-07-25 01:15:00,Input,Dexmedetomidine (Precedex),8.888888913816118,mcg,inputevents
+14996995,28442302.0,2179-07-25 01:28:00,Lab Result,Hematocrit| Blood,30.5,%,labevents
+14996995,28442302.0,2179-07-25 01:28:00,Lab Result,Hemoglobin| Blood,8.9,g/dL,labevents
+14996995,28442302.0,2179-07-25 01:28:00,Lab Result,MCH| Blood,27.0,pg,labevents
+14996995,28442302.0,2179-07-25 01:28:00,Lab Result,INR(PT)| Blood,1.4,,labevents
+14996995,28442302.0,2179-07-25 01:28:00,Lab Result,MCHC| Blood,29.2,g/dL,labevents
+14996995,28442302.0,2179-07-25 01:28:00,Lab Result,MCV| Blood,92.0,fL,labevents
+14996995,28442302.0,2179-07-25 01:28:00,Lab Result,RDW| Blood,18.1,%,labevents
+14996995,28442302.0,2179-07-25 01:28:00,Lab Result,Red Blood Cells| Blood,3.3,m/uL,labevents
+14996995,28442302.0,2179-07-25 01:28:00,Lab Result,White Blood Cells| Blood,11.7,K/uL,labevents
+14996995,28442302.0,2179-07-25 01:28:00,Lab Result,RDW-SD| Blood,58.6,fL,labevents
+14996995,28442302.0,2179-07-25 01:28:00,Lab Result,PT| Blood,14.7,sec,labevents
+14996995,28442302.0,2179-07-25 01:28:00,Lab Result,Platelet Count| Blood,104.0,K/uL,labevents
+14996995,28442302.0,2179-07-25 01:28:00,Lab Result,Alanine Aminotransferase (ALT)| Blood,21.0,IU/L,labevents
+14996995,28442302.0,2179-07-25 01:28:00,Lab Result,Lactate Dehydrogenase (LD)| Blood,279.0,IU/L,labevents
+14996995,28442302.0,2179-07-25 01:28:00,Lab Result,I| Blood,5.0,,labevents
+14996995,28442302.0,2179-07-25 01:28:00,Lab Result,H| Blood,57.0,,labevents
+14996995,28442302.0,2179-07-25 01:28:00,Lab Result,Glucose| Blood,114.0,mg/dL,labevents
+14996995,28442302.0,2179-07-25 01:28:00,Lab Result,Creatinine| Blood,1.0,mg/dL,labevents
+14996995,28442302.0,2179-07-25 01:28:00,Lab Result,PTT| Blood,31.5,sec,labevents
+14996995,28442302.0,2179-07-25 01:28:00,Lab Result,Potassium| Blood,3.9,mEq/L,labevents
+14996995,28442302.0,2179-07-25 01:28:00,Lab Result,Chloride| Blood,103.0,mEq/L,labevents
+14996995,28442302.0,2179-07-25 01:28:00,Lab Result,"Calcium, Total| Blood",9.0,mg/dL,labevents
+14996995,28442302.0,2179-07-25 01:28:00,Lab Result,Magnesium| Blood,1.8,mg/dL,labevents
+14996995,28442302.0,2179-07-25 01:28:00,Lab Result,Phosphate| Blood,3.3,mg/dL,labevents
+14996995,28442302.0,2179-07-25 01:28:00,Lab Result,Albumin| Blood,3.9,g/dL,labevents
+14996995,28442302.0,2179-07-25 01:28:00,Lab Result,Alkaline Phosphatase| Blood,58.0,IU/L,labevents
+14996995,28442302.0,2179-07-25 01:28:00,Lab Result,Anion Gap| Blood,14.0,mEq/L,labevents
+14996995,28442302.0,2179-07-25 01:28:00,Lab Result,Asparate Aminotransferase (AST)| Blood,61.0,IU/L,labevents
+14996995,28442302.0,2179-07-25 01:28:00,Lab Result,Bicarbonate| Blood,25.0,mEq/L,labevents
+14996995,28442302.0,2179-07-25 01:28:00,Lab Result,L| Blood,4.0,,labevents
+14996995,28442302.0,2179-07-25 01:28:00,Lab Result,"Bilirubin, Total| Blood",3.8,mg/dL,labevents
+14996995,28442302.0,2179-07-25 01:28:00,Lab Result,Sodium| Blood,142.0,mEq/L,labevents
+14996995,28442302.0,2179-07-25 01:28:00,Lab Result,Urea Nitrogen| Blood,28.0,mg/dL,labevents
+14996995,28442302.0,2179-07-25 01:32:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 01:32:00,Medication Admin,Dexmedetomidine,NaN,NaN,emar
+14996995,28442302.0,2179-07-25 01:32:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 01:34:00,DateTime Obs,20 Gauge Insertion Date,2179-07-24 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-25 01:34:00,Input,Water,8.48968693614006,ml,ingredientevents
+14996995,28442302.0,2179-07-25 01:34:00,Input,IVF ingredient,8.48968693614006,ml,ingredientevents
+14996995,28442302.0,2179-07-25 01:34:00,Input,NaCl 0.9%,8.48968693614006,ml,inputevents
+14996995,28442302.0,2179-07-25 01:34:00,Input,Dexmedetomidine (Precedex),33.9587496682725,mcg,inputevents
+14996995,28442302.0,2179-07-25 01:35:00,Procedure,20 Gauge,767.0,min,procedureevents
+14996995,28442302.0,2179-07-25 01:35:00,Procedure,20 Gauge,2226.0,min,procedureevents
+14996995,28442302.0,2179-07-25 01:35:00,DateTime Obs,20 Gauge Insertion Date,2179-07-25 01:35:00,Date,datetimeevents
+14996995,28442302.0,2179-07-25 01:35:00,DateTime Obs,18 Gauge Insertion Date,2179-07-24 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-25 01:35:00,DateTime Obs,20 Gauge Dressing Change,2179-07-25 01:35:00,Date and Time,datetimeevents
+14996995,28442302.0,2179-07-25 01:35:00,Procedure,20 Gauge,2226.0,min,procedureevents
+14996995,28442302.0,2179-07-25 01:35:00,Procedure,20 Gauge,767.0,min,procedureevents
+14996995,28442302.0,2179-07-25 01:35:00,DateTime Obs,20 Gauge Cap Change,2179-07-25 01:35:00,Date,datetimeevents
+14996995,28442302.0,2179-07-25 01:36:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 01:36:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 01:36:00,Medication Admin,Haloperidol,NaN,NaN,emar
+14996995,28442302.0,2179-07-25 02:03:00,Input,NaCl 0.9%,40.77723634243012,ml,inputevents
+14996995,28442302.0,2179-07-25 02:03:00,Input,Water,40.77723634243012,ml,ingredientevents
+14996995,28442302.0,2179-07-25 02:03:00,Input,IVF ingredient,40.77723634243012,ml,ingredientevents
+14996995,28442302.0,2179-07-25 02:03:00,Input,Dexmedetomidine (Precedex),163.10895307469764,mcg,inputevents
+14996995,28442302.0,2179-07-25 03:59:00,Input,IVF ingredient,7.811068743467331,ml,ingredientevents
+14996995,28442302.0,2179-07-25 03:59:00,Input,NaCl 0.9%,7.811068743467331,ml,inputevents
+14996995,28442302.0,2179-07-25 03:59:00,Input,Water,7.811068743467331,ml,ingredientevents
+14996995,28442302.0,2179-07-25 03:59:00,Input,Dexmedetomidine (Precedex),31.244277465702908,mcg,inputevents
+14996995,28442302.0,2179-07-25 04:00:00,Prescription,Acetaminophen IV,1000,mg,prescriptions
+14996995,28442302.0,2179-07-25 04:00:00,Pharmacy,Acetaminophen IV,,NaN,pharmacy
+14996995,28442302.0,2179-07-25 04:02:00,DateTime Obs,20 Gauge Insertion Date,2179-07-25 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-25 04:02:00,DateTime Obs,20 Gauge Cap Change,2179-07-25 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-25 04:02:00,DateTime Obs,20 Gauge Dressing Change,2179-07-25 01:35:00,Date and Time,datetimeevents
+14996995,28442302.0,2179-07-25 04:18:00,Input,NaCl 0.9%,19.8190233707428,ml,inputevents
+14996995,28442302.0,2179-07-25 04:18:00,Input,Dexmedetomidine (Precedex),79.27610022306908,mcg,inputevents
+14996995,28442302.0,2179-07-25 04:18:00,Input,Water,19.8190233707428,ml,ingredientevents
+14996995,28442302.0,2179-07-25 04:18:00,Input,IVF ingredient,19.8190233707428,ml,ingredientevents
+14996995,28442302.0,2179-07-25 05:08:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14996995,28442302.0,2179-07-25 05:08:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14996995,28442302.0,2179-07-25 05:14:00,Input,NaCl 0.9%,20.88074621558189,ml,inputevents
+14996995,28442302.0,2179-07-25 05:14:00,Input,Dexmedetomidine (Precedex),83.52299551006581,mcg,inputevents
+14996995,28442302.0,2179-07-25 05:14:00,Input,Water,20.88074621558189,ml,ingredientevents
+14996995,28442302.0,2179-07-25 05:14:00,Input,IVF ingredient,20.88074621558189,ml,ingredientevents
+14996995,28442302.0,2179-07-25 06:21:00,Input,NaCl 0.9%,15.881138563156128,ml,inputevents
+14996995,28442302.0,2179-07-25 06:21:00,Input,Dexmedetomidine (Precedex),63.52455739033758,mcg,inputevents
+14996995,28442302.0,2179-07-25 06:21:00,Input,IVF ingredient,15.881138563156128,ml,ingredientevents
+14996995,28442302.0,2179-07-25 06:21:00,Input,Water,15.881138563156128,ml,ingredientevents
+14996995,28442302.0,2179-07-25 07:15:00,Input,NaCl 0.9%,4.4768494963645935,ml,inputevents
+14996995,28442302.0,2179-07-25 07:15:00,Input,Dexmedetomidine (Precedex),17.90739810303421,mcg,inputevents
+14996995,28442302.0,2179-07-25 07:15:00,Input,IVF ingredient,4.4768494963645935,ml,ingredientevents
+14996995,28442302.0,2179-07-25 07:15:00,Input,Water,4.4768494963645935,ml,ingredientevents
+14996995,28442302.0,2179-07-25 07:34:00,Input,IVF ingredient,1.4126969575881958,ml,ingredientevents
+14996995,28442302.0,2179-07-25 07:34:00,Input,Water,1.4126969575881958,ml,ingredientevents
+14996995,28442302.0,2179-07-25 07:34:00,Input,NaCl 0.9%,1.4126969575881958,ml,inputevents
+14996995,28442302.0,2179-07-25 07:34:00,Input,Dexmedetomidine (Precedex),5.650787898048293,mcg,inputevents
+14996995,28442302.0,2179-07-25 08:00:00,Prescription,Finasteride,5,mg,prescriptions
+14996995,28442302.0,2179-07-25 08:00:00,Pharmacy,Finasteride,,NaN,pharmacy
+14996995,28442302.0,2179-07-25 08:00:00,Prescription,LevETIRAcetam,500,mg,prescriptions
+14996995,28442302.0,2179-07-25 08:00:00,Prescription,0.9% Sodium Chloride,100,mL,prescriptions
+14996995,28442302.0,2179-07-25 08:00:00,Pharmacy,LevETIRAcetam,,NaN,pharmacy
+14996995,28442302.0,2179-07-25 08:00:00,Pharmacy,LevETIRAcetam,,NaN,pharmacy
+14996995,28442302.0,2179-07-25 08:00:00,Input,Levetiracetam (Keppra),500.0000260770321,mg,inputevents
+14996995,28442302.0,2179-07-25 08:00:00,Medication Admin,Docusate Sodium,NaN,NaN,emar
+14996995,28442302.0,2179-07-25 08:00:00,Prescription,LevETIRAcetam,500,mg,prescriptions
+14996995,28442302.0,2179-07-25 08:00:00,Input,IVF ingredient,99.9999976158142,ml,ingredientevents
+14996995,28442302.0,2179-07-25 08:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 08:00:00,Input,Water,99.9999976158142,ml,ingredientevents
+14996995,28442302.0,2179-07-25 08:00:00,Input,NaCl 0.9%,99.9999976158142,ml,inputevents
+14996995,28442302.0,2179-07-25 08:28:00,DateTime Obs,20 Gauge Cap Change,2179-07-25 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-25 08:28:00,DateTime Obs,20 Gauge Insertion Date,2179-07-25 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-25 08:28:00,DateTime Obs,20 Gauge Dressing Change,2179-07-25 01:35:00,Date and Time,datetimeevents
+14996995,28442302.0,2179-07-25 08:29:00,DateTime Obs,20 Gauge Insertion Date,2179-07-25 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-25 08:29:00,DateTime Obs,20 Gauge Dressing Change,2179-07-25 01:35:00,Date and Time,datetimeevents
+14996995,28442302.0,2179-07-25 08:29:00,DateTime Obs,20 Gauge Cap Change,2179-07-25 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-25 08:37:00,Medication Admin,LevETIRAcetam,NaN,NaN,emar
+14996995,28442302.0,2179-07-25 08:37:00,Medication Admin,Acetaminophen IV,NaN,NaN,emar
+14996995,28442302.0,2179-07-25 08:37:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 08:37:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 08:37:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 08:37:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 08:38:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996995,28442302.0,2179-07-25 08:38:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 08:38:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 08:42:00,Input,Acetaminophen-IV,1000.0000521540642,mg,inputevents
+14996995,28442302.0,2179-07-25 08:42:00,Input,Solution,99.9999976158142,ml,inputevents
+14996995,28442302.0,2179-07-25 08:42:00,Input,IVF ingredient,99.9999976158142,ml,ingredientevents
+14996995,28442302.0,2179-07-25 08:42:00,Input,Water,99.9999976158142,ml,ingredientevents
+14996995,28442302.0,2179-07-25 09:42:00,Output,Straight Cath,500.0,ml,outputevents
+14996995,28442302.0,2179-07-25 10:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 10:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 10:00:00,Pharmacy,Magnesium Sulfate,,NaN,pharmacy
+14996995,28442302.0,2179-07-25 10:00:00,Prescription,Bag,1,BAG,prescriptions
+14996995,28442302.0,2179-07-25 10:00:00,Medication Admin,Dexmedetomidine,NaN,NaN,emar
+14996995,28442302.0,2179-07-25 10:00:00,Prescription,Magnesium Sulfate,2,gm,prescriptions
+14996995,28442302.0,2179-07-25 10:12:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 10:12:00,Medication Admin,Magnesium Sulfate,NaN,NaN,emar
+14996995,28442302.0,2179-07-25 10:12:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 10:12:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 10:12:00,Medication Admin,Lidocaine 5% Patch,NaN,NaN,emar
+14996995,28442302.0,2179-07-25 10:12:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 11:00:00,Input,IVF ingredient,49.999998807907104,ml,ingredientevents
+14996995,28442302.0,2179-07-25 11:00:00,Input,Water,49.999998807907104,ml,ingredientevents
+14996995,28442302.0,2179-07-25 11:00:00,Input,Magnesium Sulfate,2.0000001043081284,grams,inputevents
+14996995,28442302.0,2179-07-25 11:00:00,Input,Magnesium Sulfate (Bolus),49.999998807907104,ml,inputevents
+14996995,28442302.0,2179-07-25 11:59:00,DateTime Obs,20 Gauge Insertion Date,2179-07-25 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-25 11:59:00,DateTime Obs,20 Gauge Cap Change,2179-07-25 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-25 11:59:00,DateTime Obs,20 Gauge Dressing Change,2179-07-25 01:35:00,Date and Time,datetimeevents
+14996995,28442302.0,2179-07-25 13:13:00,Input,LR,370.0,ml,inputevents
+14996995,28442302.0,2179-07-25 13:13:00,Input,IVF ingredient,370.0,ml,ingredientevents
+14996995,28442302.0,2179-07-25 13:13:00,Input,Water,370.0,ml,ingredientevents
+14996995,28442302.0,2179-07-25 14:29:00,DateTime Obs,20 Gauge Insertion Date,2179-07-25 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-25 14:29:00,DateTime Obs,20 Gauge Dressing Change,2179-07-25 01:35:00,Date and Time,datetimeevents
+14996995,28442302.0,2179-07-25 14:29:00,DateTime Obs,20 Gauge Cap Change,2179-07-25 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-25 15:22:00,Medication Admin,,NaN,NaN,emar
+14996995,28442302.0,2179-07-25 15:22:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 15:22:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 15:33:00,Input,Solution,99.9999976158142,ml,inputevents
+14996995,28442302.0,2179-07-25 15:33:00,Input,Acetaminophen-IV,1000.0000521540642,mg,inputevents
+14996995,28442302.0,2179-07-25 15:33:00,Input,IVF ingredient,99.9999976158142,ml,ingredientevents
+14996995,28442302.0,2179-07-25 15:33:00,Input,Water,99.9999976158142,ml,ingredientevents
+14996995,28442302.0,2179-07-25 16:00:00,Prescription,Acetaminophen IV,1000,mg,prescriptions
+14996995,28442302.0,2179-07-25 16:00:00,Pharmacy,Acetaminophen IV,,NaN,pharmacy
+14996995,28442302.0,2179-07-25 16:45:00,DateTime Obs,Pressure ulcer #1- Dressing change,2179-07-25 00:00:00,Date and Time,datetimeevents
+14996995,28442302.0,2179-07-25 17:14:00,DateTime Obs,Pressure ulcer #1- Dressing change,2179-07-25 17:00:00,Date and Time,datetimeevents
+14996995,28442302.0,2179-07-25 17:35:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 17:35:00,Medication Admin,Lidocaine 5% Patch,NaN,NaN,emar
+14996995,28442302.0,2179-07-25 17:35:00,Medication Admin,Acetaminophen IV,NaN,NaN,emar
+14996995,28442302.0,2179-07-25 17:35:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 17:35:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 17:35:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 17:35:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 17:36:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 17:36:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 17:36:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996995,28442302.0,2179-07-25 18:00:00,Pharmacy,OxyCODONE (Immediate Release),,NaN,pharmacy
+14996995,28442302.0,2179-07-25 18:00:00,Prescription,OxyCODONE (Immediate Release),2.5,mg,prescriptions
+14996995,28442302.0,2179-07-25 18:00:00,Pharmacy,Ramelteon,,NaN,pharmacy
+14996995,28442302.0,2179-07-25 18:00:00,Prescription,Ramelteon,8,mg,prescriptions
+14996995,28442302.0,2179-07-25 18:01:00,Medication Route,PO,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 18:01:00,Medication Admin,OxyCODONE (Immediate Release),NaN,NaN,emar
+14996995,28442302.0,2179-07-25 18:01:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 18:02:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 18:02:00,Medication Admin,,NaN,NaN,emar
+14996995,28442302.0,2179-07-25 18:02:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 18:50:00,Input,PO Intake,450.0,ml,inputevents
+14996995,28442302.0,2179-07-25 18:50:00,Input,Water,450.0,ml,ingredientevents
+14996995,28442302.0,2179-07-25 18:50:00,Input,Oral/Gastric Ingredient,450.0,ml,ingredientevents
+14996995,28442302.0,2179-07-25 19:00:00,Prescription,Amiodarone,100,mg,prescriptions
+14996995,28442302.0,2179-07-25 19:00:00,Pharmacy,Amiodarone,,NaN,pharmacy
+14996995,28442302.0,2179-07-25 19:12:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 19:12:00,Medication Admin,LevETIRAcetam,NaN,NaN,emar
+14996995,28442302.0,2179-07-25 19:12:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 19:12:00,Medication Admin,Amiodarone,NaN,NaN,emar
+14996995,28442302.0,2179-07-25 19:12:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 19:12:00,Medication Admin,Docusate Sodium,NaN,NaN,emar
+14996995,28442302.0,2179-07-25 19:12:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 19:12:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 19:12:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 19:12:00,Medication Admin,Finasteride,NaN,NaN,emar
+14996995,28442302.0,2179-07-25 19:12:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 19:12:00,Medication Route,PO,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 19:21:00,Input,NaCl 0.9%,99.9999976158142,ml,inputevents
+14996995,28442302.0,2179-07-25 19:21:00,Input,Levetiracetam (Keppra),500.0000260770321,mg,inputevents
+14996995,28442302.0,2179-07-25 19:21:00,Input,IVF ingredient,99.9999976158142,ml,ingredientevents
+14996995,28442302.0,2179-07-25 19:21:00,Input,Water,99.9999976158142,ml,ingredientevents
+14996995,28442302.0,2179-07-25 19:36:00,Medication Admin,Dexmedetomidine,NaN,NaN,emar
+14996995,28442302.0,2179-07-25 19:36:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 19:36:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-25 20:09:00,Input,Dexmedetomidine (Precedex),85.24589793523774,mcg,inputevents
+14996995,28442302.0,2179-07-25 20:09:00,Input,NaCl 0.9%,21.311474800109863,ml,inputevents
+14996995,28442302.0,2179-07-25 20:09:00,Input,IVF ingredient,21.311474800109863,ml,ingredientevents
+14996995,28442302.0,2179-07-25 20:09:00,Input,Water,21.311474800109863,ml,ingredientevents
+14996995,28442302.0,2179-07-25 20:19:00,DateTime Obs,Pressure ulcer #1- Dressing change,2179-07-25 17:00:00,Date and Time,datetimeevents
+14996995,28442302.0,2179-07-25 20:24:00,DateTime Obs,20 Gauge Dressing Change,2179-07-25 01:35:00,Date and Time,datetimeevents
+14996995,28442302.0,2179-07-25 20:24:00,DateTime Obs,20 Gauge Insertion Date,2179-07-25 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-25 20:24:00,DateTime Obs,20 Gauge Cap Change,2179-07-25 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-25 20:25:00,Procedure,20 Gauge,2680.0,min,procedureevents
+14996995,28442302.0,2179-07-25 20:25:00,DateTime Obs,20 Gauge Dressing Change,2179-07-25 20:25:00,Date and Time,datetimeevents
+14996995,28442302.0,2179-07-25 20:25:00,DateTime Obs,20 Gauge Cap Change,2179-07-25 20:25:00,Date,datetimeevents
+14996995,28442302.0,2179-07-25 20:25:00,Procedure,20 Gauge,2680.0,min,procedureevents
+14996995,28442302.0,2179-07-25 20:25:00,DateTime Obs,20 Gauge Insertion Date,2179-07-25 20:25:00,Date,datetimeevents
+14996995,28442302.0,2179-07-25 21:01:00,Input,NaCl 0.9%,23.69431445002556,ml,inputevents
+14996995,28442302.0,2179-07-25 21:01:00,Input,Dexmedetomidine (Precedex),94.77725791384728,mcg,inputevents
+14996995,28442302.0,2179-07-25 21:01:00,Input,IVF ingredient,23.69431445002556,ml,ingredientevents
+14996995,28442302.0,2179-07-25 21:01:00,Input,Water,23.69431445002556,ml,ingredientevents
+14996995,28442302.0,2179-07-25 22:00:00,Prescription,Bisacodyl,10,mg,prescriptions
+14996995,28442302.0,2179-07-25 22:00:00,Pharmacy,Bisacodyl,,NaN,pharmacy
+14996995,28442302.0,2179-07-25 22:22:00,Input,Dexmedetomidine (Precedex),99.2235972034905,mcg,inputevents
+14996995,28442302.0,2179-07-25 22:22:00,Input,Water,24.80589672923088,ml,ingredientevents
+14996995,28442302.0,2179-07-25 22:22:00,Input,NaCl 0.9%,24.80589672923088,ml,inputevents
+14996995,28442302.0,2179-07-25 22:22:00,Input,IVF ingredient,24.80589672923088,ml,ingredientevents
+14996995,28442302.0,2179-07-25 23:02:00,Input,Oral/Gastric Ingredient,120.0,ml,ingredientevents
+14996995,28442302.0,2179-07-25 23:02:00,Input,PO Intake,120.0,ml,inputevents
+14996995,28442302.0,2179-07-25 23:02:00,Input,Water,120.0,ml,ingredientevents
+14996995,28442302.0,2179-07-25 23:12:00,Output,Void,100.0,ml,outputevents
+14996995,28442302.0,2179-07-26 00:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 00:00:00,Medication Admin,Acetaminophen IV,NaN,NaN,emar
+14996995,28442302.0,2179-07-26 00:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 00:08:00,Input,NaCl 0.9%,12.987992823123932,ml,inputevents
+14996995,28442302.0,2179-07-26 00:08:00,Input,IVF ingredient,12.987992823123932,ml,ingredientevents
+14996995,28442302.0,2179-07-26 00:08:00,Input,Water,12.987992823123932,ml,ingredientevents
+14996995,28442302.0,2179-07-26 00:08:00,Input,Dexmedetomidine (Precedex),51.95197672946961,mcg,inputevents
+14996995,28442302.0,2179-07-26 00:11:00,Input,IVF ingredient,99.9999976158142,ml,ingredientevents
+14996995,28442302.0,2179-07-26 00:11:00,Input,Solution,99.9999976158142,ml,inputevents
+14996995,28442302.0,2179-07-26 00:11:00,Input,Acetaminophen-IV,1000.0000521540642,mg,inputevents
+14996995,28442302.0,2179-07-26 00:11:00,Input,Water,99.9999976158142,ml,ingredientevents
+14996995,28442302.0,2179-07-26 01:22:00,Input,Water,17.200247645378113,ml,ingredientevents
+14996995,28442302.0,2179-07-26 01:22:00,Input,NaCl 0.9%,17.200247645378113,ml,inputevents
+14996995,28442302.0,2179-07-26 01:22:00,Input,IVF ingredient,17.200247645378113,ml,ingredientevents
+14996995,28442302.0,2179-07-26 01:22:00,Input,Dexmedetomidine (Precedex),68.80099590489408,mcg,inputevents
+14996995,28442302.0,2179-07-26 01:31:00,DateTime Obs,20 Gauge Cap Change,2179-07-25 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-26 01:31:00,DateTime Obs,20 Gauge Dressing Change,2179-07-25 01:35:00,Date and Time,datetimeevents
+14996995,28442302.0,2179-07-26 01:31:00,DateTime Obs,20 Gauge Insertion Date,2179-07-25 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-26 01:44:00,DateTime Obs,Pressure ulcer #1- Dressing change,2179-07-25 17:00:00,Date and Time,datetimeevents
+14996995,28442302.0,2179-07-26 01:48:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 01:48:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 01:48:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996995,28442302.0,2179-07-26 01:49:00,Lab Result,PT| Blood,15.4,sec,labevents
+14996995,28442302.0,2179-07-26 01:49:00,Lab Result,Anion Gap| Blood,8.0,mEq/L,labevents
+14996995,28442302.0,2179-07-26 01:49:00,Lab Result,Hematocrit| Blood,27.6,%,labevents
+14996995,28442302.0,2179-07-26 01:49:00,Lab Result,Hemoglobin| Blood,8.1,g/dL,labevents
+14996995,28442302.0,2179-07-26 01:49:00,Lab Result,MCHC| Blood,29.3,g/dL,labevents
+14996995,28442302.0,2179-07-26 01:49:00,Lab Result,MCV| Blood,94.0,fL,labevents
+14996995,28442302.0,2179-07-26 01:49:00,Lab Result,PTT| Blood,31.8,sec,labevents
+14996995,28442302.0,2179-07-26 01:49:00,Lab Result,MCH| Blood,27.6,pg,labevents
+14996995,28442302.0,2179-07-26 01:49:00,Lab Result,Urea Nitrogen| Blood,33.0,mg/dL,labevents
+14996995,28442302.0,2179-07-26 01:49:00,Lab Result,L| Blood,8.0,,labevents
+14996995,28442302.0,2179-07-26 01:49:00,Lab Result,Platelet Count| Blood,78.0,K/uL,labevents
+14996995,28442302.0,2179-07-26 01:49:00,Lab Result,Sodium| Blood,140.0,mEq/L,labevents
+14996995,28442302.0,2179-07-26 01:49:00,Lab Result,Potassium| Blood,3.6,mEq/L,labevents
+14996995,28442302.0,2179-07-26 01:49:00,Lab Result,Phosphate| Blood,4.0,mg/dL,labevents
+14996995,28442302.0,2179-07-26 01:49:00,Lab Result,Magnesium| Blood,2.2,mg/dL,labevents
+14996995,28442302.0,2179-07-26 01:49:00,Lab Result,I| Blood,4.0,,labevents
+14996995,28442302.0,2179-07-26 01:49:00,Lab Result,H| Blood,0.0,,labevents
+14996995,28442302.0,2179-07-26 01:49:00,Lab Result,Glucose| Blood,123.0,mg/dL,labevents
+14996995,28442302.0,2179-07-26 01:49:00,Lab Result,INR(PT)| Blood,1.4,,labevents
+14996995,28442302.0,2179-07-26 01:49:00,Lab Result,RDW| Blood,17.9,%,labevents
+14996995,28442302.0,2179-07-26 01:49:00,Lab Result,Chloride| Blood,103.0,mEq/L,labevents
+14996995,28442302.0,2179-07-26 01:49:00,Lab Result,White Blood Cells| Blood,8.3,K/uL,labevents
+14996995,28442302.0,2179-07-26 01:49:00,Lab Result,RDW-SD| Blood,60.3,fL,labevents
+14996995,28442302.0,2179-07-26 01:49:00,Lab Result,"Calcium, Total| Blood",8.5,mg/dL,labevents
+14996995,28442302.0,2179-07-26 01:49:00,Lab Result,Bicarbonate| Blood,29.0,mEq/L,labevents
+14996995,28442302.0,2179-07-26 01:49:00,Lab Result,Red Blood Cells| Blood,2.93,m/uL,labevents
+14996995,28442302.0,2179-07-26 01:49:00,Lab Result,Creatinine| Blood,0.9,mg/dL,labevents
+14996995,28442302.0,2179-07-26 03:42:00,Input,IVF ingredient,19.774510756134987,ml,ingredientevents
+14996995,28442302.0,2179-07-26 03:42:00,Input,Dexmedetomidine (Precedex),79.09805145800419,mcg,inputevents
+14996995,28442302.0,2179-07-26 03:42:00,Input,NaCl 0.9%,19.774510756134987,ml,inputevents
+14996995,28442302.0,2179-07-26 03:42:00,Input,Water,19.774510756134987,ml,ingredientevents
+14996995,28442302.0,2179-07-26 04:11:00,DateTime Obs,20 Gauge Cap Change,2179-07-25 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-26 04:11:00,DateTime Obs,20 Gauge Insertion Date,2179-07-25 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-26 04:11:00,DateTime Obs,20 Gauge Dressing Change,2179-07-25 01:35:00,Date and Time,datetimeevents
+14996995,28442302.0,2179-07-26 05:28:00,Medication Admin,Lidocaine 5% Patch,NaN,NaN,emar
+14996995,28442302.0,2179-07-26 05:28:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 06:31:00,Input,IVF ingredient,20.67756685614586,ml,ingredientevents
+14996995,28442302.0,2179-07-26 06:31:00,Input,Water,20.67756685614586,ml,ingredientevents
+14996995,28442302.0,2179-07-26 06:31:00,Input,NaCl 0.9%,20.67756685614586,ml,inputevents
+14996995,28442302.0,2179-07-26 06:31:00,Input,Dexmedetomidine (Precedex),82.71027684259025,mcg,inputevents
+14996995,28442302.0,2179-07-26 07:49:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 07:49:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 07:49:00,Medication Admin,Bisacodyl,NaN,NaN,emar
+14996995,28442302.0,2179-07-26 08:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 08:00:00,Pharmacy,Lidocaine 5% Patch,,NaN,pharmacy
+14996995,28442302.0,2179-07-26 08:00:00,Pharmacy,Lidocaine 5% Patch,,NaN,pharmacy
+14996995,28442302.0,2179-07-26 08:00:00,Medication Admin,Finasteride,NaN,NaN,emar
+14996995,28442302.0,2179-07-26 08:00:00,Medication Admin,Docusate Sodium,NaN,NaN,emar
+14996995,28442302.0,2179-07-26 08:00:00,Prescription,Lidocaine 5% Patch,2,PTCH,prescriptions
+14996995,28442302.0,2179-07-26 08:00:00,Prescription,Lidocaine 5% Patch,1,PTCH,prescriptions
+14996995,28442302.0,2179-07-26 08:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 08:16:00,Medication Admin,Dexmedetomidine,NaN,NaN,emar
+14996995,28442302.0,2179-07-26 08:16:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 08:16:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 08:16:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 08:16:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 08:16:00,Medication Admin,Acetaminophen IV,NaN,NaN,emar
+14996995,28442302.0,2179-07-26 08:16:00,Medication Admin,LevETIRAcetam,NaN,NaN,emar
+14996995,28442302.0,2179-07-26 08:16:00,Medication Admin,Lidocaine 5% Patch,NaN,NaN,emar
+14996995,28442302.0,2179-07-26 08:16:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 08:16:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 08:16:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 08:16:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 08:16:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 08:27:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 08:27:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 08:27:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996995,28442302.0,2179-07-26 08:29:00,Input,Dexmedetomidine (Precedex),82.24298881032155,mcg,inputevents
+14996995,28442302.0,2179-07-26 08:29:00,Input,NaCl 0.9%,20.56074619293213,ml,inputevents
+14996995,28442302.0,2179-07-26 08:29:00,Input,Water,20.56074619293213,ml,ingredientevents
+14996995,28442302.0,2179-07-26 08:29:00,Input,IVF ingredient,20.56074619293213,ml,ingredientevents
+14996995,28442302.0,2179-07-26 08:32:00,Input,Water,99.9999976158142,ml,ingredientevents
+14996995,28442302.0,2179-07-26 08:32:00,Input,Levetiracetam (Keppra),500.0000260770321,mg,inputevents
+14996995,28442302.0,2179-07-26 08:32:00,Input,Acetaminophen-IV,1000.0000521540642,mg,inputevents
+14996995,28442302.0,2179-07-26 08:32:00,Input,Solution,99.9999976158142,ml,inputevents
+14996995,28442302.0,2179-07-26 08:32:00,Input,NaCl 0.9%,99.9999976158142,ml,inputevents
+14996995,28442302.0,2179-07-26 08:32:00,Input,Water,99.9999976158142,ml,ingredientevents
+14996995,28442302.0,2179-07-26 08:32:00,Input,IVF ingredient,99.9999976158142,ml,ingredientevents
+14996995,28442302.0,2179-07-26 08:32:00,Input,IVF ingredient,99.9999976158142,ml,ingredientevents
+14996995,28442302.0,2179-07-26 08:37:00,DateTime Obs,Pressure ulcer #1- Dressing change,2179-07-25 17:00:00,Date and Time,datetimeevents
+14996995,28442302.0,2179-07-26 08:39:00,DateTime Obs,20 Gauge Dressing Change,2179-07-25 01:35:00,Date and Time,datetimeevents
+14996995,28442302.0,2179-07-26 08:39:00,DateTime Obs,20 Gauge Cap Change,2179-07-25 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-26 08:39:00,DateTime Obs,20 Gauge Insertion Date,2179-07-25 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-26 09:45:00,Procedure,EKG,1.0,,procedureevents
+14996995,28442302.0,2179-07-26 09:45:00,Procedure,EKG,1.0,,procedureevents
+14996995,28442302.0,2179-07-26 11:24:00,Medication Admin,Dexmedetomidine,NaN,NaN,emar
+14996995,28442302.0,2179-07-26 11:24:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 11:24:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 12:00:00,Prescription,OLANZapine (Disintegrating Tablet),2.5,mg,prescriptions
+14996995,28442302.0,2179-07-26 12:00:00,Pharmacy,OLANZapine (Disintegrating Tablet),,NaN,pharmacy
+14996995,28442302.0,2179-07-26 12:18:00,DateTime Obs,20 Gauge Insertion Date,2179-07-25 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-26 12:18:00,DateTime Obs,20 Gauge Dressing Change,2179-07-25 01:35:00,Date and Time,datetimeevents
+14996995,28442302.0,2179-07-26 12:18:00,DateTime Obs,20 Gauge Cap Change,2179-07-25 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-26 15:23:00,DateTime Obs,20 Gauge Insertion Date,2179-07-26 15:23:00,Date,datetimeevents
+14996995,28442302.0,2179-07-26 15:23:00,Procedure,20 Gauge,108.0,min,procedureevents
+14996995,28442302.0,2179-07-26 15:23:00,DateTime Obs,20 Gauge Cap Change,2179-07-26 15:23:00,Date,datetimeevents
+14996995,28442302.0,2179-07-26 15:23:00,DateTime Obs,20 Gauge Dressing Change,2179-07-26 15:23:00,Date and Time,datetimeevents
+14996995,28442302.0,2179-07-26 15:23:00,Procedure,20 Gauge,108.0,min,procedureevents
+14996995,28442302.0,2179-07-26 15:43:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 15:43:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 15:43:00,Medication Admin,OLANZapine (Disintegrating Tablet),NaN,NaN,emar
+14996995,28442302.0,2179-07-26 15:45:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 15:45:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 15:45:00,Medication Admin,Acetaminophen IV,NaN,NaN,emar
+14996995,28442302.0,2179-07-26 15:50:00,Input,Acetaminophen-IV,1000.0000521540642,mg,inputevents
+14996995,28442302.0,2179-07-26 15:50:00,Input,Solution,99.9999976158142,ml,inputevents
+14996995,28442302.0,2179-07-26 15:50:00,Input,Water,99.9999976158142,ml,ingredientevents
+14996995,28442302.0,2179-07-26 15:50:00,Input,IVF ingredient,99.9999976158142,ml,ingredientevents
+14996995,28442302.0,2179-07-26 16:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996995,28442302.0,2179-07-26 16:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 16:38:00,Medication Admin,Furosemide,NaN,NaN,emar
+14996995,28442302.0,2179-07-26 16:38:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 16:38:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 16:39:00,Input,Furosemide (Lasix),20.000001415610317,mg,inputevents
+14996995,28442302.0,2179-07-26 17:00:00,Prescription,Furosemide,20,mg,prescriptions
+14996995,28442302.0,2179-07-26 17:00:00,Pharmacy,Furosemide,,NaN,pharmacy
+14996995,28442302.0,2179-07-26 17:23:00,DateTime Obs,20 Gauge Dressing Change,2179-07-26 15:23:00,Date and Time,datetimeevents
+14996995,28442302.0,2179-07-26 17:23:00,DateTime Obs,20 Gauge Insertion Date,2179-07-26 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-26 17:23:00,DateTime Obs,20 Gauge Cap Change,2179-07-26 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-26 17:23:00,DateTime Obs,Pressure ulcer #1- Dressing change,2179-07-26 17:00:00,Date and Time,datetimeevents
+14996995,28442302.0,2179-07-26 19:55:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 19:55:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 19:55:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 19:55:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 19:55:00,Medication Admin,LevETIRAcetam,NaN,NaN,emar
+14996995,28442302.0,2179-07-26 19:55:00,Medication Admin,Heparin,NaN,NaN,emar
+14996995,28442302.0,2179-07-26 19:56:00,Medication Admin,Lidocaine 5% Patch,NaN,NaN,emar
+14996995,28442302.0,2179-07-26 19:56:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 20:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 20:00:00,Pharmacy,Heparin,,NaN,pharmacy
+14996995,28442302.0,2179-07-26 20:00:00,Prescription,Heparin,5000,UNIT,prescriptions
+14996995,28442302.0,2179-07-26 20:00:00,Medication Admin,Docusate Sodium,NaN,NaN,emar
+14996995,28442302.0,2179-07-26 20:27:00,Input,IVF ingredient,99.9999976158142,ml,ingredientevents
+14996995,28442302.0,2179-07-26 20:27:00,Input,Water,99.9999976158142,ml,ingredientevents
+14996995,28442302.0,2179-07-26 20:27:00,Input,Levetiracetam (Keppra),500.0000260770321,mg,inputevents
+14996995,28442302.0,2179-07-26 20:27:00,Input,NaCl 0.9%,99.9999976158142,ml,inputevents
+14996995,28442302.0,2179-07-26 20:33:00,DateTime Obs,20 Gauge Insertion Date,2179-07-25 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-26 20:33:00,DateTime Obs,20 Gauge Cap Change,2179-07-25 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-26 20:33:00,DateTime Obs,20 Gauge Dressing Change,2179-07-25 01:35:00,Date and Time,datetimeevents
+14996995,28442302.0,2179-07-26 20:52:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 20:52:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 20:52:00,Medication Admin,OLANZapine,NaN,NaN,emar
+14996995,28442302.0,2179-07-26 21:00:00,Pharmacy,OLANZapine,,NaN,pharmacy
+14996995,28442302.0,2179-07-26 21:00:00,Prescription,OLANZapine,2.5,mg,prescriptions
+14996995,28442302.0,2179-07-26 22:00:00,Medication Admin,OLANZapine,NaN,NaN,emar
+14996995,28442302.0,2179-07-26 22:00:00,Medication Admin,Bisacodyl,NaN,NaN,emar
+14996995,28442302.0,2179-07-26 22:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 22:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 22:00:00,Prescription,OLANZapine,2.5,mg,prescriptions
+14996995,28442302.0,2179-07-26 22:00:00,Pharmacy,OLANZapine,,NaN,pharmacy
+14996995,28442302.0,2179-07-26 22:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-26 22:53:00,Lab Result,Potassium| Blood,3.8,mEq/L,labevents
+14996995,28442302.0,2179-07-26 22:53:00,Lab Result,"Calcium, Total| Blood",9.5,mg/dL,labevents
+14996995,28442302.0,2179-07-26 22:53:00,Lab Result,Chloride| Blood,101.0,mEq/L,labevents
+14996995,28442302.0,2179-07-26 22:53:00,Lab Result,Creatinine| Blood,1.0,mg/dL,labevents
+14996995,28442302.0,2179-07-26 22:53:00,Lab Result,Glucose| Blood,123.0,mg/dL,labevents
+14996995,28442302.0,2179-07-26 22:53:00,Lab Result,H| Blood,13.0,,labevents
+14996995,28442302.0,2179-07-26 22:53:00,Lab Result,I| Blood,7.0,,labevents
+14996995,28442302.0,2179-07-26 22:53:00,Lab Result,Bicarbonate| Blood,27.0,mEq/L,labevents
+14996995,28442302.0,2179-07-26 22:53:00,Lab Result,Phosphate| Blood,4.1,mg/dL,labevents
+14996995,28442302.0,2179-07-26 22:53:00,Lab Result,Sodium| Blood,143.0,mEq/L,labevents
+14996995,28442302.0,2179-07-26 22:53:00,Lab Result,Urea Nitrogen| Blood,32.0,mg/dL,labevents
+14996995,28442302.0,2179-07-26 22:53:00,Lab Result,L| Blood,7.0,,labevents
+14996995,28442302.0,2179-07-26 22:53:00,Lab Result,Anion Gap| Blood,15.0,mEq/L,labevents
+14996995,28442302.0,2179-07-26 22:53:00,Lab Result,Magnesium| Blood,2.2,mg/dL,labevents
+14996995,28442302.0,2179-07-27 00:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 00:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 00:00:00,Medication Admin,OLANZapine (Disintegrating Tablet),NaN,NaN,emar
+14996995,28442302.0,2179-07-27 00:01:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 00:01:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 00:01:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996995,28442302.0,2179-07-27 00:16:00,DateTime Obs,Pressure ulcer #1- Dressing change,2179-07-26 17:00:00,Date and Time,datetimeevents
+14996995,28442302.0,2179-07-27 00:17:00,DateTime Obs,20 Gauge Cap Change,2179-07-25 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-27 00:17:00,DateTime Obs,20 Gauge Dressing Change,2179-07-25 01:35:00,Date and Time,datetimeevents
+14996995,28442302.0,2179-07-27 00:17:00,DateTime Obs,20 Gauge Insertion Date,2179-07-25 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,Magnesium| Blood,2.2,mg/dL,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,MCHC| Blood,29.1,g/dL,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,MCH| Blood,27.1,pg,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,Hemoglobin| Blood,9.9,g/dL,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,I| Blood,7.0,,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,Alanine Aminotransferase (ALT)| Blood,26.0,IU/L,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,L| Blood,23.0,,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,Vitamin B12| Blood,1761.0,pg/mL,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,"Calcium, Total| Blood",9.4,mg/dL,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,Urea Nitrogen| Blood,32.0,mg/dL,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,Chloride| Blood,101.0,mEq/L,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,Transferrin| Blood,241.0,mg/dL,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,MCV| Blood,93.0,fL,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,Iron| Blood,111.0,ug/dL,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,Thyroid Stimulating Hormone| Blood,5.8,uIU/mL,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,"Iron Binding Capacity, Total| Blood",313.0,ug/dL,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,Sodium| Blood,145.0,mEq/L,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,H| Blood,3.0,,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,Creatinine| Blood,1.0,mg/dL,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,Ferritin| Blood,137.0,ng/mL,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,Potassium| Blood,3.9,mEq/L,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,Phosphate| Blood,3.7,mg/dL,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,Glucose| Blood,108.0,mg/dL,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,Lactate Dehydrogenase (LD)| Blood,249.0,IU/L,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,Platelet Count| Blood,105.0,K/uL,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,Hematocrit| Blood,34.0,%,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,Red Blood Cells| Blood,3.65,m/uL,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,PTT| Blood,30.6,sec,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,PT| Blood,16.5,sec,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,INR(PT)| Blood,1.5,,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,RDW-SD| Blood,60.8,fL,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,White Blood Cells| Blood,17.1,K/uL,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,Bicarbonate| Blood,26.0,mEq/L,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,"Bilirubin, Total| Blood",5.8,mg/dL,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,Anion Gap| Blood,18.0,mEq/L,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,Alkaline Phosphatase| Blood,66.0,IU/L,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,Asparate Aminotransferase (AST)| Blood,62.0,IU/L,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,RDW| Blood,18.2,%,labevents
+14996995,28442302.0,2179-07-27 03:29:00,Lab Result,Albumin| Blood,4.0,g/dL,labevents
+14996995,28442302.0,2179-07-27 03:30:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 03:30:00,Medication Admin,OLANZapine,NaN,NaN,emar
+14996995,28442302.0,2179-07-27 03:30:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 03:53:00,DateTime Obs,20 Gauge Insertion Date,2179-07-25 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-27 03:53:00,DateTime Obs,20 Gauge Dressing Change,2179-07-25 01:35:00,Date and Time,datetimeevents
+14996995,28442302.0,2179-07-27 03:53:00,DateTime Obs,20 Gauge Cap Change,2179-07-25 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-27 04:00:00,Pharmacy,OLANZapine,,NaN,pharmacy
+14996995,28442302.0,2179-07-27 04:00:00,Prescription,OLANZapine,5,mg,prescriptions
+14996995,28442302.0,2179-07-27 05:46:00,DateTime Obs,20 Gauge Cap Change,2179-07-25 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-27 05:46:00,DateTime Obs,20 Gauge Dressing Change,2179-07-25 01:35:00,Date and Time,datetimeevents
+14996995,28442302.0,2179-07-27 05:46:00,DateTime Obs,20 Gauge Insertion Date,2179-07-25 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-27 07:34:00,Input,NaCl 0.9%,99.9999976158142,ml,inputevents
+14996995,28442302.0,2179-07-27 07:34:00,Input,Water,99.9999976158142,ml,ingredientevents
+14996995,28442302.0,2179-07-27 07:34:00,Input,IVF ingredient,99.9999976158142,ml,ingredientevents
+14996995,28442302.0,2179-07-27 07:34:00,Input,Levetiracetam (Keppra),500.0000260770321,mg,inputevents
+14996995,28442302.0,2179-07-27 07:35:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 07:35:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 07:35:00,Medication Route,PO,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 07:35:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 07:35:00,Medication Admin,Heparin,NaN,NaN,emar
+14996995,28442302.0,2179-07-27 07:35:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 07:35:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 07:35:00,Medication Admin,Amiodarone,NaN,NaN,emar
+14996995,28442302.0,2179-07-27 07:35:00,Medication Admin,LevETIRAcetam,NaN,NaN,emar
+14996995,28442302.0,2179-07-27 07:36:00,Medication Admin,Lidocaine 5% Patch,NaN,NaN,emar
+14996995,28442302.0,2179-07-27 07:36:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996995,28442302.0,2179-07-27 07:36:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 07:36:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 07:36:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 07:36:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 07:36:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 08:00:00,Pharmacy,Losartan Potassium,,NaN,pharmacy
+14996995,28442302.0,2179-07-27 08:00:00,Pharmacy,Sulfameth/Trimethoprim DS,,NaN,pharmacy
+14996995,28442302.0,2179-07-27 08:00:00,Prescription,Vial,1,VIAL,prescriptions
+14996995,28442302.0,2179-07-27 08:00:00,Medication Admin,Finasteride,NaN,NaN,emar
+14996995,28442302.0,2179-07-27 08:00:00,Prescription,Sulfameth/Trimethoprim DS,1,TAB,prescriptions
+14996995,28442302.0,2179-07-27 08:00:00,Medication Admin,Docusate Sodium,NaN,NaN,emar
+14996995,28442302.0,2179-07-27 08:00:00,Prescription,Losartan Potassium,50,mg,prescriptions
+14996995,28442302.0,2179-07-27 08:00:00,Pharmacy,CefTRIAXone,,NaN,pharmacy
+14996995,28442302.0,2179-07-27 08:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 08:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 08:00:00,DateTime Obs,20 Gauge Insertion Date,2179-07-25 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-27 08:00:00,DateTime Obs,20 Gauge Dressing Change,2179-07-25 01:35:00,Date and Time,datetimeevents
+14996995,28442302.0,2179-07-27 08:00:00,DateTime Obs,20 Gauge Cap Change,2179-07-25 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-27 08:00:00,DateTime Obs,Pressure ulcer #1- Dressing change,2179-07-26 17:00:00,Date and Time,datetimeevents
+14996995,28442302.0,2179-07-27 08:00:00,Prescription,CefTRIAXone,1,gm,prescriptions
+14996995,28442302.0,2179-07-27 08:53:00,Input,Water,100.0,ml,ingredientevents
+14996995,28442302.0,2179-07-27 08:53:00,Input,NaCl 0.9%,100.0,ml,inputevents
+14996995,28442302.0,2179-07-27 08:53:00,Input,IVF ingredient,100.0,ml,ingredientevents
+14996995,28442302.0,2179-07-27 08:53:00,Input,Ceftriaxone,1.0,dose,inputevents
+14996995,28442302.0,2179-07-27 08:54:00,Medication Admin,CefTRIAXone,NaN,NaN,emar
+14996995,28442302.0,2179-07-27 08:54:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 08:54:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 11:24:00,Output,Straight Cath,300.0,ml,outputevents
+14996995,28442302.0,2179-07-27 11:38:00,Lab Result,Urine Appearance| Urine,,,labevents
+14996995,28442302.0,2179-07-27 11:38:00,Lab Result,Urobilinogen| Urine,4.0,mg/dL,labevents
+14996995,28442302.0,2179-07-27 11:38:00,Lab Result,Urine Color| Urine,,,labevents
+14996995,28442302.0,2179-07-27 11:38:00,Lab Result,Protein| Urine,30.0,mg/dL,labevents
+14996995,28442302.0,2179-07-27 11:38:00,Lab Result,pH| Urine,6.0,units,labevents
+14996995,28442302.0,2179-07-27 11:38:00,Lab Result,Nitrite| Urine,,,labevents
+14996995,28442302.0,2179-07-27 11:38:00,Lab Result,Leukocytes| Urine,,,labevents
+14996995,28442302.0,2179-07-27 11:38:00,Lab Result,Ketone| Urine,,mg/dL,labevents
+14996995,28442302.0,2179-07-27 11:38:00,Lab Result,Glucose| Urine,,mg/dL,labevents
+14996995,28442302.0,2179-07-27 11:38:00,Lab Result,Blood| Urine,,,labevents
+14996995,28442302.0,2179-07-27 11:38:00,Lab Result,Bilirubin| Urine,,,labevents
+14996995,28442302.0,2179-07-27 11:38:00,Lab Result,Specific Gravity| Urine,1.024, ,labevents
+14996995,28442302.0,2179-07-27 12:00:00,DateTime Obs,20 Gauge Cap Change,2179-07-25 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-27 12:00:00,DateTime Obs,20 Gauge Dressing Change,2179-07-25 01:35:00,Date and Time,datetimeevents
+14996995,28442302.0,2179-07-27 12:00:00,DateTime Obs,20 Gauge Insertion Date,2179-07-25 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-27 14:00:00,Pharmacy,QUEtiapine Fumarate,,NaN,pharmacy
+14996995,28442302.0,2179-07-27 14:00:00,Prescription,QUEtiapine Fumarate,12.5,mg,prescriptions
+14996995,28442302.0,2179-07-27 15:07:00,Medication Route,PO,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 15:07:00,Medication Admin,Furosemide,NaN,NaN,emar
+14996995,28442302.0,2179-07-27 15:07:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 15:08:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 15:08:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996995,28442302.0,2179-07-27 15:08:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 16:00:00,DateTime Obs,20 Gauge Insertion Date,2179-07-25 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-27 16:00:00,DateTime Obs,20 Gauge Dressing Change,2179-07-25 01:35:00,Date and Time,datetimeevents
+14996995,28442302.0,2179-07-27 16:00:00,DateTime Obs,20 Gauge Cap Change,2179-07-25 00:00:00,Date,datetimeevents
+14996995,28442302.0,2179-07-27 17:05:03,Transfer,transfer Surgery/Trauma,NaN,NaN,transfers
+14996995,28442302.0,2179-07-27 17:47:00,Medication Admin,Lidocaine 5% Patch,NaN,NaN,emar
+14996995,28442302.0,2179-07-27 17:47:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 18:00:00,Prescription,Apixaban,5,mg,prescriptions
+14996995,28442302.0,2179-07-27 18:00:00,Pharmacy,Apixaban,,NaN,pharmacy
+14996995,28442302.0,2179-07-27 19:00:00,Prescription,QUEtiapine Fumarate,25,mg,prescriptions
+14996995,28442302.0,2179-07-27 19:00:00,Pharmacy,QUEtiapine Fumarate,,NaN,pharmacy
+14996995,28442302.0,2179-07-27 19:29:56,Service,MED,NaN,NaN,services
+14996995,28442302.0,2179-07-27 20:00:00,Prescription,Heparin,5000,UNIT,prescriptions
+14996995,28442302.0,2179-07-27 20:00:00,Prescription,Furosemide,20,mg,prescriptions
+14996995,28442302.0,2179-07-27 20:00:00,Pharmacy,Heparin,,NaN,pharmacy
+14996995,28442302.0,2179-07-27 20:00:00,Pharmacy,Furosemide,,NaN,pharmacy
+14996995,28442302.0,2179-07-27 20:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 20:00:00,Medication Admin,Docusate Sodium,NaN,NaN,emar
+14996995,28442302.0,2179-07-27 20:44:00,Medication Admin,QUEtiapine Fumarate,NaN,NaN,emar
+14996995,28442302.0,2179-07-27 20:44:00,Medication Route,PO,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 20:44:00,Medication Admin,LevETIRAcetam,NaN,NaN,emar
+14996995,28442302.0,2179-07-27 20:44:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996995,28442302.0,2179-07-27 20:44:00,Medication Admin,Apixaban,NaN,NaN,emar
+14996995,28442302.0,2179-07-27 20:44:00,Medication Admin,Lidocaine 5% Patch,NaN,NaN,emar
+14996995,28442302.0,2179-07-27 20:44:00,Medication Route,PO,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 20:44:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 20:44:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 20:44:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 20:44:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 20:44:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 20:44:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 20:44:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 21:00:00,Prescription,Vitamin D,1000,UNIT,prescriptions
+14996995,28442302.0,2179-07-27 21:00:00,Pharmacy,Ipratropium-Albuterol Neb,,NaN,pharmacy
+14996995,28442302.0,2179-07-27 21:00:00,Prescription,Ipratropium-Albuterol Neb,1,NEB,prescriptions
+14996995,28442302.0,2179-07-27 21:00:00,Pharmacy,Omeprazole,,NaN,pharmacy
+14996995,28442302.0,2179-07-27 21:00:00,Prescription,Omeprazole,20,mg,prescriptions
+14996995,28442302.0,2179-07-27 21:00:00,Prescription,Senna,8.6,mg,prescriptions
+14996995,28442302.0,2179-07-27 21:00:00,Pharmacy,Senna,,NaN,pharmacy
+14996995,28442302.0,2179-07-27 21:00:00,Pharmacy,Vitamin D,,NaN,pharmacy
+14996995,28442302.0,2179-07-27 21:08:02,Transfer,transfer Surgery/Trauma,NaN,NaN,transfers
+14996995,28442302.0,2179-07-27 23:42:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-27 23:42:00,Medication Admin,Acetaminophen IV,NaN,NaN,emar
+14996995,28442302.0,2179-07-27 23:42:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 00:00:00,Pharmacy,Acetaminophen IV,,NaN,pharmacy
+14996995,28442302.0,2179-07-28 00:00:00,Prescription,Acetaminophen IV,1000,mg,prescriptions
+14996995,28442302.0,2179-07-28 00:09:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 00:09:00,Medication Admin,QUEtiapine Fumarate,NaN,NaN,emar
+14996995,28442302.0,2179-07-28 00:09:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 00:09:00,Medication Route,PO,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 00:09:00,Medication Admin,Ramelteon,NaN,NaN,emar
+14996995,28442302.0,2179-07-28 00:09:00,Medication Route,PO,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,I| Blood,6.0,,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,NTproBNP| Blood,24082.0,pg/mL,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,Iron| Blood,115.0,ug/dL,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,"Iron Binding Capacity, Total| Blood",274.0,ug/dL,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,Lactate Dehydrogenase (LD)| Blood,236.0,IU/L,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,Magnesium| Blood,2.2,mg/dL,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,Phosphate| Blood,3.0,mg/dL,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,Urea Nitrogen| Blood,29.0,mg/dL,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,Sodium| Blood,150.0,mEq/L,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,Thyroid Stimulating Hormone| Blood,4.0,uIU/mL,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,Transferrin| Blood,211.0,mg/dL,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,Vitamin B12| Blood,1913.0,pg/mL,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,L| Blood,13.0,,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,H| Blood,5.0,,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,Potassium| Blood,3.4,mEq/L,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,Glucose| Blood,91.0,mg/dL,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,MCH| Blood,27.4,pg,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,Creatinine| Blood,1.0,mg/dL,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,Ferritin| Blood,165.0,ng/mL,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,Hematocrit| Blood,31.4,%,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,Hemoglobin| Blood,9.1,g/dL,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,MCHC| Blood,29.0,g/dL,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,MCV| Blood,95.0,fL,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,RDW| Blood,18.6,%,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,Red Blood Cells| Blood,3.32,m/uL,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,"Reticulocyte Count, Absolute| Blood",0.12,m/uL,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,"Reticulocyte Count, Automated| Blood",3.7,%,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,White Blood Cells| Blood,12.2,K/uL,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,RDW-SD| Blood,62.9,fL,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,Platelet Count| Blood,94.0,K/uL,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,Albumin| Blood,3.7,g/dL,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,"Bilirubin, Total| Blood",5.0,mg/dL,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,Bicarbonate| Blood,27.0,mEq/L,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,Asparate Aminotransferase (AST)| Blood,52.0,IU/L,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,"Calcium, Total| Blood",9.0,mg/dL,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,Alanine Aminotransferase (ALT)| Blood,24.0,IU/L,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,Anion Gap| Blood,15.0,mEq/L,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,"Bilirubin, Indirect| Blood",3.4,mg/dL,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,Chloride| Blood,108.0,mEq/L,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,"Bilirubin, Direct| Blood",1.6,mg/dL,labevents
+14996995,28442302.0,2179-07-28 07:54:00,Lab Result,Alkaline Phosphatase| Blood,56.0,IU/L,labevents
+14996995,28442302.0,2179-07-28 08:00:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14996995,28442302.0,2179-07-28 08:00:00,Medication Admin,Docusate Sodium,NaN,NaN,emar
+14996995,28442302.0,2179-07-28 08:00:00,Medication Admin,Finasteride,NaN,NaN,emar
+14996995,28442302.0,2179-07-28 08:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 08:00:00,Pharmacy,OxyCODONE (Immediate Release),,NaN,pharmacy
+14996995,28442302.0,2179-07-28 08:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 08:00:00,Pharmacy,Furosemide,,NaN,pharmacy
+14996995,28442302.0,2179-07-28 08:00:00,Medication Admin,Omeprazole,NaN,NaN,emar
+14996995,28442302.0,2179-07-28 08:00:00,Medication Admin,Vitamin D,NaN,NaN,emar
+14996995,28442302.0,2179-07-28 08:00:00,Medication Admin,Furosemide,NaN,NaN,emar
+14996995,28442302.0,2179-07-28 08:00:00,Medication Admin,Bisacodyl,NaN,NaN,emar
+14996995,28442302.0,2179-07-28 08:00:00,Medication Admin,Losartan Potassium,NaN,NaN,emar
+14996995,28442302.0,2179-07-28 08:00:00,Medication Admin,Apixaban,NaN,NaN,emar
+14996995,28442302.0,2179-07-28 08:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 08:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 08:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 08:00:00,Medication Admin,Amiodarone,NaN,NaN,emar
+14996995,28442302.0,2179-07-28 08:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 08:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 08:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 08:00:00,Pharmacy,Acetaminophen,,NaN,pharmacy
+14996995,28442302.0,2179-07-28 08:00:00,Prescription,Acetaminophen,1000,mg,prescriptions
+14996995,28442302.0,2179-07-28 08:00:00,Prescription,OxyCODONE (Immediate Release),2.5-5,mg,prescriptions
+14996995,28442302.0,2179-07-28 08:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 08:00:00,Prescription,Furosemide,40,mg,prescriptions
+14996995,28442302.0,2179-07-28 08:00:00,Prescription,Losartan Potassium,25,mg,prescriptions
+14996995,28442302.0,2179-07-28 08:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 08:00:00,Pharmacy,Losartan Potassium,,NaN,pharmacy
+14996995,28442302.0,2179-07-28 09:30:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 09:30:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 09:30:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 09:30:00,Medication Admin,Lidocaine 5% Patch,NaN,NaN,emar
+14996995,28442302.0,2179-07-28 09:49:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996995,28442302.0,2179-07-28 09:49:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 09:49:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 12:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+14996995,28442302.0,2179-07-28 12:00:00,Prescription,Dextrose 5%,1000,mL,prescriptions
+14996995,28442302.0,2179-07-28 12:00:00,Prescription,Potassium Chloride,40,mEq,prescriptions
+14996995,28442302.0,2179-07-28 12:00:00,Prescription,5% Dextrose,500,mL,prescriptions
+14996995,28442302.0,2179-07-28 12:00:00,Pharmacy,,,NaN,pharmacy
+14996995,28442302.0,2179-07-28 12:04:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 12:04:00,Medication Admin,,NaN,NaN,emar
+14996995,28442302.0,2179-07-28 12:04:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 12:07:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 12:07:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 12:07:00,Medication Admin,LevETIRAcetam,NaN,NaN,emar
+14996995,28442302.0,2179-07-28 13:56:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 13:56:00,Medication Admin,Potassium Chloride,NaN,NaN,emar
+14996995,28442302.0,2179-07-28 13:56:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 14:00:00,Pharmacy,QUEtiapine Fumarate,,NaN,pharmacy
+14996995,28442302.0,2179-07-28 14:00:00,Prescription,QUEtiapine Fumarate,6.25,mg,prescriptions
+14996995,28442302.0,2179-07-28 16:00:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14996995,28442302.0,2179-07-28 16:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 16:19:00,Medication Admin,Lidocaine 5% Patch,NaN,NaN,emar
+14996995,28442302.0,2179-07-28 16:19:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 16:21:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 16:21:00,Medication Route,PO,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 16:21:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 16:21:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14996995,28442302.0,2179-07-28 17:00:00,Pharmacy,Acetaminophen IV,,NaN,pharmacy
+14996995,28442302.0,2179-07-28 17:00:00,Prescription,Acetaminophen IV,1000,mg,prescriptions
+14996995,28442302.0,2179-07-28 17:30:00,Lab Result,I| Blood,6.0,,labevents
+14996995,28442302.0,2179-07-28 17:30:00,Lab Result,H| Blood,2.0,,labevents
+14996995,28442302.0,2179-07-28 17:30:00,Lab Result,Glucose| Blood,130.0,mg/dL,labevents
+14996995,28442302.0,2179-07-28 17:30:00,Lab Result,Creatinine| Blood,0.9,mg/dL,labevents
+14996995,28442302.0,2179-07-28 17:30:00,Lab Result,Phosphate| Blood,2.1,mg/dL,labevents
+14996995,28442302.0,2179-07-28 17:30:00,Lab Result,Chloride| Blood,108.0,mEq/L,labevents
+14996995,28442302.0,2179-07-28 17:30:00,Lab Result,Bicarbonate| Blood,28.0,mEq/L,labevents
+14996995,28442302.0,2179-07-28 17:30:00,Lab Result,Magnesium| Blood,2.1,mg/dL,labevents
+14996995,28442302.0,2179-07-28 17:30:00,Lab Result,Anion Gap| Blood,12.0,mEq/L,labevents
+14996995,28442302.0,2179-07-28 17:30:00,Lab Result,"Calcium, Total| Blood",9.1,mg/dL,labevents
+14996995,28442302.0,2179-07-28 17:30:00,Lab Result,L| Blood,9.0,,labevents
+14996995,28442302.0,2179-07-28 17:30:00,Lab Result,Urea Nitrogen| Blood,27.0,mg/dL,labevents
+14996995,28442302.0,2179-07-28 17:30:00,Lab Result,Potassium| Blood,3.9,mEq/L,labevents
+14996995,28442302.0,2179-07-28 17:30:00,Lab Result,Sodium| Blood,148.0,mEq/L,labevents
+14996995,28442302.0,2179-07-28 18:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 18:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996995,28442302.0,2179-07-28 19:00:00,Pharmacy,QUEtiapine Fumarate,,NaN,pharmacy
+14996995,28442302.0,2179-07-28 19:00:00,Prescription,QUEtiapine Fumarate,37.5,mg,prescriptions
+14996995,28442302.0,2179-07-28 21:37:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 21:37:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 21:37:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 21:37:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 21:37:00,Medication Route,PO,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 21:37:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 21:37:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 21:37:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 21:37:00,Medication Admin,Apixaban,NaN,NaN,emar
+14996995,28442302.0,2179-07-28 21:37:00,Medication Admin,,NaN,NaN,emar
+14996995,28442302.0,2179-07-28 21:37:00,Medication Admin,Docusate Sodium,NaN,NaN,emar
+14996995,28442302.0,2179-07-28 21:37:00,Medication Admin,Lidocaine 5% Patch,NaN,NaN,emar
+14996995,28442302.0,2179-07-28 21:37:00,Medication Admin,QUEtiapine Fumarate,NaN,NaN,emar
+14996995,28442302.0,2179-07-28 21:37:00,Medication Admin,Ramelteon,NaN,NaN,emar
+14996995,28442302.0,2179-07-28 21:37:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 21:37:00,Medication Route,PO,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 21:37:00,Medication Route,PO,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 21:37:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 22:00:00,Pharmacy,Ramelteon,,NaN,pharmacy
+14996995,28442302.0,2179-07-28 22:00:00,Prescription,Ramelteon,8,mg,prescriptions
+14996995,28442302.0,2179-07-28 22:02:00,Medication Admin,Acetaminophen IV,NaN,NaN,emar
+14996995,28442302.0,2179-07-28 22:02:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 22:02:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 23:22:00,Medication Admin,LevETIRAcetam,NaN,NaN,emar
+14996995,28442302.0,2179-07-28 23:22:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-28 23:22:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 00:24:00,Medication Admin,QUEtiapine Fumarate,NaN,NaN,emar
+14996995,28442302.0,2179-07-29 00:24:00,Medication Route,PO,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 00:24:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 00:24:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 00:24:00,Medication Admin,,NaN,NaN,emar
+14996995,28442302.0,2179-07-29 00:24:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 01:42:00,Medication Admin,LORazepam,NaN,NaN,emar
+14996995,28442302.0,2179-07-29 01:42:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 01:42:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 01:42:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 01:42:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 01:42:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996995,28442302.0,2179-07-29 02:00:00,Prescription,LORazepam,0.5,mg,prescriptions
+14996995,28442302.0,2179-07-29 02:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 02:00:00,Pharmacy,LORazepam,,NaN,pharmacy
+14996995,28442302.0,2179-07-29 02:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,Anisocytosis| Blood,,,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,Bicarbonate| Blood,26.0,mEq/L,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,Urea Nitrogen| Blood,25.0,mg/dL,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,L| Blood,38.0,,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,Acanthocytes| Blood,,,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,Hematocrit| Blood,31.1,%,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,Hemoglobin| Blood,8.7,g/dL,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,Hypochromia| Blood,,,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,Macrocytes| Blood,,,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,MCH| Blood,27.3,pg,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,MCHC| Blood,28.0,g/dL,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,MCV| Blood,98.0,fL,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,Ovalocytes| Blood,,,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,Platelet Count| Blood,101.0,K/uL,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,Poikilocytosis| Blood,,,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,Red Blood Cells| Blood,3.19,m/uL,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,White Blood Cells| Blood,8.2,K/uL,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,Sodium| Blood,145.0,mEq/L,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,RBC Morphology| Blood,,,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,Potassium| Blood,3.9,mEq/L,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,Magnesium| Blood,2.2,mg/dL,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,Alanine Aminotransferase (ALT)| Blood,23.0,IU/L,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,Alkaline Phosphatase| Blood,57.0,IU/L,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,Anion Gap| Blood,12.0,mEq/L,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,Asparate Aminotransferase (AST)| Blood,53.0,IU/L,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,"Bilirubin, Direct| Blood",1.3,mg/dL,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,"Bilirubin, Indirect| Blood",3.2,mg/dL,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,"Bilirubin, Total| Blood",4.5,mg/dL,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,"Calcium, Total| Blood",9.3,mg/dL,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,Chloride| Blood,107.0,mEq/L,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,Creatinine| Blood,0.8,mg/dL,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,Glucose| Blood,92.0,mg/dL,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,H| Blood,15.0,,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,Haptoglobin| Blood,48.0,mg/dL,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,I| Blood,5.0,,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,Lactate Dehydrogenase (LD)| Blood,245.0,IU/L,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,Phosphate| Blood,2.2,mg/dL,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,RDW-SD| Blood,64.8,fL,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,RDW| Blood,18.6,%,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,INR(PT)| Blood,1.7,,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,PT| Blood,18.6,sec,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,PTT| Blood,27.7,sec,labevents
+14996995,28442302.0,2179-07-29 06:30:00,Lab Result,"Fibrinogen, Functional| Blood",271.0,mg/dL,labevents
+14996995,28442302.0,2179-07-29 09:20:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 09:20:00,Medication Admin,QUEtiapine Fumarate,NaN,NaN,emar
+14996995,28442302.0,2179-07-29 09:20:00,Medication Admin,LORazepam,NaN,NaN,emar
+14996995,28442302.0,2179-07-29 09:20:00,Medication Route,PO,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 09:20:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 09:20:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 09:30:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 09:30:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996995,28442302.0,2179-07-29 09:30:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 09:30:00,Medication Route,PO,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 09:30:00,Medication Admin,Omeprazole,NaN,NaN,emar
+14996995,28442302.0,2179-07-29 09:30:00,Medication Admin,Lidocaine 5% Patch,NaN,NaN,emar
+14996995,28442302.0,2179-07-29 09:30:00,Medication Admin,Furosemide,NaN,NaN,emar
+14996995,28442302.0,2179-07-29 09:30:00,Medication Admin,Finasteride,NaN,NaN,emar
+14996995,28442302.0,2179-07-29 09:30:00,Medication Admin,Apixaban,NaN,NaN,emar
+14996995,28442302.0,2179-07-29 09:30:00,Medication Admin,Amiodarone,NaN,NaN,emar
+14996995,28442302.0,2179-07-29 09:30:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 09:30:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 09:30:00,Medication Route,PO,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 09:30:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 09:30:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 09:30:00,Medication Route,PO,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 09:30:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 09:30:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 09:30:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 09:30:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 09:30:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 09:30:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 10:00:00,Prescription,LORazepam,0.25,mg,prescriptions
+14996995,28442302.0,2179-07-29 10:00:00,Pharmacy,LORazepam,,NaN,pharmacy
+14996995,28442302.0,2179-07-29 10:02:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 10:02:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 10:02:00,Medication Admin,Acetaminophen IV,NaN,NaN,emar
+14996995,28442302.0,2179-07-29 10:15:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 10:15:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 10:15:00,Medication Admin,Ipratropium-Albuterol Neb,NaN,NaN,emar
+14996995,28442302.0,2179-07-29 10:30:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 10:30:00,Medication Admin,Bisacodyl,NaN,NaN,emar
+14996995,28442302.0,2179-07-29 10:30:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 10:30:00,Medication Admin,Docusate Sodium,NaN,NaN,emar
+14996995,28442302.0,2179-07-29 11:30:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 11:30:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 11:30:00,Medication Admin,LevETIRAcetam,NaN,NaN,emar
+14996995,28442302.0,2179-07-29 13:00:00,Pharmacy,Morphine Sulfate (Concentrated Oral Solution) 20 mg/mL,,NaN,pharmacy
+14996995,28442302.0,2179-07-29 13:00:00,Pharmacy,QUEtiapine Fumarate,,NaN,pharmacy
+14996995,28442302.0,2179-07-29 13:00:00,Prescription,QUEtiapine Fumarate,12.5,mg,prescriptions
+14996995,28442302.0,2179-07-29 13:00:00,Prescription,Morphine Sulfate (Concentrated Oral Solution) 20 mg/mL,5-10,mg,prescriptions
+14996995,28442302.0,2179-07-29 14:00:00,Pharmacy,LORazepam,,NaN,pharmacy
+14996995,28442302.0,2179-07-29 14:00:00,Prescription,LORazepam,0.25,mg,prescriptions
+14996995,28442302.0,2179-07-29 15:30:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 15:30:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 15:30:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 15:30:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 15:30:00,Medication Admin,Acetaminophen IV,NaN,NaN,emar
+14996995,28442302.0,2179-07-29 15:30:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996995,28442302.0,2179-07-29 15:32:00,Medication Admin,Morphine Sulfate (Concentrated Oral Solution) 20 mg/mL,NaN,NaN,emar
+14996995,28442302.0,2179-07-29 15:32:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 15:32:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 15:40:00,Medication Admin,Morphine Sulfate (Concentrated Oral Solution) 20 mg/mL,NaN,NaN,emar
+14996995,28442302.0,2179-07-29 15:40:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 15:40:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 16:12:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 16:12:00,Medication Admin,Lidocaine 5% Patch,NaN,NaN,emar
+14996995,28442302.0,2179-07-29 20:00:00,Medication Admin,Docusate Sodium,NaN,NaN,emar
+14996995,28442302.0,2179-07-29 20:00:00,Medication Admin,Ramelteon,NaN,NaN,emar
+14996995,28442302.0,2179-07-29 20:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 20:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 21:00:00,Medication Admin,QUEtiapine Fumarate,NaN,NaN,emar
+14996995,28442302.0,2179-07-29 21:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 21:00:00,Prescription,QUEtiapine Fumarate,12.5,mg,prescriptions
+14996995,28442302.0,2179-07-29 21:00:00,Pharmacy,QUEtiapine Fumarate,,NaN,pharmacy
+14996995,28442302.0,2179-07-29 21:53:00,Medication Admin,Lidocaine 5% Patch,NaN,NaN,emar
+14996995,28442302.0,2179-07-29 21:53:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 22:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 22:00:00,Prescription,LORazepam,0.5,mg,prescriptions
+14996995,28442302.0,2179-07-29 22:00:00,Medication Admin,LORazepam,NaN,NaN,emar
+14996995,28442302.0,2179-07-29 22:00:00,Pharmacy,LORazepam,,NaN,pharmacy
+14996995,28442302.0,2179-07-29 23:10:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 23:10:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 23:10:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 23:10:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 23:10:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996995,28442302.0,2179-07-29 23:10:00,Medication Admin,LevETIRAcetam,NaN,NaN,emar
+14996995,28442302.0,2179-07-29 23:36:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-29 23:36:00,Medication Admin,Acetaminophen IV,NaN,NaN,emar
+14996995,28442302.0,2179-07-29 23:36:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-30 04:11:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-30 04:11:00,Medication Admin,LORazepam,NaN,NaN,emar
+14996995,28442302.0,2179-07-30 04:11:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-30 07:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-30 07:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996995,28442302.0,2179-07-30 09:41:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-30 09:41:00,Medication Admin,Influenza Vaccine Quadrivalent,NaN,NaN,emar
+14996995,28442302.0,2179-07-30 10:10:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-30 10:10:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-30 10:10:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-30 10:10:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14996995,28442302.0,2179-07-30 10:10:00,Medication Admin,Lidocaine 5% Patch,NaN,NaN,emar
+14996995,28442302.0,2179-07-30 10:10:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-30 10:10:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-30 10:30:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-30 10:30:00,Medication Admin,Docusate Sodium,NaN,NaN,emar
+14996995,28442302.0,2179-07-30 11:00:00,Prescription,Glycopyrrolate,0.2,mg,prescriptions
+14996995,28442302.0,2179-07-30 11:00:00,Pharmacy,Glycopyrrolate,,NaN,pharmacy
+14996995,28442302.0,2179-07-30 12:00:00,Prescription,LORazepam Oral Solution,0.5,mg,prescriptions
+14996995,28442302.0,2179-07-30 12:00:00,Pharmacy,LORazepam Oral Solution,,NaN,pharmacy
+14996995,28442302.0,2179-07-30 13:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-30 13:00:00,Medication Admin,Morphine Sulfate (Concentrated Oral Solution) 20 mg/mL,NaN,NaN,emar
+14996995,28442302.0,2179-07-30 13:00:00,Medication Route,,NaN,NaN,emar_detail
+14996995,28442302.0,2179-07-30 14:22:14,Transfer,discharge,NaN,NaN,transfers
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,PO,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,PO,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,PO,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,PO,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,PO,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail
+14996995,,,Medication Route,,NaN,NaN,emar_detail

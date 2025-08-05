@@ -1,0 +1,1149 @@
+subject_id,hadm_id,event_time,event_type,description,value,unit,source_table
+14957820,21271898,2115-09-29 15:46:00,Transfer,ED Emergency Department,NaN,NaN,transfers
+14957820,21271898,2115-09-29 16:29:00,Admission,EW EMER.,NaN,NaN,admissions
+14957820,21271898,2115-09-29 16:29:46,Service,TRAUM,NaN,NaN,services
+14957820,21271898,2115-09-29 17:17:00,Transfer,admit Trauma SICU (TSICU),NaN,NaN,transfers
+14957820,21271898,2115-09-29 18:10:00,DateTime Obs,Cordis/Introducer Tubing Change,2115-09-29 20:10:00,Date,datetimeevents
+14957820,21271898,2115-09-29 18:10:00,Procedure,Cordis/Introducer,514.0,min,procedureevents
+14957820,21271898,2115-09-29 18:10:00,DateTime Obs,Cordis/Introducer Cap Change,2115-09-29 20:10:00,Date,datetimeevents
+14957820,21271898,2115-09-29 18:10:00,DateTime Obs,Cordis/Introducer Insertion Date,2115-09-29 20:10:00,Date,datetimeevents
+14957820,21271898,2115-09-29 18:10:00,Procedure,Cordis/Introducer,514.0,min,procedureevents
+14957820,21271898,2115-09-29 18:10:00,DateTime Obs,Cordis/Introducer Dressing Change,2115-09-29 15:10:00,Date and Time,datetimeevents
+14957820,21271898,2115-09-29 18:11:00,Procedure,20 Gauge,262.0,min,procedureevents
+14957820,21271898,2115-09-29 18:11:00,DateTime Obs,20 Gauge Insertion Date,2115-09-29 20:11:00,Date,datetimeevents
+14957820,21271898,2115-09-29 18:11:00,Procedure,20 Gauge,262.0,min,procedureevents
+14957820,21271898,2115-09-29 18:44:00,Input,OR Intake_ingr,2300.0,ml,ingredientevents
+14957820,21271898,2115-09-29 18:44:00,Output,OR Urine,2000.0,ml,outputevents
+14957820,21271898,2115-09-29 18:44:00,Output,OR EBL,200.0,ml,outputevents
+14957820,21271898,2115-09-29 18:44:00,Input,Water,2300.0,ml,ingredientevents
+14957820,21271898,2115-09-29 18:44:00,Input,IVF ingredient,2300.0,ml,ingredientevents
+14957820,21271898,2115-09-29 18:44:00,Input,OR Crystalloid Intake,2300.0,ml,inputevents
+14957820,21271898,2115-09-29 18:50:00,Procedure,Arterial Line,1200.0,min,procedureevents
+14957820,21271898,2115-09-29 18:50:00,Procedure,Invasive Ventilation,879.0,min,procedureevents
+14957820,21271898,2115-09-29 18:50:00,Procedure,OR Received,1.0,,procedureevents
+14957820,21271898,2115-09-29 18:50:00,Procedure,OR Received,1.0,,procedureevents
+14957820,21271898,2115-09-29 18:50:00,DateTime Obs,Arterial Line Dressing Change,2115-09-29 18:09:00,Date and Time,datetimeevents
+14957820,21271898,2115-09-29 18:50:00,DateTime Obs,Arterial line Insertion Date,2115-09-29 20:09:00,Date,datetimeevents
+14957820,21271898,2115-09-29 18:50:00,DateTime Obs,Arterial line Tubing Change,2115-09-29 20:09:00,Date,datetimeevents
+14957820,21271898,2115-09-29 18:50:00,Procedure,Invasive Ventilation,879.0,min,procedureevents
+14957820,21271898,2115-09-29 18:50:00,Procedure,Arterial Line,1200.0,min,procedureevents
+14957820,21271898,2115-09-29 18:54:00,Lab Result,Urea Nitrogen| Blood,9.0,mg/dL,labevents
+14957820,21271898,2115-09-29 18:54:00,Lab Result,Sodium| Blood,139.0,mEq/L,labevents
+14957820,21271898,2115-09-29 18:54:00,Lab Result,Potassium| Blood,3.8,mEq/L,labevents
+14957820,21271898,2115-09-29 18:54:00,Lab Result,Phosphate| Blood,3.4,mg/dL,labevents
+14957820,21271898,2115-09-29 18:54:00,Lab Result,Magnesium| Blood,1.4,mg/dL,labevents
+14957820,21271898,2115-09-29 18:54:00,Lab Result,"Calcium, Total| Blood",8.1,mg/dL,labevents
+14957820,21271898,2115-09-29 18:54:00,Lab Result,Creatinine| Blood,0.4,mg/dL,labevents
+14957820,21271898,2115-09-29 18:54:00,Lab Result,Chloride| Blood,108.0,mEq/L,labevents
+14957820,21271898,2115-09-29 18:54:00,Lab Result,Bicarbonate| Blood,21.0,mEq/L,labevents
+14957820,21271898,2115-09-29 18:54:00,Lab Result,PTT| Blood,41.1,sec,labevents
+14957820,21271898,2115-09-29 18:54:00,Lab Result,INR(PT)| Blood,1.5,,labevents
+14957820,21271898,2115-09-29 18:54:00,Lab Result,Glucose| Blood,123.0,mg/dL,labevents
+14957820,21271898,2115-09-29 18:54:00,Lab Result,PT| Blood,15.8,sec,labevents
+14957820,21271898,2115-09-29 18:54:00,Lab Result,Anion Gap| Blood,14.0,mEq/L,labevents
+14957820,21271898,2115-09-29 18:54:00,Lab Result,Hemoglobin| Blood,10.7,g/dL,labevents
+14957820,21271898,2115-09-29 18:54:00,Lab Result,Eosinophils| Blood,0.1,%,labevents
+14957820,21271898,2115-09-29 18:54:00,Lab Result,Hematocrit| Blood,31.6,%,labevents
+14957820,21271898,2115-09-29 18:54:00,Lab Result,Lymphocytes| Blood,9.7,%,labevents
+14957820,21271898,2115-09-29 18:54:00,Lab Result,MCH| Blood,29.1,pg,labevents
+14957820,21271898,2115-09-29 18:54:00,Lab Result,MCHC| Blood,33.8,%,labevents
+14957820,21271898,2115-09-29 18:54:00,Lab Result,MCV| Blood,86.0,fL,labevents
+14957820,21271898,2115-09-29 18:54:00,Lab Result,Monocytes| Blood,4.5,%,labevents
+14957820,21271898,2115-09-29 18:54:00,Lab Result,Platelet Count| Blood,230.0,K/uL,labevents
+14957820,21271898,2115-09-29 18:54:00,Lab Result,Neutrophils| Blood,85.5,%,labevents
+14957820,21271898,2115-09-29 18:54:00,Lab Result,Basophils| Blood,0.2,%,labevents
+14957820,21271898,2115-09-29 18:54:00,Lab Result,RDW| Blood,13.3,%,labevents
+14957820,21271898,2115-09-29 18:54:00,Lab Result,White Blood Cells| Blood,13.2,K/uL,labevents
+14957820,21271898,2115-09-29 18:54:00,Lab Result,Red Blood Cells| Blood,3.68,m/uL,labevents
+14957820,21271898,2115-09-29 18:55:00,Input,Solution,19.43925249576569,ml,inputevents
+14957820,21271898,2115-09-29 18:55:00,Input,Calories,21.38317573070526,Kcal,ingredientevents
+14957820,21271898,2115-09-29 18:55:00,Input,Water,19.43925249576569,ml,ingredientevents
+14957820,21271898,2115-09-29 18:55:00,Input,IVF ingredient,19.43925249576569,ml,ingredientevents
+14957820,21271898,2115-09-29 18:55:00,Input,Propofol,194.3925293162465,mg,inputevents
+14957820,21271898,2115-09-29 19:00:00,Prescription,Soln,50,mL,prescriptions
+14957820,21271898,2115-09-29 19:00:00,Prescription,Sodium Chloride 0.9%  Flush,10,mL,prescriptions
+14957820,21271898,2115-09-29 19:00:00,Pharmacy,Sodium Chloride 0.9%  Flush,,NaN,pharmacy
+14957820,21271898,2115-09-29 19:00:00,Prescription,Propofol,200,mg,prescriptions
+14957820,21271898,2115-09-29 19:00:00,Prescription,Propofol,1000,mg,prescriptions
+14957820,21271898,2115-09-29 19:00:00,Prescription,Influenza Virus Vaccine,0.5,mL,prescriptions
+14957820,21271898,2115-09-29 19:00:00,Lab Result,Calculated Total CO2| Blood,25.0,mEq/L,labevents
+14957820,21271898,2115-09-29 19:00:00,Lab Result,pCO2| Blood,44.0,mm Hg,labevents
+14957820,21271898,2115-09-29 19:00:00,Lab Result,Base Excess| Blood,-1.0,mEq/L,labevents
+14957820,21271898,2115-09-29 19:00:00,Pharmacy,Propofol,,NaN,pharmacy
+14957820,21271898,2115-09-29 19:00:00,Pharmacy,Propofol,,NaN,pharmacy
+14957820,21271898,2115-09-29 19:00:00,Prescription,Fentanyl Citrate,2.5,mg,prescriptions
+14957820,21271898,2115-09-29 19:00:00,Lab Result,Specimen Type| Blood,,,labevents
+14957820,21271898,2115-09-29 19:00:00,Lab Result,pO2| Blood,224.0,mm Hg,labevents
+14957820,21271898,2115-09-29 19:00:00,Pharmacy,Fentanyl Citrate,,NaN,pharmacy
+14957820,21271898,2115-09-29 19:00:00,Lab Result,pH| Blood,7.35,units,labevents
+14957820,21271898,2115-09-29 19:00:00,Pharmacy,Influenza Virus Vaccine,,NaN,pharmacy
+14957820,21271898,2115-09-29 19:03:00,Procedure,Family met with Social Worker,1.0,,procedureevents
+14957820,21271898,2115-09-29 19:03:00,Procedure,Family met with Social Worker,1.0,,procedureevents
+14957820,21271898,2115-09-29 19:15:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14957820,21271898,2115-09-29 19:15:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14957820,21271898,2115-09-29 19:20:00,Input,Water,63.333331823349,ml,ingredientevents
+14957820,21271898,2115-09-29 19:20:00,Input,LR,63.333331823349,ml,inputevents
+14957820,21271898,2115-09-29 19:20:00,Input,IVF ingredient,63.333331823349,ml,ingredientevents
+14957820,21271898,2115-09-29 19:33:00,Output,Foley,600.0,ml,outputevents
+14957820,21271898,2115-09-29 19:58:00,Input,LR,118.3333305120468,ml,inputevents
+14957820,21271898,2115-09-29 19:58:00,Input,Water,118.3333305120468,ml,ingredientevents
+14957820,21271898,2115-09-29 19:58:00,Input,IVF ingredient,118.3333305120468,ml,ingredientevents
+14957820,21271898,2115-09-29 20:00:00,Prescription,Lactated Ringers,1000,mL,prescriptions
+14957820,21271898,2115-09-29 20:00:00,Pharmacy,,,NaN,pharmacy
+14957820,21271898,2115-09-29 20:00:00,Pharmacy,Propofol,,NaN,pharmacy
+14957820,21271898,2115-09-29 20:00:00,Prescription,Lactated Ringers,1000,mL,prescriptions
+14957820,21271898,2115-09-29 20:00:00,Pharmacy,Calcium Gluconate sliding scale (Critical Care-Ionized calcium),,NaN,pharmacy
+14957820,21271898,2115-09-29 20:00:00,Pharmacy,Potassium Phosphate Replacement (Oncology),,NaN,pharmacy
+14957820,21271898,2115-09-29 20:00:00,Pharmacy,Magnesium Sulfate Replacement (Critical Care and Oncology),,NaN,pharmacy
+14957820,21271898,2115-09-29 20:00:00,Prescription,Potassium Chloride,60,mEq,prescriptions
+14957820,21271898,2115-09-29 20:00:00,Prescription,SW,600,mL,prescriptions
+14957820,21271898,2115-09-29 20:00:00,Pharmacy,Potassium Chloride Replacement (Critical Care and Oncology),,NaN,pharmacy
+14957820,21271898,2115-09-29 20:00:00,Pharmacy,Magnesium Sulfate Replacement (Critical Care and Oncology),,NaN,pharmacy
+14957820,21271898,2115-09-29 20:00:00,Pharmacy,,,NaN,pharmacy
+14957820,21271898,2115-09-29 20:00:00,Pharmacy,Potassium Chloride Replacement (Critical Care and Oncology),,NaN,pharmacy
+14957820,21271898,2115-09-29 20:00:00,Pharmacy,Propofol,,NaN,pharmacy
+14957820,21271898,2115-09-29 20:00:00,Pharmacy,Heparin,,NaN,pharmacy
+14957820,21271898,2115-09-29 20:00:00,Pharmacy,Potassium Chloride Replacement (Critical Care and Oncology),,NaN,pharmacy
+14957820,21271898,2115-09-29 20:00:00,Pharmacy,Chlorhexidine Gluconate 0.12% Oral Rinse,,NaN,pharmacy
+14957820,21271898,2115-09-29 20:00:00,Pharmacy,Calcium Gluconate sliding scale (Critical Care-Ionized calcium),,NaN,pharmacy
+14957820,21271898,2115-09-29 20:00:00,Output,Foley,250.0,ml,outputevents
+14957820,21271898,2115-09-29 20:00:00,Prescription,SW,400,mL,prescriptions
+14957820,21271898,2115-09-29 20:00:00,Prescription,Potassium Chloride,20,mEq,prescriptions
+14957820,21271898,2115-09-29 20:00:00,Prescription,SW,200,mL,prescriptions
+14957820,21271898,2115-09-29 20:00:00,Prescription,0.9% Sodium Chloride,1,BAG,prescriptions
+14957820,21271898,2115-09-29 20:00:00,Prescription,Calcium Gluconate,2,g,prescriptions
+14957820,21271898,2115-09-29 20:00:00,Prescription,Bag,50,mL,prescriptions
+14957820,21271898,2115-09-29 20:00:00,Prescription,Chlorhexidine Gluconate 0.12% Oral Rinse,15,mL,prescriptions
+14957820,21271898,2115-09-29 20:00:00,Prescription,0.9% Sodium Chloride,2,BAG,prescriptions
+14957820,21271898,2115-09-29 20:00:00,Prescription,Calcium Gluconate,4,g,prescriptions
+14957820,21271898,2115-09-29 20:00:00,Pharmacy,Calcium Gluconate sliding scale (Critical Care-Ionized calcium),,NaN,pharmacy
+14957820,21271898,2115-09-29 20:00:00,Prescription,Magnesium Sulfate,2,gm,prescriptions
+14957820,21271898,2115-09-29 20:00:00,Prescription,Potassium Chloride,40,mEq,prescriptions
+14957820,21271898,2115-09-29 20:00:00,Pharmacy,Magnesium Sulfate Replacement (Critical Care and Oncology),,NaN,pharmacy
+14957820,21271898,2115-09-29 20:00:00,Prescription,Magnesium Sulfate,2,gm,prescriptions
+14957820,21271898,2115-09-29 20:00:00,Prescription,0.9% Sodium Chloride,1,BAG,prescriptions
+14957820,21271898,2115-09-29 20:00:00,Prescription,Calcium Gluconate,2,g,prescriptions
+14957820,21271898,2115-09-29 20:00:00,Prescription,Propofol,200,mg,prescriptions
+14957820,21271898,2115-09-29 20:00:00,Prescription,Propofol,1000,mg,prescriptions
+14957820,21271898,2115-09-29 20:00:00,Prescription,Heparin,5000,UNIT,prescriptions
+14957820,21271898,2115-09-29 20:00:00,Prescription,Bag,100,mL,prescriptions
+14957820,21271898,2115-09-29 20:00:00,Prescription,Magnesium Sulfate,4,gm,prescriptions
+14957820,21271898,2115-09-29 20:00:00,Prescription,0.9% Sodium Chloride,250,mL,prescriptions
+14957820,21271898,2115-09-29 20:00:00,Prescription,Potassium Phosphate,15,mmol,prescriptions
+14957820,21271898,2115-09-29 20:00:00,Prescription,Bag,50,mL,prescriptions
+14957820,21271898,2115-09-29 20:07:00,Input,Solution,0.5333333611488342,ml,inputevents
+14957820,21271898,2115-09-29 20:07:00,Input,Water,0.5333333611488342,ml,ingredientevents
+14957820,21271898,2115-09-29 20:07:00,Input,Fentanyl (Concentrate),0.0266666684183292,mg,inputevents
+14957820,21271898,2115-09-29 20:07:00,Input,IVF ingredient,0.5333333611488342,ml,ingredientevents
+14957820,21271898,2115-09-29 20:09:00,Procedure,Family updated by MD,1.0,,procedureevents
+14957820,21271898,2115-09-29 20:09:00,Procedure,Family updated by MD,1.0,,procedureevents
+14957820,21271898,2115-09-29 20:41:00,Input,Calories,5.551401391625404,Kcal,ingredientevents
+14957820,21271898,2115-09-29 20:41:00,Input,IVF ingredient,0.483333358541131,ml,ingredientevents
+14957820,21271898,2115-09-29 20:41:00,Input,Water,0.483333358541131,ml,ingredientevents
+14957820,21271898,2115-09-29 20:41:00,Input,IVF ingredient,5.046729013323784,ml,ingredientevents
+14957820,21271898,2115-09-29 20:41:00,Input,Solution,0.483333358541131,ml,inputevents
+14957820,21271898,2115-09-29 20:41:00,Input,Water,5.046729013323784,ml,ingredientevents
+14957820,21271898,2115-09-29 20:41:00,Input,Propofol,50.46729126479477,mg,inputevents
+14957820,21271898,2115-09-29 20:41:00,Input,Calories,1.100000023841858,Kcal,ingredientevents
+14957820,21271898,2115-09-29 20:41:00,Input,Propofol,10.000000707805157,mg,inputevents
+14957820,21271898,2115-09-29 20:41:00,Input,Solution,5.046729013323784,ml,inputevents
+14957820,21271898,2115-09-29 20:41:00,Input,Fentanyl (Concentrate),0.0241666682541108,mg,inputevents
+14957820,21271898,2115-09-29 20:41:00,Input,Fentanyl,49.99999873689376,mcg,inputevents
+14957820,21271898,2115-09-29 21:00:00,Output,Foley,500.0,ml,outputevents
+14957820,21271898,2115-09-29 21:00:00,Input,Calories,3.299999952316284,Kcal,ingredientevents
+14957820,21271898,2115-09-29 21:00:00,Input,Propofol,30.000001192092896,mg,inputevents
+14957820,21271898,2115-09-29 21:08:00,Input,IVF ingredient,33.271709978580475,ml,ingredientevents
+14957820,21271898,2115-09-29 21:08:00,Input,Solution,33.271709978580475,ml,inputevents
+14957820,21271898,2115-09-29 21:08:00,Input,Propofol,332.71710807457566,mg,inputevents
+14957820,21271898,2115-09-29 21:08:00,Input,Water,33.271709978580475,ml,ingredientevents
+14957820,21271898,2115-09-29 21:08:00,Input,Calories,36.59887567162514,Kcal,ingredientevents
+14957820,21271898,2115-09-29 21:10:00,Input,Water,3.801293782889843,ml,ingredientevents
+14957820,21271898,2115-09-29 21:10:00,Input,IVF ingredient,3.801293782889843,ml,ingredientevents
+14957820,21271898,2115-09-29 21:10:00,Input,Fentanyl,99.99999747378752,mcg,inputevents
+14957820,21271898,2115-09-29 21:10:00,Input,Fentanyl (Concentrate),0.1900646973354014,mg,inputevents
+14957820,21271898,2115-09-29 21:10:00,Input,Solution,3.801293782889843,ml,inputevents
+14957820,21271898,2115-09-29 21:20:00,DateTime Obs,Cordis/Introducer Dressing Change,2115-09-29 21:10:00,Date and Time,datetimeevents
+14957820,21271898,2115-09-29 21:20:00,DateTime Obs,Cordis/Introducer Insertion Date,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-29 21:20:00,DateTime Obs,Cordis/Introducer Tubing Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-29 21:20:00,DateTime Obs,Cordis/Introducer Cap Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-29 21:31:00,DateTime Obs,Multi Lumen Cap Change,2115-09-29 21:31:00,Date,datetimeevents
+14957820,21271898,2115-09-29 21:31:00,DateTime Obs,Multi Lumen Dressing Change,2115-09-29 21:31:00,Date and Time,datetimeevents
+14957820,21271898,2115-09-29 21:31:00,DateTime Obs,Multi Lumen Insertion Date,2115-09-29 21:31:00,Date,datetimeevents
+14957820,21271898,2115-09-29 21:31:00,DateTime Obs,Multi Lumen Tubing Change,2115-09-29 21:31:00,Date,datetimeevents
+14957820,21271898,2115-09-29 21:31:00,Procedure,Multi Lumen,5455.0,min,procedureevents
+14957820,21271898,2115-09-29 21:31:00,Procedure,Multi Lumen,5455.0,min,procedureevents
+14957820,21271898,2115-09-29 22:00:00,Pharmacy,Sodium Chloride 0.9%  Flush,,NaN,pharmacy
+14957820,21271898,2115-09-29 22:00:00,Output,Foley,100.0,ml,outputevents
+14957820,21271898,2115-09-29 22:00:00,Prescription,Sodium Chloride 0.9%  Flush,10,mL,prescriptions
+14957820,21271898,2115-09-29 22:00:00,DateTime Obs,20 Gauge Insertion Date,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-29 22:03:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14957820,21271898,2115-09-29 22:03:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14957820,21271898,2115-09-29 22:20:00,Input,Potassium Chloride,20.000000596046448,mEq,inputevents
+14957820,21271898,2115-09-29 22:20:00,Input,IVF ingredient,49.999998807907104,ml,ingredientevents
+14957820,21271898,2115-09-29 22:20:00,Input,Magnesium Sulfate,2.0000001043081284,grams,inputevents
+14957820,21271898,2115-09-29 22:20:00,Input,Piggyback,49.999998807907104,ml,inputevents
+14957820,21271898,2115-09-29 22:20:00,Input,Piggyback,49.999998807907104,ml,inputevents
+14957820,21271898,2115-09-29 22:20:00,Input,IVF ingredient,49.999998807907104,ml,ingredientevents
+14957820,21271898,2115-09-29 22:20:00,Input,Water,49.999998807907104,ml,ingredientevents
+14957820,21271898,2115-09-29 22:20:00,Input,Water,49.999998807907104,ml,ingredientevents
+14957820,21271898,2115-09-29 22:32:00,DateTime Obs,Multi Lumen Dressing Change,2115-09-29 21:31:00,Date and Time,datetimeevents
+14957820,21271898,2115-09-29 22:32:00,DateTime Obs,Multi Lumen Cap Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-29 22:32:00,DateTime Obs,Multi Lumen Tubing Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-29 22:32:00,DateTime Obs,Multi Lumen Insertion Date,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-29 22:37:00,Input,Propofol,186.3699546083808,mg,inputevents
+14957820,21271898,2115-09-29 22:37:00,Input,Water,18.63699495792389,ml,ingredientevents
+14957820,21271898,2115-09-29 22:37:00,Input,Solution,18.63699495792389,ml,inputevents
+14957820,21271898,2115-09-29 22:37:00,Input,Calories,20.50069212913513,Kcal,ingredientevents
+14957820,21271898,2115-09-29 22:37:00,Input,IVF ingredient,18.63699495792389,ml,ingredientevents
+14957820,21271898,2115-09-29 22:48:00,Lab Result,Hematocrit| Blood,34.0,%,labevents
+14957820,21271898,2115-09-29 22:50:00,Lab Result,Base Excess| Blood,3.0,mEq/L,labevents
+14957820,21271898,2115-09-29 22:50:00,Lab Result,Specimen Type| Blood,,,labevents
+14957820,21271898,2115-09-29 22:50:00,Lab Result,pO2| Blood,121.0,mm Hg,labevents
+14957820,21271898,2115-09-29 22:50:00,Lab Result,pH| Blood,7.42,units,labevents
+14957820,21271898,2115-09-29 22:50:00,Lab Result,pCO2| Blood,42.0,mm Hg,labevents
+14957820,21271898,2115-09-29 22:50:00,Lab Result,Free Calcium| Blood,1.16,mmol/L,labevents
+14957820,21271898,2115-09-29 22:50:00,Lab Result,Calculated Total CO2| Blood,28.0,mEq/L,labevents
+14957820,21271898,2115-09-29 23:00:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+14957820,21271898,2115-09-29 23:00:00,Output,Foley,70.0,ml,outputevents
+14957820,21271898,2115-09-29 23:03:00,Procedure,Family updated by RN,1.0,,procedureevents
+14957820,21271898,2115-09-29 23:03:00,Procedure,Family updated by RN,1.0,,procedureevents
+14957820,21271898,2115-09-29 23:04:00,Input,Fentanyl (Concentrate),0.0412564330645182,mg,inputevents
+14957820,21271898,2115-09-29 23:04:00,Input,Water,0.8251287247985601,ml,ingredientevents
+14957820,21271898,2115-09-29 23:04:00,Input,Solution,0.8251287247985601,ml,inputevents
+14957820,21271898,2115-09-29 23:04:00,Input,IVF ingredient,0.8251287247985601,ml,ingredientevents
+14957820,21271898,2115-09-29 23:11:00,Output,Nasogastric,100.0,ml,outputevents
+14957820,21271898,2115-09-29 23:20:00,Input,Water,197.49999529123303,ml,ingredientevents
+14957820,21271898,2115-09-29 23:20:00,Input,LR,31.66666761040688,ml,inputevents
+14957820,21271898,2115-09-29 23:20:00,Input,LR,197.49999529123303,ml,inputevents
+14957820,21271898,2115-09-29 23:20:00,Input,Water,31.66666761040688,ml,ingredientevents
+14957820,21271898,2115-09-29 23:20:00,Input,IVF ingredient,31.66666761040688,ml,ingredientevents
+14957820,21271898,2115-09-29 23:20:00,Input,IVF ingredient,197.49999529123303,ml,ingredientevents
+14957820,21271898,2115-09-29 23:37:00,Input,Fentanyl (Concentrate),0.0533617094333749,mg,inputevents
+14957820,21271898,2115-09-29 23:37:00,Input,Propofol,119.90786343812944,mg,inputevents
+14957820,21271898,2115-09-29 23:37:00,Input,IVF ingredient,11.990785598754885,ml,ingredientevents
+14957820,21271898,2115-09-29 23:37:00,Input,IVF ingredient,1.0672342777252195,ml,ingredientevents
+14957820,21271898,2115-09-29 23:37:00,Input,Propofol,20.000001415610317,mg,inputevents
+14957820,21271898,2115-09-29 23:37:00,Input,Water,11.990785598754885,ml,ingredientevents
+14957820,21271898,2115-09-29 23:37:00,Input,Water,1.0672342777252195,ml,ingredientevents
+14957820,21271898,2115-09-29 23:37:00,Input,Calories,13.189863204956056,Kcal,ingredientevents
+14957820,21271898,2115-09-29 23:37:00,Input,Solution,11.990785598754885,ml,inputevents
+14957820,21271898,2115-09-29 23:37:00,Input,Fentanyl,49.99999873689376,mcg,inputevents
+14957820,21271898,2115-09-29 23:37:00,Input,Calories,2.200000047683716,Kcal,ingredientevents
+14957820,21271898,2115-09-29 23:37:00,Input,Solution,1.0672342777252195,ml,inputevents
+14957820,21271898,2115-09-30 00:00:00,Output,Foley,200.0,ml,outputevents
+14957820,21271898,2115-09-30 00:09:00,Input,Water,0.8507799841463566,ml,ingredientevents
+14957820,21271898,2115-09-30 00:09:00,Input,Water,8.585793316364288,ml,ingredientevents
+14957820,21271898,2115-09-30 00:09:00,Input,Calories,9.444371938705444,Kcal,ingredientevents
+14957820,21271898,2115-09-30 00:09:00,Input,IVF ingredient,0.8507799841463566,ml,ingredientevents
+14957820,21271898,2115-09-30 00:09:00,Input,Calories,1.100000023841858,Kcal,ingredientevents
+14957820,21271898,2115-09-30 00:09:00,Input,IVF ingredient,8.585793316364288,ml,ingredientevents
+14957820,21271898,2115-09-30 00:09:00,Input,Propofol,10.000000707805157,mg,inputevents
+14957820,21271898,2115-09-30 00:09:00,Input,Propofol,85.85793664678931,mg,inputevents
+14957820,21271898,2115-09-30 00:09:00,Input,Fentanyl (Concentrate),0.0425389964675559,mg,inputevents
+14957820,21271898,2115-09-30 00:09:00,Input,Solution,0.8507799841463566,ml,inputevents
+14957820,21271898,2115-09-30 00:09:00,Input,Solution,8.585793316364288,ml,inputevents
+14957820,21271898,2115-09-30 00:09:00,Input,Fentanyl,49.99999873689376,mcg,inputevents
+14957820,21271898,2115-09-30 00:26:00,Input,IVF ingredient,3.0286998748779297,ml,ingredientevents
+14957820,21271898,2115-09-30 00:26:00,Input,Calories,3.3315694332122803,Kcal,ingredientevents
+14957820,21271898,2115-09-30 00:26:00,Input,Fentanyl (Concentrate),1.8016516560237503,mg,inputevents
+14957820,21271898,2115-09-30 00:26:00,Input,Solution,36.03303730487824,ml,inputevents
+14957820,21271898,2115-09-30 00:26:00,Input,Propofol,30.2870012819767,mg,inputevents
+14957820,21271898,2115-09-30 00:26:00,Input,Solution,3.0286998748779297,ml,inputevents
+14957820,21271898,2115-09-30 00:26:00,Input,Water,3.0286998748779297,ml,ingredientevents
+14957820,21271898,2115-09-30 00:26:00,Input,Water,36.03303730487824,ml,ingredientevents
+14957820,21271898,2115-09-30 00:26:00,Input,IVF ingredient,36.03303730487824,ml,ingredientevents
+14957820,21271898,2115-09-30 00:27:00,DateTime Obs,Multi Lumen Dressing Change,2115-09-29 21:31:00,Date and Time,datetimeevents
+14957820,21271898,2115-09-30 00:27:00,DateTime Obs,Multi Lumen Insertion Date,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-30 00:27:00,DateTime Obs,Multi Lumen Tubing Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-30 00:27:00,DateTime Obs,Cordis/Introducer Cap Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-30 00:27:00,DateTime Obs,Cordis/Introducer Dressing Change,2115-09-29 21:10:00,Date and Time,datetimeevents
+14957820,21271898,2115-09-30 00:27:00,DateTime Obs,Cordis/Introducer Insertion Date,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-30 00:27:00,DateTime Obs,Cordis/Introducer Tubing Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-30 00:27:00,DateTime Obs,Multi Lumen Cap Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-30 00:28:00,DateTime Obs,Arterial line Tubing Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-30 00:28:00,DateTime Obs,Arterial line Insertion Date,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-30 00:28:00,Input,IVF ingredient,100.00000256299973,ml,ingredientevents
+14957820,21271898,2115-09-30 00:28:00,Input,Calories,110.0000058412552,Kcal,ingredientevents
+14957820,21271898,2115-09-30 00:28:00,Input,Water,100.00000256299973,ml,ingredientevents
+14957820,21271898,2115-09-30 00:28:00,DateTime Obs,Arterial Line Dressing Change,2115-09-29 18:09:00,Date and Time,datetimeevents
+14957820,21271898,2115-09-30 00:28:00,Input,Solution,100.00000256299973,ml,inputevents
+14957820,21271898,2115-09-30 00:28:00,Input,Propofol,1000.0000917352736,mg,inputevents
+14957820,21271898,2115-09-30 00:36:00,Input,Propofol,10.000000707805157,mg,inputevents
+14957820,21271898,2115-09-30 00:36:00,Input,Fentanyl,49.99999873689376,mcg,inputevents
+14957820,21271898,2115-09-30 00:36:00,Input,Calories,1.100000023841858,Kcal,ingredientevents
+14957820,21271898,2115-09-30 01:00:00,Pharmacy,Fentanyl Citrate,,NaN,pharmacy
+14957820,21271898,2115-09-30 01:00:00,Prescription,Fentanyl Citrate,2.5,mg,prescriptions
+14957820,21271898,2115-09-30 01:00:00,Prescription,Propofol,1000,mg,prescriptions
+14957820,21271898,2115-09-30 01:00:00,Output,Foley,205.0,ml,outputevents
+14957820,21271898,2115-09-30 01:00:00,Prescription,Propofol,200,mg,prescriptions
+14957820,21271898,2115-09-30 01:00:00,Pharmacy,Propofol,,NaN,pharmacy
+14957820,21271898,2115-09-30 01:00:00,Pharmacy,Propofol,,NaN,pharmacy
+14957820,21271898,2115-09-30 02:00:00,Output,Foley,400.0,ml,outputevents
+14957820,21271898,2115-09-30 02:17:00,Lab Result,Hematocrit| Blood,35.4,%,labevents
+14957820,21271898,2115-09-30 02:17:00,Lab Result,MCH| Blood,29.2,pg,labevents
+14957820,21271898,2115-09-30 02:17:00,Lab Result,Sodium| Blood,140.0,mEq/L,labevents
+14957820,21271898,2115-09-30 02:17:00,Lab Result,Potassium| Blood,4.1,mEq/L,labevents
+14957820,21271898,2115-09-30 02:17:00,Lab Result,Phosphate| Blood,3.9,mg/dL,labevents
+14957820,21271898,2115-09-30 02:17:00,Lab Result,Magnesium| Blood,2.4,mg/dL,labevents
+14957820,21271898,2115-09-30 02:17:00,Lab Result,Glucose| Blood,99.0,mg/dL,labevents
+14957820,21271898,2115-09-30 02:17:00,Lab Result,Creatinine| Blood,0.4,mg/dL,labevents
+14957820,21271898,2115-09-30 02:17:00,Lab Result,Chloride| Blood,107.0,mEq/L,labevents
+14957820,21271898,2115-09-30 02:17:00,Lab Result,Bicarbonate| Blood,25.0,mEq/L,labevents
+14957820,21271898,2115-09-30 02:17:00,Lab Result,Hemoglobin| Blood,12.2,g/dL,labevents
+14957820,21271898,2115-09-30 02:17:00,Lab Result,Urea Nitrogen| Blood,7.0,mg/dL,labevents
+14957820,21271898,2115-09-30 02:17:00,Lab Result,"Calcium, Total| Blood",8.6,mg/dL,labevents
+14957820,21271898,2115-09-30 02:17:00,Lab Result,Anion Gap| Blood,12.0,mEq/L,labevents
+14957820,21271898,2115-09-30 02:17:00,Lab Result,MCV| Blood,85.0,fL,labevents
+14957820,21271898,2115-09-30 02:17:00,Lab Result,RDW| Blood,13.5,%,labevents
+14957820,21271898,2115-09-30 02:17:00,Lab Result,Platelet Count| Blood,253.0,K/uL,labevents
+14957820,21271898,2115-09-30 02:17:00,Lab Result,White Blood Cells| Blood,15.6,K/uL,labevents
+14957820,21271898,2115-09-30 02:17:00,Lab Result,Red Blood Cells| Blood,4.17,m/uL,labevents
+14957820,21271898,2115-09-30 02:17:00,Lab Result,MCHC| Blood,34.3,%,labevents
+14957820,21271898,2115-09-30 02:47:00,DateTime Obs,Cordis/Introducer Cap Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-30 02:47:00,DateTime Obs,Cordis/Introducer Insertion Date,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-30 02:47:00,DateTime Obs,Cordis/Introducer Tubing Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-30 02:47:00,DateTime Obs,Cordis/Introducer Dressing Change,2115-09-29 21:10:00,Date and Time,datetimeevents
+14957820,21271898,2115-09-30 03:00:00,Prescription,Famotidine,20,mg,prescriptions
+14957820,21271898,2115-09-30 03:00:00,Prescription,Iso-Osmotic Sodium Chloride,50,mL,prescriptions
+14957820,21271898,2115-09-30 03:00:00,Pharmacy,Famotidine,,NaN,pharmacy
+14957820,21271898,2115-09-30 03:00:00,Output,Foley,350.0,ml,outputevents
+14957820,21271898,2115-09-30 03:00:00,Prescription,Dexmedetomidine,0.2,mg,prescriptions
+14957820,21271898,2115-09-30 03:00:00,Prescription,0.9% Sodium Chloride,50,mL,prescriptions
+14957820,21271898,2115-09-30 03:00:00,Pharmacy,Dexmedetomidine,,NaN,pharmacy
+14957820,21271898,2115-09-30 03:17:00,Input,Water,50.0,ml,ingredientevents
+14957820,21271898,2115-09-30 03:17:00,Input,Propofol,109.09010097384451,mg,inputevents
+14957820,21271898,2115-09-30 03:17:00,Input,Solution,50.0,ml,inputevents
+14957820,21271898,2115-09-30 03:17:00,Input,Water,10.909008622169496,ml,ingredientevents
+14957820,21271898,2115-09-30 03:17:00,Input,Solution,10.909008622169496,ml,inputevents
+14957820,21271898,2115-09-30 03:17:00,Input,Famotidine (Pepcid),1.0,dose,inputevents
+14957820,21271898,2115-09-30 03:17:00,Input,Calories,11.999909162521362,Kcal,ingredientevents
+14957820,21271898,2115-09-30 03:17:00,Input,IVF ingredient,50.0,ml,ingredientevents
+14957820,21271898,2115-09-30 03:17:00,Input,IVF ingredient,10.909008622169496,ml,ingredientevents
+14957820,21271898,2115-09-30 03:32:00,Input,Water,620.0329785346985,ml,ingredientevents
+14957820,21271898,2115-09-30 03:32:00,Input,IVF ingredient,620.0329785346985,ml,ingredientevents
+14957820,21271898,2115-09-30 03:32:00,Input,LR,620.0329785346985,ml,inputevents
+14957820,21271898,2115-09-30 03:35:00,Input,Solution,12.400172173976898,ml,inputevents
+14957820,21271898,2115-09-30 03:35:00,Input,Calories,2.200000047683716,Kcal,ingredientevents
+14957820,21271898,2115-09-30 03:35:00,Input,Propofol,124.00173023343086,mg,inputevents
+14957820,21271898,2115-09-30 03:35:00,Input,Propofol,20.000001415610317,mg,inputevents
+14957820,21271898,2115-09-30 03:35:00,Input,Fentanyl,99.99999747378752,mcg,inputevents
+14957820,21271898,2115-09-30 03:35:00,Input,Water,12.400172173976898,ml,ingredientevents
+14957820,21271898,2115-09-30 03:35:00,Input,Calories,13.640187919139862,Kcal,ingredientevents
+14957820,21271898,2115-09-30 03:35:00,Input,IVF ingredient,12.400172173976898,ml,ingredientevents
+14957820,21271898,2115-09-30 03:54:00,Input,IVF ingredient,42.33766290545464,ml,ingredientevents
+14957820,21271898,2115-09-30 03:54:00,Input,Calories,7.197402499616146,Kcal,ingredientevents
+14957820,21271898,2115-09-30 03:54:00,Input,Water,42.33766290545464,ml,ingredientevents
+14957820,21271898,2115-09-30 03:54:00,Input,IVF ingredient,8.818121552467346,ml,ingredientevents
+14957820,21271898,2115-09-30 03:54:00,Input,Water,8.818121552467346,ml,ingredientevents
+14957820,21271898,2115-09-30 03:54:00,Input,Dextrose 5%,42.33766290545464,ml,inputevents
+14957820,21271898,2115-09-30 03:54:00,Input,Dexmedetomidine (Precedex),169.35065036705055,mcg,inputevents
+14957820,21271898,2115-09-30 03:54:00,Input,Propofol,88.18122558295727,mg,inputevents
+14957820,21271898,2115-09-30 03:54:00,Input,Calories,9.699932634830477,Kcal,ingredientevents
+14957820,21271898,2115-09-30 03:54:00,Input,Solution,8.818121552467346,ml,inputevents
+14957820,21271898,2115-09-30 04:00:00,Output,Foley,230.0,ml,outputevents
+14957820,21271898,2115-09-30 04:00:00,Output,Nasogastric,50.0,ml,outputevents
+14957820,21271898,2115-09-30 04:09:00,Input,Propofol,31.473912298679352,mg,inputevents
+14957820,21271898,2115-09-30 04:09:00,Input,Water,3.1473909616470337,ml,ingredientevents
+14957820,21271898,2115-09-30 04:09:00,Input,Calories,3.4621299505233765,Kcal,ingredientevents
+14957820,21271898,2115-09-30 04:09:00,Input,Solution,3.1473909616470337,ml,inputevents
+14957820,21271898,2115-09-30 04:09:00,Input,IVF ingredient,3.1473909616470337,ml,ingredientevents
+14957820,21271898,2115-09-30 04:15:00,Input,Propofol,96.19491174817084,mg,inputevents
+14957820,21271898,2115-09-30 04:15:00,Input,Solution,9.61949023604393,ml,inputevents
+14957820,21271898,2115-09-30 04:15:00,Input,Calories,10.581439197063446,Kcal,ingredientevents
+14957820,21271898,2115-09-30 04:15:00,Input,IVF ingredient,9.61949023604393,ml,ingredientevents
+14957820,21271898,2115-09-30 04:15:00,Input,Water,9.61949023604393,ml,ingredientevents
+14957820,21271898,2115-09-30 04:36:00,Input,Calories,2.162030041217804,Kcal,ingredientevents
+14957820,21271898,2115-09-30 04:36:00,Input,Water,1.9654817879199984,ml,ingredientevents
+14957820,21271898,2115-09-30 04:36:00,Input,Propofol,19.65482020750642,mg,inputevents
+14957820,21271898,2115-09-30 04:36:00,Input,IVF ingredient,1.9654817879199984,ml,ingredientevents
+14957820,21271898,2115-09-30 04:36:00,Input,Solution,1.9654817879199984,ml,inputevents
+14957820,21271898,2115-09-30 04:37:00,DateTime Obs,Multi Lumen Dressing Change,2115-09-29 21:31:00,Date and Time,datetimeevents
+14957820,21271898,2115-09-30 04:37:00,DateTime Obs,Arterial line Tubing Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-30 04:37:00,DateTime Obs,Multi Lumen Insertion Date,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-30 04:37:00,DateTime Obs,Multi Lumen Cap Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-30 04:37:00,DateTime Obs,Multi Lumen Tubing Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-30 04:37:00,DateTime Obs,Arterial Line Dressing Change,2115-09-29 18:09:00,Date and Time,datetimeevents
+14957820,21271898,2115-09-30 04:37:00,DateTime Obs,Arterial line Insertion Date,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-30 04:41:00,Input,Propofol,22.95876177959144,mg,inputevents
+14957820,21271898,2115-09-30 04:41:00,Input,IVF ingredient,2.2958759367465973,ml,ingredientevents
+14957820,21271898,2115-09-30 04:41:00,Input,Calories,2.5254635512828827,Kcal,ingredientevents
+14957820,21271898,2115-09-30 04:41:00,Input,Water,2.2958759367465973,ml,ingredientevents
+14957820,21271898,2115-09-30 04:41:00,Input,Solution,2.2958759367465973,ml,inputevents
+14957820,21271898,2115-09-30 04:48:00,Input,Solution,1.5743147134780884,ml,inputevents
+14957820,21271898,2115-09-30 04:48:00,Input,Water,1.5743147134780884,ml,ingredientevents
+14957820,21271898,2115-09-30 04:48:00,Input,Propofol,15.743148978799582,mg,inputevents
+14957820,21271898,2115-09-30 04:48:00,Input,IVF ingredient,1.5743147134780884,ml,ingredientevents
+14957820,21271898,2115-09-30 04:48:00,Input,Calories,1.731746256351471,Kcal,ingredientevents
+14957820,21271898,2115-09-30 04:54:00,Input,Solution,4.722944140434265,ml,inputevents
+14957820,21271898,2115-09-30 04:54:00,Input,Propofol,47.229446936398745,mg,inputevents
+14957820,21271898,2115-09-30 04:54:00,Input,IVF ingredient,4.722944140434265,ml,ingredientevents
+14957820,21271898,2115-09-30 04:54:00,Input,Calories,5.195238769054413,Kcal,ingredientevents
+14957820,21271898,2115-09-30 04:54:00,Input,Water,4.722944140434265,ml,ingredientevents
+14957820,21271898,2115-09-30 05:00:00,Output,Foley,150.0,ml,outputevents
+14957820,21271898,2115-09-30 05:07:00,Input,Calories,1.100000023841858,Kcal,ingredientevents
+14957820,21271898,2115-09-30 05:07:00,Input,Propofol,10.000000707805157,mg,inputevents
+14957820,21271898,2115-09-30 05:07:00,Input,Fentanyl,49.99999873689376,mcg,inputevents
+14957820,21271898,2115-09-30 05:27:00,Procedure,C-Spine Clearance,1.0,,procedureevents
+14957820,21271898,2115-09-30 05:27:00,Procedure,C-Spine Clearance,1.0,,procedureevents
+14957820,21271898,2115-09-30 05:30:00,Input,Calories,14.431218802928925,Kcal,ingredientevents
+14957820,21271898,2115-09-30 05:30:00,Input,IVF ingredient,13.11928927898407,ml,ingredientevents
+14957820,21271898,2115-09-30 05:30:00,Input,Solution,13.11928927898407,ml,inputevents
+14957820,21271898,2115-09-30 05:30:00,Input,Propofol,131.19290815666318,mg,inputevents
+14957820,21271898,2115-09-30 05:30:00,Input,Calories,2.200000047683716,Kcal,ingredientevents
+14957820,21271898,2115-09-30 05:30:00,Input,Water,13.11928927898407,ml,ingredientevents
+14957820,21271898,2115-09-30 05:30:00,Input,Propofol,20.000001415610317,mg,inputevents
+14957820,21271898,2115-09-30 05:31:00,Input,Fentanyl,49.99999873689376,mcg,inputevents
+14957820,21271898,2115-09-30 06:00:00,Output,Foley,40.0,ml,outputevents
+14957820,21271898,2115-09-30 06:00:00,Pharmacy,Methadone,,NaN,pharmacy
+14957820,21271898,2115-09-30 06:00:00,Prescription,Methadone,5,mg,prescriptions
+14957820,21271898,2115-09-30 06:00:00,Prescription,Syringe,0.5,mL,prescriptions
+14957820,21271898,2115-09-30 06:18:00,Input,Methadone Hydrochloride,5.000000353902578,mg,inputevents
+14957820,21271898,2115-09-30 06:20:00,Input,Solution,31.427897214889526,ml,inputevents
+14957820,21271898,2115-09-30 06:20:00,Input,Water,31.427897214889526,ml,ingredientevents
+14957820,21271898,2115-09-30 06:20:00,Input,Calories,34.57068693637848,Kcal,ingredientevents
+14957820,21271898,2115-09-30 06:20:00,Input,IVF ingredient,31.427897214889526,ml,ingredientevents
+14957820,21271898,2115-09-30 06:20:00,Input,Propofol,314.27897955290973,mg,inputevents
+14957820,21271898,2115-09-30 06:23:00,Input,Fentanyl,49.99999873689376,mcg,inputevents
+14957820,21271898,2115-09-30 06:23:00,Input,Propofol,10.000000707805157,mg,inputevents
+14957820,21271898,2115-09-30 06:23:00,Input,Calories,1.100000023841858,Kcal,ingredientevents
+14957820,21271898,2115-09-30 07:00:00,Output,Foley,85.0,ml,outputevents
+14957820,21271898,2115-09-30 07:08:00,Input,Calories,2.200000047683716,Kcal,ingredientevents
+14957820,21271898,2115-09-30 07:08:00,Input,Fentanyl,49.99999873689376,mcg,inputevents
+14957820,21271898,2115-09-30 07:08:00,Input,Propofol,20.000001415610317,mg,inputevents
+14957820,21271898,2115-09-30 07:55:00,DateTime Obs,Arterial Line Dressing Change,2115-09-29 18:09:00,Date and Time,datetimeevents
+14957820,21271898,2115-09-30 07:55:00,DateTime Obs,Arterial line Insertion Date,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-30 07:55:00,DateTime Obs,Arterial line Tubing Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-30 07:55:00,DateTime Obs,Multi Lumen Cap Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-30 07:55:00,DateTime Obs,Multi Lumen Tubing Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-30 07:55:00,DateTime Obs,Multi Lumen Dressing Change,2115-09-29 21:31:00,Date and Time,datetimeevents
+14957820,21271898,2115-09-30 07:55:00,DateTime Obs,Multi Lumen Insertion Date,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-30 08:00:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+14957820,21271898,2115-09-30 08:00:00,Output,Foley,80.0,ml,outputevents
+14957820,21271898,2115-09-30 08:00:00,Output,Nasogastric,0.0,ml,outputevents
+14957820,21271898,2115-09-30 08:30:00,Input,Propofol,20.000001415610317,mg,inputevents
+14957820,21271898,2115-09-30 08:30:00,Input,Fentanyl,49.99999873689376,mcg,inputevents
+14957820,21271898,2115-09-30 08:30:00,Input,Calories,2.200000047683716,Kcal,ingredientevents
+14957820,21271898,2115-09-30 08:59:00,Input,IVF ingredient,5.324313104152679,ml,ingredientevents
+14957820,21271898,2115-09-30 08:59:00,Input,Calories,5.856744334101677,Kcal,ingredientevents
+14957820,21271898,2115-09-30 08:59:00,Input,Water,5.324313104152679,ml,ingredientevents
+14957820,21271898,2115-09-30 08:59:00,Input,Solution,5.324313104152679,ml,inputevents
+14957820,21271898,2115-09-30 08:59:00,Input,Propofol,53.24313556775451,mg,inputevents
+14957820,21271898,2115-09-30 09:00:00,Output,Foley,95.0,ml,outputevents
+14957820,21271898,2115-09-30 09:20:00,Input,Dextrose 5%,7.062249630689621,ml,inputevents
+14957820,21271898,2115-09-30 09:20:00,Input,Water,7.062249630689621,ml,ingredientevents
+14957820,21271898,2115-09-30 09:20:00,Input,Calories,1.2005825527012348,Kcal,ingredientevents
+14957820,21271898,2115-09-30 09:20:00,Input,Dexmedetomidine (Precedex),28.24900207087921,mcg,inputevents
+14957820,21271898,2115-09-30 09:20:00,Input,IVF ingredient,7.062249630689621,ml,ingredientevents
+14957820,21271898,2115-09-30 09:21:00,Procedure,Extubation,1.0,,procedureevents
+14957820,21271898,2115-09-30 09:21:00,Procedure,Extubation,1.0,,procedureevents
+14957820,21271898,2115-09-30 09:45:00,Input,Dexmedetomidine (Precedex),198.80000650118745,mcg,inputevents
+14957820,21271898,2115-09-30 09:45:00,Input,Calories,8.449000120162964,Kcal,ingredientevents
+14957820,21271898,2115-09-30 09:45:00,Input,IVF ingredient,49.7000016272068,ml,ingredientevents
+14957820,21271898,2115-09-30 09:45:00,Input,Water,49.7000016272068,ml,ingredientevents
+14957820,21271898,2115-09-30 09:45:00,Input,Dextrose 5%,49.7000016272068,ml,inputevents
+14957820,21271898,2115-09-30 10:00:00,Pharmacy,Methadone,,NaN,pharmacy
+14957820,21271898,2115-09-30 10:00:00,Pharmacy,Dexmedetomidine,,NaN,pharmacy
+14957820,21271898,2115-09-30 10:00:00,Prescription,Dexmedetomidine,0.2,mg,prescriptions
+14957820,21271898,2115-09-30 10:00:00,Prescription,0.9% Sodium Chloride,50,mL,prescriptions
+14957820,21271898,2115-09-30 10:00:00,Prescription,Clonidine Patch 0.2 mg/24 hr,1,PTCH,prescriptions
+14957820,21271898,2115-09-30 10:00:00,Output,Foley,45.0,ml,outputevents
+14957820,21271898,2115-09-30 10:00:00,Prescription,Syringe,1,mL,prescriptions
+14957820,21271898,2115-09-30 10:00:00,Prescription,Methadone,10,mg,prescriptions
+14957820,21271898,2115-09-30 10:00:00,Prescription,Methadone,40,mg,prescriptions
+14957820,21271898,2115-09-30 10:00:00,Pharmacy,Methadone,,NaN,pharmacy
+14957820,21271898,2115-09-30 10:00:00,Pharmacy,Clonidine Patch 0.2 mg/24 hr,,NaN,pharmacy
+14957820,21271898,2115-09-30 10:15:00,Input,Hydromorphone (Dilaudid),0.5000000237487257,mg,inputevents
+14957820,21271898,2115-09-30 10:16:00,Procedure,Family updated by RN,1.0,,procedureevents
+14957820,21271898,2115-09-30 10:16:00,Procedure,Family updated by RN,1.0,,procedureevents
+14957820,21271898,2115-09-30 10:23:00,Input,Methadone Hydrochloride,10.000000707805157,mg,inputevents
+14957820,21271898,2115-09-30 10:40:00,Procedure,Family updated by RN,1.0,,procedureevents
+14957820,21271898,2115-09-30 10:40:00,Procedure,Family updated by RN,1.0,,procedureevents
+14957820,21271898,2115-09-30 11:00:00,Output,Foley,50.0,ml,outputevents
+14957820,21271898,2115-09-30 11:00:00,Pharmacy,Albuterol 0.083% Neb Soln,,NaN,pharmacy
+14957820,21271898,2115-09-30 11:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+14957820,21271898,2115-09-30 11:00:00,Prescription,HYDROmorphone (Dilaudid),0.5 -2,mg,prescriptions
+14957820,21271898,2115-09-30 11:00:00,Prescription,Albuterol 0.083% Neb Soln,1,NEB,prescriptions
+14957820,21271898,2115-09-30 11:10:00,Input,Hydromorphone (Dilaudid),0.5000000237487257,mg,inputevents
+14957820,21271898,2115-09-30 11:45:00,DateTime Obs,Multi Lumen Insertion Date,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-30 11:45:00,DateTime Obs,Arterial Line Dressing Change,2115-09-29 18:09:00,Date and Time,datetimeevents
+14957820,21271898,2115-09-30 11:45:00,DateTime Obs,Multi Lumen Dressing Change,2115-09-29 21:31:00,Date and Time,datetimeevents
+14957820,21271898,2115-09-30 11:45:00,DateTime Obs,Multi Lumen Cap Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-30 11:45:00,DateTime Obs,Arterial line Insertion Date,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-30 11:45:00,DateTime Obs,Multi Lumen Tubing Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-30 11:45:00,DateTime Obs,Arterial line Tubing Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-30 12:00:00,Prescription,PNEUMOcoccal Vac Polyvalent,0.5,mL,prescriptions
+14957820,21271898,2115-09-30 12:00:00,Pharmacy,PNEUMOcoccal Vac Polyvalent,,NaN,pharmacy
+14957820,21271898,2115-09-30 12:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+14957820,21271898,2115-09-30 12:00:00,Prescription,HYDROmorphone,20,mg,prescriptions
+14957820,21271898,2115-09-30 12:00:00,Prescription,Haemophilus B Conj. Vaccine,0.5,mL,prescriptions
+14957820,21271898,2115-09-30 12:00:00,Prescription,MENINGOcoccal Conj Vaccine (Menactra),0.5,mL,prescriptions
+14957820,21271898,2115-09-30 12:00:00,Pharmacy,MENINGOcoccal Conj Vaccine (Menactra),,NaN,pharmacy
+14957820,21271898,2115-09-30 12:00:00,Output,Foley,40.0,ml,outputevents
+14957820,21271898,2115-09-30 12:00:00,Pharmacy,Haemophilus B Conj. Vaccine,,NaN,pharmacy
+14957820,21271898,2115-09-30 12:00:00,Prescription,0.9% Sodium Chloride,100,mL,prescriptions
+14957820,21271898,2115-09-30 12:15:00,Input,Hydromorphone (Dilaudid),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-09-30 12:30:00,Input,Lorazepam (Ativan),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-09-30 12:40:00,Input,Calories,8.398000918328762,Kcal,ingredientevents
+14957820,21271898,2115-09-30 12:40:00,Input,Dexmedetomidine (Precedex),197.6000132799527,mcg,inputevents
+14957820,21271898,2115-09-30 12:40:00,Input,Dextrose 5%,49.40000402927399,ml,inputevents
+14957820,21271898,2115-09-30 12:40:00,Input,IVF ingredient,49.40000402927399,ml,ingredientevents
+14957820,21271898,2115-09-30 12:40:00,Input,Water,49.40000402927399,ml,ingredientevents
+14957820,21271898,2115-09-30 13:00:00,Prescription,HYDROmorphone (Dilaudid),0.25-1,mg,prescriptions
+14957820,21271898,2115-09-30 13:00:00,Pharmacy,Lorazepam,,NaN,pharmacy
+14957820,21271898,2115-09-30 13:00:00,Prescription,Lorazepam,0.5-1,mg,prescriptions
+14957820,21271898,2115-09-30 13:00:00,Output,Foley,80.0,ml,outputevents
+14957820,21271898,2115-09-30 13:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+14957820,21271898,2115-09-30 13:09:00,Procedure,Family updated by RN,1.0,,procedureevents
+14957820,21271898,2115-09-30 13:09:00,Procedure,Family updated by RN,1.0,,procedureevents
+14957820,21271898,2115-09-30 14:00:00,Prescription,0.9% Sodium Chloride,50,mL,prescriptions
+14957820,21271898,2115-09-30 14:00:00,Prescription,Dexmedetomidine,0.2,mg,prescriptions
+14957820,21271898,2115-09-30 14:00:00,Output,Foley,80.0,ml,outputevents
+14957820,21271898,2115-09-30 14:00:00,Pharmacy,Dexmedetomidine,,NaN,pharmacy
+14957820,21271898,2115-09-30 14:00:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+14957820,21271898,2115-09-30 14:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+14957820,21271898,2115-09-30 14:00:00,Prescription,HYDROmorphone (Dilaudid),0.5-2,mg,prescriptions
+14957820,21271898,2115-09-30 14:15:00,Input,Lorazepam (Ativan),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-09-30 14:30:00,Input,Hydromorphone (Dilaudid),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-09-30 14:33:00,Procedure,Family updated by RN,1.0,,procedureevents
+14957820,21271898,2115-09-30 14:33:00,Procedure,Family updated by RN,1.0,,procedureevents
+14957820,21271898,2115-09-30 15:00:00,Output,Foley,35.0,ml,outputevents
+14957820,21271898,2115-09-30 15:34:00,Input,IVF ingredient,38.3116851747036,ml,ingredientevents
+14957820,21271898,2115-09-30 15:34:00,Input,Calories,6.512986700981855,Kcal,ingredientevents
+14957820,21271898,2115-09-30 15:34:00,Input,Water,38.3116851747036,ml,ingredientevents
+14957820,21271898,2115-09-30 15:34:00,Input,Dexmedetomidine (Precedex),153.2467541665028,mcg,inputevents
+14957820,21271898,2115-09-30 15:34:00,Input,Dextrose 5%,38.3116851747036,ml,inputevents
+14957820,21271898,2115-09-30 15:50:00,Procedure,Family updated by MD,1.0,,procedureevents
+14957820,21271898,2115-09-30 15:50:00,Procedure,Family updated by MD,1.0,,procedureevents
+14957820,21271898,2115-09-30 15:56:00,Input,LR,183.33332896232605,ml,inputevents
+14957820,21271898,2115-09-30 15:56:00,Input,Water,183.33332896232605,ml,ingredientevents
+14957820,21271898,2115-09-30 15:56:00,Input,IVF ingredient,183.33332896232605,ml,ingredientevents
+14957820,21271898,2115-09-30 16:00:00,Output,Foley,90.0,ml,outputevents
+14957820,21271898,2115-09-30 16:15:00,Input,Hydromorphone (Dilaudid),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-09-30 16:22:00,Procedure,Family updated by RN,1.0,,procedureevents
+14957820,21271898,2115-09-30 16:22:00,DateTime Obs,Multi Lumen Cap Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-30 16:22:00,Procedure,Family updated by RN,1.0,,procedureevents
+14957820,21271898,2115-09-30 16:22:00,DateTime Obs,Multi Lumen Dressing Change,2115-09-29 21:31:00,Date and Time,datetimeevents
+14957820,21271898,2115-09-30 16:22:00,DateTime Obs,Multi Lumen Insertion Date,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-30 16:22:00,DateTime Obs,Multi Lumen Tubing Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-30 16:45:00,Input,Lorazepam (Ativan),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-09-30 17:00:00,Pharmacy,Acetaminophen IV,,NaN,pharmacy
+14957820,21271898,2115-09-30 17:00:00,Prescription,Acetaminophen IV,1000,mg,prescriptions
+14957820,21271898,2115-09-30 17:00:00,Prescription,Soln,100,mL,prescriptions
+14957820,21271898,2115-09-30 17:00:00,Pharmacy,Lorazepam,,NaN,pharmacy
+14957820,21271898,2115-09-30 17:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+14957820,21271898,2115-09-30 17:00:00,Prescription,HYDROmorphone (Dilaudid),0.5 - 2,mg,prescriptions
+14957820,21271898,2115-09-30 17:00:00,Pharmacy,OLANZapine (Disintegrating Tablet),,NaN,pharmacy
+14957820,21271898,2115-09-30 17:00:00,Prescription,OLANZapine (Disintegrating Tablet),5,mg,prescriptions
+14957820,21271898,2115-09-30 17:00:00,Output,Foley,85.0,ml,outputevents
+14957820,21271898,2115-09-30 17:00:00,Prescription,Lorazepam,0.5-1,mg,prescriptions
+14957820,21271898,2115-09-30 17:03:00,Procedure,Family updated by MD,1.0,,procedureevents
+14957820,21271898,2115-09-30 17:03:00,Procedure,Family updated by MD,1.0,,procedureevents
+14957820,21271898,2115-09-30 17:15:00,Input,Acetaminophen-IV,1000.0,mg,inputevents
+14957820,21271898,2115-09-30 17:49:00,Input,IVF ingredient,4.731888711452484,ml,ingredientevents
+14957820,21271898,2115-09-30 17:49:00,Input,Calories,0.8044211119413376,Kcal,ingredientevents
+14957820,21271898,2115-09-30 17:49:00,Input,Water,4.731888711452484,ml,ingredientevents
+14957820,21271898,2115-09-30 17:49:00,Input,Dextrose 5%,4.731888711452484,ml,inputevents
+14957820,21271898,2115-09-30 17:49:00,Input,Dexmedetomidine (Precedex),18.92755597054929,mcg,inputevents
+14957820,21271898,2115-09-30 17:55:00,Procedure,EKG,1.0,,procedureevents
+14957820,21271898,2115-09-30 17:55:00,Procedure,EKG,1.0,,procedureevents
+14957820,21271898,2115-09-30 18:00:00,Prescription,Lorazepam,0.5-1,mg,prescriptions
+14957820,21271898,2115-09-30 18:00:00,Output,Nasogastric,100.0,ml,outputevents
+14957820,21271898,2115-09-30 18:00:00,Output,Foley,165.0,ml,outputevents
+14957820,21271898,2115-09-30 18:00:00,Prescription,Acetaminophen IV,1000,mg,prescriptions
+14957820,21271898,2115-09-30 18:00:00,Pharmacy,Acetaminophen IV,,NaN,pharmacy
+14957820,21271898,2115-09-30 18:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+14957820,21271898,2115-09-30 18:00:00,Prescription,Soln,100,mL,prescriptions
+14957820,21271898,2115-09-30 18:00:00,Pharmacy,Lorazepam,,NaN,pharmacy
+14957820,21271898,2115-09-30 18:00:00,Prescription,HYDROmorphone (Dilaudid),0.5 - 2,mg,prescriptions
+14957820,21271898,2115-09-30 18:15:00,Input,Calories,1.1316050235182047,Kcal,ingredientevents
+14957820,21271898,2115-09-30 18:15:00,Input,Dextrose 5%,6.656499534845352,ml,inputevents
+14957820,21271898,2115-09-30 18:15:00,Input,Dexmedetomidine (Precedex),26.626000305896014,mcg,inputevents
+14957820,21271898,2115-09-30 18:15:00,Input,Water,6.656499534845352,ml,ingredientevents
+14957820,21271898,2115-09-30 18:15:00,Input,IVF ingredient,6.656499534845352,ml,ingredientevents
+14957820,21271898,2115-09-30 18:39:00,Procedure,Family updated by RN,1.0,,procedureevents
+14957820,21271898,2115-09-30 18:39:00,Procedure,Family updated by RN,1.0,,procedureevents
+14957820,21271898,2115-09-30 18:45:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14957820,21271898,2115-09-30 18:45:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14957820,21271898,2115-09-30 19:00:00,Output,Foley,300.0,ml,outputevents
+14957820,21271898,2115-09-30 19:02:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14957820,21271898,2115-09-30 19:02:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14957820,21271898,2115-09-30 19:06:00,Input,IVF ingredient,3.91462504863739,ml,ingredientevents
+14957820,21271898,2115-09-30 19:06:00,Input,Dextrose 5%,3.91462504863739,ml,inputevents
+14957820,21271898,2115-09-30 19:06:00,Input,Dexmedetomidine (Precedex),15.658500842619103,mcg,inputevents
+14957820,21271898,2115-09-30 19:06:00,Input,Water,3.91462504863739,ml,ingredientevents
+14957820,21271898,2115-09-30 19:06:00,Input,Calories,0.6654862873256207,Kcal,ingredientevents
+14957820,21271898,2115-09-30 19:36:00,Input,Dexmedetomidine (Precedex),19.1883485172184,mcg,inputevents
+14957820,21271898,2115-09-30 19:36:00,Input,Dextrose 5%,4.797086775302887,ml,inputevents
+14957820,21271898,2115-09-30 19:36:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+14957820,21271898,2115-09-30 19:36:00,Input,Calories,0.8155048340559006,Kcal,ingredientevents
+14957820,21271898,2115-09-30 19:36:00,Input,IVF ingredient,4.797086775302887,ml,ingredientevents
+14957820,21271898,2115-09-30 19:36:00,Input,Water,4.797086775302887,ml,ingredientevents
+14957820,21271898,2115-09-30 19:37:00,Input,Water,50.0,ml,ingredientevents
+14957820,21271898,2115-09-30 19:37:00,Input,Famotidine (Pepcid),1.0,dose,inputevents
+14957820,21271898,2115-09-30 19:37:00,Input,IVF ingredient,50.0,ml,ingredientevents
+14957820,21271898,2115-09-30 19:37:00,Input,Solution,50.0,ml,inputevents
+14957820,21271898,2115-09-30 19:51:00,Input,Water,176.6666624546051,ml,ingredientevents
+14957820,21271898,2115-09-30 19:51:00,Input,IVF ingredient,176.6666624546051,ml,ingredientevents
+14957820,21271898,2115-09-30 19:51:00,Input,LR,176.6666624546051,ml,inputevents
+14957820,21271898,2115-09-30 20:00:00,Pharmacy,Quetiapine Fumarate,,NaN,pharmacy
+14957820,21271898,2115-09-30 20:00:00,Output,Foley,450.0,ml,outputevents
+14957820,21271898,2115-09-30 20:00:00,Prescription,Quetiapine Fumarate,25,mg,prescriptions
+14957820,21271898,2115-09-30 20:19:00,Lab Result,MCH| Blood,29.1,pg,labevents
+14957820,21271898,2115-09-30 20:19:00,Lab Result,White Blood Cells| Blood,14.3,K/uL,labevents
+14957820,21271898,2115-09-30 20:19:00,Lab Result,Red Blood Cells| Blood,3.8,m/uL,labevents
+14957820,21271898,2115-09-30 20:19:00,Lab Result,RDW| Blood,13.7,%,labevents
+14957820,21271898,2115-09-30 20:19:00,Lab Result,Hemoglobin| Blood,11.1,g/dL,labevents
+14957820,21271898,2115-09-30 20:19:00,Lab Result,MCHC| Blood,34.3,%,labevents
+14957820,21271898,2115-09-30 20:19:00,Lab Result,Hematocrit| Blood,32.3,%,labevents
+14957820,21271898,2115-09-30 20:19:00,Lab Result,Platelet Count| Blood,257.0,K/uL,labevents
+14957820,21271898,2115-09-30 20:19:00,Lab Result,MCV| Blood,85.0,fL,labevents
+14957820,21271898,2115-09-30 20:41:00,Input,Hydromorphone (Dilaudid),0.5000000237487257,mg,inputevents
+14957820,21271898,2115-09-30 20:47:00,DateTime Obs,Multi Lumen Tubing Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-30 20:47:00,DateTime Obs,Multi Lumen Insertion Date,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-30 20:47:00,DateTime Obs,Multi Lumen Dressing Change,2115-09-30 20:31:00,Date and Time,datetimeevents
+14957820,21271898,2115-09-30 20:47:00,DateTime Obs,Multi Lumen Cap Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-09-30 21:00:00,Output,Foley,150.0,ml,outputevents
+14957820,21271898,2115-09-30 21:34:00,Input,Hydromorphone (Dilaudid),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-09-30 22:00:00,Output,Foley,120.0,ml,outputevents
+14957820,21271898,2115-09-30 23:00:00,Output,Foley,135.0,ml,outputevents
+14957820,21271898,2115-09-30 23:00:00,Output,Nasogastric,50.0,ml,outputevents
+14957820,21271898,2115-09-30 23:10:00,Input,Lorazepam (Ativan),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-09-30 23:15:00,Input,Hydromorphone (Dilaudid),0.5000000237487257,mg,inputevents
+14957820,21271898,2115-09-30 23:23:00,Input,Water,12.200416587293148,ml,ingredientevents
+14957820,21271898,2115-09-30 23:23:00,Input,Calories,2.0740709686651826,Kcal,ingredientevents
+14957820,21271898,2115-09-30 23:23:00,Input,Dextrose 5%,12.200416587293148,ml,inputevents
+14957820,21271898,2115-09-30 23:23:00,Input,IVF ingredient,12.200416587293148,ml,ingredientevents
+14957820,21271898,2115-09-30 23:23:00,Input,Acetaminophen-IV,1000.0,mg,inputevents
+14957820,21271898,2115-09-30 23:23:00,Input,Dexmedetomidine (Precedex),48.80166819987153,mcg,inputevents
+14957820,21271898,2115-09-30 23:38:00,Input,Water,184.1666622757912,ml,ingredientevents
+14957820,21271898,2115-09-30 23:38:00,Input,IVF ingredient,184.1666622757912,ml,ingredientevents
+14957820,21271898,2115-09-30 23:38:00,Input,LR,184.1666622757912,ml,inputevents
+14957820,21271898,2115-09-30 23:39:00,Input,Hydromorphone (Dilaudid),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-10-01 00:00:00,Output,Foley,180.0,ml,outputevents
+14957820,21271898,2115-10-01 00:00:00,DateTime Obs,Multi Lumen Tubing Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-01 00:00:00,Prescription,Cepacol (Menthol),1,LOZ,prescriptions
+14957820,21271898,2115-10-01 00:00:00,DateTime Obs,Multi Lumen Insertion Date,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-01 00:00:00,Pharmacy,Cepacol (Menthol),,NaN,pharmacy
+14957820,21271898,2115-10-01 00:00:00,DateTime Obs,Multi Lumen Dressing Change,2115-09-30 20:31:00,Date and Time,datetimeevents
+14957820,21271898,2115-10-01 00:00:00,DateTime Obs,Multi Lumen Cap Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-01 01:00:00,Output,Foley,185.0,ml,outputevents
+14957820,21271898,2115-10-01 02:00:00,Output,Foley,150.0,ml,outputevents
+14957820,21271898,2115-10-01 02:07:00,Lab Result,MCV| Blood,85.0,fL,labevents
+14957820,21271898,2115-10-01 02:07:00,Lab Result,Hematocrit| Blood,33.0,%,labevents
+14957820,21271898,2115-10-01 02:07:00,Lab Result,Hemoglobin| Blood,11.2,g/dL,labevents
+14957820,21271898,2115-10-01 02:07:00,Lab Result,MCH| Blood,28.7,pg,labevents
+14957820,21271898,2115-10-01 02:07:00,Lab Result,MCHC| Blood,33.8,%,labevents
+14957820,21271898,2115-10-01 02:07:00,Lab Result,Platelet Count| Blood,288.0,K/uL,labevents
+14957820,21271898,2115-10-01 02:07:00,Lab Result,Red Blood Cells| Blood,3.89,m/uL,labevents
+14957820,21271898,2115-10-01 02:07:00,Lab Result,Urea Nitrogen| Blood,6.0,mg/dL,labevents
+14957820,21271898,2115-10-01 02:07:00,Lab Result,Sodium| Blood,138.0,mEq/L,labevents
+14957820,21271898,2115-10-01 02:07:00,Lab Result,Phosphate| Blood,2.5,mg/dL,labevents
+14957820,21271898,2115-10-01 02:07:00,Lab Result,Magnesium| Blood,1.8,mg/dL,labevents
+14957820,21271898,2115-10-01 02:07:00,Lab Result,Glucose| Blood,70.0,mg/dL,labevents
+14957820,21271898,2115-10-01 02:07:00,Lab Result,RDW| Blood,13.6,%,labevents
+14957820,21271898,2115-10-01 02:07:00,Lab Result,Creatinine| Blood,0.5,mg/dL,labevents
+14957820,21271898,2115-10-01 02:07:00,Lab Result,Potassium| Blood,3.5,mEq/L,labevents
+14957820,21271898,2115-10-01 02:07:00,Lab Result,"Calcium, Total| Blood",8.7,mg/dL,labevents
+14957820,21271898,2115-10-01 02:07:00,Lab Result,Bicarbonate| Blood,21.0,mEq/L,labevents
+14957820,21271898,2115-10-01 02:07:00,Lab Result,Anion Gap| Blood,16.0,mEq/L,labevents
+14957820,21271898,2115-10-01 02:07:00,Lab Result,White Blood Cells| Blood,15.4,K/uL,labevents
+14957820,21271898,2115-10-01 02:07:00,Lab Result,Chloride| Blood,105.0,mEq/L,labevents
+14957820,21271898,2115-10-01 02:08:00,Input,Hydromorphone (Dilaudid),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-10-01 03:00:00,Output,Foley,135.0,ml,outputevents
+14957820,21271898,2115-10-01 03:18:00,Input,Dexmedetomidine (Precedex),7.178488573345021,mcg,inputevents
+14957820,21271898,2115-10-01 03:18:00,Input,Dextrose 5%,1.7946220859885216,ml,inputevents
+14957820,21271898,2115-10-01 03:18:00,Input,Calories,0.305085782893002,Kcal,ingredientevents
+14957820,21271898,2115-10-01 03:18:00,Input,Water,1.7946220859885216,ml,ingredientevents
+14957820,21271898,2115-10-01 03:18:00,Input,IVF ingredient,1.7946220859885216,ml,ingredientevents
+14957820,21271898,2115-10-01 03:19:00,Input,Magnesium Sulfate,2.0000001043081284,grams,inputevents
+14957820,21271898,2115-10-01 03:19:00,Input,IVF ingredient,49.999998807907104,ml,ingredientevents
+14957820,21271898,2115-10-01 03:19:00,Input,Piggyback,49.999998807907104,ml,inputevents
+14957820,21271898,2115-10-01 03:19:00,Input,Water,49.999998807907104,ml,ingredientevents
+14957820,21271898,2115-10-01 03:21:00,Input,Lorazepam (Ativan),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-10-01 03:25:00,Input,Hydromorphone (Dilaudid),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-10-01 03:41:00,Input,Dexmedetomidine (Precedex),18.345292346566566,mcg,inputevents
+14957820,21271898,2115-10-01 03:41:00,Input,Dextrose 5%,4.586322665214539,ml,inputevents
+14957820,21271898,2115-10-01 03:41:00,Input,Water,4.586322665214539,ml,ingredientevents
+14957820,21271898,2115-10-01 03:41:00,Input,Calories,0.7796750366687775,Kcal,ingredientevents
+14957820,21271898,2115-10-01 03:41:00,Input,IVF ingredient,4.586322665214539,ml,ingredientevents
+14957820,21271898,2115-10-01 04:00:00,Output,Nasogastric,50.0,ml,outputevents
+14957820,21271898,2115-10-01 04:00:00,Output,Foley,200.0,ml,outputevents
+14957820,21271898,2115-10-01 04:19:00,Input,LR,7.499999821186066,ml,inputevents
+14957820,21271898,2115-10-01 04:19:00,Input,IVF ingredient,7.499999821186066,ml,ingredientevents
+14957820,21271898,2115-10-01 04:19:00,Input,Water,7.499999821186066,ml,ingredientevents
+14957820,21271898,2115-10-01 04:25:00,Input,Dextrose 5%,9.533272817730904,ml,inputevents
+14957820,21271898,2115-10-01 04:25:00,Input,IVF ingredient,9.533272817730904,ml,ingredientevents
+14957820,21271898,2115-10-01 04:25:00,Input,Calories,1.620656667277217,Kcal,ingredientevents
+14957820,21271898,2115-10-01 04:25:00,Input,Water,9.533272817730904,ml,ingredientevents
+14957820,21271898,2115-10-01 04:25:00,Input,Dexmedetomidine (Precedex),38.13309206179838,mcg,inputevents
+14957820,21271898,2115-10-01 04:28:00,Input,Piggyback,49.999998807907104,ml,inputevents
+14957820,21271898,2115-10-01 04:28:00,Input,Potassium Chloride,20.000000596046448,mEq,inputevents
+14957820,21271898,2115-10-01 04:28:00,Input,Water,49.999998807907104,ml,ingredientevents
+14957820,21271898,2115-10-01 04:28:00,Input,IVF ingredient,49.999998807907104,ml,ingredientevents
+14957820,21271898,2115-10-01 04:37:00,DateTime Obs,Multi Lumen Cap Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-01 04:37:00,DateTime Obs,Multi Lumen Dressing Change,2115-09-30 20:31:00,Date and Time,datetimeevents
+14957820,21271898,2115-10-01 04:37:00,DateTime Obs,Multi Lumen Insertion Date,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-01 04:37:00,DateTime Obs,Multi Lumen Tubing Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-01 05:00:00,Output,Foley,60.0,ml,outputevents
+14957820,21271898,2115-10-01 05:15:00,Input,Hydromorphone (Dilaudid),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-10-01 05:28:00,Input,IVF ingredient,447.53305327892303,ml,ingredientevents
+14957820,21271898,2115-10-01 05:28:00,Procedure,EKG,1.0,,procedureevents
+14957820,21271898,2115-10-01 05:28:00,Procedure,EKG,1.0,,procedureevents
+14957820,21271898,2115-10-01 05:28:00,Input,LR,447.53305327892303,ml,inputevents
+14957820,21271898,2115-10-01 05:28:00,Input,Water,447.53305327892303,ml,ingredientevents
+14957820,21271898,2115-10-01 05:32:00,Input,Lorazepam (Ativan),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-10-01 05:38:00,Input,Water,8.950270101428032,ml,ingredientevents
+14957820,21271898,2115-10-01 05:38:00,Input,Calories,1.5215462017804384,Kcal,ingredientevents
+14957820,21271898,2115-10-01 05:38:00,Input,IVF ingredient,8.950270101428032,ml,ingredientevents
+14957820,21271898,2115-10-01 05:38:00,Input,Hydromorphone (Dilaudid),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-10-01 05:38:00,Input,Dexmedetomidine (Precedex),35.80108096912227,mcg,inputevents
+14957820,21271898,2115-10-01 05:38:00,Input,Dextrose 5%,8.950270101428032,ml,inputevents
+14957820,21271898,2115-10-01 06:00:00,Output,Foley,175.0,ml,outputevents
+14957820,21271898,2115-10-01 06:35:00,Input,Dexmedetomidine (Precedex),16.89399937276903,mcg,inputevents
+14957820,21271898,2115-10-01 06:35:00,Input,Dextrose 5%,4.223499894142151,ml,inputevents
+14957820,21271898,2115-10-01 06:35:00,Input,Water,4.223499894142151,ml,ingredientevents
+14957820,21271898,2115-10-01 06:35:00,Input,Calories,0.7179951667785645,Kcal,ingredientevents
+14957820,21271898,2115-10-01 06:35:00,Input,IVF ingredient,4.223499894142151,ml,ingredientevents
+14957820,21271898,2115-10-01 06:50:00,Input,Hydromorphone (Dilaudid),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-10-01 06:55:00,Input,IVF ingredient,26.543588876724243,ml,ingredientevents
+14957820,21271898,2115-10-01 06:55:00,Input,Calories,4.512411117553711,Kcal,ingredientevents
+14957820,21271898,2115-10-01 06:55:00,Input,Water,26.543588876724243,ml,ingredientevents
+14957820,21271898,2115-10-01 06:55:00,Input,Dexmedetomidine (Precedex),106.17435327731071,mcg,inputevents
+14957820,21271898,2115-10-01 06:55:00,Input,Dextrose 5%,26.543588876724243,ml,inputevents
+14957820,21271898,2115-10-01 07:00:00,Output,Foley,160.0,ml,outputevents
+14957820,21271898,2115-10-01 07:55:00,DateTime Obs,Multi Lumen Cap Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-01 07:55:00,DateTime Obs,Multi Lumen Dressing Change,2115-09-30 20:31:00,Date and Time,datetimeevents
+14957820,21271898,2115-10-01 07:55:00,DateTime Obs,Multi Lumen Insertion Date,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-01 07:55:00,DateTime Obs,Multi Lumen Tubing Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-01 08:00:00,Pharmacy,OLANZapine (Disintegrating Tablet),,NaN,pharmacy
+14957820,21271898,2115-10-01 08:00:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+14957820,21271898,2115-10-01 08:00:00,Input,Acetaminophen-IV,1000.0,mg,inputevents
+14957820,21271898,2115-10-01 08:00:00,Input,Famotidine (Pepcid),1.0,dose,inputevents
+14957820,21271898,2115-10-01 08:00:00,Input,IVF ingredient,50.0,ml,ingredientevents
+14957820,21271898,2115-10-01 08:00:00,Input,Water,50.0,ml,ingredientevents
+14957820,21271898,2115-10-01 08:00:00,Input,Solution,50.0,ml,inputevents
+14957820,21271898,2115-10-01 08:00:00,Output,Nasogastric,50.0,ml,outputevents
+14957820,21271898,2115-10-01 08:00:00,Prescription,OLANZapine (Disintegrating Tablet),10,mg,prescriptions
+14957820,21271898,2115-10-01 08:00:00,Output,Foley,110.0,ml,outputevents
+14957820,21271898,2115-10-01 08:15:00,Input,Hydromorphone (Dilaudid),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-10-01 08:20:00,Input,Lorazepam (Ativan),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-10-01 09:00:00,Output,Foley,80.0,ml,outputevents
+14957820,21271898,2115-10-01 09:19:00,Input,Water,4.074925899505615,ml,ingredientevents
+14957820,21271898,2115-10-01 09:19:00,Input,Calories,0.692737640812993,Kcal,ingredientevents
+14957820,21271898,2115-10-01 09:19:00,Input,IVF ingredient,4.074925899505615,ml,ingredientevents
+14957820,21271898,2115-10-01 09:19:00,Input,Dextrose 5%,4.074925899505615,ml,inputevents
+14957820,21271898,2115-10-01 09:19:00,Input,Dexmedetomidine (Precedex),16.29970410021997,mcg,inputevents
+14957820,21271898,2115-10-01 09:21:00,Procedure,Family updated by RN,1.0,,procedureevents
+14957820,21271898,2115-10-01 09:21:00,Procedure,Family updated by RN,1.0,,procedureevents
+14957820,21271898,2115-10-01 09:50:00,Input,Water,12.2870432138443,ml,ingredientevents
+14957820,21271898,2115-10-01 09:50:00,Input,Calories,2.088798154145479,Kcal,ingredientevents
+14957820,21271898,2115-10-01 09:50:00,Input,IVF ingredient,12.2870432138443,ml,ingredientevents
+14957820,21271898,2115-10-01 09:50:00,Input,Dextrose 5%,12.2870432138443,ml,inputevents
+14957820,21271898,2115-10-01 09:50:00,Input,Dexmedetomidine (Precedex),49.14817498047341,mcg,inputevents
+14957820,21271898,2115-10-01 10:00:00,Pharmacy,Methadone,,NaN,pharmacy
+14957820,21271898,2115-10-01 10:00:00,Prescription,Methadone,60,mg,prescriptions
+14957820,21271898,2115-10-01 10:00:00,Pharmacy,OLANZapine (Disintegrating Tablet),,NaN,pharmacy
+14957820,21271898,2115-10-01 10:00:00,Output,Foley,130.0,ml,outputevents
+14957820,21271898,2115-10-01 10:00:00,Prescription,Nicotine Patch,14,mg,prescriptions
+14957820,21271898,2115-10-01 10:00:00,Prescription,OLANZapine (Disintegrating Tablet),10,mg,prescriptions
+14957820,21271898,2115-10-01 10:00:00,Pharmacy,Nicotine Patch,,NaN,pharmacy
+14957820,21271898,2115-10-01 10:20:00,Procedure,Family updated by RN,1.0,,procedureevents
+14957820,21271898,2115-10-01 10:20:00,Procedure,Family updated by RN,1.0,,procedureevents
+14957820,21271898,2115-10-01 10:47:00,Input,GT Flush,30.0,ml,inputevents
+14957820,21271898,2115-10-01 10:47:00,Input,Oral/Gastric Ingredient,30.0,ml,ingredientevents
+14957820,21271898,2115-10-01 10:47:00,Input,Oral/Gastric Ingredient,30.0,ml,ingredientevents
+14957820,21271898,2115-10-01 10:47:00,Input,Water,30.0,ml,ingredientevents
+14957820,21271898,2115-10-01 10:47:00,Input,Water,30.0,ml,ingredientevents
+14957820,21271898,2115-10-01 10:47:00,Input,Gastric Meds,30.0,ml,inputevents
+14957820,21271898,2115-10-01 11:00:00,Prescription,Lidocaine 1%,2.5,mL,prescriptions
+14957820,21271898,2115-10-01 11:00:00,Prescription,Azithromycin,500,mg,prescriptions
+14957820,21271898,2115-10-01 11:00:00,Pharmacy,Azithromycin,,NaN,pharmacy
+14957820,21271898,2115-10-01 11:00:00,Pharmacy,Lidocaine 1%,,NaN,pharmacy
+14957820,21271898,2115-10-01 11:00:00,Output,Foley,275.0,ml,outputevents
+14957820,21271898,2115-10-01 12:00:00,Output,Nasogastric,50.0,ml,outputevents
+14957820,21271898,2115-10-01 12:00:00,Output,Foley,100.0,ml,outputevents
+14957820,21271898,2115-10-01 12:10:00,DateTime Obs,Multi Lumen Cap Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-01 12:10:00,DateTime Obs,Multi Lumen Dressing Change,2115-09-30 20:31:00,Date and Time,datetimeevents
+14957820,21271898,2115-10-01 12:10:00,DateTime Obs,Multi Lumen Tubing Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-01 12:10:00,DateTime Obs,Multi Lumen Insertion Date,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-01 12:32:00,Procedure,Family updated by MD,1.0,,procedureevents
+14957820,21271898,2115-10-01 12:32:00,DateTime Obs,Multi Lumen Insertion Date,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-01 12:32:00,DateTime Obs,Multi Lumen Tubing Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-01 12:32:00,Procedure,Family updated by MD,1.0,,procedureevents
+14957820,21271898,2115-10-01 12:32:00,DateTime Obs,Multi Lumen Cap Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-01 12:32:00,DateTime Obs,Multi Lumen Dressing Change,2115-09-30 20:31:00,Date and Time,datetimeevents
+14957820,21271898,2115-10-01 13:00:00,Output,Foley,50.0,ml,outputevents
+14957820,21271898,2115-10-01 13:10:00,Input,Hydromorphone (Dilaudid),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-10-01 13:20:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14957820,21271898,2115-10-01 13:20:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14957820,21271898,2115-10-01 14:00:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+14957820,21271898,2115-10-01 14:00:00,Prescription,CloniDINE,0.1,mg,prescriptions
+14957820,21271898,2115-10-01 14:00:00,Pharmacy,CloniDINE,,NaN,pharmacy
+14957820,21271898,2115-10-01 14:00:00,Output,Foley,25.0,ml,outputevents
+14957820,21271898,2115-10-01 14:10:00,Input,Lorazepam (Ativan),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-10-01 14:20:00,Input,Hydromorphone (Dilaudid),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-10-01 14:25:00,Input,IVF ingredient,994.1666429638864,ml,ingredientevents
+14957820,21271898,2115-10-01 14:25:00,Input,Water,994.1666429638864,ml,ingredientevents
+14957820,21271898,2115-10-01 14:25:00,Input,LR,994.1666429638864,ml,inputevents
+14957820,21271898,2115-10-01 14:27:00,Procedure,Family updated by RN,1.0,,procedureevents
+14957820,21271898,2115-10-01 14:27:00,Procedure,Family updated by RN,1.0,,procedureevents
+14957820,21271898,2115-10-01 15:00:00,Pharmacy,OLANZapine,,NaN,pharmacy
+14957820,21271898,2115-10-01 15:00:00,Pharmacy,OLANZapine,,NaN,pharmacy
+14957820,21271898,2115-10-01 15:00:00,Prescription,OLANZapine,5,mg,prescriptions
+14957820,21271898,2115-10-01 15:00:00,Prescription,OLANZapine,5,mg,prescriptions
+14957820,21271898,2115-10-01 15:00:00,Input,Hydromorphone (Dilaudid),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-10-01 15:00:00,Output,Foley,125.0,ml,outputevents
+14957820,21271898,2115-10-01 15:30:00,Input,Metoprolol,5.000000353902578,mg,inputevents
+14957820,21271898,2115-10-01 16:00:00,Output,Nasogastric,150.0,ml,outputevents
+14957820,21271898,2115-10-01 16:00:00,Pharmacy,Metoprolol Tartrate,,NaN,pharmacy
+14957820,21271898,2115-10-01 16:00:00,Input,Oral/Gastric Ingredient,30.0,ml,ingredientevents
+14957820,21271898,2115-10-01 16:00:00,Input,Oral/Gastric Ingredient,30.0,ml,ingredientevents
+14957820,21271898,2115-10-01 16:00:00,Input,Water,30.0,ml,ingredientevents
+14957820,21271898,2115-10-01 16:00:00,Input,Water,30.0,ml,ingredientevents
+14957820,21271898,2115-10-01 16:00:00,Output,Foley,155.0,ml,outputevents
+14957820,21271898,2115-10-01 16:00:00,Prescription,Metoprolol Tartrate,5,mg,prescriptions
+14957820,21271898,2115-10-01 16:00:00,Input,Acetaminophen-IV,1000.0,mg,inputevents
+14957820,21271898,2115-10-01 16:00:00,Input,Gastric Meds,30.0,ml,inputevents
+14957820,21271898,2115-10-01 16:00:00,Input,GT Flush,30.0,ml,inputevents
+14957820,21271898,2115-10-01 16:23:00,DateTime Obs,Multi Lumen Dressing Change,2115-09-30 20:31:00,Date and Time,datetimeevents
+14957820,21271898,2115-10-01 16:23:00,DateTime Obs,Multi Lumen Cap Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-01 16:23:00,DateTime Obs,Multi Lumen Tubing Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-01 16:23:00,DateTime Obs,Multi Lumen Insertion Date,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-01 16:24:00,Procedure,Family updated by RN,1.0,,procedureevents
+14957820,21271898,2115-10-01 16:24:00,Procedure,Family updated by RN,1.0,,procedureevents
+14957820,21271898,2115-10-01 16:35:00,Input,Hydromorphone (Dilaudid),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-10-01 17:00:00,Output,Foley,45.0,ml,outputevents
+14957820,21271898,2115-10-01 17:30:00,Input,Hydromorphone (Dilaudid),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-10-01 17:46:00,Procedure,Family met with Social Worker,1.0,,procedureevents
+14957820,21271898,2115-10-01 17:46:00,Procedure,Family met with Social Worker,1.0,,procedureevents
+14957820,21271898,2115-10-01 17:54:00,Procedure,EKG,1.0,,procedureevents
+14957820,21271898,2115-10-01 17:54:00,Procedure,EKG,1.0,,procedureevents
+14957820,21271898,2115-10-01 18:00:00,Output,Foley,55.0,ml,outputevents
+14957820,21271898,2115-10-01 18:00:00,Pharmacy,Ipratropium Bromide Neb,,NaN,pharmacy
+14957820,21271898,2115-10-01 18:00:00,Prescription,Ipratropium Bromide Neb,1,NEB,prescriptions
+14957820,21271898,2115-10-01 18:48:00,Input,Hydromorphone (Dilaudid),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-10-01 18:50:00,Input,Lorazepam (Ativan),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-10-01 18:54:00,Procedure,Family updated by RN,1.0,,procedureevents
+14957820,21271898,2115-10-01 18:54:00,Procedure,Family updated by RN,1.0,,procedureevents
+14957820,21271898,2115-10-01 19:00:00,Output,Foley,140.0,ml,outputevents
+14957820,21271898,2115-10-01 20:00:00,Output,Foley,110.0,ml,outputevents
+14957820,21271898,2115-10-01 20:00:00,DateTime Obs,Multi Lumen Cap Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-01 20:00:00,DateTime Obs,Multi Lumen Dressing Change,2115-09-30 20:31:00,Date and Time,datetimeevents
+14957820,21271898,2115-10-01 20:00:00,DateTime Obs,Multi Lumen Insertion Date,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-01 20:00:00,DateTime Obs,Multi Lumen Tubing Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-01 20:11:00,Input,Hydromorphone (Dilaudid),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-10-01 20:39:00,Procedure,Family updated by RN,1.0,,procedureevents
+14957820,21271898,2115-10-01 20:39:00,Procedure,Family updated by RN,1.0,,procedureevents
+14957820,21271898,2115-10-01 21:00:00,Output,Foley,50.0,ml,outputevents
+14957820,21271898,2115-10-01 21:00:00,Input,Hydromorphone (Dilaudid),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-10-01 21:15:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14957820,21271898,2115-10-01 21:15:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14957820,21271898,2115-10-01 21:38:00,Procedure,Family met with Social Worker,1.0,,procedureevents
+14957820,21271898,2115-10-01 21:38:00,Procedure,Family met with Social Worker,1.0,,procedureevents
+14957820,21271898,2115-10-01 21:52:00,Input,Lorazepam (Ativan),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-10-01 22:00:00,Output,Foley,75.0,ml,outputevents
+14957820,21271898,2115-10-01 22:00:00,Pharmacy,Chloraseptic Throat Spray,,NaN,pharmacy
+14957820,21271898,2115-10-01 22:00:00,Prescription,Chloraseptic Throat Spray,1,SPRY,prescriptions
+14957820,21271898,2115-10-01 22:20:00,Procedure,Blood Cultured,1.0,,procedureevents
+14957820,21271898,2115-10-01 22:20:00,Procedure,Blood Cultured,1.0,,procedureevents
+14957820,21271898,2115-10-01 22:40:00,Procedure,Urine Culture,1.0,,procedureevents
+14957820,21271898,2115-10-01 22:40:00,Procedure,Urine Culture,1.0,,procedureevents
+14957820,21271898,2115-10-01 22:41:00,Lab Result,White Blood Cells| Blood,28.3,K/uL,labevents
+14957820,21271898,2115-10-01 22:41:00,Lab Result,Red Blood Cells| Blood,4.28,m/uL,labevents
+14957820,21271898,2115-10-01 22:41:00,Lab Result,RDW| Blood,13.7,%,labevents
+14957820,21271898,2115-10-01 22:41:00,Lab Result,MCHC| Blood,35.1,%,labevents
+14957820,21271898,2115-10-01 22:41:00,Lab Result,MCH| Blood,29.6,pg,labevents
+14957820,21271898,2115-10-01 22:41:00,Lab Result,Hemoglobin| Blood,12.7,g/dL,labevents
+14957820,21271898,2115-10-01 22:41:00,Lab Result,Hematocrit| Blood,36.1,%,labevents
+14957820,21271898,2115-10-01 22:41:00,Lab Result,Platelet Count| Blood,353.0,K/uL,labevents
+14957820,21271898,2115-10-01 22:41:00,Lab Result,MCV| Blood,84.0,fL,labevents
+14957820,21271898,2115-10-01 23:00:00,Output,Nasogastric,150.0,ml,outputevents
+14957820,21271898,2115-10-01 23:00:00,Output,Foley,30.0,ml,outputevents
+14957820,21271898,2115-10-01 23:34:00,Input,Hydromorphone (Dilaudid),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-10-01 23:34:00,Input,Gastric Meds,30.0,ml,inputevents
+14957820,21271898,2115-10-01 23:34:00,Input,Oral/Gastric Ingredient,30.0,ml,ingredientevents
+14957820,21271898,2115-10-01 23:34:00,Input,Water,30.0,ml,ingredientevents
+14957820,21271898,2115-10-01 23:34:00,Input,Acetaminophen-IV,1000.0,mg,inputevents
+14957820,21271898,2115-10-01 23:34:00,Input,Water,30.0,ml,ingredientevents
+14957820,21271898,2115-10-01 23:34:00,Input,Oral/Gastric Ingredient,30.0,ml,ingredientevents
+14957820,21271898,2115-10-01 23:34:00,Input,GT Flush,30.0,ml,inputevents
+14957820,21271898,2115-10-02 00:00:00,Output,Foley,45.0,ml,outputevents
+14957820,21271898,2115-10-02 01:00:00,DateTime Obs,Multi Lumen Tubing Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-02 01:00:00,DateTime Obs,Multi Lumen Insertion Date,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-02 01:00:00,DateTime Obs,Multi Lumen Dressing Change,2115-09-30 20:31:00,Date and Time,datetimeevents
+14957820,21271898,2115-10-02 01:00:00,DateTime Obs,Multi Lumen Cap Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-02 02:00:00,Output,Foley,90.0,ml,outputevents
+14957820,21271898,2115-10-02 02:57:00,Input,Hydromorphone (Dilaudid),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-10-02 03:00:00,Output,Foley,45.0,ml,outputevents
+14957820,21271898,2115-10-02 03:03:00,Input,Lorazepam (Ativan),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-10-02 04:00:00,Output,Foley,65.0,ml,outputevents
+14957820,21271898,2115-10-02 04:02:00,DateTime Obs,Multi Lumen Tubing Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-02 04:02:00,DateTime Obs,Multi Lumen Dressing Change,2115-09-30 20:31:00,Date and Time,datetimeevents
+14957820,21271898,2115-10-02 04:02:00,DateTime Obs,Multi Lumen Cap Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-02 04:02:00,DateTime Obs,Multi Lumen Insertion Date,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-02 05:00:00,Input,Hydromorphone (Dilaudid),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-10-02 05:15:00,Input,Hydromorphone (Dilaudid),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-10-02 05:15:00,Lab Result,Hematocrit| Blood,33.7,%,labevents
+14957820,21271898,2115-10-02 05:15:00,Lab Result,Urea Nitrogen| Blood,9.0,mg/dL,labevents
+14957820,21271898,2115-10-02 05:15:00,Lab Result,Sodium| Blood,137.0,mEq/L,labevents
+14957820,21271898,2115-10-02 05:15:00,Lab Result,Potassium| Blood,3.6,mEq/L,labevents
+14957820,21271898,2115-10-02 05:15:00,Lab Result,Phosphate| Blood,3.7,mg/dL,labevents
+14957820,21271898,2115-10-02 05:15:00,Lab Result,Magnesium| Blood,2.0,mg/dL,labevents
+14957820,21271898,2115-10-02 05:15:00,Lab Result,Creatinine| Blood,0.4,mg/dL,labevents
+14957820,21271898,2115-10-02 05:15:00,Lab Result,Chloride| Blood,100.0,mEq/L,labevents
+14957820,21271898,2115-10-02 05:15:00,Lab Result,"Calcium, Total| Blood",8.6,mg/dL,labevents
+14957820,21271898,2115-10-02 05:15:00,Lab Result,Bicarbonate| Blood,20.0,mEq/L,labevents
+14957820,21271898,2115-10-02 05:15:00,Lab Result,Anion Gap| Blood,21.0,mEq/L,labevents
+14957820,21271898,2115-10-02 05:15:00,Lab Result,White Blood Cells| Blood,28.2,K/uL,labevents
+14957820,21271898,2115-10-02 05:15:00,Lab Result,Red Blood Cells| Blood,4.01,m/uL,labevents
+14957820,21271898,2115-10-02 05:15:00,Lab Result,RDW| Blood,13.5,%,labevents
+14957820,21271898,2115-10-02 05:15:00,Lab Result,Platelet Count| Blood,331.0,K/uL,labevents
+14957820,21271898,2115-10-02 05:15:00,Lab Result,MCV| Blood,84.0,fL,labevents
+14957820,21271898,2115-10-02 05:15:00,Lab Result,Hemoglobin| Blood,11.8,g/dL,labevents
+14957820,21271898,2115-10-02 05:15:00,Lab Result,MCHC| Blood,35.0,%,labevents
+14957820,21271898,2115-10-02 05:15:00,Lab Result,Glucose| Blood,68.0,mg/dL,labevents
+14957820,21271898,2115-10-02 05:15:00,Lab Result,MCH| Blood,29.4,pg,labevents
+14957820,21271898,2115-10-02 05:55:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14957820,21271898,2115-10-02 05:55:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14957820,21271898,2115-10-02 06:00:00,Input,Lorazepam (Ativan),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-10-02 06:00:00,Output,Nasogastric,150.0,ml,outputevents
+14957820,21271898,2115-10-02 06:00:00,Output,Foley,110.0,ml,outputevents
+14957820,21271898,2115-10-02 08:00:00,Output,Foley,80.0,ml,outputevents
+14957820,21271898,2115-10-02 08:37:00,Input,Hydromorphone (Dilaudid),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-10-02 08:37:00,Input,Acetaminophen-IV,1000.0,mg,inputevents
+14957820,21271898,2115-10-02 08:38:00,Input,Oral/Gastric Ingredient,30.0,ml,ingredientevents
+14957820,21271898,2115-10-02 08:38:00,Input,Gastric Meds,30.0,ml,inputevents
+14957820,21271898,2115-10-02 08:38:00,Input,GT Flush,30.0,ml,inputevents
+14957820,21271898,2115-10-02 08:38:00,Input,Oral/Gastric Ingredient,30.0,ml,ingredientevents
+14957820,21271898,2115-10-02 08:38:00,Input,Water,30.0,ml,ingredientevents
+14957820,21271898,2115-10-02 08:38:00,Input,Water,30.0,ml,ingredientevents
+14957820,21271898,2115-10-02 09:00:00,Output,Foley,50.0,ml,outputevents
+14957820,21271898,2115-10-02 09:10:00,Input,IVF ingredient,50.0,ml,ingredientevents
+14957820,21271898,2115-10-02 09:10:00,Input,Water,50.0,ml,ingredientevents
+14957820,21271898,2115-10-02 09:10:00,Input,Solution,50.0,ml,inputevents
+14957820,21271898,2115-10-02 09:10:00,Input,Famotidine (Pepcid),1.0,dose,inputevents
+14957820,21271898,2115-10-02 09:35:00,Input,Hydromorphone (Dilaudid),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-10-02 10:00:00,Pharmacy,,,NaN,pharmacy
+14957820,21271898,2115-10-02 10:00:00,Prescription,Clonidine Patch 0.2 mg/24 hr,1,PTCH,prescriptions
+14957820,21271898,2115-10-02 10:00:00,Prescription,Azithromycin,250,mg,prescriptions
+14957820,21271898,2115-10-02 10:00:00,Prescription,D5 1/2NS,1000,mL,prescriptions
+14957820,21271898,2115-10-02 10:00:00,Pharmacy,Azithromycin,,NaN,pharmacy
+14957820,21271898,2115-10-02 10:00:00,Output,Foley,40.0,ml,outputevents
+14957820,21271898,2115-10-02 10:00:00,Pharmacy,Clonidine Patch 0.2 mg/24 hr,,NaN,pharmacy
+14957820,21271898,2115-10-02 10:10:00,Input,Calories,117.43599578738213,Kcal,ingredientevents
+14957820,21271898,2115-10-02 10:10:00,Input,IVF ingredient,690.799963593483,ml,ingredientevents
+14957820,21271898,2115-10-02 10:10:00,Input,D5 1/2NS,690.799963593483,ml,inputevents
+14957820,21271898,2115-10-02 10:10:00,Input,Water,690.799963593483,ml,ingredientevents
+14957820,21271898,2115-10-02 11:00:00,Output,Foley,60.0,ml,outputevents
+14957820,21271898,2115-10-02 11:21:00,Input,Hydromorphone (Dilaudid),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-10-02 12:00:00,Output,Foley,55.0,ml,outputevents
+14957820,21271898,2115-10-02 12:30:00,Input,Hydromorphone (Dilaudid),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-10-02 13:00:00,Prescription,CefePIME,2,g,prescriptions
+14957820,21271898,2115-10-02 13:00:00,Pharmacy,Vancomycin,,NaN,pharmacy
+14957820,21271898,2115-10-02 13:00:00,Pharmacy,CefePIME,,NaN,pharmacy
+14957820,21271898,2115-10-02 13:00:00,Prescription,Azithromycin,250,mg,prescriptions
+14957820,21271898,2115-10-02 13:00:00,Prescription,0.9% Sodium Chloride (Mini Bag Plus),100,mL,prescriptions
+14957820,21271898,2115-10-02 13:00:00,Prescription,Iso-Osmotic Dextrose,200,mL,prescriptions
+14957820,21271898,2115-10-02 13:00:00,Prescription,Vancomycin,1000,mg,prescriptions
+14957820,21271898,2115-10-02 13:00:00,Pharmacy,Azithromycin,,NaN,pharmacy
+14957820,21271898,2115-10-02 13:00:00,Output,Foley,300.0,ml,outputevents
+14957820,21271898,2115-10-02 13:01:00,Input,Hydromorphone (Dilaudid),0.5000000237487257,mg,inputevents
+14957820,21271898,2115-10-02 13:09:00,Input,GT Flush,30.0,ml,inputevents
+14957820,21271898,2115-10-02 13:09:00,Input,Oral/Gastric Ingredient,30.0,ml,ingredientevents
+14957820,21271898,2115-10-02 13:09:00,Input,Cefepime,1.0,dose,inputevents
+14957820,21271898,2115-10-02 13:09:00,Input,Gastric Meds,30.0,ml,inputevents
+14957820,21271898,2115-10-02 13:09:00,Input,Calories,17.0,Kcal,ingredientevents
+14957820,21271898,2115-10-02 13:09:00,Input,Oral/Gastric Ingredient,30.0,ml,ingredientevents
+14957820,21271898,2115-10-02 13:09:00,Input,IVF ingredient,100.0,ml,ingredientevents
+14957820,21271898,2115-10-02 13:09:00,Input,Water,100.0,ml,ingredientevents
+14957820,21271898,2115-10-02 13:09:00,Input,Water,30.0,ml,ingredientevents
+14957820,21271898,2115-10-02 13:09:00,Input,Water,30.0,ml,ingredientevents
+14957820,21271898,2115-10-02 13:09:00,Input,Dextrose 5%,100.0,ml,inputevents
+14957820,21271898,2115-10-02 14:00:00,Output,Foley,125.0,ml,outputevents
+14957820,21271898,2115-10-02 15:00:00,Pharmacy,CefePIME,,NaN,pharmacy
+14957820,21271898,2115-10-02 15:00:00,Prescription,0.9% Sodium Chloride (Mini Bag Plus),100,mL,prescriptions
+14957820,21271898,2115-10-02 15:00:00,Prescription,CefePIME,2,g,prescriptions
+14957820,21271898,2115-10-02 15:48:00,Input,Vancomycin,1.0,dose,inputevents
+14957820,21271898,2115-10-02 15:48:00,Input,Dextrose 5%,200.0,ml,inputevents
+14957820,21271898,2115-10-02 15:48:00,Input,Acetaminophen-IV,1000.0,mg,inputevents
+14957820,21271898,2115-10-02 15:48:00,Input,Hydromorphone (Dilaudid),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-10-02 15:48:00,Input,IVF ingredient,200.0,ml,ingredientevents
+14957820,21271898,2115-10-02 15:48:00,Input,Calories,34.0,Kcal,ingredientevents
+14957820,21271898,2115-10-02 15:48:00,Input,Water,200.0,ml,ingredientevents
+14957820,21271898,2115-10-02 15:53:00,DateTime Obs,Multi Lumen Dressing Change,2115-09-30 20:31:00,Date and Time,datetimeevents
+14957820,21271898,2115-10-02 15:53:00,DateTime Obs,Multi Lumen Cap Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-02 15:53:00,DateTime Obs,Multi Lumen Insertion Date,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-02 15:53:00,DateTime Obs,Multi Lumen Tubing Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-02 16:00:00,Output,Foley,100.0,ml,outputevents
+14957820,21271898,2115-10-02 18:00:00,Output,Foley,250.0,ml,outputevents
+14957820,21271898,2115-10-02 18:30:00,Input,Hydromorphone (Dilaudid),2.0000000949949026,mg,inputevents
+14957820,21271898,2115-10-02 19:00:00,Output,Foley,275.0,ml,outputevents
+14957820,21271898,2115-10-02 19:24:00,Input,Oral/Gastric Ingredient,30.0,ml,ingredientevents
+14957820,21271898,2115-10-02 19:24:00,Input,GT Flush,30.0,ml,inputevents
+14957820,21271898,2115-10-02 19:24:00,Input,Water,30.0,ml,ingredientevents
+14957820,21271898,2115-10-02 19:24:00,Input,Water,30.0,ml,ingredientevents
+14957820,21271898,2115-10-02 19:24:00,Input,Oral/Gastric Ingredient,30.0,ml,ingredientevents
+14957820,21271898,2115-10-02 19:24:00,Input,Gastric Meds,30.0,ml,inputevents
+14957820,21271898,2115-10-02 19:32:00,Output,Nasogastric,350.0,ml,outputevents
+14957820,21271898,2115-10-02 20:00:00,Prescription,Vancomycin,1000,mg,prescriptions
+14957820,21271898,2115-10-02 20:00:00,Prescription,Iso-Osmotic Dextrose,200,mL,prescriptions
+14957820,21271898,2115-10-02 20:00:00,Output,Foley,25.0,ml,outputevents
+14957820,21271898,2115-10-02 20:00:00,Pharmacy,Vancomycin,,NaN,pharmacy
+14957820,21271898,2115-10-02 20:15:00,Input,Hydromorphone (Dilaudid),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-10-02 20:52:00,DateTime Obs,Multi Lumen Insertion Date,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-02 20:52:00,DateTime Obs,Multi Lumen Cap Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-02 20:52:00,DateTime Obs,Multi Lumen Tubing Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-02 20:52:00,DateTime Obs,Multi Lumen Dressing Change,2115-09-30 20:31:00,Date and Time,datetimeevents
+14957820,21271898,2115-10-02 22:00:00,Output,Nasogastric,50.0,ml,outputevents
+14957820,21271898,2115-10-02 22:00:00,Output,Foley,95.0,ml,outputevents
+14957820,21271898,2115-10-02 22:51:00,Input,Hydromorphone (Dilaudid),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-10-02 23:00:00,Output,Foley,35.0,ml,outputevents
+14957820,21271898,2115-10-02 23:00:00,Pharmacy,Lorazepam,,NaN,pharmacy
+14957820,21271898,2115-10-02 23:00:00,Prescription,Lorazepam,0.5,mg,prescriptions
+14957820,21271898,2115-10-02 23:09:00,Input,Lorazepam (Ativan),0.5000000237487257,mg,inputevents
+14957820,21271898,2115-10-02 23:59:00,Input,IVF ingredient,999.9999910593032,ml,ingredientevents
+14957820,21271898,2115-10-02 23:59:00,Input,D5 1/2NS,999.9999910593032,ml,inputevents
+14957820,21271898,2115-10-02 23:59:00,Input,Water,999.9999910593032,ml,ingredientevents
+14957820,21271898,2115-10-02 23:59:00,Input,Calories,170.0000023841858,Kcal,ingredientevents
+14957820,21271898,2115-10-03 00:00:00,Input,Acetaminophen-IV,1000.0,mg,inputevents
+14957820,21271898,2115-10-03 00:00:00,Output,Foley,25.0,ml,outputevents
+14957820,21271898,2115-10-03 00:06:00,DateTime Obs,Multi Lumen Dressing Change,2115-09-30 20:31:00,Date and Time,datetimeevents
+14957820,21271898,2115-10-03 00:06:00,DateTime Obs,Multi Lumen Insertion Date,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-03 00:06:00,DateTime Obs,Multi Lumen Tubing Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-03 00:06:00,DateTime Obs,Multi Lumen Cap Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-03 00:20:00,Input,IVF ingredient,50.0,ml,ingredientevents
+14957820,21271898,2115-10-03 00:20:00,Input,Calories,8.5,Kcal,ingredientevents
+14957820,21271898,2115-10-03 00:20:00,Input,Water,50.0,ml,ingredientevents
+14957820,21271898,2115-10-03 00:20:00,Input,Cefepime,1.0,dose,inputevents
+14957820,21271898,2115-10-03 00:20:00,Input,Dextrose 5%,50.0,ml,inputevents
+14957820,21271898,2115-10-03 02:00:00,Output,Foley,30.0,ml,outputevents
+14957820,21271898,2115-10-03 03:53:00,Lab Result,White Blood Cells| Blood,18.2,K/uL,labevents
+14957820,21271898,2115-10-03 03:53:00,Lab Result,RDW| Blood,13.8,%,labevents
+14957820,21271898,2115-10-03 03:53:00,Lab Result,Platelet Count| Blood,411.0,K/uL,labevents
+14957820,21271898,2115-10-03 03:53:00,Lab Result,MCV| Blood,85.0,fL,labevents
+14957820,21271898,2115-10-03 03:53:00,Lab Result,MCHC| Blood,34.0,%,labevents
+14957820,21271898,2115-10-03 03:53:00,Lab Result,MCH| Blood,29.1,pg,labevents
+14957820,21271898,2115-10-03 03:53:00,Lab Result,Hemoglobin| Blood,10.8,g/dL,labevents
+14957820,21271898,2115-10-03 03:53:00,Lab Result,Hematocrit| Blood,31.7,%,labevents
+14957820,21271898,2115-10-03 03:53:00,Lab Result,Potassium| Blood,3.4,mEq/L,labevents
+14957820,21271898,2115-10-03 03:53:00,Lab Result,Sodium| Blood,138.0,mEq/L,labevents
+14957820,21271898,2115-10-03 03:53:00,Lab Result,Phosphate| Blood,4.2,mg/dL,labevents
+14957820,21271898,2115-10-03 03:53:00,Lab Result,Magnesium| Blood,2.2,mg/dL,labevents
+14957820,21271898,2115-10-03 03:53:00,Lab Result,Glucose| Blood,83.0,mg/dL,labevents
+14957820,21271898,2115-10-03 03:53:00,Lab Result,Anion Gap| Blood,16.0,mEq/L,labevents
+14957820,21271898,2115-10-03 03:53:00,Lab Result,Bicarbonate| Blood,21.0,mEq/L,labevents
+14957820,21271898,2115-10-03 03:53:00,Lab Result,"Calcium, Total| Blood",8.5,mg/dL,labevents
+14957820,21271898,2115-10-03 03:53:00,Lab Result,Creatinine| Blood,0.4,mg/dL,labevents
+14957820,21271898,2115-10-03 03:53:00,Lab Result,Urea Nitrogen| Blood,11.0,mg/dL,labevents
+14957820,21271898,2115-10-03 03:53:00,Lab Result,Chloride| Blood,104.0,mEq/L,labevents
+14957820,21271898,2115-10-03 03:53:00,Lab Result,Red Blood Cells| Blood,3.71,m/uL,labevents
+14957820,21271898,2115-10-03 04:00:00,Input,Dextrose 5%,200.0,ml,inputevents
+14957820,21271898,2115-10-03 04:00:00,Input,Water,200.0,ml,ingredientevents
+14957820,21271898,2115-10-03 04:00:00,Input,Calories,34.0,Kcal,ingredientevents
+14957820,21271898,2115-10-03 04:00:00,Input,IVF ingredient,200.0,ml,ingredientevents
+14957820,21271898,2115-10-03 04:00:00,Output,Foley,110.0,ml,outputevents
+14957820,21271898,2115-10-03 04:00:00,Input,Vancomycin,1.0,dose,inputevents
+14957820,21271898,2115-10-03 04:15:00,Input,Hydromorphone (Dilaudid),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-10-03 05:00:00,Output,Nasogastric,200.0,ml,outputevents
+14957820,21271898,2115-10-03 05:00:00,Output,Foley,200.0,ml,outputevents
+14957820,21271898,2115-10-03 05:27:00,DateTime Obs,Multi Lumen Cap Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-03 05:27:00,DateTime Obs,Multi Lumen Dressing Change,2115-09-30 20:31:00,Date and Time,datetimeevents
+14957820,21271898,2115-10-03 05:27:00,DateTime Obs,Multi Lumen Tubing Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-03 05:27:00,DateTime Obs,Multi Lumen Insertion Date,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-03 05:42:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14957820,21271898,2115-10-03 05:42:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14957820,21271898,2115-10-03 06:00:00,Output,Foley,175.0,ml,outputevents
+14957820,21271898,2115-10-03 06:00:00,Input,Hydromorphone (Dilaudid),1.0000000474974513,mg,inputevents
+14957820,21271898,2115-10-03 07:51:00,Input,Famotidine (Pepcid),1.0,dose,inputevents
+14957820,21271898,2115-10-03 07:51:00,Input,Solution,50.0,ml,inputevents
+14957820,21271898,2115-10-03 07:51:00,Input,Water,50.0,ml,ingredientevents
+14957820,21271898,2115-10-03 07:51:00,Input,IVF ingredient,50.0,ml,ingredientevents
+14957820,21271898,2115-10-03 07:57:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+14957820,21271898,2115-10-03 08:00:00,Input,PO Intake,100.0,ml,inputevents
+14957820,21271898,2115-10-03 08:00:00,Input,Water,49.999998807907104,ml,ingredientevents
+14957820,21271898,2115-10-03 08:00:00,Input,Oral/Gastric Ingredient,100.0,ml,ingredientevents
+14957820,21271898,2115-10-03 08:00:00,Input,IVF ingredient,49.999998807907104,ml,ingredientevents
+14957820,21271898,2115-10-03 08:00:00,Input,Potassium Chloride,20.000000596046448,mEq,inputevents
+14957820,21271898,2115-10-03 08:00:00,Input,Piggyback,49.999998807907104,ml,inputevents
+14957820,21271898,2115-10-03 08:00:00,Input,Water,100.0,ml,ingredientevents
+14957820,21271898,2115-10-03 08:08:00,Input,Acetaminophen-IV,1000.0,mg,inputevents
+14957820,21271898,2115-10-03 08:09:00,DateTime Obs,Multi Lumen Tubing Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-03 08:09:00,DateTime Obs,Multi Lumen Insertion Date,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-03 08:09:00,DateTime Obs,Multi Lumen Dressing Change,2115-09-30 20:31:00,Date and Time,datetimeevents
+14957820,21271898,2115-10-03 08:09:00,DateTime Obs,Multi Lumen Cap Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-03 10:00:00,Pharmacy,,,NaN,pharmacy
+14957820,21271898,2115-10-03 10:00:00,Prescription,D5 1/2NS,1000,mL,prescriptions
+14957820,21271898,2115-10-03 10:06:00,Input,PO Intake,60.0,ml,inputevents
+14957820,21271898,2115-10-03 10:06:00,Input,Water,60.0,ml,ingredientevents
+14957820,21271898,2115-10-03 10:06:00,Input,Oral/Gastric Ingredient,60.0,ml,ingredientevents
+14957820,21271898,2115-10-03 10:54:00,Input,D5 1/2NS,35.83333247900009,ml,inputevents
+14957820,21271898,2115-10-03 10:54:00,Input,Calories,6.091666623950005,Kcal,ingredientevents
+14957820,21271898,2115-10-03 10:54:00,Input,Water,35.83333247900009,ml,ingredientevents
+14957820,21271898,2115-10-03 10:54:00,Input,IVF ingredient,35.83333247900009,ml,ingredientevents
+14957820,21271898,2115-10-03 11:37:00,Input,IVF ingredient,48.00000143051148,ml,ingredientevents
+14957820,21271898,2115-10-03 11:37:00,Input,Calories,8.160000264644623,Kcal,ingredientevents
+14957820,21271898,2115-10-03 11:37:00,Input,Water,48.00000143051148,ml,ingredientevents
+14957820,21271898,2115-10-03 11:37:00,Input,D5 1/2NS,48.00000143051148,ml,inputevents
+14957820,21271898,2115-10-03 11:49:00,DateTime Obs,Multi Lumen Tubing Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-03 11:49:00,DateTime Obs,Multi Lumen Insertion Date,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-03 11:49:00,DateTime Obs,Multi Lumen Dressing Change,2115-09-30 20:31:00,Date and Time,datetimeevents
+14957820,21271898,2115-10-03 11:49:00,DateTime Obs,Multi Lumen Cap Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-03 11:53:00,Input,PO Intake,140.0,ml,inputevents
+14957820,21271898,2115-10-03 11:53:00,Input,Oral/Gastric Ingredient,140.0,ml,ingredientevents
+14957820,21271898,2115-10-03 11:53:00,Input,Water,140.0,ml,ingredientevents
+14957820,21271898,2115-10-03 12:00:00,Prescription,HYDROmorphone (Dilaudid),2-4,mg,prescriptions
+14957820,21271898,2115-10-03 12:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+14957820,21271898,2115-10-03 13:00:00,Prescription,HYDROmorphone (Dilaudid),4-6,mg,prescriptions
+14957820,21271898,2115-10-03 13:00:00,Prescription,Azithromycin,250,mg,prescriptions
+14957820,21271898,2115-10-03 13:00:00,Pharmacy,Azithromycin,,NaN,pharmacy
+14957820,21271898,2115-10-03 13:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+14957820,21271898,2115-10-03 13:14:00,Output,Void,300.0,ml,outputevents
+14957820,21271898,2115-10-03 14:00:00,Prescription,0.9% Sodium Chloride (Mini Bag Plus),100,mL,prescriptions
+14957820,21271898,2115-10-03 14:00:00,Prescription,CefePIME,2,g,prescriptions
+14957820,21271898,2115-10-03 14:00:00,Pharmacy,CefePIME,,NaN,pharmacy
+14957820,21271898,2115-10-03 14:01:00,Input,IVF ingredient,50.0,ml,ingredientevents
+14957820,21271898,2115-10-03 14:01:00,Input,Calories,8.5,Kcal,ingredientevents
+14957820,21271898,2115-10-03 14:01:00,Input,Water,50.0,ml,ingredientevents
+14957820,21271898,2115-10-03 14:01:00,Input,Cefepime,1.0,dose,inputevents
+14957820,21271898,2115-10-03 14:01:00,Input,Dextrose 5%,50.0,ml,inputevents
+14957820,21271898,2115-10-03 15:10:00,Input,Oral/Gastric Ingredient,200.0,ml,ingredientevents
+14957820,21271898,2115-10-03 15:10:00,Input,Water,200.0,ml,ingredientevents
+14957820,21271898,2115-10-03 15:10:00,Input,PO Intake,200.0,ml,inputevents
+14957820,21271898,2115-10-03 15:57:00,Input,Acetaminophen-IV,1000.0,mg,inputevents
+14957820,21271898,2115-10-03 15:58:00,DateTime Obs,Multi Lumen Insertion Date,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-03 15:58:00,DateTime Obs,Multi Lumen Dressing Change,2115-09-30 20:31:00,Date and Time,datetimeevents
+14957820,21271898,2115-10-03 15:58:00,DateTime Obs,Multi Lumen Cap Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-03 15:58:00,DateTime Obs,Multi Lumen Tubing Change,2115-09-29 00:00:00,Date,datetimeevents
+14957820,21271898,2115-10-03 16:26:31,Transfer,transfer Med/Surg/Trauma,NaN,NaN,transfers
+14957820,21271898,2115-10-03 17:00:00,Pharmacy,Heparin Flush (10 units/ml),,NaN,pharmacy
+14957820,21271898,2115-10-03 17:00:00,Prescription,Heparin Flush (10 units/ml),1,mL,prescriptions
+14957820,21271898,2115-10-03 20:00:00,Prescription,Vancomycin,1000,mg,prescriptions
+14957820,21271898,2115-10-03 20:00:00,Prescription,Iso-Osmotic Dextrose,200,mL,prescriptions
+14957820,21271898,2115-10-03 20:00:00,Pharmacy,Vancomycin,,NaN,pharmacy
+14957820,21271898,2115-10-03 23:00:00,Pharmacy,Cepacol (Menthol),,NaN,pharmacy
+14957820,21271898,2115-10-03 23:00:00,Prescription,Cepacol (Menthol),1,LOZ,prescriptions
+14957820,21271898,2115-10-04 04:48:00,Lab Result,Hematocrit| Blood,32.1,%,labevents
+14957820,21271898,2115-10-04 04:48:00,Lab Result,Hemoglobin| Blood,10.8,g/dL,labevents
+14957820,21271898,2115-10-04 04:48:00,Lab Result,Platelet Count| Blood,568.0,K/uL,labevents
+14957820,21271898,2115-10-04 04:48:00,Lab Result,MCV| Blood,87.0,fL,labevents
+14957820,21271898,2115-10-04 04:48:00,Lab Result,RDW| Blood,13.6,%,labevents
+14957820,21271898,2115-10-04 04:48:00,Lab Result,Red Blood Cells| Blood,3.7,m/uL,labevents
+14957820,21271898,2115-10-04 04:48:00,Lab Result,White Blood Cells| Blood,11.7,K/uL,labevents
+14957820,21271898,2115-10-04 04:48:00,Lab Result,MCHC| Blood,33.6,%,labevents
+14957820,21271898,2115-10-04 04:48:00,Lab Result,MCH| Blood,29.2,pg,labevents
+14957820,21271898,2115-10-04 11:00:00,Prescription,Levofloxacin,500,mg,prescriptions
+14957820,21271898,2115-10-04 11:00:00,Pharmacy,Levofloxacin,,NaN,pharmacy
+14957820,21271898,2115-10-04 16:00:00,Prescription,Acetaminophen,1000,mg,prescriptions
+14957820,21271898,2115-10-04 16:00:00,Pharmacy,Acetaminophen,,NaN,pharmacy
+14957820,21271898,2115-10-05 06:06:00,Lab Result,Red Blood Cells| Blood,3.7,m/uL,labevents
+14957820,21271898,2115-10-05 06:06:00,Lab Result,White Blood Cells| Blood,7.7,K/uL,labevents
+14957820,21271898,2115-10-05 06:06:00,Lab Result,MCHC| Blood,33.2,%,labevents
+14957820,21271898,2115-10-05 06:06:00,Lab Result,MCV| Blood,88.0,fL,labevents
+14957820,21271898,2115-10-05 06:06:00,Lab Result,Platelet Count| Blood,664.0,K/uL,labevents
+14957820,21271898,2115-10-05 06:06:00,Lab Result,Hematocrit| Blood,32.7,%,labevents
+14957820,21271898,2115-10-05 06:06:00,Lab Result,Hemoglobin| Blood,10.9,g/dL,labevents
+14957820,21271898,2115-10-05 06:06:00,Lab Result,MCH| Blood,29.3,pg,labevents
+14957820,21271898,2115-10-05 06:06:00,Lab Result,RDW| Blood,13.7,%,labevents
+14957820,21271898,2115-10-05 12:00:00,Prescription,MENINGOcoccal Conj Vaccine (Menactra),0.5,mL,prescriptions
+14957820,21271898,2115-10-05 12:00:00,Pharmacy,MENINGOcoccal Conj Vaccine (Menactra),,NaN,pharmacy
+14957820,21271898,2115-10-05 16:58:07,Transfer,discharge,NaN,NaN,transfers

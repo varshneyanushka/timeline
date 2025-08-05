@@ -1,0 +1,165 @@
+subject_id,hadm_id,event_time,event_type,description,value,unit,source_table
+15019994,27233975,2142-01-03 02:10:00,Transfer,admit Discharge Lounge,NaN,NaN,transfers
+15019994,27233975,2142-01-03 02:10:00,Service,ENT,NaN,NaN,services
+15019994,27233975,2142-01-03 07:15:00,Admission,SURGICAL SAME DAY ADMISSION,NaN,NaN,admissions
+15019994,27233975,2142-01-03 14:14:13,Transfer,transfer Trauma SICU (TSICU),NaN,NaN,transfers
+15019994,27233975,2142-01-03 14:19:00,Input,D5 1/2NS,968.2999958992004,ml,inputevents
+15019994,27233975,2142-01-03 14:19:00,Input,Potassium Chloride,19.36599887907505,mEq,inputevents
+15019994,27233975,2142-01-03 14:19:00,Output,OR EBL,20.0,ml,outputevents
+15019994,27233975,2142-01-03 14:19:00,Output,Foley,80.0,ml,outputevents
+15019994,27233975,2142-01-03 14:19:00,Input,Water,968.2999958992004,ml,ingredientevents
+15019994,27233975,2142-01-03 14:19:00,Input,Calories,164.6109861433506,Kcal,ingredientevents
+15019994,27233975,2142-01-03 14:19:00,Input,IVF ingredient,968.2999958992004,ml,ingredientevents
+15019994,27233975,2142-01-03 14:19:00,Output,OR Urine,1200.0,ml,outputevents
+15019994,27233975,2142-01-03 14:26:00,Procedure,18 Gauge,1603.0,min,procedureevents
+15019994,27233975,2142-01-03 14:26:00,DateTime Obs,18 Gauge Insertion Date,2142-01-03 14:26:00,Date,datetimeevents
+15019994,27233975,2142-01-03 14:26:00,Procedure,18 Gauge,1603.0,min,procedureevents
+15019994,27233975,2142-01-03 14:28:00,Input,Water,2000.0,ml,ingredientevents
+15019994,27233975,2142-01-03 14:28:00,Input,IVF ingredient,2000.0,ml,ingredientevents
+15019994,27233975,2142-01-03 14:28:00,Input,OR Intake_ingr,2000.0,ml,ingredientevents
+15019994,27233975,2142-01-03 14:28:00,Input,OR Crystalloid Intake,2000.0,ml,inputevents
+15019994,27233975,2142-01-03 15:00:00,Pharmacy,Famotidine,,NaN,pharmacy
+15019994,27233975,2142-01-03 15:00:00,Pharmacy,Dextrose 50%,,NaN,pharmacy
+15019994,27233975,2142-01-03 15:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+15019994,27233975,2142-01-03 15:00:00,Pharmacy,Glucagon,,NaN,pharmacy
+15019994,27233975,2142-01-03 15:00:00,Pharmacy,Insulin,,NaN,pharmacy
+15019994,27233975,2142-01-03 15:00:00,Prescription,Ampicillin-Sulbactam,3,g,prescriptions
+15019994,27233975,2142-01-03 15:00:00,Output,Foley,45.0,ml,outputevents
+15019994,27233975,2142-01-03 15:00:00,Prescription,0.9% Sodium Chloride (Mini Bag Plus),100,mL,prescriptions
+15019994,27233975,2142-01-03 15:00:00,Pharmacy,Ampicillin-Sulbactam,,NaN,pharmacy
+15019994,27233975,2142-01-03 15:00:00,Prescription,Potassium Chl 20 mEq / 1000 mL D5 1/2 NS,1000,mL,prescriptions
+15019994,27233975,2142-01-03 15:00:00,Pharmacy,,,NaN,pharmacy
+15019994,27233975,2142-01-03 15:00:00,Prescription,Oxycodone-Acetaminophen,1-2,TAB,prescriptions
+15019994,27233975,2142-01-03 15:00:00,Prescription,Famotidine,20,mg,prescriptions
+15019994,27233975,2142-01-03 15:00:00,Prescription,Iso-Osmotic Sodium Chloride,50,mL,prescriptions
+15019994,27233975,2142-01-03 15:00:00,Prescription,Dextrose 50%,12.5,gm,prescriptions
+15019994,27233975,2142-01-03 15:00:00,Prescription,HYDROmorphone (Dilaudid),0.25,mg,prescriptions
+15019994,27233975,2142-01-03 15:00:00,Prescription,Glucagon,1,mg,prescriptions
+15019994,27233975,2142-01-03 15:00:00,Prescription,Insulin,0,UNIT,prescriptions
+15019994,27233975,2142-01-03 15:00:00,Pharmacy,Oxycodone-Acetaminophen,,NaN,pharmacy
+15019994,27233975,2142-01-03 15:52:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+15019994,27233975,2142-01-03 16:00:00,Output,Foley,100.0,ml,outputevents
+15019994,27233975,2142-01-03 16:18:00,Input,Dextrose 5%,100.0,ml,inputevents
+15019994,27233975,2142-01-03 16:18:00,Input,Ampicillin/Sulbactam (Unasyn),1.0,dose,inputevents
+15019994,27233975,2142-01-03 16:18:00,Input,Water,100.0,ml,ingredientevents
+15019994,27233975,2142-01-03 16:18:00,Input,Calories,17.0,Kcal,ingredientevents
+15019994,27233975,2142-01-03 16:18:00,Input,IVF ingredient,100.0,ml,ingredientevents
+15019994,27233975,2142-01-03 17:00:00,Input,PO Intake,120.0,ml,inputevents
+15019994,27233975,2142-01-03 17:00:00,Input,Oral/Gastric Ingredient,120.0,ml,ingredientevents
+15019994,27233975,2142-01-03 17:00:00,Input,Water,120.0,ml,ingredientevents
+15019994,27233975,2142-01-03 17:00:00,Output,Foley,80.0,ml,outputevents
+15019994,27233975,2142-01-03 18:00:00,Output,Foley,100.0,ml,outputevents
+15019994,27233975,2142-01-03 18:12:00,Input,Water,240.0,ml,ingredientevents
+15019994,27233975,2142-01-03 18:12:00,Input,Oral/Gastric Ingredient,240.0,ml,ingredientevents
+15019994,27233975,2142-01-03 18:12:00,Input,PO Intake,240.0,ml,inputevents
+15019994,27233975,2142-01-03 19:00:00,Output,Foley,80.0,ml,outputevents
+15019994,27233975,2142-01-03 19:02:00,Input,Insulin - Regular,2.0,units,inputevents
+15019994,27233975,2142-01-03 19:30:00,Input,IVF ingredient,50.0,ml,ingredientevents
+15019994,27233975,2142-01-03 19:30:00,Input,Solution,50.0,ml,inputevents
+15019994,27233975,2142-01-03 19:30:00,Input,Famotidine (Pepcid),1.0,dose,inputevents
+15019994,27233975,2142-01-03 19:30:00,Input,Water,50.0,ml,ingredientevents
+15019994,27233975,2142-01-03 20:00:00,Prescription,Heparin,5000,UNIT,prescriptions
+15019994,27233975,2142-01-03 20:00:00,DateTime Obs,18 Gauge Insertion Date,2142-01-03 00:00:00,Date,datetimeevents
+15019994,27233975,2142-01-03 20:00:00,Pharmacy,Docusate Sodium,,NaN,pharmacy
+15019994,27233975,2142-01-03 20:00:00,Pharmacy,Heparin,,NaN,pharmacy
+15019994,27233975,2142-01-03 20:00:00,Prescription,Docusate Sodium,100,mg,prescriptions
+15019994,27233975,2142-01-03 22:00:00,Output,Foley,160.0,ml,outputevents
+15019994,27233975,2142-01-04 00:00:00,Input,PO Intake,60.0,ml,inputevents
+15019994,27233975,2142-01-04 00:00:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+15019994,27233975,2142-01-04 00:00:00,Input,Potassium Chloride,16.866667546331882,mEq,inputevents
+15019994,27233975,2142-01-04 00:00:00,Input,Calories,143.366665661335,Kcal,ingredientevents
+15019994,27233975,2142-01-04 00:00:00,Output,Foley,80.0,ml,outputevents
+15019994,27233975,2142-01-04 00:00:00,Input,IVF ingredient,843.3333132266998,ml,ingredientevents
+15019994,27233975,2142-01-04 00:00:00,DateTime Obs,18 Gauge Insertion Date,2142-01-03 00:00:00,Date,datetimeevents
+15019994,27233975,2142-01-04 00:00:00,Input,Water,843.3333132266998,ml,ingredientevents
+15019994,27233975,2142-01-04 00:00:00,Input,Oral/Gastric Ingredient,60.0,ml,ingredientevents
+15019994,27233975,2142-01-04 00:00:00,Input,Water,60.0,ml,ingredientevents
+15019994,27233975,2142-01-04 00:00:00,Input,D5 1/2NS,843.3333132266998,ml,inputevents
+15019994,27233975,2142-01-04 01:00:00,Output,Foley,50.0,ml,outputevents
+15019994,27233975,2142-01-04 02:00:00,Output,Foley,40.0,ml,outputevents
+15019994,27233975,2142-01-04 02:18:00,Lab Result,Potassium| Blood,4.1,mEq/L,labevents
+15019994,27233975,2142-01-04 02:18:00,Lab Result,White Blood Cells| Blood,10.3,K/uL,labevents
+15019994,27233975,2142-01-04 02:18:00,Lab Result,MCHC| Blood,33.5,%,labevents
+15019994,27233975,2142-01-04 02:18:00,Lab Result,MCV| Blood,93.0,fL,labevents
+15019994,27233975,2142-01-04 02:18:00,Lab Result,Platelet Count| Blood,273.0,K/uL,labevents
+15019994,27233975,2142-01-04 02:18:00,Lab Result,RDW| Blood,12.7,%,labevents
+15019994,27233975,2142-01-04 02:18:00,Lab Result,Red Blood Cells| Blood,3.91,m/uL,labevents
+15019994,27233975,2142-01-04 02:18:00,Lab Result,Anion Gap| Blood,10.0,mEq/L,labevents
+15019994,27233975,2142-01-04 02:18:00,Lab Result,Bicarbonate| Blood,29.0,mEq/L,labevents
+15019994,27233975,2142-01-04 02:18:00,Lab Result,Chloride| Blood,104.0,mEq/L,labevents
+15019994,27233975,2142-01-04 02:18:00,Lab Result,Creatinine| Blood,0.9,mg/dL,labevents
+15019994,27233975,2142-01-04 02:18:00,Lab Result,Hematocrit| Blood,36.2,%,labevents
+15019994,27233975,2142-01-04 02:18:00,Lab Result,MCH| Blood,31.1,pg,labevents
+15019994,27233975,2142-01-04 02:18:00,Lab Result,Hemoglobin| Blood,12.1,g/dL,labevents
+15019994,27233975,2142-01-04 02:18:00,Lab Result,Estimated GFR (MDRD equation)| Blood,,,labevents
+15019994,27233975,2142-01-04 02:18:00,Lab Result,Glucose| Blood,130.0,mg/dL,labevents
+15019994,27233975,2142-01-04 02:18:00,Lab Result,Magnesium| Blood,2.1,mg/dL,labevents
+15019994,27233975,2142-01-04 02:18:00,Lab Result,Sodium| Blood,139.0,mEq/L,labevents
+15019994,27233975,2142-01-04 02:18:00,Lab Result,Urea Nitrogen| Blood,11.0,mg/dL,labevents
+15019994,27233975,2142-01-04 04:00:00,Input,IVF ingredient,100.0,ml,ingredientevents
+15019994,27233975,2142-01-04 04:00:00,DateTime Obs,18 Gauge Insertion Date,2142-01-03 00:00:00,Date,datetimeevents
+15019994,27233975,2142-01-04 04:00:00,Input,Ampicillin/Sulbactam (Unasyn),1.0,dose,inputevents
+15019994,27233975,2142-01-04 04:00:00,Input,Water,100.0,ml,ingredientevents
+15019994,27233975,2142-01-04 04:00:00,Input,Calories,17.0,Kcal,ingredientevents
+15019994,27233975,2142-01-04 04:00:00,Input,Dextrose 5%,100.0,ml,inputevents
+15019994,27233975,2142-01-04 04:00:00,Output,Foley,80.0,ml,outputevents
+15019994,27233975,2142-01-04 05:00:00,DateTime Obs,Impaired Skin  - Dressing Change #1,2142-01-04 05:00:00,Date and Time,datetimeevents
+15019994,27233975,2142-01-04 05:00:00,Output,Foley,40.0,ml,outputevents
+15019994,27233975,2142-01-04 05:30:00,Input,PO Intake,60.0,ml,inputevents
+15019994,27233975,2142-01-04 05:30:00,Input,Oral/Gastric Ingredient,60.0,ml,ingredientevents
+15019994,27233975,2142-01-04 05:30:00,Input,Water,60.0,ml,ingredientevents
+15019994,27233975,2142-01-04 06:00:00,Output,Foley,60.0,ml,outputevents
+15019994,27233975,2142-01-04 07:00:00,Pharmacy,Ondansetron,,NaN,pharmacy
+15019994,27233975,2142-01-04 07:00:00,Prescription,Ondansetron,4,mg,prescriptions
+15019994,27233975,2142-01-04 07:00:00,Output,Foley,25.0,ml,outputevents
+15019994,27233975,2142-01-04 08:00:00,Output,Foley,30.0,ml,outputevents
+15019994,27233975,2142-01-04 08:15:00,DateTime Obs,18 Gauge Insertion Date,2142-01-03 00:00:00,Date,datetimeevents
+15019994,27233975,2142-01-04 08:15:00,DateTime Obs,Impaired Skin  - Dressing Change #1,2142-01-04 05:00:00,Date and Time,datetimeevents
+15019994,27233975,2142-01-04 08:20:00,Input,Water,50.0,ml,ingredientevents
+15019994,27233975,2142-01-04 08:20:00,Input,IVF ingredient,50.0,ml,ingredientevents
+15019994,27233975,2142-01-04 08:20:00,Input,Solution,50.0,ml,inputevents
+15019994,27233975,2142-01-04 08:20:00,Input,Famotidine (Pepcid),1.0,dose,inputevents
+15019994,27233975,2142-01-04 08:21:00,Input,Water,120.0,ml,ingredientevents
+15019994,27233975,2142-01-04 08:21:00,Input,Oral/Gastric Ingredient,120.0,ml,ingredientevents
+15019994,27233975,2142-01-04 08:21:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+15019994,27233975,2142-01-04 08:21:00,Input,PO Intake,120.0,ml,inputevents
+15019994,27233975,2142-01-04 08:26:00,Input,D5 1/2NS,9.416666947305202,ml,inputevents
+15019994,27233975,2142-01-04 08:26:00,Input,Water,9.416666947305202,ml,ingredientevents
+15019994,27233975,2142-01-04 08:26:00,Input,Calories,1.6008333852514625,Kcal,ingredientevents
+15019994,27233975,2142-01-04 08:26:00,Input,IVF ingredient,9.416666947305202,ml,ingredientevents
+15019994,27233975,2142-01-04 08:26:00,Input,Potassium Chloride,0.1883333642035722,mEq,inputevents
+15019994,27233975,2142-01-04 09:00:00,Output,Foley,30.0,ml,outputevents
+15019994,27233975,2142-01-04 10:00:00,Output,Foley,80.0,ml,outputevents
+15019994,27233975,2142-01-04 10:18:00,Input,Water,240.0,ml,ingredientevents
+15019994,27233975,2142-01-04 10:18:00,Input,Oral/Gastric Ingredient,240.0,ml,ingredientevents
+15019994,27233975,2142-01-04 10:18:00,Input,PO Intake,240.0,ml,inputevents
+15019994,27233975,2142-01-04 10:19:00,Input,IVF ingredient,100.0,ml,ingredientevents
+15019994,27233975,2142-01-04 10:19:00,Input,Ampicillin/Sulbactam (Unasyn),1.0,dose,inputevents
+15019994,27233975,2142-01-04 10:19:00,Input,Dextrose 5%,100.0,ml,inputevents
+15019994,27233975,2142-01-04 10:19:00,Input,Calories,17.0,Kcal,ingredientevents
+15019994,27233975,2142-01-04 10:19:00,Input,Water,100.0,ml,ingredientevents
+15019994,27233975,2142-01-04 11:00:00,Prescription,Ondansetron,4,mg,prescriptions
+15019994,27233975,2142-01-04 11:00:00,Pharmacy,Ondansetron,,NaN,pharmacy
+15019994,27233975,2142-01-04 12:09:00,DateTime Obs,18 Gauge Insertion Date,2142-01-03 00:00:00,Date,datetimeevents
+15019994,27233975,2142-01-04 13:23:00,Input,Hydromorphone (Dilaudid),0.2500000118743628,mg,inputevents
+15019994,27233975,2142-01-04 15:58:00,Input,Water,100.0,ml,ingredientevents
+15019994,27233975,2142-01-04 15:58:00,Input,Ampicillin/Sulbactam (Unasyn),1.0,dose,inputevents
+15019994,27233975,2142-01-04 15:58:00,Input,Dextrose 5%,100.0,ml,inputevents
+15019994,27233975,2142-01-04 15:58:00,Input,Water,120.0,ml,ingredientevents
+15019994,27233975,2142-01-04 15:58:00,Input,PO Intake,120.0,ml,inputevents
+15019994,27233975,2142-01-04 15:58:00,Input,Calories,17.0,Kcal,ingredientevents
+15019994,27233975,2142-01-04 15:58:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+15019994,27233975,2142-01-04 15:58:00,Input,IVF ingredient,100.0,ml,ingredientevents
+15019994,27233975,2142-01-04 15:58:00,Input,Oral/Gastric Ingredient,120.0,ml,ingredientevents
+15019994,27233975,2142-01-04 17:09:04,Transfer,transfer Surgery/Trauma,NaN,NaN,transfers
+15019994,27233975,2142-01-04 18:00:00,Pharmacy,Promethazine,,NaN,pharmacy
+15019994,27233975,2142-01-04 18:00:00,Pharmacy,Sodium Chloride 0.9%  Flush,,NaN,pharmacy
+15019994,27233975,2142-01-04 18:00:00,Pharmacy,Acetaminophen,,NaN,pharmacy
+15019994,27233975,2142-01-04 18:00:00,Pharmacy,Metoclopramide,,NaN,pharmacy
+15019994,27233975,2142-01-04 18:00:00,Prescription,Promethazine,6.25,mg,prescriptions
+15019994,27233975,2142-01-04 18:00:00,Prescription,Sodium Chloride 0.9%  Flush,3,mL,prescriptions
+15019994,27233975,2142-01-04 18:00:00,Prescription,Acetaminophen,650,mg,prescriptions
+15019994,27233975,2142-01-04 18:00:00,Prescription,Metoclopramide,10,mg,prescriptions
+15019994,27233975,2142-01-04 18:00:00,Pharmacy,Ondansetron,,NaN,pharmacy
+15019994,27233975,2142-01-04 18:00:00,Prescription,Ondansetron,4-8,mg,prescriptions
+15019994,27233975,2142-01-05 14:48:47,Transfer,discharge,NaN,NaN,transfers

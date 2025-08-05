@@ -1,0 +1,337 @@
+subject_id,hadm_id,event_time,event_type,description,value,unit,source_table
+15011336,26646903.0,2132-06-03 14:13:00,Transfer,ED Emergency Department,NaN,NaN,transfers
+15011336,26646903.0,2132-06-03 21:27:00,Admission,URGENT,NaN,NaN,admissions
+15011336,26646903.0,2132-06-03 21:28:44,Service,NSURG,NaN,NaN,services
+15011336,26646903.0,2132-06-03 22:30:00,Input,Nicardipine,0.7700770402152557,mg,inputevents
+15011336,26646903.0,2132-06-03 22:30:00,Input,NaCl 0.9%,3.850385136902332,ml,inputevents
+15011336,26646903.0,2132-06-03 22:30:00,Input,NaCl 3% (Hypertonic Saline),330.33334317803383,ml,inputevents
+15011336,26646903.0,2132-06-03 22:30:00,Input,Water,3.850385136902332,ml,ingredientevents
+15011336,26646903.0,2132-06-03 22:30:00,Input,IVF ingredient,3.850385136902332,ml,ingredientevents
+15011336,26646903.0,2132-06-03 22:30:00,Input,Water,330.33334317803383,ml,ingredientevents
+15011336,26646903.0,2132-06-03 22:30:00,Input,IVF ingredient,330.33334317803383,ml,ingredientevents
+15011336,26646903.0,2132-06-03 22:34:00,Transfer,admit Trauma SICU (TSICU),NaN,NaN,transfers
+15011336,26646903.0,2132-06-03 22:40:00,Procedure,20 Gauge,1532.0,min,procedureevents
+15011336,26646903.0,2132-06-03 22:40:00,Procedure,20 Gauge,1532.0,min,procedureevents
+15011336,26646903.0,2132-06-03 22:40:00,Procedure,20 Gauge,1532.0,min,procedureevents
+15011336,26646903.0,2132-06-03 22:40:00,Procedure,22 Gauge,1532.0,min,procedureevents
+15011336,26646903.0,2132-06-03 22:40:00,Procedure,20 Gauge,1532.0,min,procedureevents
+15011336,26646903.0,2132-06-03 22:40:00,DateTime Obs,22 Gauge Insertion Date,2132-06-03 22:58:00,Date,datetimeevents
+15011336,26646903.0,2132-06-03 22:40:00,DateTime Obs,20 Gauge Insertion Date,2132-06-03 00:00:00,Date,datetimeevents
+15011336,26646903.0,2132-06-03 22:40:00,Procedure,22 Gauge,1532.0,min,procedureevents
+15011336,26646903.0,2132-06-03 23:00:00,Prescription,Influenza Vaccine Quadrivalent,0.5,mL,prescriptions
+15011336,26646903.0,2132-06-03 23:00:00,Input,NaCl 0.9%,995.7999750971794,ml,inputevents
+15011336,26646903.0,2132-06-03 23:00:00,Pharmacy,PNEUMOcoccal 23-valent polysaccharide vaccine,,NaN,pharmacy
+15011336,26646903.0,2132-06-03 23:00:00,Input,IVF ingredient,995.7999750971794,ml,ingredientevents
+15011336,26646903.0,2132-06-03 23:00:00,Input,Water,995.7999750971794,ml,ingredientevents
+15011336,26646903.0,2132-06-03 23:00:00,Pharmacy,Influenza Vaccine Quadrivalent,,NaN,pharmacy
+15011336,26646903.0,2132-06-03 23:00:00,Prescription,PNEUMOcoccal 23-valent polysaccharide vaccine,0.5,mL,prescriptions
+15011336,26646903.0,2132-06-04 00:00:00,Pharmacy,,,NaN,pharmacy
+15011336,26646903.0,2132-06-04 00:00:00,DateTime Obs,Pressure ulcer #1- Dressing change,2132-06-04 00:00:00,Date and Time,datetimeevents
+15011336,26646903.0,2132-06-04 00:00:00,Prescription,Sodium Chloride 0.9%,1000,mL,prescriptions
+15011336,26646903.0,2132-06-04 00:00:00,Prescription,Acetaminophen,650,mg,prescriptions
+15011336,26646903.0,2132-06-04 00:00:00,Pharmacy,Acetaminophen,,NaN,pharmacy
+15011336,26646903.0,2132-06-04 00:00:00,DateTime Obs,Impaired Skin  - Dressing Change #1,2132-06-04 00:00:00,Date and Time,datetimeevents
+15011336,26646903.0,2132-06-04 01:00:00,Prescription,Sodium Chloride 3% (Hypertonic),500,mL,prescriptions
+15011336,26646903.0,2132-06-04 01:00:00,Prescription,Bag,500,mL,prescriptions
+15011336,26646903.0,2132-06-04 01:00:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-04 01:00:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-04 01:00:00,Medication Admin,NiCARdipine,NaN,NaN,emar
+15011336,26646903.0,2132-06-04 01:00:00,Pharmacy,,,NaN,pharmacy
+15011336,26646903.0,2132-06-04 01:32:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-04 01:32:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-04 01:32:00,Medication Admin,,NaN,NaN,emar
+15011336,26646903.0,2132-06-04 01:33:00,Medication Admin,,NaN,NaN,emar
+15011336,26646903.0,2132-06-04 01:33:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-04 01:33:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-04 01:34:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-04 01:34:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-04 01:34:00,Medication Admin,,NaN,NaN,emar
+15011336,26646903.0,2132-06-04 01:51:00,Lab Result,INR(PT)| Blood,1.1,,labevents
+15011336,26646903.0,2132-06-04 01:51:00,Lab Result,Red Blood Cells| Blood,2.34,m/uL,labevents
+15011336,26646903.0,2132-06-04 01:51:00,Lab Result,White Blood Cells| Blood,15.9,K/uL,labevents
+15011336,26646903.0,2132-06-04 01:51:00,Lab Result,PT| Blood,11.9,sec,labevents
+15011336,26646903.0,2132-06-04 01:51:00,Lab Result,PTT| Blood,28.9,sec,labevents
+15011336,26646903.0,2132-06-04 01:51:00,Lab Result,Alanine Aminotransferase (ALT)| Blood,27.0,IU/L,labevents
+15011336,26646903.0,2132-06-04 01:51:00,Lab Result,Albumin| Blood,3.0,g/dL,labevents
+15011336,26646903.0,2132-06-04 01:51:00,Lab Result,Alkaline Phosphatase| Blood,66.0,IU/L,labevents
+15011336,26646903.0,2132-06-04 01:51:00,Lab Result,Amylase| Blood,46.0,IU/L,labevents
+15011336,26646903.0,2132-06-04 01:51:00,Lab Result,Anion Gap| Blood,16.0,mEq/L,labevents
+15011336,26646903.0,2132-06-04 01:51:00,Lab Result,Asparate Aminotransferase (AST)| Blood,44.0,IU/L,labevents
+15011336,26646903.0,2132-06-04 01:51:00,Lab Result,Bicarbonate| Blood,21.0,mEq/L,labevents
+15011336,26646903.0,2132-06-04 01:51:00,Lab Result,"Bilirubin, Total| Blood",0.1,mg/dL,labevents
+15011336,26646903.0,2132-06-04 01:51:00,Lab Result,"Calcium, Total| Blood",7.7,mg/dL,labevents
+15011336,26646903.0,2132-06-04 01:51:00,Lab Result,Chloride| Blood,110.0,mEq/L,labevents
+15011336,26646903.0,2132-06-04 01:51:00,Lab Result,Creatinine| Blood,1.0,mg/dL,labevents
+15011336,26646903.0,2132-06-04 01:51:00,Lab Result,Glucose| Blood,128.0,mg/dL,labevents
+15011336,26646903.0,2132-06-04 01:51:00,Lab Result,Lactate Dehydrogenase (LD)| Blood,429.0,IU/L,labevents
+15011336,26646903.0,2132-06-04 01:51:00,Lab Result,Lipase| Blood,10.0,IU/L,labevents
+15011336,26646903.0,2132-06-04 01:51:00,Lab Result,Phosphate| Blood,2.9,mg/dL,labevents
+15011336,26646903.0,2132-06-04 01:51:00,Lab Result,Potassium| Blood,4.6,mEq/L,labevents
+15011336,26646903.0,2132-06-04 01:51:00,Lab Result,Sodium| Blood,142.0,mEq/L,labevents
+15011336,26646903.0,2132-06-04 01:51:00,Lab Result,Urea Nitrogen| Blood,25.0,mg/dL,labevents
+15011336,26646903.0,2132-06-04 01:51:00,Lab Result,Hematocrit| Blood,24.6,%,labevents
+15011336,26646903.0,2132-06-04 01:51:00,Lab Result,Hemoglobin| Blood,7.4,g/dL,labevents
+15011336,26646903.0,2132-06-04 01:51:00,Lab Result,MCH| Blood,31.6,pg,labevents
+15011336,26646903.0,2132-06-04 01:51:00,Lab Result,MCHC| Blood,30.1,g/dL,labevents
+15011336,26646903.0,2132-06-04 01:51:00,Lab Result,MCV| Blood,105.0,fL,labevents
+15011336,26646903.0,2132-06-04 01:51:00,Lab Result,Platelet Count| Blood,234.0,K/uL,labevents
+15011336,26646903.0,2132-06-04 01:51:00,Lab Result,RDW| Blood,13.6,%,labevents
+15011336,26646903.0,2132-06-04 01:51:00,Lab Result,RDW-SD| Blood,52.4,fL,labevents
+15011336,26646903.0,2132-06-04 04:00:00,DateTime Obs,20 Gauge Insertion Date,2132-06-03 00:00:00,Date,datetimeevents
+15011336,26646903.0,2132-06-04 04:00:00,DateTime Obs,22 Gauge Insertion Date,2132-06-03 00:00:00,Date,datetimeevents
+15011336,26646903.0,2132-06-04 05:00:00,Pharmacy,Magnesium Sulfate Replacement (Critical Care and Oncology),,NaN,pharmacy
+15011336,26646903.0,2132-06-04 05:00:00,Pharmacy,Magnesium Sulfate Replacement (Critical Care and Oncology),,NaN,pharmacy
+15011336,26646903.0,2132-06-04 05:00:00,Prescription,0.9% Sodium Chloride,1,BAG,prescriptions
+15011336,26646903.0,2132-06-04 05:00:00,Prescription,Calcium Gluconate,2,g,prescriptions
+15011336,26646903.0,2132-06-04 05:00:00,Pharmacy,Magnesium Sulfate Replacement (Critical Care and Oncology),,NaN,pharmacy
+15011336,26646903.0,2132-06-04 05:00:00,Pharmacy,Calcium Gluconate sliding scale (Critical Care-Ionized calcium),,NaN,pharmacy
+15011336,26646903.0,2132-06-04 05:00:00,Prescription,Calcium Gluconate,4,g,prescriptions
+15011336,26646903.0,2132-06-04 05:00:00,Prescription,0.9% Sodium Chloride,2,BAG,prescriptions
+15011336,26646903.0,2132-06-04 05:00:00,Prescription,Calcium Gluconate,2,g,prescriptions
+15011336,26646903.0,2132-06-04 05:00:00,Prescription,0.9% Sodium Chloride,1,BAG,prescriptions
+15011336,26646903.0,2132-06-04 05:00:00,Pharmacy,Calcium Gluconate sliding scale (Critical Care-Ionized calcium),,NaN,pharmacy
+15011336,26646903.0,2132-06-04 05:00:00,Pharmacy,Calcium Gluconate sliding scale (Critical Care-Ionized calcium),,NaN,pharmacy
+15011336,26646903.0,2132-06-04 05:00:00,Prescription,Magnesium Sulfate,2,gm,prescriptions
+15011336,26646903.0,2132-06-04 05:00:00,Prescription,Bag,1,BAG,prescriptions
+15011336,26646903.0,2132-06-04 05:00:00,Prescription,Magnesium Sulfate,4,gm,prescriptions
+15011336,26646903.0,2132-06-04 05:00:00,Prescription,Bag,1,BAG,prescriptions
+15011336,26646903.0,2132-06-04 05:00:00,Prescription,Magnesium Sulfate,2,gm,prescriptions
+15011336,26646903.0,2132-06-04 05:00:00,Prescription,Bag,2,BAG,prescriptions
+15011336,26646903.0,2132-06-04 07:45:00,DateTime Obs,20 Gauge Insertion Date,2132-06-03 00:00:00,Date,datetimeevents
+15011336,26646903.0,2132-06-04 07:45:00,DateTime Obs,22 Gauge Insertion Date,2132-06-03 00:00:00,Date,datetimeevents
+15011336,26646903.0,2132-06-04 08:00:00,Pharmacy,LevETIRAcetam,,NaN,pharmacy
+15011336,26646903.0,2132-06-04 08:00:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+15011336,26646903.0,2132-06-04 08:00:00,Prescription,LevETIRAcetam,500,mg,prescriptions
+15011336,26646903.0,2132-06-04 08:00:00,Prescription,0.9% Sodium Chloride,100,mL,prescriptions
+15011336,26646903.0,2132-06-04 08:00:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-04 08:00:00,DateTime Obs,Impaired Skin  - Dressing Change #1,2132-06-04 00:00:00,Date and Time,datetimeevents
+15011336,26646903.0,2132-06-04 08:00:00,DateTime Obs,Pressure ulcer #1- Dressing change,2132-06-04 00:00:00,Date and Time,datetimeevents
+15011336,26646903.0,2132-06-04 08:57:00,Lab Result,Sodium| Blood,142.0,mEq/L,labevents
+15011336,26646903.0,2132-06-04 08:57:00,Lab Result,Chloride| Blood,110.0,mEq/L,labevents
+15011336,26646903.0,2132-06-04 08:57:00,Lab Result,Potassium| Blood,4.5,mEq/L,labevents
+15011336,26646903.0,2132-06-04 09:35:00,Medication Admin,,NaN,NaN,emar
+15011336,26646903.0,2132-06-04 09:35:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-04 09:35:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-04 09:37:00,Output,Foley,150.0,ml,outputevents
+15011336,26646903.0,2132-06-04 10:00:00,Output,Foley,75.0,ml,outputevents
+15011336,26646903.0,2132-06-04 11:00:00,Pharmacy,Acetaminophen IV,,NaN,pharmacy
+15011336,26646903.0,2132-06-04 11:00:00,Prescription,Labetalol,10,mg,prescriptions
+15011336,26646903.0,2132-06-04 11:00:00,Prescription,Potassium Chloride,20,mEq,prescriptions
+15011336,26646903.0,2132-06-04 11:00:00,Prescription,SW,200,mL,prescriptions
+15011336,26646903.0,2132-06-04 11:00:00,Prescription,Pantoprazole,40,mg,prescriptions
+15011336,26646903.0,2132-06-04 11:00:00,Prescription,Vial,1,VIAL,prescriptions
+15011336,26646903.0,2132-06-04 11:00:00,Pharmacy,Pantoprazole,,NaN,pharmacy
+15011336,26646903.0,2132-06-04 11:00:00,Pharmacy,Potassium Chloride Replacement (Critical Care and Oncology),,NaN,pharmacy
+15011336,26646903.0,2132-06-04 11:00:00,Prescription,Pantoprazole,40,mg,prescriptions
+15011336,26646903.0,2132-06-04 11:00:00,Prescription,Vial,1,VIAL,prescriptions
+15011336,26646903.0,2132-06-04 11:00:00,Prescription,Acetaminophen IV,1000,mg,prescriptions
+15011336,26646903.0,2132-06-04 11:00:00,Prescription,Soln,100,mL,prescriptions
+15011336,26646903.0,2132-06-04 11:00:00,Output,Foley,75.0,ml,outputevents
+15011336,26646903.0,2132-06-04 11:00:00,Pharmacy,Labetalol,,NaN,pharmacy
+15011336,26646903.0,2132-06-04 11:00:00,Pharmacy,Pantoprazole,,NaN,pharmacy
+15011336,26646903.0,2132-06-04 11:20:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-04 11:20:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-04 11:20:00,Medication Admin,Acetaminophen IV,NaN,NaN,emar
+15011336,26646903.0,2132-06-04 11:23:00,Input,Acetaminophen-IV,1000.0,mg,inputevents
+15011336,26646903.0,2132-06-04 12:00:00,Output,Foley,25.0,ml,outputevents
+15011336,26646903.0,2132-06-04 12:00:00,DateTime Obs,Pressure ulcer #1- Dressing change,2132-06-04 00:00:00,Date and Time,datetimeevents
+15011336,26646903.0,2132-06-04 12:00:00,DateTime Obs,Impaired Skin  - Dressing Change #1,2132-06-04 00:00:00,Date and Time,datetimeevents
+15011336,26646903.0,2132-06-04 12:00:00,DateTime Obs,Foley Cath Insertion Date,2132-06-04 13:28:00,Date,datetimeevents
+15011336,26646903.0,2132-06-04 13:30:00,DateTime Obs,20 Gauge Insertion Date,2132-06-03 00:00:00,Date,datetimeevents
+15011336,26646903.0,2132-06-04 13:30:00,DateTime Obs,22 Gauge Insertion Date,2132-06-03 00:00:00,Date,datetimeevents
+15011336,26646903.0,2132-06-04 14:52:00,Input,Levetiracetam (Keppra),500.0,mg,inputevents
+15011336,26646903.0,2132-06-04 15:00:00,Output,Foley,150.0,ml,outputevents
+15011336,26646903.0,2132-06-04 15:00:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-04 15:00:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-04 15:00:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-04 15:00:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-04 15:00:00,Medication Admin,,NaN,NaN,emar
+15011336,26646903.0,2132-06-04 15:00:00,Medication Admin,Pantoprazole,NaN,NaN,emar
+15011336,26646903.0,2132-06-04 15:00:00,Medication Admin,LevETIRAcetam,NaN,NaN,emar
+15011336,26646903.0,2132-06-04 15:00:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-04 15:01:00,Input,Pantoprazole (Protonix),1.0,dose,inputevents
+15011336,26646903.0,2132-06-04 15:01:00,Input,IVF ingredient,10.0,ml,ingredientevents
+15011336,26646903.0,2132-06-04 15:01:00,Input,Solution,10.0,ml,inputevents
+15011336,26646903.0,2132-06-04 15:01:00,Input,Water,10.0,ml,ingredientevents
+15011336,26646903.0,2132-06-04 15:14:00,Medication Admin,Morphine Sulfate,NaN,NaN,emar
+15011336,26646903.0,2132-06-04 15:14:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-04 15:14:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-04 15:17:00,Input,Morphine Sulfate,1.0000000474974513,mg,inputevents
+15011336,26646903.0,2132-06-04 15:59:00,DateTime Obs,22 Gauge Insertion Date,2132-06-03 00:00:00,Date,datetimeevents
+15011336,26646903.0,2132-06-04 15:59:00,DateTime Obs,20 Gauge Insertion Date,2132-06-03 00:00:00,Date,datetimeevents
+15011336,26646903.0,2132-06-04 16:00:00,DateTime Obs,Impaired Skin  - Dressing Change #1,2132-06-04 00:00:00,Date and Time,datetimeevents
+15011336,26646903.0,2132-06-04 16:00:00,Medication Admin,,NaN,NaN,emar
+15011336,26646903.0,2132-06-04 16:00:00,Prescription,Morphine Sulfate,1,mg,prescriptions
+15011336,26646903.0,2132-06-04 16:00:00,Prescription,Morphine Sulfate (Oral Solution) 2 mg/mL,5,mg,prescriptions
+15011336,26646903.0,2132-06-04 16:00:00,Pharmacy,Acetaminophen IV,,NaN,pharmacy
+15011336,26646903.0,2132-06-04 16:00:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-04 16:00:00,Prescription,Soln,100,mL,prescriptions
+15011336,26646903.0,2132-06-04 16:00:00,Prescription,Acetaminophen IV,1000,mg,prescriptions
+15011336,26646903.0,2132-06-04 16:00:00,DateTime Obs,Pressure ulcer #1- Dressing change,2132-06-04 00:00:00,Date and Time,datetimeevents
+15011336,26646903.0,2132-06-04 16:00:00,DateTime Obs,Foley Cath Insertion Date,2132-06-04 00:00:00,Date,datetimeevents
+15011336,26646903.0,2132-06-04 16:00:00,Pharmacy,Morphine Sulfate,,NaN,pharmacy
+15011336,26646903.0,2132-06-04 16:00:00,Pharmacy,Morphine Sulfate (Oral Solution) 2 mg/mL,,NaN,pharmacy
+15011336,26646903.0,2132-06-04 18:00:00,Output,Foley,225.0,ml,outputevents
+15011336,26646903.0,2132-06-04 18:03:00,Medication Admin,Acetaminophen IV,NaN,NaN,emar
+15011336,26646903.0,2132-06-04 18:03:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-04 18:03:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-04 18:55:00,Input,Water,55.83333200216293,ml,ingredientevents
+15011336,26646903.0,2132-06-04 18:55:00,Input,IVF ingredient,55.83333200216293,ml,ingredientevents
+15011336,26646903.0,2132-06-04 18:55:00,Input,NaCl 0.9%,55.83333200216293,ml,inputevents
+15011336,26646903.0,2132-06-04 19:33:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-04 19:33:00,Medication Admin,Pantoprazole,NaN,NaN,emar
+15011336,26646903.0,2132-06-04 19:33:00,Medication Admin,LevETIRAcetam,NaN,NaN,emar
+15011336,26646903.0,2132-06-04 19:33:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-04 19:33:00,Medication Admin,,NaN,NaN,emar
+15011336,26646903.0,2132-06-04 19:33:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-04 19:33:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-04 19:33:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-04 19:33:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-04 19:50:00,Medication Admin,Morphine Sulfate,NaN,NaN,emar
+15011336,26646903.0,2132-06-04 19:50:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-04 19:50:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-04 19:51:00,Input,Morphine Sulfate,2.0000000949949026,mg,inputevents
+15011336,26646903.0,2132-06-04 19:55:00,DateTime Obs,22 Gauge Insertion Date,2132-06-03 00:00:00,Date,datetimeevents
+15011336,26646903.0,2132-06-04 19:55:00,DateTime Obs,20 Gauge Insertion Date,2132-06-03 00:00:00,Date,datetimeevents
+15011336,26646903.0,2132-06-04 20:00:00,Output,Foley,40.0,ml,outputevents
+15011336,26646903.0,2132-06-04 20:00:00,Medication Admin,,NaN,NaN,emar
+15011336,26646903.0,2132-06-04 20:00:00,DateTime Obs,Impaired Skin  - Dressing Change #1,2132-06-04 00:00:00,Date and Time,datetimeevents
+15011336,26646903.0,2132-06-04 20:00:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-04 20:00:00,DateTime Obs,Foley Cath Insertion Date,2132-06-04 00:00:00,Date,datetimeevents
+15011336,26646903.0,2132-06-04 20:00:00,Prescription,Morphine Sulfate,2-4,mg,prescriptions
+15011336,26646903.0,2132-06-04 20:00:00,Pharmacy,Morphine Sulfate,,NaN,pharmacy
+15011336,26646903.0,2132-06-04 20:00:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-04 20:00:00,DateTime Obs,Pressure ulcer #1- Dressing change,2132-06-04 00:00:00,Date and Time,datetimeevents
+15011336,26646903.0,2132-06-04 20:02:00,Input,NaCl 0.9%,10.500000312924383,ml,inputevents
+15011336,26646903.0,2132-06-04 20:02:00,Input,IVF ingredient,10.500000312924383,ml,ingredientevents
+15011336,26646903.0,2132-06-04 20:02:00,Input,Water,10.500000312924383,ml,ingredientevents
+15011336,26646903.0,2132-06-04 22:01:00,Output,Foley,75.0,ml,outputevents
+15011336,26646903.0,2132-06-05 00:12:38,Transfer,transfer Medicine,NaN,NaN,transfers
+15011336,26646903.0,2132-06-05 01:00:00,Pharmacy,,,NaN,pharmacy
+15011336,26646903.0,2132-06-05 01:00:00,Pharmacy,PNEUMOcoccal 23-valent polysaccharide vaccine,,NaN,pharmacy
+15011336,26646903.0,2132-06-05 01:00:00,Pharmacy,Morphine Sulfate,,NaN,pharmacy
+15011336,26646903.0,2132-06-05 01:00:00,Pharmacy,Sodium Chloride 0.9%  Flush,,NaN,pharmacy
+15011336,26646903.0,2132-06-05 01:00:00,Pharmacy,Influenza Vaccine Quadrivalent,,NaN,pharmacy
+15011336,26646903.0,2132-06-05 01:00:00,Pharmacy,Acetaminophen IV,,NaN,pharmacy
+15011336,26646903.0,2132-06-05 01:00:00,Pharmacy,Morphine Sulfate (Oral Solution) 2 mg/mL,,NaN,pharmacy
+15011336,26646903.0,2132-06-05 01:00:00,Prescription,PNEUMOcoccal 23-valent polysaccharide vaccine,0.5,mL,prescriptions
+15011336,26646903.0,2132-06-05 01:00:00,Prescription,Morphine Sulfate,2-4,mg,prescriptions
+15011336,26646903.0,2132-06-05 01:00:00,Prescription,Sodium Chloride 0.9%,1000,mL,prescriptions
+15011336,26646903.0,2132-06-05 01:00:00,Prescription,Sodium Chloride 0.9%  Flush,3,mL,prescriptions
+15011336,26646903.0,2132-06-05 01:00:00,Prescription,Influenza Vaccine Quadrivalent,0.5,mL,prescriptions
+15011336,26646903.0,2132-06-05 01:00:00,Prescription,Acetaminophen IV,1000,mg,prescriptions
+15011336,26646903.0,2132-06-05 01:00:00,Prescription,Morphine Sulfate (Oral Solution) 2 mg/mL,5,mg,prescriptions
+15011336,26646903.0,2132-06-05 02:07:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-05 02:07:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-05 02:07:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-05 02:07:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-05 02:07:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+15011336,26646903.0,2132-06-05 02:07:00,Medication Admin,Acetaminophen IV,NaN,NaN,emar
+15011336,26646903.0,2132-06-05 02:24:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-05 02:24:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-05 02:24:00,Medication Admin,,NaN,NaN,emar
+15011336,26646903.0,2132-06-05 07:39:00,Medication Admin,Influenza Vaccine Quadrivalent,NaN,NaN,emar
+15011336,26646903.0,2132-06-05 07:39:00,Medication Admin,PNEUMOcoccal 23-valent polysaccharide vaccine,NaN,NaN,emar
+15011336,26646903.0,2132-06-05 07:39:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-05 07:39:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-05 09:37:00,Medication Admin,LevETIRAcetam,NaN,NaN,emar
+15011336,26646903.0,2132-06-05 09:37:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-05 09:37:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-05 10:21:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-05 10:21:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-05 10:21:00,Medication Admin,Acetaminophen IV,NaN,NaN,emar
+15011336,26646903.0,2132-06-05 10:24:00,Medication Admin,,NaN,NaN,emar
+15011336,26646903.0,2132-06-05 10:24:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-05 10:24:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-05 10:25:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-05 10:25:00,Medication Admin,,NaN,NaN,emar
+15011336,26646903.0,2132-06-05 10:25:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-05 13:06:00,Medication Admin,Morphine Sulfate,NaN,NaN,emar
+15011336,26646903.0,2132-06-05 13:06:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-05 13:06:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-05 13:06:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-05 13:06:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-05 13:06:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+15011336,26646903.0,2132-06-05 16:42:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+15011336,26646903.0,2132-06-05 16:42:00,Medication Admin,Morphine Sulfate,NaN,NaN,emar
+15011336,26646903.0,2132-06-05 16:42:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-05 16:42:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-05 16:42:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-05 16:42:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-05 20:19:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-05 20:19:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+15011336,26646903.0,2132-06-05 20:19:00,Medication Admin,Morphine Sulfate,NaN,NaN,emar
+15011336,26646903.0,2132-06-05 20:19:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-05 20:19:00,Medication Admin,LevETIRAcetam,NaN,NaN,emar
+15011336,26646903.0,2132-06-05 20:19:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-05 20:19:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-05 20:19:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-05 20:19:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-06 00:15:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-06 00:15:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-06 00:15:00,Medication Admin,Morphine Sulfate,NaN,NaN,emar
+15011336,26646903.0,2132-06-06 00:15:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+15011336,26646903.0,2132-06-06 00:15:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-06 00:15:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-06 06:41:00,Medication Admin,Morphine Sulfate,NaN,NaN,emar
+15011336,26646903.0,2132-06-06 06:41:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+15011336,26646903.0,2132-06-06 06:41:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-06 06:41:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-06 06:41:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-06 06:41:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-06 08:48:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+15011336,26646903.0,2132-06-06 08:48:00,Medication Admin,LevETIRAcetam,NaN,NaN,emar
+15011336,26646903.0,2132-06-06 08:48:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-06 08:48:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-06 08:48:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-06 08:48:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-06 12:21:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+15011336,26646903.0,2132-06-06 12:21:00,Medication Admin,Morphine Sulfate,NaN,NaN,emar
+15011336,26646903.0,2132-06-06 12:21:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-06 12:21:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-06 12:21:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-06 12:21:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-06 14:49:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-06 14:49:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-06 14:49:00,Medication Admin,Morphine Sulfate,NaN,NaN,emar
+15011336,26646903.0,2132-06-06 14:49:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-06 14:49:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+15011336,26646903.0,2132-06-06 14:49:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-06 20:40:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-06 20:40:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-06 20:40:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-06 20:40:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-06 20:40:00,Medication Admin,LevETIRAcetam,NaN,NaN,emar
+15011336,26646903.0,2132-06-06 20:40:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+15011336,26646903.0,2132-06-07 00:33:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-07 00:33:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+15011336,26646903.0,2132-06-07 00:33:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-07 07:57:00,Medication Admin,LevETIRAcetam,NaN,NaN,emar
+15011336,26646903.0,2132-06-07 07:57:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+15011336,26646903.0,2132-06-07 07:57:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-07 07:57:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-07 07:57:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-07 07:57:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-07 16:25:00,Medication Admin,Morphine Sulfate,NaN,NaN,emar
+15011336,26646903.0,2132-06-07 16:25:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+15011336,26646903.0,2132-06-07 16:25:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-07 16:25:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-07 16:25:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-07 16:25:00,Medication Route,,NaN,NaN,emar_detail
+15011336,26646903.0,2132-06-07 17:14:49,Transfer,discharge,NaN,NaN,transfers
+15011336,,,Medication Route,,NaN,NaN,emar_detail
+15011336,,,Medication Route,,NaN,NaN,emar_detail
+15011336,,,Medication Route,,NaN,NaN,emar_detail
+15011336,,,Medication Route,,NaN,NaN,emar_detail
+15011336,,,Medication Route,,NaN,NaN,emar_detail
+15011336,,,Medication Route,,NaN,NaN,emar_detail
+15011336,,,Medication Route,,NaN,NaN,emar_detail
+15011336,,,Medication Route,,NaN,NaN,emar_detail
+15011336,,,Medication Route,,NaN,NaN,emar_detail
+15011336,,,Medication Route,,NaN,NaN,emar_detail
+15011336,,,Medication Route,,NaN,NaN,emar_detail
+15011336,,,Medication Route,,NaN,NaN,emar_detail
+15011336,,,Medication Route,,NaN,NaN,emar_detail
+15011336,,,Medication Route,,NaN,NaN,emar_detail
+15011336,,,Medication Route,,NaN,NaN,emar_detail
+15011336,,,Medication Route,,NaN,NaN,emar_detail

@@ -1,0 +1,329 @@
+subject_id,hadm_id,event_time,event_type,description,value,unit,source_table
+14983737,21720241.0,2168-07-19 14:42:00,Transfer,ED Emergency Department,NaN,NaN,transfers
+14983737,21720241.0,2168-07-19 18:10:00,Admission,URGENT,NaN,NaN,admissions
+14983737,21720241.0,2168-07-19 18:10:34,Service,TRAUM,NaN,NaN,services
+14983737,21720241.0,2168-07-19 19:37:00,Transfer,admit Trauma SICU (TSICU),NaN,NaN,transfers
+14983737,21720241.0,2168-07-19 20:00:00,Output,Pre-Admission,1200.0,ml,outputevents
+14983737,21720241.0,2168-07-19 20:00:00,Pharmacy,Influenza Vaccine Quadrivalent,,NaN,pharmacy
+14983737,21720241.0,2168-07-19 20:00:00,Output,Foley,75.0,ml,outputevents
+14983737,21720241.0,2168-07-19 20:00:00,Procedure,18 Gauge,1564.0,min,procedureevents
+14983737,21720241.0,2168-07-19 20:00:00,Input,Pre-Admission/Non-ICU Intake,2000.0,ml,inputevents
+14983737,21720241.0,2168-07-19 20:00:00,Input,NaCl 0.9%,993.2999877929688,ml,inputevents
+14983737,21720241.0,2168-07-19 20:00:00,Prescription,Influenza Vaccine Quadrivalent,0.5,mL,prescriptions
+14983737,21720241.0,2168-07-19 20:00:00,Input,Water,993.2999877929688,ml,ingredientevents
+14983737,21720241.0,2168-07-19 20:00:00,Input,IVF ingredient,993.2999877929688,ml,ingredientevents
+14983737,21720241.0,2168-07-19 20:00:00,Procedure,18 Gauge,1564.0,min,procedureevents
+14983737,21720241.0,2168-07-19 20:00:00,DateTime Obs,18 Gauge Insertion Date,2168-07-19 20:20:00,Date,datetimeevents
+14983737,21720241.0,2168-07-19 20:00:00,DateTime Obs,20 Gauge Insertion Date,2168-07-19 22:37:00,Date,datetimeevents
+14983737,21720241.0,2168-07-19 20:00:00,Input,Water,2000.0,ml,ingredientevents
+14983737,21720241.0,2168-07-19 20:57:00,Lab Result,Anion Gap| Blood,15.0,mEq/L,labevents
+14983737,21720241.0,2168-07-19 20:57:00,Lab Result,Hemoglobin| Blood,11.4,g/dL,labevents
+14983737,21720241.0,2168-07-19 20:57:00,Lab Result,MCH| Blood,31.5,pg,labevents
+14983737,21720241.0,2168-07-19 20:57:00,Lab Result,MCHC| Blood,35.6,%,labevents
+14983737,21720241.0,2168-07-19 20:57:00,Lab Result,MCV| Blood,88.0,fL,labevents
+14983737,21720241.0,2168-07-19 20:57:00,Lab Result,RDW| Blood,13.3,%,labevents
+14983737,21720241.0,2168-07-19 20:57:00,Lab Result,Red Blood Cells| Blood,3.64,m/uL,labevents
+14983737,21720241.0,2168-07-19 20:57:00,Lab Result,White Blood Cells| Blood,8.6,K/uL,labevents
+14983737,21720241.0,2168-07-19 20:57:00,Lab Result,Bicarbonate| Blood,21.0,mEq/L,labevents
+14983737,21720241.0,2168-07-19 20:57:00,Lab Result,Phosphate| Blood,3.4,mg/dL,labevents
+14983737,21720241.0,2168-07-19 20:57:00,Lab Result,Chloride| Blood,107.0,mEq/L,labevents
+14983737,21720241.0,2168-07-19 20:57:00,Lab Result,Creatinine| Blood,0.6,mg/dL,labevents
+14983737,21720241.0,2168-07-19 20:57:00,Lab Result,Glucose| Blood,145.0,mg/dL,labevents
+14983737,21720241.0,2168-07-19 20:57:00,Lab Result,Magnesium| Blood,1.7,mg/dL,labevents
+14983737,21720241.0,2168-07-19 20:57:00,Lab Result,Potassium| Blood,4.2,mEq/L,labevents
+14983737,21720241.0,2168-07-19 20:57:00,Lab Result,Hematocrit| Blood,32.1,%,labevents
+14983737,21720241.0,2168-07-19 20:57:00,Lab Result,Urea Nitrogen| Blood,7.0,mg/dL,labevents
+14983737,21720241.0,2168-07-19 20:57:00,Lab Result,INR(PT)| Blood,1.1,,labevents
+14983737,21720241.0,2168-07-19 20:57:00,Lab Result,PT| Blood,11.5,sec,labevents
+14983737,21720241.0,2168-07-19 20:57:00,Lab Result,PTT| Blood,20.1,sec,labevents
+14983737,21720241.0,2168-07-19 20:57:00,Lab Result,"Calcium, Total| Blood",7.3,mg/dL,labevents
+14983737,21720241.0,2168-07-19 20:57:00,Lab Result,Sodium| Blood,139.0,mEq/L,labevents
+14983737,21720241.0,2168-07-19 20:57:00,Lab Result,Platelet Count| Blood,141.0,K/uL,labevents
+14983737,21720241.0,2168-07-19 21:00:00,Output,Foley,75.0,ml,outputevents
+14983737,21720241.0,2168-07-19 22:00:00,Output,Foley,115.0,ml,outputevents
+14983737,21720241.0,2168-07-19 23:00:00,Pharmacy,Acetaminophen IV,,NaN,pharmacy
+14983737,21720241.0,2168-07-19 23:00:00,Pharmacy,Ondansetron,,NaN,pharmacy
+14983737,21720241.0,2168-07-19 23:00:00,Prescription,Acetaminophen IV,1000,mg,prescriptions
+14983737,21720241.0,2168-07-19 23:00:00,Prescription,Ondansetron,4,mg,prescriptions
+14983737,21720241.0,2168-07-19 23:00:00,Output,Foley,25.0,ml,outputevents
+14983737,21720241.0,2168-07-20 00:00:00,Prescription,Influenza Vaccine Quadrivalent,0.5,mL,prescriptions
+14983737,21720241.0,2168-07-20 00:00:00,Prescription,Ondansetron,4,mg,prescriptions
+14983737,21720241.0,2168-07-20 00:00:00,Prescription,Acetaminophen IV,1000,mg,prescriptions
+14983737,21720241.0,2168-07-20 00:00:00,Output,Foley,40.0,ml,outputevents
+14983737,21720241.0,2168-07-20 00:00:00,Prescription,Sodium Chloride 0.9%,1000,mL,prescriptions
+14983737,21720241.0,2168-07-20 00:00:00,Pharmacy,Influenza Vaccine Quadrivalent,,NaN,pharmacy
+14983737,21720241.0,2168-07-20 00:00:00,Pharmacy,Ondansetron,,NaN,pharmacy
+14983737,21720241.0,2168-07-20 00:00:00,Pharmacy,,,NaN,pharmacy
+14983737,21720241.0,2168-07-20 00:00:00,Pharmacy,Acetaminophen IV,,NaN,pharmacy
+14983737,21720241.0,2168-07-20 00:38:00,DateTime Obs,20 Gauge Insertion Date,2168-07-19 00:00:00,Date,datetimeevents
+14983737,21720241.0,2168-07-20 00:38:00,DateTime Obs,18 Gauge Insertion Date,2168-07-19 00:00:00,Date,datetimeevents
+14983737,21720241.0,2168-07-20 01:00:00,Output,Foley,70.0,ml,outputevents
+14983737,21720241.0,2168-07-20 02:00:00,Output,Foley,60.0,ml,outputevents
+14983737,21720241.0,2168-07-20 02:31:00,Lab Result,Magnesium| Blood,1.9,mg/dL,labevents
+14983737,21720241.0,2168-07-20 02:31:00,Lab Result,Phosphate| Blood,3.8,mg/dL,labevents
+14983737,21720241.0,2168-07-20 02:31:00,Lab Result,Glucose| Blood,114.0,mg/dL,labevents
+14983737,21720241.0,2168-07-20 02:31:00,Lab Result,Potassium| Blood,4.2,mEq/L,labevents
+14983737,21720241.0,2168-07-20 02:31:00,Lab Result,Creatinine| Blood,0.5,mg/dL,labevents
+14983737,21720241.0,2168-07-20 02:31:00,Lab Result,Chloride| Blood,107.0,mEq/L,labevents
+14983737,21720241.0,2168-07-20 02:31:00,Lab Result,Sodium| Blood,140.0,mEq/L,labevents
+14983737,21720241.0,2168-07-20 02:31:00,Lab Result,Urea Nitrogen| Blood,6.0,mg/dL,labevents
+14983737,21720241.0,2168-07-20 02:31:00,Lab Result,"Calcium, Total| Blood",7.4,mg/dL,labevents
+14983737,21720241.0,2168-07-20 02:31:00,Lab Result,Lactate Dehydrogenase (LD)| Blood,254.0,IU/L,labevents
+14983737,21720241.0,2168-07-20 02:31:00,Lab Result,"Bilirubin, Total| Blood",0.4,mg/dL,labevents
+14983737,21720241.0,2168-07-20 02:31:00,Lab Result,Asparate Aminotransferase (AST)| Blood,110.0,IU/L,labevents
+14983737,21720241.0,2168-07-20 02:31:00,Lab Result,Anion Gap| Blood,15.0,mEq/L,labevents
+14983737,21720241.0,2168-07-20 02:31:00,Lab Result,Alkaline Phosphatase| Blood,34.0,IU/L,labevents
+14983737,21720241.0,2168-07-20 02:31:00,Lab Result,Albumin| Blood,3.4,g/dL,labevents
+14983737,21720241.0,2168-07-20 02:31:00,Lab Result,PTT| Blood,23.1,sec,labevents
+14983737,21720241.0,2168-07-20 02:31:00,Lab Result,PT| Blood,11.6,sec,labevents
+14983737,21720241.0,2168-07-20 02:31:00,Lab Result,White Blood Cells| Blood,7.1,K/uL,labevents
+14983737,21720241.0,2168-07-20 02:31:00,Lab Result,Red Blood Cells| Blood,3.58,m/uL,labevents
+14983737,21720241.0,2168-07-20 02:31:00,Lab Result,RDW| Blood,13.3,%,labevents
+14983737,21720241.0,2168-07-20 02:31:00,Lab Result,Platelet Count| Blood,145.0,K/uL,labevents
+14983737,21720241.0,2168-07-20 02:31:00,Lab Result,MCV| Blood,87.0,fL,labevents
+14983737,21720241.0,2168-07-20 02:31:00,Lab Result,Hematocrit| Blood,31.3,%,labevents
+14983737,21720241.0,2168-07-20 02:31:00,Lab Result,Hemoglobin| Blood,11.1,g/dL,labevents
+14983737,21720241.0,2168-07-20 02:31:00,Lab Result,MCHC| Blood,35.5,%,labevents
+14983737,21720241.0,2168-07-20 02:31:00,Lab Result,Bicarbonate| Blood,22.0,mEq/L,labevents
+14983737,21720241.0,2168-07-20 02:31:00,Lab Result,INR(PT)| Blood,1.1,,labevents
+14983737,21720241.0,2168-07-20 02:31:00,Lab Result,MCH| Blood,31.0,pg,labevents
+14983737,21720241.0,2168-07-20 03:00:00,Output,Foley,175.0,ml,outputevents
+14983737,21720241.0,2168-07-20 03:00:00,Input,Hydromorphone (Dilaudid),0.5000000237487257,mg,inputevents
+14983737,21720241.0,2168-07-20 03:10:00,Input,Acetaminophen-IV,1000.0,mg,inputevents
+14983737,21720241.0,2168-07-20 04:00:00,Output,Foley,75.0,ml,outputevents
+14983737,21720241.0,2168-07-20 04:12:00,DateTime Obs,18 Gauge Insertion Date,2168-07-19 00:00:00,Date,datetimeevents
+14983737,21720241.0,2168-07-20 04:12:00,DateTime Obs,20 Gauge Insertion Date,2168-07-19 00:00:00,Date,datetimeevents
+14983737,21720241.0,2168-07-20 05:00:00,Output,Foley,60.0,ml,outputevents
+14983737,21720241.0,2168-07-20 05:56:00,Input,IVF ingredient,444.9999893903732,ml,ingredientevents
+14983737,21720241.0,2168-07-20 05:56:00,Input,Water,444.9999893903732,ml,ingredientevents
+14983737,21720241.0,2168-07-20 05:56:00,Input,NaCl 0.9%,444.9999893903732,ml,inputevents
+14983737,21720241.0,2168-07-20 06:00:00,Output,Foley,40.0,ml,outputevents
+14983737,21720241.0,2168-07-20 06:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+14983737,21720241.0,2168-07-20 06:00:00,Prescription,HYDROmorphone (Dilaudid),0.5,mg,prescriptions
+14983737,21720241.0,2168-07-20 06:30:00,Input,Hydromorphone (Dilaudid),0.5000000237487257,mg,inputevents
+14983737,21720241.0,2168-07-20 08:00:00,Output,Foley,50.0,ml,outputevents
+14983737,21720241.0,2168-07-20 08:14:00,Lab Result,Hematocrit| Blood,30.7,%,labevents
+14983737,21720241.0,2168-07-20 08:32:00,DateTime Obs,18 Gauge Insertion Date,2168-07-19 00:00:00,Date,datetimeevents
+14983737,21720241.0,2168-07-20 08:32:00,DateTime Obs,20 Gauge Insertion Date,2168-07-19 00:00:00,Date,datetimeevents
+14983737,21720241.0,2168-07-20 09:00:00,Output,Foley,125.0,ml,outputevents
+14983737,21720241.0,2168-07-20 09:29:00,Input,Acetaminophen-IV,1000.0,mg,inputevents
+14983737,21720241.0,2168-07-20 10:00:00,Output,Foley,120.0,ml,outputevents
+14983737,21720241.0,2168-07-20 10:44:00,Procedure,Nuclear Medicine,1.0,,procedureevents
+14983737,21720241.0,2168-07-20 10:44:00,Procedure,Nuclear Medicine,1.0,,procedureevents
+14983737,21720241.0,2168-07-20 11:30:00,Input,Hydromorphone (Dilaudid),0.5000000237487257,mg,inputevents
+14983737,21720241.0,2168-07-20 14:11:00,Input,NaCl 0.9%,223.33332800865173,ml,inputevents
+14983737,21720241.0,2168-07-20 14:11:00,Input,IVF ingredient,223.33332800865173,ml,ingredientevents
+14983737,21720241.0,2168-07-20 14:11:00,Input,Water,223.33332800865173,ml,ingredientevents
+14983737,21720241.0,2168-07-20 14:13:00,Output,Foley,275.0,ml,outputevents
+14983737,21720241.0,2168-07-20 14:21:00,Input,Hydromorphone (Dilaudid),0.5000000237487257,mg,inputevents
+14983737,21720241.0,2168-07-20 14:27:00,Lab Result,Hematocrit| Blood,31.6,%,labevents
+14983737,21720241.0,2168-07-20 16:00:00,Output,Foley,200.0,ml,outputevents
+14983737,21720241.0,2168-07-20 16:25:00,Input,NaCl 0.9%,22.916667349636555,ml,inputevents
+14983737,21720241.0,2168-07-20 16:25:00,Input,IVF ingredient,22.916667349636555,ml,ingredientevents
+14983737,21720241.0,2168-07-20 16:25:00,Input,Water,22.916667349636555,ml,ingredientevents
+14983737,21720241.0,2168-07-20 16:59:00,Input,PO Intake,120.0,ml,inputevents
+14983737,21720241.0,2168-07-20 16:59:00,Input,Water,120.0,ml,ingredientevents
+14983737,21720241.0,2168-07-20 16:59:00,Input,Oral/Gastric Ingredient,120.0,ml,ingredientevents
+14983737,21720241.0,2168-07-20 17:56:00,Output,Void,200.0,ml,outputevents
+14983737,21720241.0,2168-07-20 18:03:00,Input,Hydromorphone (Dilaudid),0.5000000237487257,mg,inputevents
+14983737,21720241.0,2168-07-20 19:35:00,Input,Acetaminophen-IV,1000.0,mg,inputevents
+14983737,21720241.0,2168-07-20 20:09:00,Input,Water,240.0,ml,ingredientevents
+14983737,21720241.0,2168-07-20 20:09:00,Input,PO Intake,240.0,ml,inputevents
+14983737,21720241.0,2168-07-20 20:09:00,Input,Oral/Gastric Ingredient,240.0,ml,ingredientevents
+14983737,21720241.0,2168-07-20 20:53:00,Output,Void,850.0,ml,outputevents
+14983737,21720241.0,2168-07-20 21:50:00,DateTime Obs,18 Gauge Insertion Date,2168-07-19 00:00:00,Date,datetimeevents
+14983737,21720241.0,2168-07-20 22:04:18,Transfer,transfer Medicine,NaN,NaN,transfers
+14983737,21720241.0,2168-07-20 22:04:52,Service,MED,NaN,NaN,services
+14983737,21720241.0,2168-07-20 22:33:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14983737,21720241.0,2168-07-20 22:33:00,Medication Admin,HYDROmorphone (Dilaudid),NaN,NaN,emar
+14983737,21720241.0,2168-07-20 22:33:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-20 22:33:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-20 22:33:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-20 22:33:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-20 23:00:00,Prescription,Acetaminophen,650,mg,prescriptions
+14983737,21720241.0,2168-07-20 23:00:00,Pharmacy,OxycoDONE (Immediate Release) ,,NaN,pharmacy
+14983737,21720241.0,2168-07-20 23:00:00,Pharmacy,Acetaminophen,,NaN,pharmacy
+14983737,21720241.0,2168-07-20 23:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+14983737,21720241.0,2168-07-20 23:00:00,Prescription,HYDROmorphone (Dilaudid),0.5,mg,prescriptions
+14983737,21720241.0,2168-07-20 23:00:00,Pharmacy,Sodium Chloride 0.9%  Flush,,NaN,pharmacy
+14983737,21720241.0,2168-07-20 23:00:00,Prescription,Sodium Chloride 0.9%  Flush,3,mL,prescriptions
+14983737,21720241.0,2168-07-20 23:00:00,Prescription,OxycoDONE (Immediate Release) ,5,mg,prescriptions
+14983737,21720241.0,2168-07-20 23:40:00,Lab Result,Hematocrit| Blood,31.4,%,labevents
+14983737,21720241.0,2168-07-20 23:51:00,Medication Admin,OxycoDONE (Immediate Release) ,NaN,NaN,emar
+14983737,21720241.0,2168-07-20 23:51:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-20 23:51:00,Medication Route,PO,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 02:03:00,Lab Result,Urine Mucous| Urine,,,labevents
+14983737,21720241.0,2168-07-21 02:03:00,Lab Result,Bacteria| Urine,,,labevents
+14983737,21720241.0,2168-07-21 02:03:00,Lab Result,Bilirubin| Urine,,mg/dL,labevents
+14983737,21720241.0,2168-07-21 02:03:00,Lab Result,Blood| Urine,,,labevents
+14983737,21720241.0,2168-07-21 02:03:00,Lab Result,Epithelial Cells| Urine,,#/hpf,labevents
+14983737,21720241.0,2168-07-21 02:03:00,Lab Result,Glucose| Urine,,mg/dL,labevents
+14983737,21720241.0,2168-07-21 02:03:00,Lab Result,Ketone| Urine,,mg/dL,labevents
+14983737,21720241.0,2168-07-21 02:03:00,Lab Result,Leukocytes| Urine,,,labevents
+14983737,21720241.0,2168-07-21 02:03:00,Lab Result,Nitrite| Urine,,,labevents
+14983737,21720241.0,2168-07-21 02:03:00,Lab Result,pH| Urine,7.5,units,labevents
+14983737,21720241.0,2168-07-21 02:03:00,Lab Result,Protein| Urine,,mg/dL,labevents
+14983737,21720241.0,2168-07-21 02:03:00,Lab Result,RBC| Urine,1.0,#/hpf,labevents
+14983737,21720241.0,2168-07-21 02:03:00,Lab Result,WBC| Urine,14.0,#/hpf,labevents
+14983737,21720241.0,2168-07-21 02:03:00,Lab Result,Urine Appearance| Urine,,,labevents
+14983737,21720241.0,2168-07-21 02:03:00,Lab Result,Urine Color| Urine,,,labevents
+14983737,21720241.0,2168-07-21 02:03:00,Lab Result,Urobilinogen| Urine,,mg/dL,labevents
+14983737,21720241.0,2168-07-21 02:03:00,Lab Result,Specific Gravity| Urine,1.01, ,labevents
+14983737,21720241.0,2168-07-21 02:03:00,Lab Result,Yeast| Urine,,,labevents
+14983737,21720241.0,2168-07-21 04:00:00,Prescription,Ciprofloxacin HCl,500,mg,prescriptions
+14983737,21720241.0,2168-07-21 04:00:00,Pharmacy,Ciprofloxacin HCl,,NaN,pharmacy
+14983737,21720241.0,2168-07-21 04:35:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 04:35:00,Medication Admin,Ciprofloxacin HCl,NaN,NaN,emar
+14983737,21720241.0,2168-07-21 04:35:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14983737,21720241.0,2168-07-21 04:35:00,Medication Admin,HYDROmorphone (Dilaudid),NaN,NaN,emar
+14983737,21720241.0,2168-07-21 04:35:00,Medication Route,PO,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 04:35:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 04:35:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 04:35:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 04:35:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 07:06:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 07:06:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 07:06:00,Medication Route,PO,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 07:06:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 07:06:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 07:06:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14983737,21720241.0,2168-07-21 07:06:00,Medication Admin,HYDROmorphone (Dilaudid),NaN,NaN,emar
+14983737,21720241.0,2168-07-21 07:06:00,Medication Admin,OxycoDONE (Immediate Release) ,NaN,NaN,emar
+14983737,21720241.0,2168-07-21 07:06:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 07:38:00,Lab Result,MCHC| Blood,35.3,%,labevents
+14983737,21720241.0,2168-07-21 07:38:00,Lab Result,MCH| Blood,31.2,pg,labevents
+14983737,21720241.0,2168-07-21 07:38:00,Lab Result,EDTA Hold| Blood,,,labevents
+14983737,21720241.0,2168-07-21 07:38:00,Lab Result,Alanine Aminotransferase (ALT)| Blood,113.0,IU/L,labevents
+14983737,21720241.0,2168-07-21 07:38:00,Lab Result,Alkaline Phosphatase| Blood,39.0,IU/L,labevents
+14983737,21720241.0,2168-07-21 07:38:00,Lab Result,Asparate Aminotransferase (AST)| Blood,78.0,IU/L,labevents
+14983737,21720241.0,2168-07-21 07:38:00,Lab Result,"Bilirubin, Total| Blood",0.5,mg/dL,labevents
+14983737,21720241.0,2168-07-21 07:38:00,Lab Result,MCV| Blood,88.0,fL,labevents
+14983737,21720241.0,2168-07-21 07:38:00,Lab Result,Platelet Count| Blood,172.0,K/uL,labevents
+14983737,21720241.0,2168-07-21 07:38:00,Lab Result,Lipase| Blood,42.0,IU/L,labevents
+14983737,21720241.0,2168-07-21 07:38:00,Lab Result,Hematocrit| Blood,35.7,%,labevents
+14983737,21720241.0,2168-07-21 07:38:00,Lab Result,Hemoglobin| Blood,12.6,g/dL,labevents
+14983737,21720241.0,2168-07-21 07:38:00,Lab Result,White Blood Cells| Blood,11.5,K/uL,labevents
+14983737,21720241.0,2168-07-21 07:38:00,Lab Result,Red Blood Cells| Blood,4.03,m/uL,labevents
+14983737,21720241.0,2168-07-21 07:38:00,Lab Result,RDW| Blood,13.6,%,labevents
+14983737,21720241.0,2168-07-21 08:56:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 08:56:00,Medication Admin,HYDROmorphone (Dilaudid),NaN,NaN,emar
+14983737,21720241.0,2168-07-21 08:56:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14983737,21720241.0,2168-07-21 08:56:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 08:56:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 08:56:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 09:00:00,Prescription,OxycoDONE (Immediate Release) ,5-10,mg,prescriptions
+14983737,21720241.0,2168-07-21 09:00:00,Prescription,HYDROmorphone (Dilaudid),0.5-1,mg,prescriptions
+14983737,21720241.0,2168-07-21 09:00:00,Prescription,HYDROmorphone (Dilaudid),0.5,mg,prescriptions
+14983737,21720241.0,2168-07-21 09:00:00,Pharmacy,OxycoDONE (Immediate Release) ,,NaN,pharmacy
+14983737,21720241.0,2168-07-21 09:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+14983737,21720241.0,2168-07-21 09:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+14983737,21720241.0,2168-07-21 09:10:28,Service,SURG,NaN,NaN,services
+14983737,21720241.0,2168-07-21 10:00:00,Medication Admin,Ciprofloxacin HCl,NaN,NaN,emar
+14983737,21720241.0,2168-07-21 10:00:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 11:33:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 11:33:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 11:33:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 11:33:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 11:33:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 11:33:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14983737,21720241.0,2168-07-21 11:33:00,Medication Admin,OxycoDONE (Immediate Release) ,NaN,NaN,emar
+14983737,21720241.0,2168-07-21 11:33:00,Medication Admin,HYDROmorphone (Dilaudid),NaN,NaN,emar
+14983737,21720241.0,2168-07-21 11:33:00,Medication Route,PO,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 11:33:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 11:39:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 11:39:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 11:39:00,Medication Admin,Ondansetron,NaN,NaN,emar
+14983737,21720241.0,2168-07-21 13:20:00,Lab Result,Hematocrit| Blood,34.3,%,labevents
+14983737,21720241.0,2168-07-21 14:21:00,Medication Admin,HYDROmorphone (Dilaudid),NaN,NaN,emar
+14983737,21720241.0,2168-07-21 14:21:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14983737,21720241.0,2168-07-21 14:21:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 14:21:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 14:21:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 14:21:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 14:50:00,Lab Result,White Blood Cells| Blood,10.6,K/uL,labevents
+14983737,21720241.0,2168-07-21 14:50:00,Lab Result,Platelet Count| Blood,166.0,K/uL,labevents
+14983737,21720241.0,2168-07-21 14:50:00,Lab Result,RDW| Blood,13.8,%,labevents
+14983737,21720241.0,2168-07-21 14:50:00,Lab Result,Red Blood Cells| Blood,4.14,m/uL,labevents
+14983737,21720241.0,2168-07-21 14:50:00,Lab Result,MCV| Blood,87.0,fL,labevents
+14983737,21720241.0,2168-07-21 14:50:00,Lab Result,MCHC| Blood,34.8,%,labevents
+14983737,21720241.0,2168-07-21 14:50:00,Lab Result,MCH| Blood,30.2,pg,labevents
+14983737,21720241.0,2168-07-21 14:50:00,Lab Result,Hemoglobin| Blood,12.5,g/dL,labevents
+14983737,21720241.0,2168-07-21 14:50:00,Lab Result,Hematocrit| Blood,35.9,%,labevents
+14983737,21720241.0,2168-07-21 16:12:00,Medication Admin,OxycoDONE (Immediate Release) ,NaN,NaN,emar
+14983737,21720241.0,2168-07-21 16:12:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 16:12:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 16:12:00,Medication Route,PO,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 20:26:00,Medication Admin,OxycoDONE (Immediate Release) ,NaN,NaN,emar
+14983737,21720241.0,2168-07-21 20:26:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14983737,21720241.0,2168-07-21 20:26:00,Medication Admin,Ciprofloxacin HCl,NaN,NaN,emar
+14983737,21720241.0,2168-07-21 20:26:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 20:26:00,Medication Route,PO,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 20:26:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 20:26:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 20:26:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 20:26:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 20:26:00,Medication Route,PO,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-21 20:28:00,Medication Admin,Influenza Vaccine Quadrivalent,NaN,NaN,emar
+14983737,21720241.0,2168-07-21 20:28:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-22 00:27:00,Medication Route,PO,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-22 00:27:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-22 00:27:00,Medication Admin,OxycoDONE (Immediate Release) ,NaN,NaN,emar
+14983737,21720241.0,2168-07-22 00:27:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-22 00:28:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-22 00:28:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14983737,21720241.0,2168-07-22 00:28:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-22 03:11:00,Lab Result,Hematocrit| Blood,34.8,%,labevents
+14983737,21720241.0,2168-07-22 03:11:00,Lab Result,Hemoglobin| Blood,12.3,g/dL,labevents
+14983737,21720241.0,2168-07-22 03:11:00,Lab Result,White Blood Cells| Blood,9.8,K/uL,labevents
+14983737,21720241.0,2168-07-22 03:11:00,Lab Result,MCH| Blood,30.8,pg,labevents
+14983737,21720241.0,2168-07-22 03:11:00,Lab Result,MCHC| Blood,35.3,%,labevents
+14983737,21720241.0,2168-07-22 03:11:00,Lab Result,MCV| Blood,88.0,fL,labevents
+14983737,21720241.0,2168-07-22 03:11:00,Lab Result,Platelet Count| Blood,166.0,K/uL,labevents
+14983737,21720241.0,2168-07-22 03:11:00,Lab Result,RDW| Blood,13.6,%,labevents
+14983737,21720241.0,2168-07-22 03:11:00,Lab Result,Red Blood Cells| Blood,3.97,m/uL,labevents
+14983737,21720241.0,2168-07-22 06:16:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-22 06:16:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-22 06:16:00,Medication Admin,OxycoDONE (Immediate Release) ,NaN,NaN,emar
+14983737,21720241.0,2168-07-22 06:16:00,Medication Route,PO,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-22 12:21:00,Medication Admin,OxycoDONE (Immediate Release) ,NaN,NaN,emar
+14983737,21720241.0,2168-07-22 12:21:00,Medication Route,PO,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-22 12:21:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-22 12:21:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-22 12:23:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14983737,21720241.0,2168-07-22 12:23:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-22 12:23:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-22 17:14:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-22 17:14:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-22 17:14:00,Medication Route,PO,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-22 17:14:00,Medication Admin,OxycoDONE (Immediate Release) ,NaN,NaN,emar
+14983737,21720241.0,2168-07-22 21:16:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14983737,21720241.0,2168-07-22 21:16:00,Medication Admin,OxycoDONE (Immediate Release) ,NaN,NaN,emar
+14983737,21720241.0,2168-07-22 21:16:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-22 21:16:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-22 21:16:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-22 21:16:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-22 21:16:00,Medication Route,PO,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-23 01:15:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-23 01:15:00,Medication Admin,OxycoDONE (Immediate Release) ,NaN,NaN,emar
+14983737,21720241.0,2168-07-23 01:15:00,Medication Route,PO,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-23 01:15:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-23 05:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14983737,21720241.0,2168-07-23 05:00:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-23 06:24:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-23 06:24:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-23 06:24:00,Medication Admin,OxycoDONE (Immediate Release) ,NaN,NaN,emar
+14983737,21720241.0,2168-07-23 06:24:00,Medication Route,PO,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-23 06:57:00,Lab Result,Hematocrit| Blood,33.8,%,labevents
+14983737,21720241.0,2168-07-23 12:22:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-23 12:22:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-23 12:22:00,Medication Route,PO,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-23 12:22:00,Medication Admin,OxycoDONE (Immediate Release) ,NaN,NaN,emar
+14983737,21720241.0,2168-07-23 13:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14983737,21720241.0,2168-07-23 13:00:00,Medication Route,,NaN,NaN,emar_detail
+14983737,21720241.0,2168-07-23 15:46:04,Transfer,discharge,NaN,NaN,transfers
+14983737,,,Medication Route,,NaN,NaN,emar_detail
+14983737,,,Medication Route,,NaN,NaN,emar_detail
+14983737,,,Medication Route,,NaN,NaN,emar_detail
+14983737,,,Medication Route,,NaN,NaN,emar_detail
+14983737,,,Medication Route,,NaN,NaN,emar_detail
+14983737,,,Medication Route,,NaN,NaN,emar_detail

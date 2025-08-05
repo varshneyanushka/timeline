@@ -1,0 +1,854 @@
+subject_id,hadm_id,event_time,event_type,description,value,unit,source_table
+14938531,23462431,2133-09-05 02:04:34,Transfer,admit Discharge Lounge,NaN,NaN,transfers
+14938531,23462431,2133-09-05 02:04:34,Service,SURG,NaN,NaN,services
+14938531,23462431,2133-09-05 09:15:00,Admission,SURGICAL SAME DAY ADMISSION,NaN,NaN,admissions
+14938531,23462431,2133-09-05 18:43:00,Lab Result,Anion Gap| Blood,14.0,mEq/L,labevents
+14938531,23462431,2133-09-05 18:43:00,Lab Result,Bicarbonate| Blood,26.0,mEq/L,labevents
+14938531,23462431,2133-09-05 18:43:00,Lab Result,"Calcium, Total| Blood",8.5,mg/dL,labevents
+14938531,23462431,2133-09-05 18:43:00,Lab Result,Chloride| Blood,101.0,mEq/L,labevents
+14938531,23462431,2133-09-05 18:43:00,Lab Result,Estimated GFR (MDRD equation)| Blood,,,labevents
+14938531,23462431,2133-09-05 18:43:00,Lab Result,Glucose| Blood,111.0,mg/dL,labevents
+14938531,23462431,2133-09-05 18:43:00,Lab Result,Magnesium| Blood,1.9,mg/dL,labevents
+14938531,23462431,2133-09-05 18:43:00,Lab Result,Phosphate| Blood,3.9,mg/dL,labevents
+14938531,23462431,2133-09-05 18:43:00,Lab Result,Potassium| Blood,4.3,mEq/L,labevents
+14938531,23462431,2133-09-05 18:43:00,Lab Result,Sodium| Blood,137.0,mEq/L,labevents
+14938531,23462431,2133-09-05 18:43:00,Lab Result,Urea Nitrogen| Blood,12.0,mg/dL,labevents
+14938531,23462431,2133-09-05 18:43:00,Lab Result,Creatinine| Blood,0.9,mg/dL,labevents
+14938531,23462431,2133-09-05 18:43:00,Lab Result,Hemoglobin| Blood,13.4,g/dL,labevents
+14938531,23462431,2133-09-05 18:43:00,Lab Result,MCH| Blood,31.1,pg,labevents
+14938531,23462431,2133-09-05 18:43:00,Lab Result,MCHC| Blood,35.2,%,labevents
+14938531,23462431,2133-09-05 18:43:00,Lab Result,MCV| Blood,88.0,fL,labevents
+14938531,23462431,2133-09-05 18:43:00,Lab Result,Platelet Count| Blood,209.0,K/uL,labevents
+14938531,23462431,2133-09-05 18:43:00,Lab Result,RDW| Blood,13.8,%,labevents
+14938531,23462431,2133-09-05 18:43:00,Lab Result,Red Blood Cells| Blood,4.31,m/uL,labevents
+14938531,23462431,2133-09-05 18:43:00,Lab Result,Hematocrit| Blood,38.1,%,labevents
+14938531,23462431,2133-09-05 18:43:00,Lab Result,White Blood Cells| Blood,14.1,K/uL,labevents
+14938531,23462431,2133-09-05 20:00:00,Pharmacy,Heparin,,NaN,pharmacy
+14938531,23462431,2133-09-05 20:00:00,Prescription,Heparin,5000,UNIT,prescriptions
+14938531,23462431,2133-09-05 22:00:00,Prescription,Tamsulosin,0.4,mg,prescriptions
+14938531,23462431,2133-09-05 22:00:00,Pharmacy,Tamsulosin,,NaN,pharmacy
+14938531,23462431,2133-09-05 22:06:19,Transfer,transfer Med/Surg,NaN,NaN,transfers
+14938531,23462431,2133-09-05 23:00:00,Pharmacy,Magnesium Sulfate,,NaN,pharmacy
+14938531,23462431,2133-09-05 23:00:00,Pharmacy,Pantoprazole,,NaN,pharmacy
+14938531,23462431,2133-09-05 23:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+14938531,23462431,2133-09-05 23:00:00,Prescription,Pneumococcal Vac Polyvalent,0.5,mL,prescriptions
+14938531,23462431,2133-09-05 23:00:00,Pharmacy,Influenza Virus Vaccine,,NaN,pharmacy
+14938531,23462431,2133-09-05 23:00:00,Pharmacy,,,NaN,pharmacy
+14938531,23462431,2133-09-05 23:00:00,Prescription,Magnesium Sulfate,2,gm,prescriptions
+14938531,23462431,2133-09-05 23:00:00,Pharmacy,Metoprolol Tartrate,,NaN,pharmacy
+14938531,23462431,2133-09-05 23:00:00,Prescription,Fentanyl Citrate,12.5-25,mcg,prescriptions
+14938531,23462431,2133-09-05 23:00:00,Prescription,Sodium Chloride 0.9%  Flush,3,mL,prescriptions
+14938531,23462431,2133-09-05 23:00:00,Prescription,Bag,50,mL,prescriptions
+14938531,23462431,2133-09-05 23:00:00,Prescription,HYDROmorphone (Dilaudid),12.5,mg,prescriptions
+14938531,23462431,2133-09-05 23:00:00,Prescription,Vial,1,VIAL,prescriptions
+14938531,23462431,2133-09-05 23:00:00,Prescription,Pantoprazole,40,mg,prescriptions
+14938531,23462431,2133-09-05 23:00:00,Pharmacy,Pneumococcal Vac Polyvalent,,NaN,pharmacy
+14938531,23462431,2133-09-05 23:00:00,Pharmacy,Sodium Chloride 0.9%  Flush,,NaN,pharmacy
+14938531,23462431,2133-09-05 23:00:00,Prescription,LR,1000,mL,prescriptions
+14938531,23462431,2133-09-05 23:00:00,Prescription,Influenza Virus Vaccine,0.5,mL,prescriptions
+14938531,23462431,2133-09-05 23:00:00,Prescription,Metoprolol Tartrate,5,mg,prescriptions
+14938531,23462431,2133-09-05 23:00:00,Pharmacy,Fentanyl Citrate,,NaN,pharmacy
+14938531,23462431,2133-09-06 07:25:00,Lab Result,"Calcium, Total| Blood",8.1,mg/dL,labevents
+14938531,23462431,2133-09-06 07:25:00,Lab Result,Bicarbonate| Blood,27.0,mEq/L,labevents
+14938531,23462431,2133-09-06 07:25:00,Lab Result,Anion Gap| Blood,12.0,mEq/L,labevents
+14938531,23462431,2133-09-06 07:25:00,Lab Result,Glucose| Blood,123.0,mg/dL,labevents
+14938531,23462431,2133-09-06 07:25:00,Lab Result,Magnesium| Blood,2.3,mg/dL,labevents
+14938531,23462431,2133-09-06 07:25:00,Lab Result,Phosphate| Blood,4.4,mg/dL,labevents
+14938531,23462431,2133-09-06 07:25:00,Lab Result,Potassium| Blood,4.6,mEq/L,labevents
+14938531,23462431,2133-09-06 07:25:00,Lab Result,Chloride| Blood,99.0,mEq/L,labevents
+14938531,23462431,2133-09-06 07:25:00,Lab Result,White Blood Cells| Blood,12.2,K/uL,labevents
+14938531,23462431,2133-09-06 07:25:00,Lab Result,Urea Nitrogen| Blood,13.0,mg/dL,labevents
+14938531,23462431,2133-09-06 07:25:00,Lab Result,Hematocrit| Blood,40.6,%,labevents
+14938531,23462431,2133-09-06 07:25:00,Lab Result,Hemoglobin| Blood,13.7,g/dL,labevents
+14938531,23462431,2133-09-06 07:25:00,Lab Result,MCH| Blood,29.5,pg,labevents
+14938531,23462431,2133-09-06 07:25:00,Lab Result,MCHC| Blood,33.7,%,labevents
+14938531,23462431,2133-09-06 07:25:00,Lab Result,MCV| Blood,87.0,fL,labevents
+14938531,23462431,2133-09-06 07:25:00,Lab Result,Platelet Count| Blood,253.0,K/uL,labevents
+14938531,23462431,2133-09-06 07:25:00,Lab Result,RDW| Blood,13.8,%,labevents
+14938531,23462431,2133-09-06 07:25:00,Lab Result,Red Blood Cells| Blood,4.65,m/uL,labevents
+14938531,23462431,2133-09-06 07:25:00,Lab Result,Sodium| Blood,133.0,mEq/L,labevents
+14938531,23462431,2133-09-06 07:25:00,Lab Result,Creatinine| Blood,0.9,mg/dL,labevents
+14938531,23462431,2133-09-06 08:00:00,Pharmacy,Zolpidem Tartrate,,NaN,pharmacy
+14938531,23462431,2133-09-06 08:00:00,Prescription,Zolpidem Tartrate,2.5,mg,prescriptions
+14938531,23462431,2133-09-06 08:00:00,Prescription,Potassium Chl 20 mEq / 1000 mL D5 1/2 NS,1000,mL,prescriptions
+14938531,23462431,2133-09-06 08:00:00,Pharmacy,,,NaN,pharmacy
+14938531,23462431,2133-09-06 09:00:00,Pharmacy,Cyclobenzaprine,,NaN,pharmacy
+14938531,23462431,2133-09-06 09:00:00,Prescription,Cyclobenzaprine,5,mg,prescriptions
+14938531,23462431,2133-09-06 11:00:00,Pharmacy,Ketorolac,,NaN,pharmacy
+14938531,23462431,2133-09-06 11:00:00,Prescription,Ketorolac,15,mg,prescriptions
+14938531,23462431,2133-09-06 11:00:00,Prescription,Ketorolac,15,mg,prescriptions
+14938531,23462431,2133-09-06 11:00:00,Pharmacy,Ketorolac,,NaN,pharmacy
+14938531,23462431,2133-09-06 16:00:00,Prescription,0.9% Sodium Chloride,1000,mL,prescriptions
+14938531,23462431,2133-09-06 16:00:00,Pharmacy,,,NaN,pharmacy
+14938531,23462431,2133-09-07 00:00:00,Prescription,LR,1000,mL,prescriptions
+14938531,23462431,2133-09-07 00:00:00,Pharmacy,,,NaN,pharmacy
+14938531,23462431,2133-09-07 02:00:00,Prescription,Fluticasone Propionate NASAL,1,SPRY,prescriptions
+14938531,23462431,2133-09-07 02:00:00,Pharmacy,Fluticasone Propionate NASAL,,NaN,pharmacy
+14938531,23462431,2133-09-07 05:00:00,Prescription,LR,500,mL,prescriptions
+14938531,23462431,2133-09-07 05:00:00,Prescription,LR,1000,mL,prescriptions
+14938531,23462431,2133-09-07 05:00:00,Pharmacy,,,NaN,pharmacy
+14938531,23462431,2133-09-07 05:00:00,Prescription,0.9% Sodium Chloride,1000,mL,prescriptions
+14938531,23462431,2133-09-07 05:00:00,Pharmacy,,,NaN,pharmacy
+14938531,23462431,2133-09-07 05:00:00,Pharmacy,,,NaN,pharmacy
+14938531,23462431,2133-09-07 07:40:00,Lab Result,Anion Gap| Blood,12.0,mEq/L,labevents
+14938531,23462431,2133-09-07 07:40:00,Lab Result,Bicarbonate| Blood,25.0,mEq/L,labevents
+14938531,23462431,2133-09-07 07:40:00,Lab Result,"Calcium, Total| Blood",8.1,mg/dL,labevents
+14938531,23462431,2133-09-07 07:40:00,Lab Result,Urea Nitrogen| Blood,14.0,mg/dL,labevents
+14938531,23462431,2133-09-07 07:40:00,Lab Result,Creatinine| Blood,0.9,mg/dL,labevents
+14938531,23462431,2133-09-07 07:40:00,Lab Result,Sodium| Blood,135.0,mEq/L,labevents
+14938531,23462431,2133-09-07 07:40:00,Lab Result,Glucose| Blood,113.0,mg/dL,labevents
+14938531,23462431,2133-09-07 07:40:00,Lab Result,Chloride| Blood,102.0,mEq/L,labevents
+14938531,23462431,2133-09-07 07:40:00,Lab Result,Phosphate| Blood,2.6,mg/dL,labevents
+14938531,23462431,2133-09-07 07:40:00,Lab Result,Magnesium| Blood,2.0,mg/dL,labevents
+14938531,23462431,2133-09-07 07:40:00,Lab Result,Potassium| Blood,4.2,mEq/L,labevents
+14938531,23462431,2133-09-07 08:00:00,Prescription,Pantoprazole,40,mg,prescriptions
+14938531,23462431,2133-09-07 08:00:00,Pharmacy,Pantoprazole,,NaN,pharmacy
+14938531,23462431,2133-09-07 08:00:00,Pharmacy,,,NaN,pharmacy
+14938531,23462431,2133-09-07 08:00:00,Prescription,D5 1/2NS,1000,mL,prescriptions
+14938531,23462431,2133-09-07 09:00:00,Prescription,0.9% Sodium Chloride,250,mL,prescriptions
+14938531,23462431,2133-09-07 09:00:00,Prescription,Sodium Phosphate,15,mmol,prescriptions
+14938531,23462431,2133-09-07 09:00:00,Pharmacy,Sodium Phosphate,,NaN,pharmacy
+14938531,23462431,2133-09-07 10:00:00,Prescription,Aspirin,81,mg,prescriptions
+14938531,23462431,2133-09-07 10:00:00,Prescription,Allopurinol,300,mg,prescriptions
+14938531,23462431,2133-09-07 10:00:00,Pharmacy,Atorvastatin,,NaN,pharmacy
+14938531,23462431,2133-09-07 10:00:00,Pharmacy,Aspirin,,NaN,pharmacy
+14938531,23462431,2133-09-07 10:00:00,Prescription,Atorvastatin,80,mg,prescriptions
+14938531,23462431,2133-09-07 10:00:00,Pharmacy,Allopurinol,,NaN,pharmacy
+14938531,23462431,2133-09-07 10:00:00,Pharmacy,Finasteride,,NaN,pharmacy
+14938531,23462431,2133-09-07 10:00:00,Prescription,Finasteride,5,mg,prescriptions
+14938531,23462431,2133-09-07 10:00:00,Pharmacy,Acebutolol,,NaN,pharmacy
+14938531,23462431,2133-09-07 10:00:00,Prescription,Acebutolol,200,mg,prescriptions
+14938531,23462431,2133-09-08 02:00:00,Pharmacy,,,NaN,pharmacy
+14938531,23462431,2133-09-08 02:00:00,Prescription,LR,1000,mL,prescriptions
+14938531,23462431,2133-09-08 21:00:00,Prescription,LR,1000,mL,prescriptions
+14938531,23462431,2133-09-08 21:00:00,Pharmacy,,,NaN,pharmacy
+14938531,23462431,2133-09-08 22:50:19,Transfer,transfer Med/Surg,NaN,NaN,transfers
+14938531,23462431,2133-09-09 02:00:00,Pharmacy,Zolpidem Tartrate,,NaN,pharmacy
+14938531,23462431,2133-09-09 02:00:00,Prescription,Zolpidem Tartrate,2.5,mg,prescriptions
+14938531,23462431,2133-09-09 07:35:00,Lab Result,Chloride| Blood,101.0,mEq/L,labevents
+14938531,23462431,2133-09-09 07:35:00,Lab Result,"Calcium, Total| Blood",8.0,mg/dL,labevents
+14938531,23462431,2133-09-09 07:35:00,Lab Result,Bicarbonate| Blood,24.0,mEq/L,labevents
+14938531,23462431,2133-09-09 07:35:00,Lab Result,Anion Gap| Blood,13.0,mEq/L,labevents
+14938531,23462431,2133-09-09 07:35:00,Lab Result,Magnesium| Blood,1.8,mg/dL,labevents
+14938531,23462431,2133-09-09 07:35:00,Lab Result,Phosphate| Blood,3.1,mg/dL,labevents
+14938531,23462431,2133-09-09 07:35:00,Lab Result,Potassium| Blood,3.8,mEq/L,labevents
+14938531,23462431,2133-09-09 07:35:00,Lab Result,Sodium| Blood,134.0,mEq/L,labevents
+14938531,23462431,2133-09-09 07:35:00,Lab Result,Urea Nitrogen| Blood,9.0,mg/dL,labevents
+14938531,23462431,2133-09-09 07:35:00,Lab Result,Hematocrit| Blood,32.1,%,labevents
+14938531,23462431,2133-09-09 07:35:00,Lab Result,Hemoglobin| Blood,11.0,g/dL,labevents
+14938531,23462431,2133-09-09 07:35:00,Lab Result,MCH| Blood,30.0,pg,labevents
+14938531,23462431,2133-09-09 07:35:00,Lab Result,Creatinine| Blood,0.7,mg/dL,labevents
+14938531,23462431,2133-09-09 07:35:00,Lab Result,MCHC| Blood,34.2,%,labevents
+14938531,23462431,2133-09-09 07:35:00,Lab Result,Glucose| Blood,132.0,mg/dL,labevents
+14938531,23462431,2133-09-09 07:35:00,Lab Result,White Blood Cells| Blood,9.0,K/uL,labevents
+14938531,23462431,2133-09-09 07:35:00,Lab Result,Red Blood Cells| Blood,3.66,m/uL,labevents
+14938531,23462431,2133-09-09 07:35:00,Lab Result,MCV| Blood,88.0,fL,labevents
+14938531,23462431,2133-09-09 07:35:00,Lab Result,Platelet Count| Blood,210.0,K/uL,labevents
+14938531,23462431,2133-09-09 07:35:00,Lab Result,RDW| Blood,13.5,%,labevents
+14938531,23462431,2133-09-09 10:00:00,Prescription,Potassium Chloride,20,mEq,prescriptions
+14938531,23462431,2133-09-09 10:00:00,Prescription,D5 1/2NS,1000,mL,prescriptions
+14938531,23462431,2133-09-09 10:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+14938531,23462431,2133-09-09 10:00:00,Pharmacy,,,NaN,pharmacy
+14938531,23462431,2133-09-09 10:00:00,Prescription,Magnesium Sulfate,2,gm,prescriptions
+14938531,23462431,2133-09-09 10:00:00,Prescription,Bag,50,mL,prescriptions
+14938531,23462431,2133-09-09 10:00:00,Pharmacy,Magnesium Sulfate,,NaN,pharmacy
+14938531,23462431,2133-09-09 10:00:00,Pharmacy,Nexium,,NaN,pharmacy
+14938531,23462431,2133-09-09 10:00:00,Prescription,Nexium,40,mg,prescriptions
+14938531,23462431,2133-09-09 17:00:00,Pharmacy,Calcium Carbonate,,NaN,pharmacy
+14938531,23462431,2133-09-09 17:00:00,Prescription,Nexium,40,mg,prescriptions
+14938531,23462431,2133-09-09 17:00:00,Prescription,OxycoDONE (Immediate Release) ,2.5,mg,prescriptions
+14938531,23462431,2133-09-09 17:00:00,Pharmacy,Morphine Sulfate,,NaN,pharmacy
+14938531,23462431,2133-09-09 17:00:00,Pharmacy,OxycoDONE (Immediate Release) ,,NaN,pharmacy
+14938531,23462431,2133-09-09 17:00:00,Prescription,Calcium Carbonate,500,mg,prescriptions
+14938531,23462431,2133-09-09 17:00:00,Prescription,Famotidine,20,mg,prescriptions
+14938531,23462431,2133-09-09 17:00:00,Pharmacy,Nexium,,NaN,pharmacy
+14938531,23462431,2133-09-09 17:00:00,Prescription,Morphine Sulfate,1-2,mg,prescriptions
+14938531,23462431,2133-09-09 17:00:00,Pharmacy,Famotidine,,NaN,pharmacy
+14938531,23462431,2133-09-09 19:00:00,Pharmacy,Sarna Lotion,,NaN,pharmacy
+14938531,23462431,2133-09-09 19:00:00,Prescription,Sarna Lotion,1,Appl,prescriptions
+14938531,23462431,2133-09-09 20:00:00,Pharmacy,Acetaminophen,,NaN,pharmacy
+14938531,23462431,2133-09-09 20:00:00,Prescription,Acetaminophen,650,mg,prescriptions
+14938531,23462431,2133-09-09 21:00:00,Prescription,D5 1/2NS,1000,mL,prescriptions
+14938531,23462431,2133-09-09 21:00:00,Prescription,Morphine Sulfate,1-2,mg,prescriptions
+14938531,23462431,2133-09-09 21:00:00,Pharmacy,OxycoDONE (Immediate Release) ,,NaN,pharmacy
+14938531,23462431,2133-09-09 21:00:00,Prescription,OxycoDONE (Immediate Release) ,2.5,mg,prescriptions
+14938531,23462431,2133-09-09 21:00:00,Pharmacy,,,NaN,pharmacy
+14938531,23462431,2133-09-09 21:00:00,Pharmacy,Morphine Sulfate,,NaN,pharmacy
+14938531,23462431,2133-09-09 21:00:00,Prescription,Morphine Sulfate,50,mg,prescriptions
+14938531,23462431,2133-09-09 21:00:00,Pharmacy,Ondansetron,,NaN,pharmacy
+14938531,23462431,2133-09-09 21:00:00,Prescription,Ondansetron,4,mg,prescriptions
+14938531,23462431,2133-09-09 21:00:00,Pharmacy,Morphine Sulfate,,NaN,pharmacy
+14938531,23462431,2133-09-10 00:00:00,Pharmacy,Prochlorperazine,,NaN,pharmacy
+14938531,23462431,2133-09-10 00:00:00,Prescription,Prochlorperazine,10,mg,prescriptions
+14938531,23462431,2133-09-10 00:00:00,Prescription,D5 1/2NS,1000,mL,prescriptions
+14938531,23462431,2133-09-10 00:00:00,Pharmacy,,,NaN,pharmacy
+14938531,23462431,2133-09-10 03:38:00,Lab Result,Specimen Type| Blood,,,labevents
+14938531,23462431,2133-09-10 03:38:00,Lab Result,Calculated Total CO2| Blood,26.0,mEq/L,labevents
+14938531,23462431,2133-09-10 03:38:00,Lab Result,Base Excess| Blood,3.0,mEq/L,labevents
+14938531,23462431,2133-09-10 03:38:00,Lab Result,pO2| Blood,49.0,mm Hg,labevents
+14938531,23462431,2133-09-10 03:38:00,Lab Result,pCO2| Blood,30.0,mm Hg,labevents
+14938531,23462431,2133-09-10 03:38:00,Lab Result,pH| Blood,7.54,units,labevents
+14938531,23462431,2133-09-10 04:00:00,Lab Result,"Creatine Kinase, MB Isoenzyme| Blood",4.0,ng/mL,labevents
+14938531,23462431,2133-09-10 04:00:00,Lab Result,Hemoglobin| Blood,13.5,g/dL,labevents
+14938531,23462431,2133-09-10 04:00:00,Lab Result,Hematocrit| Blood,37.4,%,labevents
+14938531,23462431,2133-09-10 04:00:00,Lab Result,Creatinine| Blood,0.8,mg/dL,labevents
+14938531,23462431,2133-09-10 04:00:00,Lab Result,Potassium| Blood,3.9,mEq/L,labevents
+14938531,23462431,2133-09-10 04:00:00,Lab Result,"Calcium, Total| Blood",9.1,mg/dL,labevents
+14938531,23462431,2133-09-10 04:00:00,Lab Result,Anion Gap| Blood,20.0,mEq/L,labevents
+14938531,23462431,2133-09-10 04:00:00,Lab Result,White Blood Cells| Blood,3.5,K/uL,labevents
+14938531,23462431,2133-09-10 04:00:00,Lab Result,Chloride| Blood,96.0,mEq/L,labevents
+14938531,23462431,2133-09-10 04:00:00,Lab Result,Creatine Kinase (CK)| Blood,277.0,IU/L,labevents
+14938531,23462431,2133-09-10 04:00:00,Lab Result,MCHC| Blood,36.0,%,labevents
+14938531,23462431,2133-09-10 04:00:00,Pharmacy,,,NaN,pharmacy
+14938531,23462431,2133-09-10 04:00:00,Lab Result,MCV| Blood,85.0,fL,labevents
+14938531,23462431,2133-09-10 04:00:00,Lab Result,Platelet Count| Blood,322.0,K/uL,labevents
+14938531,23462431,2133-09-10 04:00:00,Prescription,LR,1000,mL,prescriptions
+14938531,23462431,2133-09-10 04:00:00,Lab Result,RDW| Blood,13.7,%,labevents
+14938531,23462431,2133-09-10 04:00:00,Lab Result,Red Blood Cells| Blood,4.38,m/uL,labevents
+14938531,23462431,2133-09-10 04:00:00,Lab Result,MCH| Blood,30.7,pg,labevents
+14938531,23462431,2133-09-10 04:00:00,Lab Result,Blue Top Hold| Blood,,,labevents
+14938531,23462431,2133-09-10 04:00:00,Lab Result,Sodium| Blood,137.0,mEq/L,labevents
+14938531,23462431,2133-09-10 04:00:00,Lab Result,Magnesium| Blood,2.0,mg/dL,labevents
+14938531,23462431,2133-09-10 04:00:00,Lab Result,Bicarbonate| Blood,25.0,mEq/L,labevents
+14938531,23462431,2133-09-10 04:00:00,Lab Result,Phosphate| Blood,3.7,mg/dL,labevents
+14938531,23462431,2133-09-10 04:00:00,Lab Result,Urea Nitrogen| Blood,16.0,mg/dL,labevents
+14938531,23462431,2133-09-10 04:00:00,Lab Result,Troponin T| Blood,,ng/mL,labevents
+14938531,23462431,2133-09-10 04:00:00,Lab Result,Glucose| Blood,170.0,mg/dL,labevents
+14938531,23462431,2133-09-10 04:19:03,Transfer,transfer Trauma SICU (TSICU),NaN,NaN,transfers
+14938531,23462431,2133-09-10 04:25:00,DateTime Obs,18 Gauge Insertion Date,2133-09-10 04:26:00,Date,datetimeevents
+14938531,23462431,2133-09-10 04:27:00,DateTime Obs,18 Gauge Insertion Date,2133-09-10 04:28:00,Date,datetimeevents
+14938531,23462431,2133-09-10 04:27:00,Procedure,18 Gauge,662.0,min,procedureevents
+14938531,23462431,2133-09-10 04:27:00,Procedure,18 Gauge,662.0,min,procedureevents
+14938531,23462431,2133-09-10 04:28:00,Input,IVF ingredient,500.0,ml,ingredientevents
+14938531,23462431,2133-09-10 04:28:00,Input,Water,500.0,ml,ingredientevents
+14938531,23462431,2133-09-10 04:28:00,Input,LR,500.0,ml,inputevents
+14938531,23462431,2133-09-10 04:28:00,Procedure,20 Gauge,3599.0,min,procedureevents
+14938531,23462431,2133-09-10 04:28:00,Output,Foley,15.0,ml,outputevents
+14938531,23462431,2133-09-10 04:28:00,Procedure,20 Gauge,3599.0,min,procedureevents
+14938531,23462431,2133-09-10 04:28:00,DateTime Obs,20 Gauge Insertion Date,2133-09-09 04:28:00,Date,datetimeevents
+14938531,23462431,2133-09-10 04:35:00,Procedure,Nasal Swab,1.0,,procedureevents
+14938531,23462431,2133-09-10 04:35:00,Procedure,Nasal Swab,1.0,,procedureevents
+14938531,23462431,2133-09-10 04:44:00,Output,Pre-Admission,2360.0,ml,outputevents
+14938531,23462431,2133-09-10 04:45:00,Procedure,Non-invasive Ventilation,397.0,min,procedureevents
+14938531,23462431,2133-09-10 04:45:00,Input,Pre-Admission/Non-ICU Intake,300.0,ml,inputevents
+14938531,23462431,2133-09-10 04:45:00,Procedure,Non-invasive Ventilation,397.0,min,procedureevents
+14938531,23462431,2133-09-10 04:45:00,Input,Water,300.0,ml,ingredientevents
+14938531,23462431,2133-09-10 05:00:00,Pharmacy,Ondansetron,,NaN,pharmacy
+14938531,23462431,2133-09-10 05:00:00,Pharmacy,Ipratropium Bromide Neb,,NaN,pharmacy
+14938531,23462431,2133-09-10 05:00:00,Prescription,Bag,50,mL,prescriptions
+14938531,23462431,2133-09-10 05:00:00,Pharmacy,Albuterol 0.083% Neb Soln,,NaN,pharmacy
+14938531,23462431,2133-09-10 05:00:00,Prescription,Potassium Chloride,40,mEq,prescriptions
+14938531,23462431,2133-09-10 05:00:00,Prescription,0.9% Sodium Chloride,500,mL,prescriptions
+14938531,23462431,2133-09-10 05:00:00,Prescription,LR,1000,mL,prescriptions
+14938531,23462431,2133-09-10 05:00:00,Pharmacy,Magnesium Sulfate,,NaN,pharmacy
+14938531,23462431,2133-09-10 05:00:00,Prescription,0.9% Sodium Chloride,500,mL,prescriptions
+14938531,23462431,2133-09-10 05:00:00,Prescription,Magnesium Sulfate,2,gm,prescriptions
+14938531,23462431,2133-09-10 05:00:00,Prescription,Potassium Chloride,40,mEq,prescriptions
+14938531,23462431,2133-09-10 05:00:00,Prescription,LR,1000,mL,prescriptions
+14938531,23462431,2133-09-10 05:00:00,Pharmacy,Potassium Phosphate,,NaN,pharmacy
+14938531,23462431,2133-09-10 05:00:00,Pharmacy,,,NaN,pharmacy
+14938531,23462431,2133-09-10 05:00:00,Pharmacy,Potassium Phosphate,,NaN,pharmacy
+14938531,23462431,2133-09-10 05:00:00,Prescription,Magnesium Sulfate,2-4,gm,prescriptions
+14938531,23462431,2133-09-10 05:00:00,Prescription,Bag,100,mL,prescriptions
+14938531,23462431,2133-09-10 05:00:00,Prescription,Ipratropium Bromide Neb,1,NEB,prescriptions
+14938531,23462431,2133-09-10 05:00:00,Prescription,Albuterol 0.083% Neb Soln,1,NEB,prescriptions
+14938531,23462431,2133-09-10 05:00:00,Prescription,Potassium Phosphate,15,mmol,prescriptions
+14938531,23462431,2133-09-10 05:00:00,Prescription,0.9% Sodium Chloride,500,mL,prescriptions
+14938531,23462431,2133-09-10 05:00:00,Prescription,Potassium Phosphate,30,mmol,prescriptions
+14938531,23462431,2133-09-10 05:00:00,Prescription,0.9% Sodium Chloride,500,mL,prescriptions
+14938531,23462431,2133-09-10 05:00:00,Prescription,Pantoprazole,40,mg,prescriptions
+14938531,23462431,2133-09-10 05:00:00,Prescription,Vial,1,VIAL,prescriptions
+14938531,23462431,2133-09-10 05:00:00,Prescription,Morphine Sulfate,1-2,mg,prescriptions
+14938531,23462431,2133-09-10 05:00:00,Prescription,0.9% Sodium Chloride,1000,mL,prescriptions
+14938531,23462431,2133-09-10 05:00:00,Prescription,Potassium Chloride,60,mEq,prescriptions
+14938531,23462431,2133-09-10 05:00:00,Prescription,Magnesium Sulfate,4,gm,prescriptions
+14938531,23462431,2133-09-10 05:00:00,Prescription,Bag,100,mL,prescriptions
+14938531,23462431,2133-09-10 05:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+14938531,23462431,2133-09-10 05:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+14938531,23462431,2133-09-10 05:00:00,Prescription,Ondansetron,4,mg,prescriptions
+14938531,23462431,2133-09-10 05:00:00,Pharmacy,Magnesium Sulfate,,NaN,pharmacy
+14938531,23462431,2133-09-10 05:00:00,Pharmacy,Pantoprazole,,NaN,pharmacy
+14938531,23462431,2133-09-10 05:00:00,Pharmacy,Morphine Sulfate,,NaN,pharmacy
+14938531,23462431,2133-09-10 05:00:00,Output,Foley,6.0,ml,outputevents
+14938531,23462431,2133-09-10 05:00:00,Pharmacy,Magnesium Sulfate,,NaN,pharmacy
+14938531,23462431,2133-09-10 05:00:00,Prescription,Potassium Chloride,20,mEq,prescriptions
+14938531,23462431,2133-09-10 05:00:00,Prescription,SW,100,mL,prescriptions
+14938531,23462431,2133-09-10 05:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+14938531,23462431,2133-09-10 05:00:00,Pharmacy,,,NaN,pharmacy
+14938531,23462431,2133-09-10 05:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+14938531,23462431,2133-09-10 05:03:00,Input,LR,500.0,ml,inputevents
+14938531,23462431,2133-09-10 05:03:00,Input,IVF ingredient,500.0,ml,ingredientevents
+14938531,23462431,2133-09-10 05:03:00,Input,Water,500.0,ml,ingredientevents
+14938531,23462431,2133-09-10 05:32:00,Input,Water,994.9999762773514,ml,ingredientevents
+14938531,23462431,2133-09-10 05:32:00,Input,IVF ingredient,994.9999762773514,ml,ingredientevents
+14938531,23462431,2133-09-10 05:32:00,Input,LR,994.9999762773514,ml,inputevents
+14938531,23462431,2133-09-10 06:00:00,Prescription,Sodium Chloride 0.9%  Flush,3,mL,prescriptions
+14938531,23462431,2133-09-10 06:00:00,Output,Foley,15.0,ml,outputevents
+14938531,23462431,2133-09-10 06:00:00,Pharmacy,Sodium Chloride 0.9%  Flush,,NaN,pharmacy
+14938531,23462431,2133-09-10 07:00:00,Input,Water,99.9999976158142,ml,ingredientevents
+14938531,23462431,2133-09-10 07:00:00,Input,Potassium Chloride,10.000000298023224,mEq,inputevents
+14938531,23462431,2133-09-10 07:00:00,Input,KCL (Bolus),99.9999976158142,ml,inputevents
+14938531,23462431,2133-09-10 07:00:00,Input,IVF ingredient,99.9999976158142,ml,ingredientevents
+14938531,23462431,2133-09-10 07:30:00,DateTime Obs,Arterial line Insertion Date,2133-09-10 17:26:00,Date,datetimeevents
+14938531,23462431,2133-09-10 07:30:00,DateTime Obs,Arterial Line Dressing Change,2133-09-10 17:26:00,Date and Time,datetimeevents
+14938531,23462431,2133-09-10 07:30:00,Procedure,Arterial Line,2910.0,min,procedureevents
+14938531,23462431,2133-09-10 07:30:00,Procedure,Arterial Line,2910.0,min,procedureevents
+14938531,23462431,2133-09-10 07:56:00,Lab Result,Glucose| Blood,135.0,mg/dL,labevents
+14938531,23462431,2133-09-10 07:56:00,Lab Result,Specimen Type| Blood,,,labevents
+14938531,23462431,2133-09-10 07:56:00,Lab Result,Base Excess| Blood,3.0,mEq/L,labevents
+14938531,23462431,2133-09-10 07:56:00,Lab Result,Calculated Total CO2| Blood,26.0,mEq/L,labevents
+14938531,23462431,2133-09-10 07:56:00,Lab Result,pO2| Blood,188.0,mm Hg,labevents
+14938531,23462431,2133-09-10 07:56:00,Lab Result,pCO2| Blood,30.0,mm Hg,labevents
+14938531,23462431,2133-09-10 07:56:00,Lab Result,pH| Blood,7.53,units,labevents
+14938531,23462431,2133-09-10 08:00:00,Pharmacy,Lidocaine 1%,,NaN,pharmacy
+14938531,23462431,2133-09-10 08:00:00,Prescription,Lidocaine 1%,2,mL,prescriptions
+14938531,23462431,2133-09-10 08:00:00,Pharmacy,Heparin,,NaN,pharmacy
+14938531,23462431,2133-09-10 08:00:00,Prescription,Heparin,5000,UNIT,prescriptions
+14938531,23462431,2133-09-10 08:07:00,Input,KCL (Bolus),99.9999976158142,ml,inputevents
+14938531,23462431,2133-09-10 08:07:00,Input,IVF ingredient,99.9999976158142,ml,ingredientevents
+14938531,23462431,2133-09-10 08:07:00,Input,Water,99.9999976158142,ml,ingredientevents
+14938531,23462431,2133-09-10 08:07:00,Input,Potassium Chloride,10.000000298023224,mEq,inputevents
+14938531,23462431,2133-09-10 08:55:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+14938531,23462431,2133-09-10 08:55:00,Input,IVF ingredient,10.0,ml,ingredientevents
+14938531,23462431,2133-09-10 08:55:00,Input,Water,10.0,ml,ingredientevents
+14938531,23462431,2133-09-10 08:55:00,Input,Solution,10.0,ml,inputevents
+14938531,23462431,2133-09-10 08:55:00,Input,Pantoprazole (Protonix),1.0,dose,inputevents
+14938531,23462431,2133-09-10 08:56:00,Output,Foley,15.0,ml,outputevents
+14938531,23462431,2133-09-10 09:00:00,Lab Result,"Sodium, Urine| Urine",22.0,mEq/L,labevents
+14938531,23462431,2133-09-10 09:00:00,Lab Result,Length of Urine Collection| Urine,,,labevents
+14938531,23462431,2133-09-10 09:00:00,Prescription,LR,1000,mL,prescriptions
+14938531,23462431,2133-09-10 09:00:00,Input,IVF ingredient,1000.0,ml,ingredientevents
+14938531,23462431,2133-09-10 09:00:00,Input,Water,1000.0,ml,ingredientevents
+14938531,23462431,2133-09-10 09:00:00,Input,LR,1000.0,ml,inputevents
+14938531,23462431,2133-09-10 09:00:00,Pharmacy,,,NaN,pharmacy
+14938531,23462431,2133-09-10 09:00:00,Lab Result,"Potassium, Urine| Urine",,mEq/L,labevents
+14938531,23462431,2133-09-10 09:00:00,Lab Result,"Chloride, Urine| Urine",17.0,mEq/L,labevents
+14938531,23462431,2133-09-10 09:00:00,Lab Result,"Creatinine, Urine| Urine",632.0,mg/dL,labevents
+14938531,23462431,2133-09-10 09:35:00,DateTime Obs,20 Gauge Insertion Date,2133-09-09 00:00:00,Date,datetimeevents
+14938531,23462431,2133-09-10 09:35:00,DateTime Obs,18 Gauge Insertion Date,2133-09-10 00:00:00,Date,datetimeevents
+14938531,23462431,2133-09-10 09:40:00,Lab Result,Specimen Type| Blood,,,labevents
+14938531,23462431,2133-09-10 09:40:00,Lab Result,pH| Blood,7.52,units,labevents
+14938531,23462431,2133-09-10 09:40:00,Lab Result,pO2| Blood,107.0,mm Hg,labevents
+14938531,23462431,2133-09-10 09:40:00,Lab Result,Base Excess| Blood,3.0,mEq/L,labevents
+14938531,23462431,2133-09-10 09:40:00,Lab Result,Calculated Total CO2| Blood,26.0,mEq/L,labevents
+14938531,23462431,2133-09-10 09:40:00,Lab Result,pCO2| Blood,31.0,mm Hg,labevents
+14938531,23462431,2133-09-10 10:00:00,Output,Foley,35.0,ml,outputevents
+14938531,23462431,2133-09-10 10:37:00,Output,Foley,20.0,ml,outputevents
+14938531,23462431,2133-09-10 12:00:00,Output,Foley,40.0,ml,outputevents
+14938531,23462431,2133-09-10 13:12:00,Output,Foley,30.0,ml,outputevents
+14938531,23462431,2133-09-10 13:18:00,Lab Result,pCO2| Blood,37.0,mm Hg,labevents
+14938531,23462431,2133-09-10 13:18:00,Lab Result,Lactate| Blood,1.2,mmol/L,labevents
+14938531,23462431,2133-09-10 13:18:00,Lab Result,pH| Blood,7.5,units,labevents
+14938531,23462431,2133-09-10 13:18:00,Lab Result,Free Calcium| Blood,1.08,mmol/L,labevents
+14938531,23462431,2133-09-10 13:18:00,Lab Result,Base Excess| Blood,4.0,mEq/L,labevents
+14938531,23462431,2133-09-10 13:18:00,Lab Result,pO2| Blood,84.0,mm Hg,labevents
+14938531,23462431,2133-09-10 13:18:00,Lab Result,Calculated Total CO2| Blood,30.0,mEq/L,labevents
+14938531,23462431,2133-09-10 13:18:00,Lab Result,Specimen Type| Blood,,,labevents
+14938531,23462431,2133-09-10 14:10:00,Output,Foley,25.0,ml,outputevents
+14938531,23462431,2133-09-10 15:00:00,Output,Foley,35.0,ml,outputevents
+14938531,23462431,2133-09-10 15:29:00,Input,Water,994.9999762773514,ml,ingredientevents
+14938531,23462431,2133-09-10 15:29:00,Input,IVF ingredient,994.9999762773514,ml,ingredientevents
+14938531,23462431,2133-09-10 15:29:00,Input,LR,994.9999762773514,ml,inputevents
+14938531,23462431,2133-09-10 16:00:00,Pharmacy,Cepacol (Menthol),,NaN,pharmacy
+14938531,23462431,2133-09-10 16:00:00,DateTime Obs,Arterial Line Dressing Change,2133-09-10 17:26:00,Date and Time,datetimeevents
+14938531,23462431,2133-09-10 16:00:00,Prescription,Cepacol (Menthol),1,LOZ,prescriptions
+14938531,23462431,2133-09-10 16:00:00,DateTime Obs,Arterial line Insertion Date,2133-09-10 00:00:00,Date,datetimeevents
+14938531,23462431,2133-09-10 16:47:00,Output,Nasogastric,1000.0,ml,outputevents
+14938531,23462431,2133-09-10 16:48:00,DateTime Obs,20 Gauge Insertion Date,2133-09-09 00:00:00,Date,datetimeevents
+14938531,23462431,2133-09-10 16:48:00,DateTime Obs,18 Gauge Insertion Date,2133-09-10 00:00:00,Date,datetimeevents
+14938531,23462431,2133-09-10 16:48:00,Procedure,Abdominal X-Ray,1.0,,procedureevents
+14938531,23462431,2133-09-10 16:48:00,Procedure,Abdominal X-Ray,1.0,,procedureevents
+14938531,23462431,2133-09-10 17:00:00,Output,Foley,60.0,ml,outputevents
+14938531,23462431,2133-09-10 17:27:00,DateTime Obs,20 Gauge Insertion Date,2133-09-09 00:00:00,Date,datetimeevents
+14938531,23462431,2133-09-10 17:27:00,DateTime Obs,18 Gauge Insertion Date,2133-09-10 00:00:00,Date,datetimeevents
+14938531,23462431,2133-09-10 19:18:00,Output,Foley,80.0,ml,outputevents
+14938531,23462431,2133-09-10 20:00:00,Output,Foley,25.0,ml,outputevents
+14938531,23462431,2133-09-10 20:14:00,DateTime Obs,20 Gauge Insertion Date,2133-09-09 00:00:00,Date,datetimeevents
+14938531,23462431,2133-09-10 20:14:00,DateTime Obs,18 Gauge Insertion Date,2133-09-10 00:00:00,Date,datetimeevents
+14938531,23462431,2133-09-10 20:14:00,Procedure,18 Gauge,662.0,min,procedureevents
+14938531,23462431,2133-09-10 20:14:00,Procedure,18 Gauge,662.0,min,procedureevents
+14938531,23462431,2133-09-10 21:00:00,Output,Foley,30.0,ml,outputevents
+14938531,23462431,2133-09-10 22:00:00,Output,Nasogastric,500.0,ml,outputevents
+14938531,23462431,2133-09-10 22:00:00,Prescription,Zolpidem Tartrate,5,mg,prescriptions
+14938531,23462431,2133-09-10 22:00:00,Output,Foley,25.0,ml,outputevents
+14938531,23462431,2133-09-10 22:00:00,Pharmacy,Zolpidem Tartrate,,NaN,pharmacy
+14938531,23462431,2133-09-10 22:33:00,Input,LR,1000.0,ml,inputevents
+14938531,23462431,2133-09-10 22:33:00,Input,Water,1000.0,ml,ingredientevents
+14938531,23462431,2133-09-10 22:33:00,Input,IVF ingredient,1000.0,ml,ingredientevents
+14938531,23462431,2133-09-10 23:00:00,Pharmacy,Acetaminophen,,NaN,pharmacy
+14938531,23462431,2133-09-10 23:00:00,Pharmacy,,,NaN,pharmacy
+14938531,23462431,2133-09-10 23:00:00,Prescription,LR,1000,mL,prescriptions
+14938531,23462431,2133-09-10 23:00:00,Pharmacy,Acetaminophen,,NaN,pharmacy
+14938531,23462431,2133-09-10 23:00:00,Prescription,Acetaminophen,650,mg,prescriptions
+14938531,23462431,2133-09-10 23:00:00,Prescription,Acetaminophen,1000,mg,prescriptions
+14938531,23462431,2133-09-10 23:00:00,Output,Foley,25.0,ml,outputevents
+14938531,23462431,2133-09-11 00:00:00,Output,Foley,25.0,ml,outputevents
+14938531,23462431,2133-09-11 00:09:00,DateTime Obs,Arterial line Insertion Date,2133-09-10 00:00:00,Date,datetimeevents
+14938531,23462431,2133-09-11 00:09:00,DateTime Obs,Arterial Line Dressing Change,2133-09-10 17:26:00,Date and Time,datetimeevents
+14938531,23462431,2133-09-11 00:09:00,DateTime Obs,20 Gauge Insertion Date,2133-09-09 00:00:00,Date,datetimeevents
+14938531,23462431,2133-09-11 00:09:00,DateTime Obs,18 Gauge Insertion Date,2133-09-10 00:00:00,Date,datetimeevents
+14938531,23462431,2133-09-11 01:00:00,Output,Foley,20.0,ml,outputevents
+14938531,23462431,2133-09-11 01:26:00,Input,LR,758.3333152532578,ml,inputevents
+14938531,23462431,2133-09-11 01:26:00,Input,Water,758.3333152532578,ml,ingredientevents
+14938531,23462431,2133-09-11 01:26:00,Input,IVF ingredient,758.3333152532578,ml,ingredientevents
+14938531,23462431,2133-09-11 01:45:00,Lab Result,Glucose| Blood,108.0,mg/dL,labevents
+14938531,23462431,2133-09-11 01:45:00,Lab Result,Chloride| Blood,102.0,mEq/L,labevents
+14938531,23462431,2133-09-11 01:45:00,Lab Result,Red Blood Cells| Blood,3.09,m/uL,labevents
+14938531,23462431,2133-09-11 01:45:00,Lab Result,RDW| Blood,13.7,%,labevents
+14938531,23462431,2133-09-11 01:45:00,Lab Result,Platelet Count| Blood,252.0,K/uL,labevents
+14938531,23462431,2133-09-11 01:45:00,Lab Result,MCV| Blood,88.0,fL,labevents
+14938531,23462431,2133-09-11 01:45:00,Lab Result,MCHC| Blood,35.6,%,labevents
+14938531,23462431,2133-09-11 01:45:00,Lab Result,MCH| Blood,31.2,pg,labevents
+14938531,23462431,2133-09-11 01:45:00,Lab Result,Hemoglobin| Blood,9.6,g/dL,labevents
+14938531,23462431,2133-09-11 01:45:00,Lab Result,Hematocrit| Blood,27.1,%,labevents
+14938531,23462431,2133-09-11 01:45:00,Lab Result,Urea Nitrogen| Blood,23.0,mg/dL,labevents
+14938531,23462431,2133-09-11 01:45:00,Lab Result,Sodium| Blood,140.0,mEq/L,labevents
+14938531,23462431,2133-09-11 01:45:00,Lab Result,Potassium| Blood,3.4,mEq/L,labevents
+14938531,23462431,2133-09-11 01:45:00,Lab Result,Phosphate| Blood,3.4,mg/dL,labevents
+14938531,23462431,2133-09-11 01:45:00,Lab Result,Magnesium| Blood,1.9,mg/dL,labevents
+14938531,23462431,2133-09-11 01:45:00,Lab Result,Creatinine| Blood,0.7,mg/dL,labevents
+14938531,23462431,2133-09-11 01:45:00,Lab Result,"Calcium, Total| Blood",8.7,mg/dL,labevents
+14938531,23462431,2133-09-11 01:45:00,Lab Result,White Blood Cells| Blood,8.6,K/uL,labevents
+14938531,23462431,2133-09-11 01:45:00,Lab Result,Anion Gap| Blood,12.0,mEq/L,labevents
+14938531,23462431,2133-09-11 01:45:00,Lab Result,Bicarbonate| Blood,29.0,mEq/L,labevents
+14938531,23462431,2133-09-11 01:59:00,Input,IVF ingredient,1000.0,ml,ingredientevents
+14938531,23462431,2133-09-11 01:59:00,Input,LR,1000.0,ml,inputevents
+14938531,23462431,2133-09-11 01:59:00,Input,Water,1000.0,ml,ingredientevents
+14938531,23462431,2133-09-11 02:00:00,Output,Foley,20.0,ml,outputevents
+14938531,23462431,2133-09-11 02:00:00,Lab Result,Specimen Type| Blood,,,labevents
+14938531,23462431,2133-09-11 02:00:00,Lab Result,Temperature| Blood,37.2,,labevents
+14938531,23462431,2133-09-11 02:00:00,Lab Result,pO2| Blood,117.0,mm Hg,labevents
+14938531,23462431,2133-09-11 02:00:00,Lab Result,pH| Blood,7.5,units,labevents
+14938531,23462431,2133-09-11 02:00:00,Lab Result,pCO2| Blood,42.0,mm Hg,labevents
+14938531,23462431,2133-09-11 02:00:00,Lab Result,Lactate| Blood,1.2,mmol/L,labevents
+14938531,23462431,2133-09-11 02:00:00,Lab Result,Intubated| Blood,,,labevents
+14938531,23462431,2133-09-11 02:00:00,Lab Result,Calculated Total CO2| Blood,34.0,mEq/L,labevents
+14938531,23462431,2133-09-11 02:00:00,Lab Result,Base Excess| Blood,8.0,mEq/L,labevents
+14938531,23462431,2133-09-11 03:00:00,Output,Foley,60.0,ml,outputevents
+14938531,23462431,2133-09-11 04:00:00,Output,Foley,60.0,ml,outputevents
+14938531,23462431,2133-09-11 04:37:00,Output,Nasogastric,300.0,ml,outputevents
+14938531,23462431,2133-09-11 04:37:00,Input,Water,49.999998807907104,ml,ingredientevents
+14938531,23462431,2133-09-11 04:37:00,Input,Magnesium Sulfate,2.0000001043081284,grams,inputevents
+14938531,23462431,2133-09-11 04:37:00,Input,Magnesium Sulfate (Bolus),49.999998807907104,ml,inputevents
+14938531,23462431,2133-09-11 04:37:00,Input,IVF ingredient,49.999998807907104,ml,ingredientevents
+14938531,23462431,2133-09-11 04:38:00,Input,NaCl 0.9%,99.9999976158142,ml,inputevents
+14938531,23462431,2133-09-11 04:38:00,Input,Potassium Chloride,10.000000298023224,mEq,inputevents
+14938531,23462431,2133-09-11 04:38:00,Input,IVF ingredient,99.9999976158142,ml,ingredientevents
+14938531,23462431,2133-09-11 04:38:00,Input,Water,99.9999976158142,ml,ingredientevents
+14938531,23462431,2133-09-11 05:00:00,DateTime Obs,18 Gauge Insertion Date,2133-09-10 00:00:00,Date,datetimeevents
+14938531,23462431,2133-09-11 05:00:00,DateTime Obs,Arterial line Insertion Date,2133-09-10 00:00:00,Date,datetimeevents
+14938531,23462431,2133-09-11 05:00:00,DateTime Obs,Arterial Line Dressing Change,2133-09-10 17:26:00,Date and Time,datetimeevents
+14938531,23462431,2133-09-11 05:38:00,Input,IVF ingredient,99.9999976158142,ml,ingredientevents
+14938531,23462431,2133-09-11 05:38:00,Input,Water,99.9999976158142,ml,ingredientevents
+14938531,23462431,2133-09-11 05:38:00,Input,Potassium Chloride,10.000000298023224,mEq,inputevents
+14938531,23462431,2133-09-11 05:38:00,Input,NaCl 0.9%,99.9999976158142,ml,inputevents
+14938531,23462431,2133-09-11 06:00:00,Output,Foley,60.0,ml,outputevents
+14938531,23462431,2133-09-11 08:00:00,Input,Solution,10.0,ml,inputevents
+14938531,23462431,2133-09-11 08:00:00,Input,Pantoprazole (Protonix),1.0,dose,inputevents
+14938531,23462431,2133-09-11 08:00:00,Prescription,LR,1000,mL,prescriptions
+14938531,23462431,2133-09-11 08:00:00,Input,Water,10.0,ml,ingredientevents
+14938531,23462431,2133-09-11 08:00:00,Input,IVF ingredient,10.0,ml,ingredientevents
+14938531,23462431,2133-09-11 08:00:00,DateTime Obs,Arterial Line Dressing Change,2133-09-10 17:26:00,Date and Time,datetimeevents
+14938531,23462431,2133-09-11 08:00:00,DateTime Obs,Arterial line Insertion Date,2133-09-10 00:00:00,Date,datetimeevents
+14938531,23462431,2133-09-11 08:00:00,DateTime Obs,20 Gauge Insertion Date,2133-09-09 00:00:00,Date,datetimeevents
+14938531,23462431,2133-09-11 08:00:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+14938531,23462431,2133-09-11 08:00:00,Pharmacy,,,NaN,pharmacy
+14938531,23462431,2133-09-11 08:00:00,Output,Foley,140.0,ml,outputevents
+14938531,23462431,2133-09-11 09:00:00,Output,Foley,100.0,ml,outputevents
+14938531,23462431,2133-09-11 09:00:00,Pharmacy,,,NaN,pharmacy
+14938531,23462431,2133-09-11 09:00:00,Input,Water,40.0,ml,ingredientevents
+14938531,23462431,2133-09-11 09:00:00,Input,Gastric Meds,40.0,ml,inputevents
+14938531,23462431,2133-09-11 09:00:00,Input,Potassium Chloride,19.999999538064003,mEq,inputevents
+14938531,23462431,2133-09-11 09:00:00,Input,D5 1/2NS,1000.0000257492064,ml,inputevents
+14938531,23462431,2133-09-11 09:00:00,Input,Calories,169.99999940395355,Kcal,ingredientevents
+14938531,23462431,2133-09-11 09:00:00,Input,Water,1000.0000257492064,ml,ingredientevents
+14938531,23462431,2133-09-11 09:00:00,Input,Oral/Gastric Ingredient,40.0,ml,ingredientevents
+14938531,23462431,2133-09-11 09:00:00,Prescription,Potassium Chl 20 mEq / 1000 mL D5 1/2 NS,1000,mL,prescriptions
+14938531,23462431,2133-09-11 09:00:00,Input,IVF ingredient,1000.0000257492064,ml,ingredientevents
+14938531,23462431,2133-09-11 10:00:00,Output,Foley,45.0,ml,outputevents
+14938531,23462431,2133-09-11 11:00:00,Output,Foley,15.0,ml,outputevents
+14938531,23462431,2133-09-11 12:00:00,DateTime Obs,20 Gauge Insertion Date,2133-09-09 00:00:00,Date,datetimeevents
+14938531,23462431,2133-09-11 12:00:00,Procedure,Family updated by RN,1.0,,procedureevents
+14938531,23462431,2133-09-11 12:00:00,DateTime Obs,Arterial line Insertion Date,2133-09-10 00:00:00,Date,datetimeevents
+14938531,23462431,2133-09-11 12:00:00,DateTime Obs,Arterial Line Dressing Change,2133-09-11 11:30:00,Date and Time,datetimeevents
+14938531,23462431,2133-09-11 12:00:00,Output,Foley,65.0,ml,outputevents
+14938531,23462431,2133-09-11 12:00:00,Procedure,Family updated by RN,1.0,,procedureevents
+14938531,23462431,2133-09-11 13:00:00,Output,Foley,30.0,ml,outputevents
+14938531,23462431,2133-09-11 13:00:00,Output,Nasogastric,300.0,ml,outputevents
+14938531,23462431,2133-09-11 13:30:00,Input,Water,40.0,ml,ingredientevents
+14938531,23462431,2133-09-11 13:30:00,Input,Oral/Gastric Ingredient,40.0,ml,ingredientevents
+14938531,23462431,2133-09-11 13:30:00,Input,Gastric Meds,40.0,ml,inputevents
+14938531,23462431,2133-09-11 14:00:00,Output,Foley,50.0,ml,outputevents
+14938531,23462431,2133-09-11 14:30:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+14938531,23462431,2133-09-11 15:00:00,Output,Foley,25.0,ml,outputevents
+14938531,23462431,2133-09-11 15:01:00,Lab Result,pH| Urine,7.0,units,labevents
+14938531,23462431,2133-09-11 15:01:00,Lab Result,Bilirubin| Urine,,mg/dL,labevents
+14938531,23462431,2133-09-11 15:01:00,Lab Result,Blood| Urine,,,labevents
+14938531,23462431,2133-09-11 15:01:00,Lab Result,Nitrite| Urine,,,labevents
+14938531,23462431,2133-09-11 15:01:00,Lab Result,Urine Color| Urine,,,labevents
+14938531,23462431,2133-09-11 15:01:00,Lab Result,Urine Appearance| Urine,,,labevents
+14938531,23462431,2133-09-11 15:01:00,Lab Result,Urobilinogen| Urine,1.0,mg/dL,labevents
+14938531,23462431,2133-09-11 15:01:00,Lab Result,Ketone| Urine,,mg/dL,labevents
+14938531,23462431,2133-09-11 15:01:00,Lab Result,Leukocytes| Urine,,,labevents
+14938531,23462431,2133-09-11 15:01:00,Lab Result,Specific Gravity| Urine,1.024, ,labevents
+14938531,23462431,2133-09-11 15:01:00,Lab Result,Protein| Urine,25.0,mg/dL,labevents
+14938531,23462431,2133-09-11 15:01:00,Lab Result,Glucose| Urine,,mg/dL,labevents
+14938531,23462431,2133-09-11 15:05:00,Lab Result,Base Excess| Blood,4.0,mEq/L,labevents
+14938531,23462431,2133-09-11 15:05:00,Lab Result,Calculated Total CO2| Blood,27.0,mEq/L,labevents
+14938531,23462431,2133-09-11 15:05:00,Lab Result,pCO2| Blood,34.0,mm Hg,labevents
+14938531,23462431,2133-09-11 15:05:00,Lab Result,pH| Blood,7.5,units,labevents
+14938531,23462431,2133-09-11 15:05:00,Lab Result,pO2| Blood,121.0,mm Hg,labevents
+14938531,23462431,2133-09-11 15:05:00,Lab Result,Specimen Type| Blood,,,labevents
+14938531,23462431,2133-09-11 16:00:00,DateTime Obs,20 Gauge Insertion Date,2133-09-09 00:00:00,Date,datetimeevents
+14938531,23462431,2133-09-11 16:00:00,DateTime Obs,Arterial Line Dressing Change,2133-09-11 11:30:00,Date and Time,datetimeevents
+14938531,23462431,2133-09-11 16:00:00,DateTime Obs,Arterial line Insertion Date,2133-09-10 00:00:00,Date,datetimeevents
+14938531,23462431,2133-09-11 16:00:00,Output,Foley,65.0,ml,outputevents
+14938531,23462431,2133-09-11 17:00:00,Pharmacy,Chloraseptic Throat Spray,,NaN,pharmacy
+14938531,23462431,2133-09-11 17:00:00,Prescription,Chloraseptic Throat Spray,1,SPRY,prescriptions
+14938531,23462431,2133-09-11 17:00:00,Output,Foley,30.0,ml,outputevents
+14938531,23462431,2133-09-11 18:00:00,Output,Nasogastric,100.0,ml,outputevents
+14938531,23462431,2133-09-11 18:00:00,Output,Foley,60.0,ml,outputevents
+14938531,23462431,2133-09-11 18:31:00,Input,Gastric Meds,40.0,ml,inputevents
+14938531,23462431,2133-09-11 18:31:00,Input,Oral/Gastric Ingredient,40.0,ml,ingredientevents
+14938531,23462431,2133-09-11 18:31:00,Input,Water,40.0,ml,ingredientevents
+14938531,23462431,2133-09-11 18:56:00,Input,D5 1/2NS,1000.0000302791595,ml,inputevents
+14938531,23462431,2133-09-11 18:56:00,Input,IVF ingredient,1000.0000302791595,ml,ingredientevents
+14938531,23462431,2133-09-11 18:56:00,Input,Calories,169.9999937415123,Kcal,ingredientevents
+14938531,23462431,2133-09-11 18:56:00,Input,Potassium Chloride,19.9999990016222,mEq,inputevents
+14938531,23462431,2133-09-11 18:56:00,Input,Water,1000.0000302791595,ml,ingredientevents
+14938531,23462431,2133-09-11 19:00:00,Output,Foley,40.0,ml,outputevents
+14938531,23462431,2133-09-11 20:00:00,Output,Foley,40.0,ml,outputevents
+14938531,23462431,2133-09-11 21:00:00,Output,Foley,95.0,ml,outputevents
+14938531,23462431,2133-09-11 23:00:00,Output,Nasogastric,100.0,ml,outputevents
+14938531,23462431,2133-09-12 00:00:00,Output,Foley,100.0,ml,outputevents
+14938531,23462431,2133-09-12 01:00:00,Output,Foley,40.0,ml,outputevents
+14938531,23462431,2133-09-12 01:45:00,Input,Metoprolol,5.000000353902578,mg,inputevents
+14938531,23462431,2133-09-12 02:00:00,Output,Foley,40.0,ml,outputevents
+14938531,23462431,2133-09-12 03:00:00,Output,Foley,40.0,ml,outputevents
+14938531,23462431,2133-09-12 03:36:00,Lab Result,Urea Nitrogen| Blood,16.0,mg/dL,labevents
+14938531,23462431,2133-09-12 03:36:00,Lab Result,Sodium| Blood,138.0,mEq/L,labevents
+14938531,23462431,2133-09-12 03:36:00,Lab Result,Potassium| Blood,3.3,mEq/L,labevents
+14938531,23462431,2133-09-12 03:36:00,Lab Result,Phosphate| Blood,2.2,mg/dL,labevents
+14938531,23462431,2133-09-12 03:36:00,Lab Result,Magnesium| Blood,2.0,mg/dL,labevents
+14938531,23462431,2133-09-12 03:36:00,Lab Result,Glucose| Blood,124.0,mg/dL,labevents
+14938531,23462431,2133-09-12 03:36:00,Lab Result,Creatinine| Blood,0.6,mg/dL,labevents
+14938531,23462431,2133-09-12 03:36:00,Lab Result,Hematocrit| Blood,27.9,%,labevents
+14938531,23462431,2133-09-12 03:36:00,Lab Result,Chloride| Blood,102.0,mEq/L,labevents
+14938531,23462431,2133-09-12 03:36:00,Lab Result,"Calcium, Total| Blood",7.9,mg/dL,labevents
+14938531,23462431,2133-09-12 03:36:00,Lab Result,Bicarbonate| Blood,26.0,mEq/L,labevents
+14938531,23462431,2133-09-12 03:36:00,Lab Result,Anion Gap| Blood,13.0,mEq/L,labevents
+14938531,23462431,2133-09-12 03:36:00,Lab Result,White Blood Cells| Blood,8.0,K/uL,labevents
+14938531,23462431,2133-09-12 03:36:00,Lab Result,Red Blood Cells| Blood,3.2,m/uL,labevents
+14938531,23462431,2133-09-12 03:36:00,Lab Result,RDW| Blood,13.1,%,labevents
+14938531,23462431,2133-09-12 03:36:00,Lab Result,Platelet Count| Blood,278.0,K/uL,labevents
+14938531,23462431,2133-09-12 03:36:00,Lab Result,MCV| Blood,87.0,fL,labevents
+14938531,23462431,2133-09-12 03:36:00,Lab Result,MCHC| Blood,34.1,%,labevents
+14938531,23462431,2133-09-12 03:36:00,Lab Result,MCH| Blood,29.7,pg,labevents
+14938531,23462431,2133-09-12 03:36:00,Lab Result,Hemoglobin| Blood,9.5,g/dL,labevents
+14938531,23462431,2133-09-12 04:00:00,Output,Foley,40.0,ml,outputevents
+14938531,23462431,2133-09-12 04:40:00,DateTime Obs,Arterial Line Dressing Change,2133-09-11 11:30:00,Date and Time,datetimeevents
+14938531,23462431,2133-09-12 04:40:00,DateTime Obs,Arterial line Insertion Date,2133-09-10 00:00:00,Date,datetimeevents
+14938531,23462431,2133-09-12 04:40:00,DateTime Obs,20 Gauge Insertion Date,2133-09-09 00:00:00,Date,datetimeevents
+14938531,23462431,2133-09-12 04:54:00,Input,Water,509.99998784065247,ml,ingredientevents
+14938531,23462431,2133-09-12 04:54:00,Input,Potassium Chloride,10.200000531971456,mEq,inputevents
+14938531,23462431,2133-09-12 04:54:00,Input,D5 1/2NS,509.99998784065247,ml,inputevents
+14938531,23462431,2133-09-12 04:54:00,Input,Calories,86.69999939203262,Kcal,ingredientevents
+14938531,23462431,2133-09-12 04:54:00,Input,IVF ingredient,509.99998784065247,ml,ingredientevents
+14938531,23462431,2133-09-12 05:00:00,Output,Foley,40.0,ml,outputevents
+14938531,23462431,2133-09-12 05:38:00,Input,Potassium Chloride,20.000000596046448,mEq,inputevents
+14938531,23462431,2133-09-12 05:38:00,Input,IVF ingredient,199.9999952316284,ml,ingredientevents
+14938531,23462431,2133-09-12 05:38:00,Input,KCL (Bolus),199.9999952316284,ml,inputevents
+14938531,23462431,2133-09-12 05:38:00,Input,Water,199.9999952316284,ml,ingredientevents
+14938531,23462431,2133-09-12 05:39:00,Input,Water,499.9999809265137,ml,ingredientevents
+14938531,23462431,2133-09-12 05:39:00,Input,IVF ingredient,499.9999809265137,ml,ingredientevents
+14938531,23462431,2133-09-12 05:39:00,Input,K Phos,15.00000071246177,mmol,inputevents
+14938531,23462431,2133-09-12 05:39:00,Input,NaCl 0.9%,499.9999809265137,ml,inputevents
+14938531,23462431,2133-09-12 06:00:00,Output,Foley,80.0,ml,outputevents
+14938531,23462431,2133-09-12 07:00:00,Output,Foley,60.0,ml,outputevents
+14938531,23462431,2133-09-12 08:00:00,DateTime Obs,Arterial Line Dressing Change,2133-09-11 11:30:00,Date and Time,datetimeevents
+14938531,23462431,2133-09-12 08:00:00,DateTime Obs,Arterial line Insertion Date,2133-09-10 00:00:00,Date,datetimeevents
+14938531,23462431,2133-09-12 08:00:00,Input,Solution,10.0,ml,inputevents
+14938531,23462431,2133-09-12 08:00:00,Output,Foley,50.0,ml,outputevents
+14938531,23462431,2133-09-12 08:00:00,Pharmacy,,,NaN,pharmacy
+14938531,23462431,2133-09-12 08:00:00,DateTime Obs,20 Gauge Insertion Date,2133-09-09 00:00:00,Date,datetimeevents
+14938531,23462431,2133-09-12 08:00:00,Input,Pantoprazole (Protonix),1.0,dose,inputevents
+14938531,23462431,2133-09-12 08:00:00,Input,IVF ingredient,10.0,ml,ingredientevents
+14938531,23462431,2133-09-12 08:00:00,Prescription,Potassium Chl 20 mEq / 1000 mL D5 1/2 NS,1000,mL,prescriptions
+14938531,23462431,2133-09-12 08:00:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+14938531,23462431,2133-09-12 08:00:00,Input,Water,10.0,ml,ingredientevents
+14938531,23462431,2133-09-12 08:29:00,Procedure,18 Gauge,0.33125,day,procedureevents
+14938531,23462431,2133-09-12 08:29:00,DateTime Obs,18 Gauge Insertion Date,2133-09-10 08:29:00,Date,datetimeevents
+14938531,23462431,2133-09-12 08:29:00,Procedure,18 Gauge,0.33125,day,procedureevents
+14938531,23462431,2133-09-12 09:00:00,Output,Foley,50.0,ml,outputevents
+14938531,23462431,2133-09-12 10:00:00,Input,Water,482.5,ml,ingredientevents
+14938531,23462431,2133-09-12 10:00:00,Input,Calories,82.02500230073929,Kcal,ingredientevents
+14938531,23462431,2133-09-12 10:00:00,Input,IVF ingredient,482.5,ml,ingredientevents
+14938531,23462431,2133-09-12 10:00:00,Output,Foley,40.0,ml,outputevents
+14938531,23462431,2133-09-12 10:00:00,Input,D5 1/2NS,482.5,ml,inputevents
+14938531,23462431,2133-09-12 10:00:00,Input,Potassium Chloride,9.650000862777231,mEq,inputevents
+14938531,23462431,2133-09-12 11:00:00,Output,Foley,40.0,ml,outputevents
+14938531,23462431,2133-09-12 12:00:00,Output,Foley,60.0,ml,outputevents
+14938531,23462431,2133-09-12 12:00:00,Output,Nasogastric,0.0,ml,outputevents
+14938531,23462431,2133-09-12 13:00:00,Output,Foley,50.0,ml,outputevents
+14938531,23462431,2133-09-12 14:00:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+14938531,23462431,2133-09-12 14:00:00,Output,Foley,40.0,ml,outputevents
+14938531,23462431,2133-09-12 15:00:00,Output,Foley,50.0,ml,outputevents
+14938531,23462431,2133-09-12 16:27:09,Transfer,transfer Med/Surg,NaN,NaN,transfers
+14938531,23462431,2133-09-12 18:00:00,Pharmacy,Sodium Chloride 0.9%  Flush,,NaN,pharmacy
+14938531,23462431,2133-09-12 18:00:00,Prescription,Sodium Chloride 0.9%  Flush,3,mL,prescriptions
+14938531,23462431,2133-09-12 23:00:00,Pharmacy,Zolpidem Tartrate,,NaN,pharmacy
+14938531,23462431,2133-09-12 23:00:00,Prescription,Zolpidem Tartrate,5,mg,prescriptions
+14938531,23462431,2133-09-13 06:50:00,Lab Result,Anion Gap| Blood,13.0,mEq/L,labevents
+14938531,23462431,2133-09-13 06:50:00,Lab Result,"Calcium, Total| Blood",7.8,mg/dL,labevents
+14938531,23462431,2133-09-13 06:50:00,Lab Result,Chloride| Blood,104.0,mEq/L,labevents
+14938531,23462431,2133-09-13 06:50:00,Lab Result,Creatinine| Blood,0.7,mg/dL,labevents
+14938531,23462431,2133-09-13 06:50:00,Lab Result,Estimated GFR (MDRD equation)| Blood,,,labevents
+14938531,23462431,2133-09-13 06:50:00,Lab Result,Magnesium| Blood,1.9,mg/dL,labevents
+14938531,23462431,2133-09-13 06:50:00,Lab Result,White Blood Cells| Blood,10.3,K/uL,labevents
+14938531,23462431,2133-09-13 06:50:00,Lab Result,Phosphate| Blood,2.6,mg/dL,labevents
+14938531,23462431,2133-09-13 06:50:00,Lab Result,Potassium| Blood,3.5,mEq/L,labevents
+14938531,23462431,2133-09-13 06:50:00,Lab Result,Sodium| Blood,139.0,mEq/L,labevents
+14938531,23462431,2133-09-13 06:50:00,Lab Result,Glucose| Blood,111.0,mg/dL,labevents
+14938531,23462431,2133-09-13 06:50:00,Lab Result,Red Blood Cells| Blood,3.14,m/uL,labevents
+14938531,23462431,2133-09-13 06:50:00,Lab Result,Urea Nitrogen| Blood,14.0,mg/dL,labevents
+14938531,23462431,2133-09-13 06:50:00,Lab Result,Platelet Count| Blood,349.0,K/uL,labevents
+14938531,23462431,2133-09-13 06:50:00,Lab Result,RDW| Blood,13.5,%,labevents
+14938531,23462431,2133-09-13 06:50:00,Lab Result,Hematocrit| Blood,27.9,%,labevents
+14938531,23462431,2133-09-13 06:50:00,Lab Result,Hemoglobin| Blood,9.5,g/dL,labevents
+14938531,23462431,2133-09-13 06:50:00,Lab Result,Bicarbonate| Blood,26.0,mEq/L,labevents
+14938531,23462431,2133-09-13 06:50:00,Lab Result,MCHC| Blood,34.2,%,labevents
+14938531,23462431,2133-09-13 06:50:00,Lab Result,MCH| Blood,30.3,pg,labevents
+14938531,23462431,2133-09-13 06:50:00,Lab Result,MCV| Blood,89.0,fL,labevents
+14938531,23462431,2133-09-13 10:00:00,Prescription,Hydrocodone-Acetaminophen,1-2,TAB,prescriptions
+14938531,23462431,2133-09-13 10:00:00,Pharmacy,Potassium Phosphate,,NaN,pharmacy
+14938531,23462431,2133-09-13 10:00:00,Prescription,dutasteride,0.5,mg,prescriptions
+14938531,23462431,2133-09-13 10:00:00,Prescription,Pantoprazole,40,mg,prescriptions
+14938531,23462431,2133-09-13 10:00:00,Prescription,Potassium Phosphate,30,mmol,prescriptions
+14938531,23462431,2133-09-13 10:00:00,Pharmacy,Pantoprazole,,NaN,pharmacy
+14938531,23462431,2133-09-13 10:00:00,Prescription,0.9% Sodium Chloride,500,mL,prescriptions
+14938531,23462431,2133-09-13 10:00:00,Pharmacy,dutasteride,,NaN,pharmacy
+14938531,23462431,2133-09-13 10:00:00,Pharmacy,Hydrocodone-Acetaminophen,,NaN,pharmacy
+14938531,23462431,2133-09-13 16:00:00,Prescription,traZODONE,50,mg,prescriptions
+14938531,23462431,2133-09-13 16:00:00,Pharmacy,OxycoDONE (Immediate Release) ,,NaN,pharmacy
+14938531,23462431,2133-09-13 16:00:00,Pharmacy,Acetaminophen,,NaN,pharmacy
+14938531,23462431,2133-09-13 16:00:00,Prescription,OxycoDONE (Immediate Release) ,5,mg,prescriptions
+14938531,23462431,2133-09-13 16:00:00,Pharmacy,traZODONE,,NaN,pharmacy
+14938531,23462431,2133-09-13 16:00:00,Prescription,Acetaminophen,325-650,mg,prescriptions
+14938531,23462431,2133-09-13 22:00:00,Pharmacy,Tamsulosin,,NaN,pharmacy
+14938531,23462431,2133-09-13 22:00:00,Prescription,Tamsulosin,0.4,mg,prescriptions
+14938531,23462431,2133-09-14 08:00:00,Pharmacy,,,NaN,pharmacy
+14938531,23462431,2133-09-14 08:00:00,Prescription,Potassium Chl 20 mEq / 1000 mL D5 1/2 NS,1000,mL,prescriptions
+14938531,23462431,2133-09-14 09:00:00,Pharmacy,Readi-Cat 2 (Barium Sulfate 2% Suspension),,NaN,pharmacy
+14938531,23462431,2133-09-14 09:00:00,Prescription,Potassium Chl 20 mEq / 1000 mL D5 1/2 NS,1000,mL,prescriptions
+14938531,23462431,2133-09-14 09:00:00,Prescription,Readi-Cat 2 (Barium Sulfate 2% Suspension),900,mL,prescriptions
+14938531,23462431,2133-09-14 09:00:00,Pharmacy,,,NaN,pharmacy
+14938531,23462431,2133-09-14 10:00:00,Pharmacy,Bisacodyl,,NaN,pharmacy
+14938531,23462431,2133-09-14 10:00:00,Prescription,Bisacodyl,10,mg,prescriptions
+14938531,23462431,2133-09-14 15:25:00,Lab Result,White Blood Cells| Blood,13.8,K/uL,labevents
+14938531,23462431,2133-09-14 15:25:00,Lab Result,Anion Gap| Blood,13.0,mEq/L,labevents
+14938531,23462431,2133-09-14 15:25:00,Lab Result,Magnesium| Blood,1.9,mg/dL,labevents
+14938531,23462431,2133-09-14 15:25:00,Lab Result,RDW| Blood,13.2,%,labevents
+14938531,23462431,2133-09-14 15:25:00,Lab Result,Platelet Count| Blood,440.0,K/uL,labevents
+14938531,23462431,2133-09-14 15:25:00,Lab Result,Red Blood Cells| Blood,3.59,m/uL,labevents
+14938531,23462431,2133-09-14 15:25:00,Lab Result,MCV| Blood,87.0,fL,labevents
+14938531,23462431,2133-09-14 15:25:00,Lab Result,Bicarbonate| Blood,27.0,mEq/L,labevents
+14938531,23462431,2133-09-14 15:25:00,Lab Result,"Calcium, Total| Blood",8.5,mg/dL,labevents
+14938531,23462431,2133-09-14 15:25:00,Lab Result,Chloride| Blood,101.0,mEq/L,labevents
+14938531,23462431,2133-09-14 15:25:00,Lab Result,MCHC| Blood,34.9,%,labevents
+14938531,23462431,2133-09-14 15:25:00,Lab Result,Glucose| Blood,124.0,mg/dL,labevents
+14938531,23462431,2133-09-14 15:25:00,Lab Result,Hematocrit| Blood,31.2,%,labevents
+14938531,23462431,2133-09-14 15:25:00,Lab Result,Potassium| Blood,3.7,mEq/L,labevents
+14938531,23462431,2133-09-14 15:25:00,Lab Result,Creatinine| Blood,0.7,mg/dL,labevents
+14938531,23462431,2133-09-14 15:25:00,Lab Result,Sodium| Blood,137.0,mEq/L,labevents
+14938531,23462431,2133-09-14 15:25:00,Lab Result,PTT| Blood,28.6,sec,labevents
+14938531,23462431,2133-09-14 15:25:00,Lab Result,Hemoglobin| Blood,10.9,g/dL,labevents
+14938531,23462431,2133-09-14 15:25:00,Lab Result,INR(PT)| Blood,1.3,,labevents
+14938531,23462431,2133-09-14 15:25:00,Lab Result,Phosphate| Blood,2.3,mg/dL,labevents
+14938531,23462431,2133-09-14 15:25:00,Lab Result,MCH| Blood,30.4,pg,labevents
+14938531,23462431,2133-09-14 15:25:00,Lab Result,PT| Blood,15.2,sec,labevents
+14938531,23462431,2133-09-14 15:25:00,Lab Result,Urea Nitrogen| Blood,13.0,mg/dL,labevents
+14938531,23462431,2133-09-14 15:57:45,Transfer,transfer Med/Surg,NaN,NaN,transfers
+14938531,23462431,2133-09-14 18:00:00,Prescription,5% Dextrose,200,mL,prescriptions
+14938531,23462431,2133-09-14 18:00:00,Prescription,Ciprofloxacin IV,400,mg,prescriptions
+14938531,23462431,2133-09-14 18:00:00,Pharmacy,MetRONIDAZOLE (FLagyl),,NaN,pharmacy
+14938531,23462431,2133-09-14 18:00:00,Pharmacy,Ciprofloxacin,,NaN,pharmacy
+14938531,23462431,2133-09-14 18:00:00,Prescription,MetRONIDAZOLE (FLagyl),500,mg,prescriptions
+14938531,23462431,2133-09-14 18:00:00,Prescription,NS,100,mL,prescriptions
+14938531,23462431,2133-09-14 22:00:00,Pharmacy,Pantoprazole,,NaN,pharmacy
+14938531,23462431,2133-09-14 22:00:00,Pharmacy,Lorazepam,,NaN,pharmacy
+14938531,23462431,2133-09-14 22:00:00,Prescription,Lorazepam,0.5,mg,prescriptions
+14938531,23462431,2133-09-14 22:00:00,Prescription,Vial,1,VIAL,prescriptions
+14938531,23462431,2133-09-14 22:00:00,Pharmacy,Morphine Sulfate,,NaN,pharmacy
+14938531,23462431,2133-09-14 22:00:00,Prescription,Morphine Sulfate,1-2,mg,prescriptions
+14938531,23462431,2133-09-14 22:00:00,Prescription,Pantoprazole,40,mg,prescriptions
+14938531,23462431,2133-09-15 06:45:00,Lab Result,Urea Nitrogen| Blood,10.0,mg/dL,labevents
+14938531,23462431,2133-09-15 06:45:00,Lab Result,MCV| Blood,88.0,fL,labevents
+14938531,23462431,2133-09-15 06:45:00,Lab Result,MCHC| Blood,34.9,%,labevents
+14938531,23462431,2133-09-15 06:45:00,Lab Result,INR(PT)| Blood,1.4,,labevents
+14938531,23462431,2133-09-15 06:45:00,Lab Result,PT| Blood,15.9,sec,labevents
+14938531,23462431,2133-09-15 06:45:00,Lab Result,Triglycerides| Blood,115.0,mg/dL,labevents
+14938531,23462431,2133-09-15 06:45:00,Lab Result,PTT| Blood,30.2,sec,labevents
+14938531,23462431,2133-09-15 06:45:00,Lab Result,Sodium| Blood,136.0,mEq/L,labevents
+14938531,23462431,2133-09-15 06:45:00,Lab Result,Platelet Count| Blood,442.0,K/uL,labevents
+14938531,23462431,2133-09-15 06:45:00,Lab Result,Hematocrit| Blood,27.5,%,labevents
+14938531,23462431,2133-09-15 06:45:00,Lab Result,Magnesium| Blood,1.9,mg/dL,labevents
+14938531,23462431,2133-09-15 06:45:00,Lab Result,MCH| Blood,30.7,pg,labevents
+14938531,23462431,2133-09-15 06:45:00,Lab Result,Potassium| Blood,3.2,mEq/L,labevents
+14938531,23462431,2133-09-15 06:45:00,Lab Result,Phosphate| Blood,2.9,mg/dL,labevents
+14938531,23462431,2133-09-15 06:45:00,Lab Result,White Blood Cells| Blood,11.2,K/uL,labevents
+14938531,23462431,2133-09-15 06:45:00,Lab Result,Red Blood Cells| Blood,3.13,m/uL,labevents
+14938531,23462431,2133-09-15 06:45:00,Lab Result,Hemoglobin| Blood,9.6,g/dL,labevents
+14938531,23462431,2133-09-15 06:45:00,Lab Result,Glucose| Blood,118.0,mg/dL,labevents
+14938531,23462431,2133-09-15 06:45:00,Lab Result,Creatinine| Blood,0.7,mg/dL,labevents
+14938531,23462431,2133-09-15 06:45:00,Lab Result,RDW| Blood,13.8,%,labevents
+14938531,23462431,2133-09-15 06:45:00,Lab Result,Chloride| Blood,103.0,mEq/L,labevents
+14938531,23462431,2133-09-15 06:45:00,Lab Result,"Calcium, Total| Blood",7.9,mg/dL,labevents
+14938531,23462431,2133-09-15 06:45:00,Lab Result,Bicarbonate| Blood,23.0,mEq/L,labevents
+14938531,23462431,2133-09-15 06:45:00,Lab Result,Anion Gap| Blood,13.0,mEq/L,labevents
+14938531,23462431,2133-09-15 07:00:00,Prescription,Sarna Lotion,1,Appl,prescriptions
+14938531,23462431,2133-09-15 07:00:00,Pharmacy,Sarna Lotion,,NaN,pharmacy
+14938531,23462431,2133-09-15 09:00:00,Pharmacy,,,NaN,pharmacy
+14938531,23462431,2133-09-15 12:00:00,Prescription,0.9% Sodium Chloride,250,mL,prescriptions
+14938531,23462431,2133-09-15 12:00:00,Prescription,Sodium Chloride 0.9%  Flush,10,mL,prescriptions
+14938531,23462431,2133-09-15 12:00:00,Pharmacy,Sodium Chloride 0.9%  Flush,,NaN,pharmacy
+14938531,23462431,2133-09-15 12:00:00,Prescription,Potassium Chloride,20,mEq,prescriptions
+14938531,23462431,2133-09-15 12:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+14938531,23462431,2133-09-15 12:00:00,Prescription,Potassium Chloride,40,mEq,prescriptions
+14938531,23462431,2133-09-15 12:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+14938531,23462431,2133-09-15 12:00:00,Prescription,0.9% Sodium Chloride,500,mL,prescriptions
+14938531,23462431,2133-09-15 17:00:00,Pharmacy,,,NaN,pharmacy
+14938531,23462431,2133-09-15 17:00:00,Pharmacy,Insulin,,NaN,pharmacy
+14938531,23462431,2133-09-15 17:00:00,Pharmacy,Glucagon,,NaN,pharmacy
+14938531,23462431,2133-09-15 17:00:00,Prescription,1/2 NS,1000,mL,prescriptions
+14938531,23462431,2133-09-15 17:00:00,Pharmacy,Dextrose 50%,,NaN,pharmacy
+14938531,23462431,2133-09-15 17:00:00,Prescription,Insulin,0,UNIT,prescriptions
+14938531,23462431,2133-09-15 17:00:00,Prescription,Dextrose 50%,12.5,gm,prescriptions
+14938531,23462431,2133-09-15 17:00:00,Prescription,Glucagon,1,mg,prescriptions
+14938531,23462431,2133-09-16 03:23:00,Lab Result,Hematocrit| Blood,27.1,%,labevents
+14938531,23462431,2133-09-16 03:23:00,Lab Result,MCHC| Blood,34.7,%,labevents
+14938531,23462431,2133-09-16 03:23:00,Lab Result,MCH| Blood,30.5,pg,labevents
+14938531,23462431,2133-09-16 03:23:00,Lab Result,Hemoglobin| Blood,9.4,g/dL,labevents
+14938531,23462431,2133-09-16 03:23:00,Lab Result,Urea Nitrogen| Blood,9.0,mg/dL,labevents
+14938531,23462431,2133-09-16 03:23:00,Lab Result,Sodium| Blood,140.0,mEq/L,labevents
+14938531,23462431,2133-09-16 03:23:00,Lab Result,Phosphate| Blood,3.0,mg/dL,labevents
+14938531,23462431,2133-09-16 03:23:00,Lab Result,Magnesium| Blood,1.9,mg/dL,labevents
+14938531,23462431,2133-09-16 03:23:00,Lab Result,Glucose| Blood,110.0,mg/dL,labevents
+14938531,23462431,2133-09-16 03:23:00,Lab Result,Creatinine| Blood,0.7,mg/dL,labevents
+14938531,23462431,2133-09-16 03:23:00,Lab Result,Chloride| Blood,105.0,mEq/L,labevents
+14938531,23462431,2133-09-16 03:23:00,Lab Result,Potassium| Blood,3.6,mEq/L,labevents
+14938531,23462431,2133-09-16 03:23:00,Lab Result,Bicarbonate| Blood,25.0,mEq/L,labevents
+14938531,23462431,2133-09-16 03:23:00,Lab Result,Anion Gap| Blood,14.0,mEq/L,labevents
+14938531,23462431,2133-09-16 03:23:00,Lab Result,White Blood Cells| Blood,10.2,K/uL,labevents
+14938531,23462431,2133-09-16 03:23:00,Lab Result,Red Blood Cells| Blood,3.08,m/uL,labevents
+14938531,23462431,2133-09-16 03:23:00,Lab Result,RDW| Blood,13.7,%,labevents
+14938531,23462431,2133-09-16 03:23:00,Lab Result,Platelet Count| Blood,486.0,K/uL,labevents
+14938531,23462431,2133-09-16 03:23:00,Lab Result,"Calcium, Total| Blood",7.9,mg/dL,labevents
+14938531,23462431,2133-09-16 03:23:00,Lab Result,MCV| Blood,88.0,fL,labevents
+14938531,23462431,2133-09-16 10:00:00,Prescription,Potassium Chloride,40,mEq,prescriptions
+14938531,23462431,2133-09-16 10:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+14938531,23462431,2133-09-16 12:00:00,Pharmacy,,,NaN,pharmacy
+14938531,23462431,2133-09-17 04:01:00,Lab Result,Urea Nitrogen| Blood,10.0,mg/dL,labevents
+14938531,23462431,2133-09-17 04:01:00,Lab Result,Sodium| Blood,138.0,mEq/L,labevents
+14938531,23462431,2133-09-17 04:01:00,Lab Result,Phosphate| Blood,3.5,mg/dL,labevents
+14938531,23462431,2133-09-17 04:01:00,Lab Result,Magnesium| Blood,2.1,mg/dL,labevents
+14938531,23462431,2133-09-17 04:01:00,Lab Result,Potassium| Blood,4.0,mEq/L,labevents
+14938531,23462431,2133-09-17 04:01:00,Lab Result,Creatinine| Blood,0.6,mg/dL,labevents
+14938531,23462431,2133-09-17 04:01:00,Lab Result,Chloride| Blood,104.0,mEq/L,labevents
+14938531,23462431,2133-09-17 04:01:00,Lab Result,"Calcium, Total| Blood",8.0,mg/dL,labevents
+14938531,23462431,2133-09-17 04:01:00,Lab Result,Bicarbonate| Blood,24.0,mEq/L,labevents
+14938531,23462431,2133-09-17 04:01:00,Lab Result,Anion Gap| Blood,14.0,mEq/L,labevents
+14938531,23462431,2133-09-17 04:01:00,Lab Result,Glucose| Blood,111.0,mg/dL,labevents
+14938531,23462431,2133-09-17 13:00:00,Pharmacy,,,NaN,pharmacy
+14938531,23462431,2133-09-18 04:43:00,Lab Result,White Blood Cells| Blood,13.4,K/uL,labevents
+14938531,23462431,2133-09-18 04:43:00,Lab Result,Red Blood Cells| Blood,3.36,m/uL,labevents
+14938531,23462431,2133-09-18 04:43:00,Lab Result,RDW| Blood,13.5,%,labevents
+14938531,23462431,2133-09-18 04:43:00,Lab Result,Platelet Count| Blood,578.0,K/uL,labevents
+14938531,23462431,2133-09-18 04:43:00,Lab Result,MCV| Blood,88.0,fL,labevents
+14938531,23462431,2133-09-18 04:43:00,Lab Result,MCHC| Blood,33.1,%,labevents
+14938531,23462431,2133-09-18 04:43:00,Lab Result,MCH| Blood,29.1,pg,labevents
+14938531,23462431,2133-09-18 04:43:00,Lab Result,Hemoglobin| Blood,9.8,g/dL,labevents
+14938531,23462431,2133-09-18 04:43:00,Lab Result,Urea Nitrogen| Blood,15.0,mg/dL,labevents
+14938531,23462431,2133-09-18 04:43:00,Lab Result,Sodium| Blood,134.0,mEq/L,labevents
+14938531,23462431,2133-09-18 04:43:00,Lab Result,Potassium| Blood,4.6,mEq/L,labevents
+14938531,23462431,2133-09-18 04:43:00,Lab Result,Phosphate| Blood,3.3,mg/dL,labevents
+14938531,23462431,2133-09-18 04:43:00,Lab Result,Magnesium| Blood,2.1,mg/dL,labevents
+14938531,23462431,2133-09-18 04:43:00,Lab Result,Glucose| Blood,112.0,mg/dL,labevents
+14938531,23462431,2133-09-18 04:43:00,Lab Result,Creatinine| Blood,0.6,mg/dL,labevents
+14938531,23462431,2133-09-18 04:43:00,Lab Result,Chloride| Blood,102.0,mEq/L,labevents
+14938531,23462431,2133-09-18 04:43:00,Lab Result,Bicarbonate| Blood,23.0,mEq/L,labevents
+14938531,23462431,2133-09-18 04:43:00,Lab Result,Anion Gap| Blood,14.0,mEq/L,labevents
+14938531,23462431,2133-09-18 04:43:00,Lab Result,Hematocrit| Blood,29.5,%,labevents
+14938531,23462431,2133-09-18 04:43:00,Lab Result,"Calcium, Total| Blood",8.1,mg/dL,labevents
+14938531,23462431,2133-09-18 09:00:00,Pharmacy,,,NaN,pharmacy
+14938531,23462431,2133-09-18 11:00:00,Pharmacy,,,NaN,pharmacy
+14938531,23462431,2133-09-18 11:00:00,Prescription,1/2 NS,1000,mL,prescriptions
+14938531,23462431,2133-09-19 06:07:00,Lab Result,Bicarbonate| Blood,22.0,mEq/L,labevents
+14938531,23462431,2133-09-19 06:07:00,Lab Result,Hematocrit| Blood,29.1,%,labevents
+14938531,23462431,2133-09-19 06:07:00,Lab Result,Urea Nitrogen| Blood,17.0,mg/dL,labevents
+14938531,23462431,2133-09-19 06:07:00,Lab Result,MCHC| Blood,35.0,%,labevents
+14938531,23462431,2133-09-19 06:07:00,Lab Result,Sodium| Blood,136.0,mEq/L,labevents
+14938531,23462431,2133-09-19 06:07:00,Lab Result,MCV| Blood,88.0,fL,labevents
+14938531,23462431,2133-09-19 06:07:00,Lab Result,Platelet Count| Blood,610.0,K/uL,labevents
+14938531,23462431,2133-09-19 06:07:00,Lab Result,RDW| Blood,14.0,%,labevents
+14938531,23462431,2133-09-19 06:07:00,Lab Result,Potassium| Blood,4.4,mEq/L,labevents
+14938531,23462431,2133-09-19 06:07:00,Lab Result,Phosphate| Blood,3.5,mg/dL,labevents
+14938531,23462431,2133-09-19 06:07:00,Lab Result,Red Blood Cells| Blood,3.31,m/uL,labevents
+14938531,23462431,2133-09-19 06:07:00,Lab Result,Magnesium| Blood,2.2,mg/dL,labevents
+14938531,23462431,2133-09-19 06:07:00,Lab Result,White Blood Cells| Blood,12.1,K/uL,labevents
+14938531,23462431,2133-09-19 06:07:00,Lab Result,Glucose| Blood,120.0,mg/dL,labevents
+14938531,23462431,2133-09-19 06:07:00,Lab Result,Anion Gap| Blood,13.0,mEq/L,labevents
+14938531,23462431,2133-09-19 06:07:00,Lab Result,Creatinine| Blood,0.6,mg/dL,labevents
+14938531,23462431,2133-09-19 06:07:00,Lab Result,Chloride| Blood,105.0,mEq/L,labevents
+14938531,23462431,2133-09-19 06:07:00,Lab Result,"Calcium, Total| Blood",8.2,mg/dL,labevents
+14938531,23462431,2133-09-19 06:07:00,Lab Result,MCH| Blood,30.7,pg,labevents
+14938531,23462431,2133-09-19 06:07:00,Lab Result,Hemoglobin| Blood,10.2,g/dL,labevents
+14938531,23462431,2133-09-19 08:00:00,Prescription,1/2 NS,1000,mL,prescriptions
+14938531,23462431,2133-09-19 08:00:00,Prescription,1/2 NS,1000,mL,prescriptions
+14938531,23462431,2133-09-19 08:00:00,Pharmacy,,,NaN,pharmacy
+14938531,23462431,2133-09-19 08:00:00,Pharmacy,,,NaN,pharmacy
+14938531,23462431,2133-09-19 09:00:00,Pharmacy,,,NaN,pharmacy
+14938531,23462431,2133-09-19 10:00:00,Pharmacy,dutasteride,,NaN,pharmacy
+14938531,23462431,2133-09-19 10:00:00,Prescription,dutasteride,0.5,mg,prescriptions
+14938531,23462431,2133-09-19 10:00:00,Pharmacy,dutasteride,,NaN,pharmacy
+14938531,23462431,2133-09-19 10:00:00,Prescription,dutasteride,0.5,mg,prescriptions
+14938531,23462431,2133-09-19 22:00:00,Prescription,Tamsulosin,0.4,mg,prescriptions
+14938531,23462431,2133-09-19 22:00:00,Pharmacy,Tamsulosin,,NaN,pharmacy
+14938531,23462431,2133-09-20 05:23:00,Lab Result,Anion Gap| Blood,10.0,mEq/L,labevents
+14938531,23462431,2133-09-20 05:23:00,Lab Result,Bicarbonate| Blood,25.0,mEq/L,labevents
+14938531,23462431,2133-09-20 05:23:00,Lab Result,"Calcium, Total| Blood",8.2,mg/dL,labevents
+14938531,23462431,2133-09-20 05:23:00,Lab Result,Chloride| Blood,105.0,mEq/L,labevents
+14938531,23462431,2133-09-20 05:23:00,Lab Result,Creatinine| Blood,0.7,mg/dL,labevents
+14938531,23462431,2133-09-20 05:23:00,Lab Result,Glucose| Blood,134.0,mg/dL,labevents
+14938531,23462431,2133-09-20 05:23:00,Lab Result,Magnesium| Blood,2.2,mg/dL,labevents
+14938531,23462431,2133-09-20 05:23:00,Lab Result,Urea Nitrogen| Blood,19.0,mg/dL,labevents
+14938531,23462431,2133-09-20 05:23:00,Lab Result,Potassium| Blood,4.4,mEq/L,labevents
+14938531,23462431,2133-09-20 05:23:00,Lab Result,Sodium| Blood,136.0,mEq/L,labevents
+14938531,23462431,2133-09-20 05:23:00,Lab Result,Phosphate| Blood,3.4,mg/dL,labevents
+14938531,23462431,2133-09-20 08:00:00,Pharmacy,,,NaN,pharmacy
+14938531,23462431,2133-09-20 08:00:00,Prescription,0.45% Sodium Chloride,1000,mL,prescriptions
+14938531,23462431,2133-09-20 11:00:00,Pharmacy,,,NaN,pharmacy
+14938531,23462431,2133-09-20 11:00:00,Pharmacy,Readi-Cat 2 (Barium Sulfate 2% Suspension),,NaN,pharmacy
+14938531,23462431,2133-09-20 11:00:00,Prescription,Readi-Cat 2 (Barium Sulfate 2% Suspension),900,mL,prescriptions
+14938531,23462431,2133-09-20 21:00:00,Pharmacy,OxycoDONE (Immediate Release) ,,NaN,pharmacy
+14938531,23462431,2133-09-20 21:00:00,Prescription,Lorazepam,0.5,mg,prescriptions
+14938531,23462431,2133-09-20 21:00:00,Pharmacy,Pantoprazole,,NaN,pharmacy
+14938531,23462431,2133-09-20 21:00:00,Pharmacy,Lorazepam,,NaN,pharmacy
+14938531,23462431,2133-09-20 21:00:00,Prescription,Pantoprazole,40,mg,prescriptions
+14938531,23462431,2133-09-20 21:00:00,Prescription,OxycoDONE (Immediate Release) ,2.5-5,mg,prescriptions
+14938531,23462431,2133-09-21 01:00:00,Pharmacy,Ciprofloxacin HCl,,NaN,pharmacy
+14938531,23462431,2133-09-21 01:00:00,Prescription,Ciprofloxacin HCl,500,mg,prescriptions
+14938531,23462431,2133-09-21 01:00:00,Prescription,MetRONIDAZOLE (FLagyl),500,mg,prescriptions
+14938531,23462431,2133-09-21 01:00:00,Pharmacy,MetRONIDAZOLE (FLagyl),,NaN,pharmacy
+14938531,23462431,2133-09-21 04:34:00,Lab Result,Urea Nitrogen| Blood,23.0,mg/dL,labevents
+14938531,23462431,2133-09-21 04:34:00,Lab Result,Potassium| Blood,4.5,mEq/L,labevents
+14938531,23462431,2133-09-21 04:34:00,Lab Result,Phosphate| Blood,3.3,mg/dL,labevents
+14938531,23462431,2133-09-21 04:34:00,Lab Result,Glucose| Blood,120.0,mg/dL,labevents
+14938531,23462431,2133-09-21 04:34:00,Lab Result,Estimated GFR (MDRD equation)| Blood,,,labevents
+14938531,23462431,2133-09-21 04:34:00,Lab Result,Creatinine| Blood,0.7,mg/dL,labevents
+14938531,23462431,2133-09-21 04:34:00,Lab Result,Chloride| Blood,105.0,mEq/L,labevents
+14938531,23462431,2133-09-21 04:34:00,Lab Result,"Calcium, Total| Blood",8.4,mg/dL,labevents
+14938531,23462431,2133-09-21 04:34:00,Lab Result,Bicarbonate| Blood,25.0,mEq/L,labevents
+14938531,23462431,2133-09-21 04:34:00,Lab Result,Anion Gap| Blood,10.0,mEq/L,labevents
+14938531,23462431,2133-09-21 04:34:00,Lab Result,Sodium| Blood,135.0,mEq/L,labevents
+14938531,23462431,2133-09-21 04:34:00,Lab Result,Magnesium| Blood,2.3,mg/dL,labevents
+14938531,23462431,2133-09-21 12:47:11,Transfer,discharge,NaN,NaN,transfers

@@ -1,0 +1,898 @@
+subject_id,hadm_id,event_time,event_type,description,value,unit,source_table
+14983072,20660097,2161-08-08 02:50:30,Transfer,admit Discharge Lounge,NaN,NaN,transfers
+14983072,20660097,2161-08-08 02:50:30,Service,TSURG,NaN,NaN,services
+14983072,20660097,2161-08-08 08:00:00,Admission,SURGICAL SAME DAY ADMISSION,NaN,NaN,admissions
+14983072,20660097,2161-08-08 10:00:00,Pharmacy,Liothyronine Sodium,,NaN,pharmacy
+14983072,20660097,2161-08-08 10:00:00,Prescription,Liothyronine Sodium,50,mcg,prescriptions
+14983072,20660097,2161-08-08 10:00:00,Prescription,Levothyroxine Sodium,100,mcg,prescriptions
+14983072,20660097,2161-08-08 10:00:00,Pharmacy,Levothyroxine Sodium,,NaN,pharmacy
+14983072,20660097,2161-08-08 13:53:00,Lab Result,Free Calcium| Blood,1.15,mmol/L,labevents
+14983072,20660097,2161-08-08 13:53:00,Lab Result,Glucose| Blood,116.0,mg/dL,labevents
+14983072,20660097,2161-08-08 13:53:00,Lab Result,"Hematocrit, Calculated| Blood",38.0,%,labevents
+14983072,20660097,2161-08-08 13:53:00,Lab Result,Hemoglobin| Blood,12.5,g/dL,labevents
+14983072,20660097,2161-08-08 13:53:00,Lab Result,Calculated Total CO2| Blood,26.0,mEq/L,labevents
+14983072,20660097,2161-08-08 13:53:00,Lab Result,Lactate| Blood,1.0,mmol/L,labevents
+14983072,20660097,2161-08-08 13:53:00,Lab Result,pH| Blood,7.35,units,labevents
+14983072,20660097,2161-08-08 13:53:00,Lab Result,pCO2| Blood,46.0,mm Hg,labevents
+14983072,20660097,2161-08-08 13:53:00,Lab Result,"Chloride, Whole Blood| Blood",102.0,mEq/L,labevents
+14983072,20660097,2161-08-08 13:53:00,Lab Result,"Potassium, Whole Blood| Blood",4.1,mEq/L,labevents
+14983072,20660097,2161-08-08 13:53:00,Lab Result,Base Excess| Blood,0.0,mEq/L,labevents
+14983072,20660097,2161-08-08 13:53:00,Lab Result,"Sodium, Whole Blood| Blood",137.0,mEq/L,labevents
+14983072,20660097,2161-08-08 13:53:00,Lab Result,Specimen Type| Blood,,,labevents
+14983072,20660097,2161-08-08 13:53:00,Lab Result,Oxygen Saturation| Blood,99.0,%,labevents
+14983072,20660097,2161-08-08 13:53:00,Lab Result,pO2| Blood,256.0,mm Hg,labevents
+14983072,20660097,2161-08-08 14:25:35,Transfer,transfer PACU,NaN,NaN,transfers
+14983072,20660097,2161-08-08 18:36:00,Procedure,Arterial Line,2184.0,min,procedureevents
+14983072,20660097,2161-08-08 18:36:00,DateTime Obs,Arterial line Cap Change,2161-08-08 07:53:00,Date,datetimeevents
+14983072,20660097,2161-08-08 18:36:00,DateTime Obs,Arterial Line Dressing Change,2161-08-08 18:36:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-08 18:36:00,DateTime Obs,Arterial line Insertion Date,2161-08-08 07:53:00,Date,datetimeevents
+14983072,20660097,2161-08-08 18:36:00,DateTime Obs,Arterial line Tubing Change,2161-08-08 07:53:00,Date,datetimeevents
+14983072,20660097,2161-08-08 18:36:00,Procedure,Arterial Line,2184.0,min,procedureevents
+14983072,20660097,2161-08-08 18:36:45,Transfer,transfer Trauma SICU (TSICU),NaN,NaN,transfers
+14983072,20660097,2161-08-08 18:58:00,Procedure,OR Received,1.0,,procedureevents
+14983072,20660097,2161-08-08 18:58:00,Procedure,OR Received,1.0,,procedureevents
+14983072,20660097,2161-08-08 18:59:00,Lab Result,White Blood Cells| Blood,17.9,K/uL,labevents
+14983072,20660097,2161-08-08 18:59:00,Lab Result,Chloride| Blood,105.0,mEq/L,labevents
+14983072,20660097,2161-08-08 18:59:00,Lab Result,Creatine Kinase (CK)| Blood,3251.0,IU/L,labevents
+14983072,20660097,2161-08-08 18:59:00,Lab Result,"Creatine Kinase, MB Isoenzyme| Blood",36.0,ng/mL,labevents
+14983072,20660097,2161-08-08 18:59:00,Lab Result,Creatinine| Blood,0.9,mg/dL,labevents
+14983072,20660097,2161-08-08 18:59:00,Lab Result,Glucose| Blood,154.0,mg/dL,labevents
+14983072,20660097,2161-08-08 18:59:00,Lab Result,Magnesium| Blood,1.9,mg/dL,labevents
+14983072,20660097,2161-08-08 18:59:00,Lab Result,CK-MB Index| Blood,1.1,%,labevents
+14983072,20660097,2161-08-08 18:59:00,Lab Result,Phosphate| Blood,3.6,mg/dL,labevents
+14983072,20660097,2161-08-08 18:59:00,Lab Result,Potassium| Blood,5.1,mEq/L,labevents
+14983072,20660097,2161-08-08 18:59:00,Lab Result,Sodium| Blood,137.0,mEq/L,labevents
+14983072,20660097,2161-08-08 18:59:00,Lab Result,Urea Nitrogen| Blood,12.0,mg/dL,labevents
+14983072,20660097,2161-08-08 18:59:00,Lab Result,Hematocrit| Blood,33.5,%,labevents
+14983072,20660097,2161-08-08 18:59:00,Lab Result,Hemoglobin| Blood,11.8,g/dL,labevents
+14983072,20660097,2161-08-08 18:59:00,Lab Result,MCH| Blood,29.1,pg,labevents
+14983072,20660097,2161-08-08 18:59:00,Lab Result,MCHC| Blood,35.2,%,labevents
+14983072,20660097,2161-08-08 18:59:00,Lab Result,MCV| Blood,83.0,fL,labevents
+14983072,20660097,2161-08-08 18:59:00,Lab Result,Platelet Count| Blood,257.0,K/uL,labevents
+14983072,20660097,2161-08-08 18:59:00,Lab Result,RDW| Blood,14.9,%,labevents
+14983072,20660097,2161-08-08 18:59:00,Lab Result,Red Blood Cells| Blood,4.06,m/uL,labevents
+14983072,20660097,2161-08-08 18:59:00,Lab Result,Bicarbonate| Blood,23.0,mEq/L,labevents
+14983072,20660097,2161-08-08 18:59:00,Lab Result,Anion Gap| Blood,14.0,mEq/L,labevents
+14983072,20660097,2161-08-08 18:59:00,Lab Result,"Calcium, Total| Blood",8.5,mg/dL,labevents
+14983072,20660097,2161-08-08 18:59:00,Lab Result,Blue Top Hold| Blood,,,labevents
+14983072,20660097,2161-08-08 19:00:00,Prescription,Albuterol 0.083% Neb Soln,1,NEB,prescriptions
+14983072,20660097,2161-08-08 19:00:00,Prescription,Ipratropium Bromide Neb,1,NEB,prescriptions
+14983072,20660097,2161-08-08 19:00:00,Prescription,HYDROmorphone P.F.,2500,mcg,prescriptions
+14983072,20660097,2161-08-08 19:00:00,Prescription,Epidural Bag,1,BAG,prescriptions
+14983072,20660097,2161-08-08 19:00:00,Pharmacy,2,,NaN,pharmacy
+14983072,20660097,2161-08-08 19:00:00,Pharmacy,Ipratropium Bromide Neb,,NaN,pharmacy
+14983072,20660097,2161-08-08 19:00:00,Pharmacy,Albuterol 0.083% Neb Soln,,NaN,pharmacy
+14983072,20660097,2161-08-08 19:00:00,Pharmacy,,,NaN,pharmacy
+14983072,20660097,2161-08-08 19:00:00,Prescription,Guaifenesin-Dextromethorphan,10,mL,prescriptions
+14983072,20660097,2161-08-08 19:00:00,Prescription,Bupivacaine 0.1%,250,mL,prescriptions
+14983072,20660097,2161-08-08 19:00:00,Prescription,Ondansetron,4,mg,prescriptions
+14983072,20660097,2161-08-08 19:00:00,Prescription,Pantoprazole Sodium,40,mg,prescriptions
+14983072,20660097,2161-08-08 19:00:00,Pharmacy,Pantoprazole,,NaN,pharmacy
+14983072,20660097,2161-08-08 19:00:00,Pharmacy,Guaifenesin-Dextromethorphan,,NaN,pharmacy
+14983072,20660097,2161-08-08 19:00:00,Pharmacy,CefazoLIN,,NaN,pharmacy
+14983072,20660097,2161-08-08 19:00:00,Prescription,LR,1000,mL,prescriptions
+14983072,20660097,2161-08-08 19:00:00,Pharmacy,Ondansetron,,NaN,pharmacy
+14983072,20660097,2161-08-08 19:00:00,Prescription,Vial,1,VIAL,prescriptions
+14983072,20660097,2161-08-08 19:00:00,Prescription,Iso-Osmotic Dextrose,50,mL,prescriptions
+14983072,20660097,2161-08-08 19:00:00,Output,R Pleural #1,130.0,ml,outputevents
+14983072,20660097,2161-08-08 19:00:00,Prescription,CefazoLIN,1,g,prescriptions
+14983072,20660097,2161-08-08 19:04:00,Input,Hydromorphone (Dilaudid),0.1000000047497451,mg,inputevents
+14983072,20660097,2161-08-08 19:06:00,Input,Hydromorphone (Dilaudid),0.1000000047497451,mg,inputevents
+14983072,20660097,2161-08-08 19:13:00,Output,OR Urine,395.0,ml,outputevents
+14983072,20660097,2161-08-08 19:13:00,Input,Water,2800.0,ml,ingredientevents
+14983072,20660097,2161-08-08 19:13:00,Input,IVF ingredient,2800.0,ml,ingredientevents
+14983072,20660097,2161-08-08 19:13:00,Input,OR Intake_ingr,2800.0,ml,ingredientevents
+14983072,20660097,2161-08-08 19:13:00,Input,OR Crystalloid Intake,2800.0,ml,inputevents
+14983072,20660097,2161-08-08 19:13:00,Output,OR EBL,100.0,ml,outputevents
+14983072,20660097,2161-08-08 19:14:00,Input,Water,1034.6666975021362,ml,ingredientevents
+14983072,20660097,2161-08-08 19:14:00,Input,LR,1034.6666975021362,ml,inputevents
+14983072,20660097,2161-08-08 19:14:00,Input,IVF ingredient,1034.6666975021362,ml,ingredientevents
+14983072,20660097,2161-08-08 19:20:00,DateTime Obs,18 Gauge Insertion Date,2161-08-08 19:20:00,Date,datetimeevents
+14983072,20660097,2161-08-08 19:20:00,Procedure,18 Gauge,1411.0,min,procedureevents
+14983072,20660097,2161-08-08 19:20:00,Procedure,18 Gauge,1411.0,min,procedureevents
+14983072,20660097,2161-08-08 20:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+14983072,20660097,2161-08-08 20:00:00,Pharmacy,Ondansetron,,NaN,pharmacy
+14983072,20660097,2161-08-08 20:00:00,Prescription,Ondansetron,4,mg,prescriptions
+14983072,20660097,2161-08-08 20:00:00,Pharmacy,Heparin,,NaN,pharmacy
+14983072,20660097,2161-08-08 20:00:00,Prescription,Heparin,5000,UNIT,prescriptions
+14983072,20660097,2161-08-08 20:00:00,Prescription,HYDROmorphone (Dilaudid),0.5,mg,prescriptions
+14983072,20660097,2161-08-08 20:15:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14983072,20660097,2161-08-08 20:15:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14983072,20660097,2161-08-08 20:15:00,Input,Hydromorphone (Dilaudid),0.5000000237487257,mg,inputevents
+14983072,20660097,2161-08-08 20:56:00,Output,Foley,0.0,ml,outputevents
+14983072,20660097,2161-08-08 20:59:00,Input,Pantoprazole (Protonix),1.0,dose,inputevents
+14983072,20660097,2161-08-08 20:59:00,Input,IVF ingredient,10.0,ml,ingredientevents
+14983072,20660097,2161-08-08 20:59:00,Input,Water,10.0,ml,ingredientevents
+14983072,20660097,2161-08-08 20:59:00,Input,Solution,10.0,ml,inputevents
+14983072,20660097,2161-08-08 21:00:00,Output,Foley,180.0,ml,outputevents
+14983072,20660097,2161-08-08 21:00:00,Output,R Pleural #1,60.0,ml,outputevents
+14983072,20660097,2161-08-08 21:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+14983072,20660097,2161-08-08 21:00:00,Prescription,HYDROmorphone (Dilaudid),0.5,mg,prescriptions
+14983072,20660097,2161-08-08 21:07:00,DateTime Obs,18 Gauge Insertion Date,2161-08-08 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-08 22:00:00,Output,Foley,120.0,ml,outputevents
+14983072,20660097,2161-08-08 22:31:00,Input,IVF ingredient,50.0,ml,ingredientevents
+14983072,20660097,2161-08-08 22:31:00,Input,Water,50.0,ml,ingredientevents
+14983072,20660097,2161-08-08 22:31:00,Input,Calories,8.5,Kcal,ingredientevents
+14983072,20660097,2161-08-08 22:31:00,Input,Dextrose 5%,50.0,ml,inputevents
+14983072,20660097,2161-08-08 22:31:00,Input,Cefazolin,1.0,dose,inputevents
+14983072,20660097,2161-08-08 22:32:00,Output,Emesis,100.0,ml,outputevents
+14983072,20660097,2161-08-08 22:36:00,DateTime Obs,Last menses,2162-07-19 22:36:00,Date,datetimeevents
+14983072,20660097,2161-08-08 22:45:00,Output,Emesis,30.0,ml,outputevents
+14983072,20660097,2161-08-09 00:00:00,Output,R Pleural #1,60.0,ml,outputevents
+14983072,20660097,2161-08-09 00:00:00,Pharmacy,Ondansetron,,NaN,pharmacy
+14983072,20660097,2161-08-09 00:00:00,Output,Foley,120.0,ml,outputevents
+14983072,20660097,2161-08-09 00:00:00,Prescription,Ondansetron,4,mg,prescriptions
+14983072,20660097,2161-08-09 00:37:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+14983072,20660097,2161-08-09 00:38:00,DateTime Obs,18 Gauge Insertion Date,2161-08-08 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-09 02:00:00,Output,Foley,60.0,ml,outputevents
+14983072,20660097,2161-08-09 02:41:00,Lab Result,Hemoglobin| Blood,11.5,g/dL,labevents
+14983072,20660097,2161-08-09 02:41:00,Lab Result,Phosphate| Blood,3.1,mg/dL,labevents
+14983072,20660097,2161-08-09 02:41:00,Lab Result,Magnesium| Blood,1.9,mg/dL,labevents
+14983072,20660097,2161-08-09 02:41:00,Lab Result,Glucose| Blood,160.0,mg/dL,labevents
+14983072,20660097,2161-08-09 02:41:00,Lab Result,Urea Nitrogen| Blood,10.0,mg/dL,labevents
+14983072,20660097,2161-08-09 02:41:00,Lab Result,Creatinine| Blood,0.8,mg/dL,labevents
+14983072,20660097,2161-08-09 02:41:00,Lab Result,"Creatine Kinase, MB Isoenzyme| Blood",86.0,ng/mL,labevents
+14983072,20660097,2161-08-09 02:41:00,Lab Result,Creatine Kinase (CK)| Blood,12095.0,IU/L,labevents
+14983072,20660097,2161-08-09 02:41:00,Lab Result,CK-MB Index| Blood,0.7,%,labevents
+14983072,20660097,2161-08-09 02:41:00,Lab Result,Chloride| Blood,104.0,mEq/L,labevents
+14983072,20660097,2161-08-09 02:41:00,Lab Result,Sodium| Blood,136.0,mEq/L,labevents
+14983072,20660097,2161-08-09 02:41:00,Lab Result,"Calcium, Total| Blood",8.1,mg/dL,labevents
+14983072,20660097,2161-08-09 02:41:00,Lab Result,Bicarbonate| Blood,25.0,mEq/L,labevents
+14983072,20660097,2161-08-09 02:41:00,Lab Result,Anion Gap| Blood,11.0,mEq/L,labevents
+14983072,20660097,2161-08-09 02:41:00,Lab Result,White Blood Cells| Blood,11.6,K/uL,labevents
+14983072,20660097,2161-08-09 02:41:00,Lab Result,Red Blood Cells| Blood,3.84,m/uL,labevents
+14983072,20660097,2161-08-09 02:41:00,Lab Result,RDW| Blood,14.9,%,labevents
+14983072,20660097,2161-08-09 02:41:00,Lab Result,Platelet Count| Blood,221.0,K/uL,labevents
+14983072,20660097,2161-08-09 02:41:00,Lab Result,MCV| Blood,83.0,fL,labevents
+14983072,20660097,2161-08-09 02:41:00,Lab Result,MCHC| Blood,36.0,%,labevents
+14983072,20660097,2161-08-09 02:41:00,Lab Result,MCH| Blood,29.8,pg,labevents
+14983072,20660097,2161-08-09 02:41:00,Lab Result,Hematocrit| Blood,31.8,%,labevents
+14983072,20660097,2161-08-09 02:41:00,Lab Result,Potassium| Blood,4.3,mEq/L,labevents
+14983072,20660097,2161-08-09 03:00:00,Prescription,Ondansetron,4,mg,prescriptions
+14983072,20660097,2161-08-09 03:00:00,Prescription,Prochlorperazine,10,mg,prescriptions
+14983072,20660097,2161-08-09 03:00:00,Pharmacy,Prochlorperazine,,NaN,pharmacy
+14983072,20660097,2161-08-09 03:00:00,Pharmacy,Ondansetron,,NaN,pharmacy
+14983072,20660097,2161-08-09 04:00:00,Output,R Pleural #1,50.0,ml,outputevents
+14983072,20660097,2161-08-09 04:00:00,Output,Foley,80.0,ml,outputevents
+14983072,20660097,2161-08-09 04:22:00,DateTime Obs,18 Gauge Insertion Date,2161-08-08 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-09 05:00:00,Output,Foley,40.0,ml,outputevents
+14983072,20660097,2161-08-09 05:34:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14983072,20660097,2161-08-09 05:34:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14983072,20660097,2161-08-09 06:51:00,Lab Result,Glucose| Urine,,mg/dL,labevents
+14983072,20660097,2161-08-09 06:51:00,Lab Result,Urobilinogen| Urine,,mg/dL,labevents
+14983072,20660097,2161-08-09 06:51:00,Lab Result,Length of Urine Collection| Urine,,,labevents
+14983072,20660097,2161-08-09 06:51:00,Lab Result,"Myoglobin, Urine| Urine",,,labevents
+14983072,20660097,2161-08-09 06:51:00,Lab Result,Bilirubin| Urine,,mg/dL,labevents
+14983072,20660097,2161-08-09 06:51:00,Lab Result,Blood| Urine,,,labevents
+14983072,20660097,2161-08-09 06:51:00,Lab Result,Ketone| Urine,,mg/dL,labevents
+14983072,20660097,2161-08-09 06:51:00,Lab Result,Leukocytes| Urine,,,labevents
+14983072,20660097,2161-08-09 06:51:00,Lab Result,Nitrite| Urine,,,labevents
+14983072,20660097,2161-08-09 06:51:00,Lab Result,pH| Urine,5.0,units,labevents
+14983072,20660097,2161-08-09 06:51:00,Lab Result,Protein| Urine,,mg/dL,labevents
+14983072,20660097,2161-08-09 06:51:00,Lab Result,Specific Gravity| Urine,1.027, ,labevents
+14983072,20660097,2161-08-09 06:51:00,Lab Result,Urine Appearance| Urine,,,labevents
+14983072,20660097,2161-08-09 06:51:00,Lab Result,Urine Color| Urine,,,labevents
+14983072,20660097,2161-08-09 07:00:00,Output,Foley,25.0,ml,outputevents
+14983072,20660097,2161-08-09 07:40:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+14983072,20660097,2161-08-09 07:40:00,Input,PO Intake,120.0,ml,inputevents
+14983072,20660097,2161-08-09 07:40:00,Input,Water,120.0,ml,ingredientevents
+14983072,20660097,2161-08-09 07:40:00,Input,Oral/Gastric Ingredient,120.0,ml,ingredientevents
+14983072,20660097,2161-08-09 08:00:00,Output,Foley,30.0,ml,outputevents
+14983072,20660097,2161-08-09 08:00:00,Output,R Pleural #1,10.0,ml,outputevents
+14983072,20660097,2161-08-09 08:00:00,DateTime Obs,18 Gauge Insertion Date,2161-08-08 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-09 08:10:00,Input,Water,56.293739318847656,ml,ingredientevents
+14983072,20660097,2161-08-09 08:10:00,Input,IVF ingredient,56.293739318847656,ml,ingredientevents
+14983072,20660097,2161-08-09 08:10:00,Input,LR,56.293739318847656,ml,inputevents
+14983072,20660097,2161-08-09 08:37:00,Input,LR,902.5400221347808,ml,inputevents
+14983072,20660097,2161-08-09 08:37:00,Input,Water,902.5400221347808,ml,ingredientevents
+14983072,20660097,2161-08-09 08:37:00,Input,IVF ingredient,902.5400221347808,ml,ingredientevents
+14983072,20660097,2161-08-09 08:44:00,Lab Result,CK-MB Index| Blood,0.6,%,labevents
+14983072,20660097,2161-08-09 08:44:00,Lab Result,Creatine Kinase (CK)| Blood,13546.0,IU/L,labevents
+14983072,20660097,2161-08-09 08:44:00,Lab Result,"Creatine Kinase, MB Isoenzyme| Blood",82.0,ng/mL,labevents
+14983072,20660097,2161-08-09 09:00:00,Prescription,Bupivacaine 0.5%,50,mL,prescriptions
+14983072,20660097,2161-08-09 09:00:00,Prescription,NS Epidural Bag (0.9% NaCl),180,mL,prescriptions
+14983072,20660097,2161-08-09 09:00:00,Pharmacy,2,,NaN,pharmacy
+14983072,20660097,2161-08-09 09:00:00,Prescription,LR,1000,mL,prescriptions
+14983072,20660097,2161-08-09 09:00:00,Prescription,Fentanyl Citrate,1000,mcg,prescriptions
+14983072,20660097,2161-08-09 09:00:00,Output,Foley,50.0,ml,outputevents
+14983072,20660097,2161-08-09 09:00:00,Prescription,LR,1000,mL,prescriptions
+14983072,20660097,2161-08-09 09:00:00,Pharmacy,,,NaN,pharmacy
+14983072,20660097,2161-08-09 09:00:00,Pharmacy,,,NaN,pharmacy
+14983072,20660097,2161-08-09 10:00:00,Output,Foley,25.0,ml,outputevents
+14983072,20660097,2161-08-09 10:00:00,Prescription,Liothyronine Sodium,5,mcg,prescriptions
+14983072,20660097,2161-08-09 10:00:00,Pharmacy,Liothyronine Sodium,,NaN,pharmacy
+14983072,20660097,2161-08-09 10:00:00,Pharmacy,Levothyroxine Sodium,,NaN,pharmacy
+14983072,20660097,2161-08-09 10:00:00,Prescription,Levothyroxine Sodium,175,mcg,prescriptions
+14983072,20660097,2161-08-09 11:00:00,Output,Foley,25.0,ml,outputevents
+14983072,20660097,2161-08-09 11:14:00,Input,Solution,10.0,ml,inputevents
+14983072,20660097,2161-08-09 11:14:00,Input,Pantoprazole (Protonix),1.0,dose,inputevents
+14983072,20660097,2161-08-09 11:14:00,Input,IVF ingredient,10.0,ml,ingredientevents
+14983072,20660097,2161-08-09 11:14:00,Input,Water,10.0,ml,ingredientevents
+14983072,20660097,2161-08-09 12:00:00,Output,Foley,20.0,ml,outputevents
+14983072,20660097,2161-08-09 12:13:00,DateTime Obs,Arterial line Cap Change,2161-08-08 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-09 12:13:00,DateTime Obs,18 Gauge Insertion Date,2161-08-08 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-09 12:13:00,DateTime Obs,Arterial line Tubing Change,2161-08-08 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-09 12:13:00,DateTime Obs,Arterial line Insertion Date,2161-08-08 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-09 12:13:00,DateTime Obs,Arterial Line Dressing Change,2161-08-08 18:36:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-09 12:14:00,DateTime Obs,Impaired Skin  - Dressing Change #1,2161-08-08 12:14:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-09 12:34:00,Input,LR,1000.0,ml,inputevents
+14983072,20660097,2161-08-09 12:34:00,Input,IVF ingredient,1000.0,ml,ingredientevents
+14983072,20660097,2161-08-09 12:34:00,Input,Water,1000.0,ml,ingredientevents
+14983072,20660097,2161-08-09 13:00:00,Pharmacy,Fentanyl PCA,,NaN,pharmacy
+14983072,20660097,2161-08-09 13:00:00,Pharmacy,2,,NaN,pharmacy
+14983072,20660097,2161-08-09 13:00:00,Output,Foley,20.0,ml,outputevents
+14983072,20660097,2161-08-09 13:00:00,Pharmacy,Sodium Chloride Nasal,,NaN,pharmacy
+14983072,20660097,2161-08-09 13:00:00,Prescription,Bupivacaine 0.1%,250,mL,prescriptions
+14983072,20660097,2161-08-09 13:00:00,Prescription,Epidural Bag,1,BAG,prescriptions
+14983072,20660097,2161-08-09 13:00:00,Prescription,Fentanyl PCA,625,mcg,prescriptions
+14983072,20660097,2161-08-09 13:00:00,Prescription,Sodium Chloride Nasal,1-2,SPRY,prescriptions
+14983072,20660097,2161-08-09 13:38:00,Input,LR,1000.0,ml,inputevents
+14983072,20660097,2161-08-09 13:38:00,Input,Water,1000.0,ml,ingredientevents
+14983072,20660097,2161-08-09 13:38:00,Input,IVF ingredient,1000.0,ml,ingredientevents
+14983072,20660097,2161-08-09 14:00:00,Output,Foley,30.0,ml,outputevents
+14983072,20660097,2161-08-09 14:00:00,Prescription,LR,1000,mL,prescriptions
+14983072,20660097,2161-08-09 14:00:00,Prescription,LR,1000,mL,prescriptions
+14983072,20660097,2161-08-09 14:00:00,Pharmacy,,,NaN,pharmacy
+14983072,20660097,2161-08-09 14:00:00,Pharmacy,,,NaN,pharmacy
+14983072,20660097,2161-08-09 14:38:00,Input,IVF ingredient,1999.9999504089355,ml,ingredientevents
+14983072,20660097,2161-08-09 14:38:00,Input,Water,1999.9999504089355,ml,ingredientevents
+14983072,20660097,2161-08-09 14:38:00,Input,LR,1999.9999504089355,ml,inputevents
+14983072,20660097,2161-08-09 14:40:00,Lab Result,Creatinine| Blood,0.7,mg/dL,labevents
+14983072,20660097,2161-08-09 14:40:00,Lab Result,"Creatine Kinase, MB Isoenzyme| Blood",59.0,ng/mL,labevents
+14983072,20660097,2161-08-09 14:40:00,Lab Result,Creatine Kinase (CK)| Blood,11264.0,IU/L,labevents
+14983072,20660097,2161-08-09 14:40:00,Lab Result,CK-MB Index| Blood,0.5,%,labevents
+14983072,20660097,2161-08-09 14:40:00,Lab Result,"Calcium, Total| Blood",7.9,mg/dL,labevents
+14983072,20660097,2161-08-09 14:40:00,Lab Result,Bicarbonate| Blood,27.0,mEq/L,labevents
+14983072,20660097,2161-08-09 14:40:00,Lab Result,Anion Gap| Blood,11.0,mEq/L,labevents
+14983072,20660097,2161-08-09 14:40:00,Lab Result,Phosphate| Blood,2.7,mg/dL,labevents
+14983072,20660097,2161-08-09 14:40:00,Lab Result,Potassium| Blood,4.0,mEq/L,labevents
+14983072,20660097,2161-08-09 14:40:00,Lab Result,Sodium| Blood,136.0,mEq/L,labevents
+14983072,20660097,2161-08-09 14:40:00,Lab Result,Urea Nitrogen| Blood,10.0,mg/dL,labevents
+14983072,20660097,2161-08-09 14:40:00,Lab Result,Magnesium| Blood,1.7,mg/dL,labevents
+14983072,20660097,2161-08-09 14:40:00,Lab Result,Glucose| Blood,106.0,mg/dL,labevents
+14983072,20660097,2161-08-09 14:40:00,Lab Result,Chloride| Blood,102.0,mEq/L,labevents
+14983072,20660097,2161-08-09 14:51:00,Lab Result,Yeast| Urine,,,labevents
+14983072,20660097,2161-08-09 14:51:00,Lab Result,"Sodium, Urine| Urine",35.0,mEq/L,labevents
+14983072,20660097,2161-08-09 14:51:00,Lab Result,"Osmolality, Urine| Urine",969.0,mOsm/kg,labevents
+14983072,20660097,2161-08-09 14:51:00,Lab Result,Length of Urine Collection| Urine,,,labevents
+14983072,20660097,2161-08-09 14:51:00,Lab Result,Bacteria| Urine,,,labevents
+14983072,20660097,2161-08-09 14:51:00,Lab Result,Bilirubin| Urine,,mg/dL,labevents
+14983072,20660097,2161-08-09 14:51:00,Lab Result,Blood| Urine,,,labevents
+14983072,20660097,2161-08-09 14:51:00,Lab Result,Epithelial Cells| Urine,0.0,#/hpf,labevents
+14983072,20660097,2161-08-09 14:51:00,Lab Result,Glucose| Urine,,mg/dL,labevents
+14983072,20660097,2161-08-09 14:51:00,Lab Result,Ketone| Urine,,mg/dL,labevents
+14983072,20660097,2161-08-09 14:51:00,Lab Result,"Creatinine, Urine| Urine",227.0,mg/dL,labevents
+14983072,20660097,2161-08-09 14:51:00,Lab Result,Nitrite| Urine,,,labevents
+14983072,20660097,2161-08-09 14:51:00,Lab Result,Leukocytes| Urine,,,labevents
+14983072,20660097,2161-08-09 14:51:00,Lab Result,Urobilinogen| Urine,,mg/dL,labevents
+14983072,20660097,2161-08-09 14:51:00,Lab Result,Urine Color| Urine,,,labevents
+14983072,20660097,2161-08-09 14:51:00,Lab Result,Urine Appearance| Urine,,,labevents
+14983072,20660097,2161-08-09 14:51:00,Lab Result,WBC| Urine,,#/hpf,labevents
+14983072,20660097,2161-08-09 14:51:00,Lab Result,Specific Gravity| Urine,1.026, ,labevents
+14983072,20660097,2161-08-09 14:51:00,Lab Result,RBC| Urine,,#/hpf,labevents
+14983072,20660097,2161-08-09 14:51:00,Lab Result,Protein| Urine,,mg/dL,labevents
+14983072,20660097,2161-08-09 14:51:00,Lab Result,pH| Urine,5.0,units,labevents
+14983072,20660097,2161-08-09 15:00:00,Output,Foley,50.0,ml,outputevents
+14983072,20660097,2161-08-09 15:01:00,Lab Result,Specimen Type| Blood,,,labevents
+14983072,20660097,2161-08-09 15:01:00,Lab Result,pO2| Blood,117.0,mm Hg,labevents
+14983072,20660097,2161-08-09 15:01:00,Lab Result,pH| Blood,7.37,units,labevents
+14983072,20660097,2161-08-09 15:01:00,Lab Result,Calculated Total CO2| Blood,29.0,mEq/L,labevents
+14983072,20660097,2161-08-09 15:01:00,Lab Result,Base Excess| Blood,2.0,mEq/L,labevents
+14983072,20660097,2161-08-09 15:01:00,Lab Result,pCO2| Blood,48.0,mm Hg,labevents
+14983072,20660097,2161-08-09 15:01:00,Lab Result,Lactate| Blood,1.0,mmol/L,labevents
+14983072,20660097,2161-08-09 16:00:00,DateTime Obs,Impaired Skin  - Dressing Change #1,2161-08-08 12:14:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-09 16:00:00,DateTime Obs,Arterial line Insertion Date,2161-08-08 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-09 16:00:00,Pharmacy,Insulin,,NaN,pharmacy
+14983072,20660097,2161-08-09 16:00:00,DateTime Obs,Arterial Line Dressing Change,2161-08-09 16:00:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-09 16:00:00,DateTime Obs,Arterial line Cap Change,2161-08-08 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-09 16:00:00,DateTime Obs,Arterial line Tubing Change,2161-08-08 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-09 16:00:00,Output,R Pleural #1,100.0,ml,outputevents
+14983072,20660097,2161-08-09 16:00:00,Prescription,Insulin,0,UNIT,prescriptions
+14983072,20660097,2161-08-09 16:00:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+14983072,20660097,2161-08-09 16:00:00,Output,Foley,40.0,ml,outputevents
+14983072,20660097,2161-08-09 16:00:00,DateTime Obs,18 Gauge Insertion Date,2161-08-08 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-09 16:31:00,Input,Water,49.999998807907104,ml,ingredientevents
+14983072,20660097,2161-08-09 16:31:00,Input,IVF ingredient,49.999998807907104,ml,ingredientevents
+14983072,20660097,2161-08-09 16:31:00,Input,Magnesium Sulfate (Bolus),49.999998807907104,ml,inputevents
+14983072,20660097,2161-08-09 16:31:00,Input,Magnesium Sulfate,2.0000001043081284,grams,inputevents
+14983072,20660097,2161-08-09 17:00:00,Pharmacy,Calcium Gluconate,,NaN,pharmacy
+14983072,20660097,2161-08-09 17:00:00,Prescription,Magnesium Sulfate,2,gm,prescriptions
+14983072,20660097,2161-08-09 17:00:00,Prescription,0.9% Sodium Chloride,250,mL,prescriptions
+14983072,20660097,2161-08-09 17:00:00,Prescription,Calcium Gluconate,2-4,gm,prescriptions
+14983072,20660097,2161-08-09 17:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+14983072,20660097,2161-08-09 17:00:00,Pharmacy,Magnesium Sulfate,,NaN,pharmacy
+14983072,20660097,2161-08-09 17:00:00,Pharmacy,Potassium Phosphate,,NaN,pharmacy
+14983072,20660097,2161-08-09 17:00:00,Prescription,SW,50,mL,prescriptions
+14983072,20660097,2161-08-09 17:00:00,Prescription,0.9% Sodium Chloride,250,mL,prescriptions
+14983072,20660097,2161-08-09 17:00:00,Output,Foley,30.0,ml,outputevents
+14983072,20660097,2161-08-09 17:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+14983072,20660097,2161-08-09 17:00:00,Pharmacy,Potassium Phosphate,,NaN,pharmacy
+14983072,20660097,2161-08-09 17:00:00,Pharmacy,Fentanyl PCA,,NaN,pharmacy
+14983072,20660097,2161-08-09 17:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+14983072,20660097,2161-08-09 17:00:00,Prescription,0.9% Sodium Chloride,500,mL,prescriptions
+14983072,20660097,2161-08-09 17:00:00,Prescription,Potassium Phosphate,15,mmol,prescriptions
+14983072,20660097,2161-08-09 17:00:00,Prescription,SW,50-100,mL,prescriptions
+14983072,20660097,2161-08-09 17:00:00,Prescription,Magnesium Sulfate,2-4,gm,prescriptions
+14983072,20660097,2161-08-09 17:00:00,Prescription,Calcium Gluconate,2,gm,prescriptions
+14983072,20660097,2161-08-09 17:00:00,Pharmacy,Magnesium Sulfate,,NaN,pharmacy
+14983072,20660097,2161-08-09 17:00:00,Pharmacy,Calcium Gluconate,,NaN,pharmacy
+14983072,20660097,2161-08-09 17:00:00,Prescription,Calcium Gluconate,4,gm,prescriptions
+14983072,20660097,2161-08-09 17:00:00,Pharmacy,Magnesium Sulfate,,NaN,pharmacy
+14983072,20660097,2161-08-09 17:00:00,Prescription,Potassium Chloride,20-40,mEq,prescriptions
+14983072,20660097,2161-08-09 17:00:00,Prescription,Potassium Chloride,40-60,mEq,prescriptions
+14983072,20660097,2161-08-09 17:00:00,Prescription,Potassium Phosphate,15-30,mmol,prescriptions
+14983072,20660097,2161-08-09 17:00:00,Prescription,0.9% Sodium Chloride,500,mL,prescriptions
+14983072,20660097,2161-08-09 17:00:00,Prescription,Potassium Chloride,60,mEq,prescriptions
+14983072,20660097,2161-08-09 17:00:00,Prescription,0.9% Sodium Chloride,500,mL,prescriptions
+14983072,20660097,2161-08-09 17:00:00,Prescription,0.9% Sodium Chloride,250-500,mL,prescriptions
+14983072,20660097,2161-08-09 17:00:00,Prescription,SW,100,mL,prescriptions
+14983072,20660097,2161-08-09 17:00:00,Prescription,Magnesium Sulfate,4,gm,prescriptions
+14983072,20660097,2161-08-09 17:00:00,Pharmacy,Calcium Gluconate,,NaN,pharmacy
+14983072,20660097,2161-08-09 17:00:00,Prescription,Fentanyl PCA,625,mcg,prescriptions
+14983072,20660097,2161-08-09 17:00:00,Prescription,0.9% Sodium Chloride,1000,mL,prescriptions
+14983072,20660097,2161-08-09 18:00:00,Output,Foley,35.0,ml,outputevents
+14983072,20660097,2161-08-09 18:54:00,DateTime Obs,18 Gauge Insertion Date,2161-08-08 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-09 18:55:00,Procedure,22 Gauge,1086.0,min,procedureevents
+14983072,20660097,2161-08-09 18:55:00,Procedure,22 Gauge,1086.0,min,procedureevents
+14983072,20660097,2161-08-09 18:55:00,DateTime Obs,22 Gauge Insertion Date,2161-08-09 18:55:00,Date,datetimeevents
+14983072,20660097,2161-08-09 19:00:00,Pharmacy,Morphine Sulfate,,NaN,pharmacy
+14983072,20660097,2161-08-09 19:00:00,Output,Foley,40.0,ml,outputevents
+14983072,20660097,2161-08-09 19:00:00,Prescription,Morphine Sulfate,50,mg,prescriptions
+14983072,20660097,2161-08-09 19:00:00,Output,R Pleural #1,40.0,ml,outputevents
+14983072,20660097,2161-08-09 20:00:00,Output,Foley,35.0,ml,outputevents
+14983072,20660097,2161-08-09 20:00:00,Pharmacy,Mucinex,,NaN,pharmacy
+14983072,20660097,2161-08-09 20:00:00,Prescription,Mucinex,600,mg,prescriptions
+14983072,20660097,2161-08-09 20:09:00,DateTime Obs,Impaired Skin  - Dressing Change #1,2161-08-08 12:14:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-09 20:09:00,DateTime Obs,Arterial line Tubing Change,2161-08-08 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-09 20:09:00,DateTime Obs,Arterial line Insertion Date,2161-08-08 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-09 20:09:00,DateTime Obs,Arterial Line Dressing Change,2161-08-09 16:00:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-09 20:09:00,DateTime Obs,Arterial line Cap Change,2161-08-08 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-09 20:09:00,DateTime Obs,22 Gauge Insertion Date,2161-08-09 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-09 20:35:00,Lab Result,"Creatine Kinase, MB Isoenzyme| Blood",36.0,ng/mL,labevents
+14983072,20660097,2161-08-09 20:35:00,Lab Result,Creatine Kinase (CK)| Blood,9169.0,IU/L,labevents
+14983072,20660097,2161-08-09 20:35:00,Lab Result,CK-MB Index| Blood,0.4,%,labevents
+14983072,20660097,2161-08-09 21:00:00,Output,Foley,80.0,ml,outputevents
+14983072,20660097,2161-08-09 22:00:00,Output,Foley,140.0,ml,outputevents
+14983072,20660097,2161-08-09 22:00:00,Prescription,Bupivacaine 0.1%,250,mL,prescriptions
+14983072,20660097,2161-08-09 22:00:00,Prescription,Epidural Bag,1,BAG,prescriptions
+14983072,20660097,2161-08-09 22:00:00,Prescription,HYDROmorphone P.F.,2500,mcg,prescriptions
+14983072,20660097,2161-08-09 22:00:00,Pharmacy,2,,NaN,pharmacy
+14983072,20660097,2161-08-09 22:47:00,Procedure,22 Gauge,850.0,min,procedureevents
+14983072,20660097,2161-08-09 22:47:00,Procedure,22 Gauge,850.0,min,procedureevents
+14983072,20660097,2161-08-09 22:47:00,DateTime Obs,22 Gauge Insertion Date,2161-08-09 22:48:00,Date,datetimeevents
+14983072,20660097,2161-08-09 23:00:00,Output,Foley,35.0,ml,outputevents
+14983072,20660097,2161-08-09 23:00:00,Output,R Pleural #1,300.0,ml,outputevents
+14983072,20660097,2161-08-10 00:00:00,Output,Foley,60.0,ml,outputevents
+14983072,20660097,2161-08-10 00:37:00,Input,Solution,10.0,ml,inputevents
+14983072,20660097,2161-08-10 00:37:00,Input,IVF ingredient,10.0,ml,ingredientevents
+14983072,20660097,2161-08-10 00:37:00,Input,Water,10.0,ml,ingredientevents
+14983072,20660097,2161-08-10 00:37:00,Input,Pantoprazole (Protonix),1.0,dose,inputevents
+14983072,20660097,2161-08-10 00:37:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+14983072,20660097,2161-08-10 01:00:00,Output,Foley,45.0,ml,outputevents
+14983072,20660097,2161-08-10 01:23:00,DateTime Obs,22 Gauge Insertion Date,2161-08-09 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-10 01:23:00,DateTime Obs,Impaired Skin  - Dressing Change #1,2161-08-08 12:14:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-10 02:00:00,Pharmacy,Acetaminophen,,NaN,pharmacy
+14983072,20660097,2161-08-10 02:00:00,Prescription,Acetaminophen,650,mg,prescriptions
+14983072,20660097,2161-08-10 02:00:00,Pharmacy,Acetaminophen,,NaN,pharmacy
+14983072,20660097,2161-08-10 02:00:00,Output,Foley,35.0,ml,outputevents
+14983072,20660097,2161-08-10 02:00:00,Prescription,Acetaminophen,650,mg,prescriptions
+14983072,20660097,2161-08-10 03:00:00,Output,Foley,60.0,ml,outputevents
+14983072,20660097,2161-08-10 03:19:00,Lab Result,Glucose| Blood,108.0,mg/dL,labevents
+14983072,20660097,2161-08-10 03:19:00,Lab Result,RDW| Blood,15.0,%,labevents
+14983072,20660097,2161-08-10 03:19:00,Lab Result,Platelet Count| Blood,199.0,K/uL,labevents
+14983072,20660097,2161-08-10 03:19:00,Lab Result,MCV| Blood,84.0,fL,labevents
+14983072,20660097,2161-08-10 03:19:00,Lab Result,Magnesium| Blood,2.0,mg/dL,labevents
+14983072,20660097,2161-08-10 03:19:00,Lab Result,MCHC| Blood,35.0,%,labevents
+14983072,20660097,2161-08-10 03:19:00,Lab Result,MCH| Blood,29.3,pg,labevents
+14983072,20660097,2161-08-10 03:19:00,Lab Result,Phosphate| Blood,2.2,mg/dL,labevents
+14983072,20660097,2161-08-10 03:19:00,Lab Result,Potassium| Blood,3.9,mEq/L,labevents
+14983072,20660097,2161-08-10 03:19:00,Lab Result,Chloride| Blood,102.0,mEq/L,labevents
+14983072,20660097,2161-08-10 03:19:00,Lab Result,"Calcium, Total| Blood",7.4,mg/dL,labevents
+14983072,20660097,2161-08-10 03:19:00,Lab Result,Bicarbonate| Blood,30.0,mEq/L,labevents
+14983072,20660097,2161-08-10 03:19:00,Lab Result,Anion Gap| Blood,7.0,mEq/L,labevents
+14983072,20660097,2161-08-10 03:19:00,Lab Result,PTT| Blood,29.3,sec,labevents
+14983072,20660097,2161-08-10 03:19:00,Lab Result,PT| Blood,13.7,sec,labevents
+14983072,20660097,2161-08-10 03:19:00,Lab Result,INR(PT)| Blood,1.2,,labevents
+14983072,20660097,2161-08-10 03:19:00,Lab Result,Hemoglobin| Blood,9.5,g/dL,labevents
+14983072,20660097,2161-08-10 03:19:00,Lab Result,CK-MB Index| Blood,0.3,%,labevents
+14983072,20660097,2161-08-10 03:19:00,Lab Result,Hematocrit| Blood,27.2,%,labevents
+14983072,20660097,2161-08-10 03:19:00,Lab Result,Urea Nitrogen| Blood,8.0,mg/dL,labevents
+14983072,20660097,2161-08-10 03:19:00,Lab Result,Sodium| Blood,135.0,mEq/L,labevents
+14983072,20660097,2161-08-10 03:19:00,Lab Result,Creatine Kinase (CK)| Blood,7437.0,IU/L,labevents
+14983072,20660097,2161-08-10 03:19:00,Lab Result,"Creatine Kinase, MB Isoenzyme| Blood",20.0,ng/mL,labevents
+14983072,20660097,2161-08-10 03:19:00,Lab Result,Creatinine| Blood,0.7,mg/dL,labevents
+14983072,20660097,2161-08-10 03:19:00,Lab Result,Red Blood Cells| Blood,3.25,m/uL,labevents
+14983072,20660097,2161-08-10 03:19:00,Lab Result,White Blood Cells| Blood,11.3,K/uL,labevents
+14983072,20660097,2161-08-10 03:54:00,Input,IVF ingredient,460.7803859710693,ml,ingredientevents
+14983072,20660097,2161-08-10 03:54:00,Input,Water,460.7803859710693,ml,ingredientevents
+14983072,20660097,2161-08-10 03:54:00,Input,LR,460.7803859710693,ml,inputevents
+14983072,20660097,2161-08-10 04:00:00,Output,Foley,35.0,ml,outputevents
+14983072,20660097,2161-08-10 04:59:00,DateTime Obs,22 Gauge Insertion Date,2161-08-09 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-10 05:00:00,DateTime Obs,22 Gauge Insertion Date,2161-08-09 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-10 05:00:00,DateTime Obs,Impaired Skin  - Dressing Change #1,2161-08-08 12:14:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-10 05:00:00,Output,R Pleural #1,200.0,ml,outputevents
+14983072,20660097,2161-08-10 05:00:00,Output,Foley,45.0,ml,outputevents
+14983072,20660097,2161-08-10 05:50:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14983072,20660097,2161-08-10 05:50:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14983072,20660097,2161-08-10 06:00:00,Prescription,Bupivacaine 0.1%,250,mL,prescriptions
+14983072,20660097,2161-08-10 06:00:00,Pharmacy,2,,NaN,pharmacy
+14983072,20660097,2161-08-10 06:00:00,Prescription,Epidural Bag,1,BAG,prescriptions
+14983072,20660097,2161-08-10 06:00:00,Prescription,HYDROmorphone P.F.,2500,mcg,prescriptions
+14983072,20660097,2161-08-10 06:00:00,Output,Foley,35.0,ml,outputevents
+14983072,20660097,2161-08-10 06:56:00,Input,Furosemide (Lasix),20.000001415610317,mg,inputevents
+14983072,20660097,2161-08-10 07:00:00,Output,Foley,185.0,ml,outputevents
+14983072,20660097,2161-08-10 07:12:00,DateTime Obs,Arterial Line Dressing Change,2161-08-09 16:00:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-10 07:12:00,DateTime Obs,Arterial line Insertion Date,2161-08-08 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-10 07:12:00,DateTime Obs,Arterial line Cap Change,2161-08-08 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-10 07:12:00,DateTime Obs,Arterial line Tubing Change,2161-08-08 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-10 07:24:00,Output,Foley,425.0,ml,outputevents
+14983072,20660097,2161-08-10 07:38:00,Lab Result,Base Excess| Blood,4.0,mEq/L,labevents
+14983072,20660097,2161-08-10 07:38:00,Lab Result,Calculated Total CO2| Blood,31.0,mEq/L,labevents
+14983072,20660097,2161-08-10 07:38:00,Lab Result,pCO2| Blood,50.0,mm Hg,labevents
+14983072,20660097,2161-08-10 07:38:00,Lab Result,pH| Blood,7.39,units,labevents
+14983072,20660097,2161-08-10 07:38:00,Lab Result,pO2| Blood,124.0,mm Hg,labevents
+14983072,20660097,2161-08-10 07:38:00,Lab Result,Specimen Type| Blood,,,labevents
+14983072,20660097,2161-08-10 08:00:00,Output,R Pleural #1,80.0,ml,outputevents
+14983072,20660097,2161-08-10 08:00:00,DateTime Obs,22 Gauge Insertion Date,2161-08-09 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-10 08:00:00,DateTime Obs,Impaired Skin  - Dressing Change #1,2161-08-08 12:14:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-10 08:00:00,Output,Foley,425.0,ml,outputevents
+14983072,20660097,2161-08-10 08:55:00,Procedure,Bronchoscopy,1.0,,procedureevents
+14983072,20660097,2161-08-10 08:55:00,Procedure,Bronchoscopy,1.0,,procedureevents
+14983072,20660097,2161-08-10 09:00:00,Prescription,Furosemide,20,mg,prescriptions
+14983072,20660097,2161-08-10 09:00:00,Pharmacy,Furosemide,,NaN,pharmacy
+14983072,20660097,2161-08-10 09:00:00,Prescription,Epidural Bag,1,BAG,prescriptions
+14983072,20660097,2161-08-10 09:00:00,Prescription,HYDROmorphone P.F.,2500,mcg,prescriptions
+14983072,20660097,2161-08-10 09:00:00,Prescription,Bupivacaine 0.1%,250,mL,prescriptions
+14983072,20660097,2161-08-10 09:00:00,Pharmacy,2,,NaN,pharmacy
+14983072,20660097,2161-08-10 09:00:00,Output,Foley,350.0,ml,outputevents
+14983072,20660097,2161-08-10 09:22:00,Input,NaCl 0.9%,261.7728613615036,ml,inputevents
+14983072,20660097,2161-08-10 09:22:00,Input,K Phos,7.853185816202313,mmol,inputevents
+14983072,20660097,2161-08-10 09:22:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+14983072,20660097,2161-08-10 09:22:00,Input,IVF ingredient,261.7728613615036,ml,ingredientevents
+14983072,20660097,2161-08-10 09:22:00,Input,Water,261.7728613615036,ml,ingredientevents
+14983072,20660097,2161-08-10 10:00:00,Output,Foley,125.0,ml,outputevents
+14983072,20660097,2161-08-10 10:27:00,Input,Solution,10.0,ml,inputevents
+14983072,20660097,2161-08-10 10:27:00,Input,IVF ingredient,10.0,ml,ingredientevents
+14983072,20660097,2161-08-10 10:27:00,Input,Water,10.0,ml,ingredientevents
+14983072,20660097,2161-08-10 10:27:00,Input,Pantoprazole (Protonix),1.0,dose,inputevents
+14983072,20660097,2161-08-10 10:54:00,Lab Result,"Creatine Kinase, MB Isoenzyme| Blood",13.0,ng/mL,labevents
+14983072,20660097,2161-08-10 10:54:00,Lab Result,CK-MB Index| Blood,0.2,%,labevents
+14983072,20660097,2161-08-10 10:54:00,Lab Result,Creatine Kinase (CK)| Blood,6949.0,IU/L,labevents
+14983072,20660097,2161-08-10 11:00:00,Output,Foley,125.0,ml,outputevents
+14983072,20660097,2161-08-10 11:31:00,DateTime Obs,22 Gauge Insertion Date,2161-08-09 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-10 12:00:00,Procedure,Arterial Line,1260.0,min,procedureevents
+14983072,20660097,2161-08-10 12:00:00,Output,Foley,95.0,ml,outputevents
+14983072,20660097,2161-08-10 12:00:00,Output,R Pleural #1,60.0,ml,outputevents
+14983072,20660097,2161-08-10 12:00:00,DateTime Obs,Arterial line Tubing Change,2161-08-10 12:39:00,Date,datetimeevents
+14983072,20660097,2161-08-10 12:00:00,Procedure,Arterial Line,1260.0,min,procedureevents
+14983072,20660097,2161-08-10 12:00:00,DateTime Obs,Arterial Line Dressing Change,2161-08-10 12:39:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-10 12:00:00,DateTime Obs,Arterial line Cap Change,2161-08-10 12:39:00,Date,datetimeevents
+14983072,20660097,2161-08-10 12:00:00,DateTime Obs,Impaired Skin  - Dressing Change #1,2161-08-08 12:14:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-10 12:00:00,DateTime Obs,Arterial line Insertion Date,2161-08-10 12:39:00,Date,datetimeevents
+14983072,20660097,2161-08-10 12:59:00,Input,Oral/Gastric Ingredient,30.0,ml,ingredientevents
+14983072,20660097,2161-08-10 12:59:00,Input,Water,30.0,ml,ingredientevents
+14983072,20660097,2161-08-10 12:59:00,Input,PO Intake,30.0,ml,inputevents
+14983072,20660097,2161-08-10 13:00:00,Procedure,PICC Line,2857.0,min,procedureevents
+14983072,20660097,2161-08-10 13:00:00,DateTime Obs,PICC Line Tubing Change,2161-08-10 13:00:00,Date,datetimeevents
+14983072,20660097,2161-08-10 13:00:00,Procedure,PICC Line,2857.0,min,procedureevents
+14983072,20660097,2161-08-10 13:00:00,Pharmacy,Sodium Chloride 0.9%  Flush,,NaN,pharmacy
+14983072,20660097,2161-08-10 13:00:00,Prescription,Sodium Chloride 0.9%  Flush,10,mL,prescriptions
+14983072,20660097,2161-08-10 13:00:00,Output,Foley,40.0,ml,outputevents
+14983072,20660097,2161-08-10 13:00:00,DateTime Obs,PICC Line Dressing Change,2161-08-10 13:00:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-10 13:00:00,DateTime Obs,PICC Line Insertion Date,2161-08-10 13:00:00,Date,datetimeevents
+14983072,20660097,2161-08-10 13:00:00,DateTime Obs,PICC Line Cap Change,2161-08-10 13:00:00,Date,datetimeevents
+14983072,20660097,2161-08-10 13:30:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14983072,20660097,2161-08-10 13:30:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14983072,20660097,2161-08-10 13:43:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14983072,20660097,2161-08-10 13:43:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14983072,20660097,2161-08-10 14:00:00,Output,Foley,125.0,ml,outputevents
+14983072,20660097,2161-08-10 14:50:00,Input,K Phos,7.146814605221152,mmol,inputevents
+14983072,20660097,2161-08-10 14:50:00,Input,IVF ingredient,238.22715425491333,ml,ingredientevents
+14983072,20660097,2161-08-10 14:50:00,Input,Water,238.22715425491333,ml,ingredientevents
+14983072,20660097,2161-08-10 14:50:00,Input,NaCl 0.9%,238.22715425491333,ml,inputevents
+14983072,20660097,2161-08-10 14:51:00,DateTime Obs,22 Gauge Insertion Date,2161-08-09 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-10 15:00:00,Output,Foley,40.0,ml,outputevents
+14983072,20660097,2161-08-10 15:01:00,Lab Result,Calculated Total CO2| Blood,31.0,mEq/L,labevents
+14983072,20660097,2161-08-10 15:01:00,Lab Result,Specimen Type| Blood,,,labevents
+14983072,20660097,2161-08-10 15:01:00,Lab Result,"Potassium, Whole Blood| Blood",3.4,mEq/L,labevents
+14983072,20660097,2161-08-10 15:01:00,Lab Result,pO2| Blood,146.0,mm Hg,labevents
+14983072,20660097,2161-08-10 15:01:00,Lab Result,pH| Blood,7.39,units,labevents
+14983072,20660097,2161-08-10 15:01:00,Lab Result,pCO2| Blood,50.0,mm Hg,labevents
+14983072,20660097,2161-08-10 15:01:00,Lab Result,Free Calcium| Blood,1.1,mmol/L,labevents
+14983072,20660097,2161-08-10 15:01:00,Lab Result,Base Excess| Blood,4.0,mEq/L,labevents
+14983072,20660097,2161-08-10 15:04:00,Input,PO Intake,30.0,ml,inputevents
+14983072,20660097,2161-08-10 15:04:00,Input,Oral/Gastric Ingredient,30.0,ml,ingredientevents
+14983072,20660097,2161-08-10 15:04:00,Input,Water,30.0,ml,ingredientevents
+14983072,20660097,2161-08-10 16:00:00,Output,Foley,125.0,ml,outputevents
+14983072,20660097,2161-08-10 16:08:00,DateTime Obs,PICC Line Tubing Change,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-10 16:08:00,DateTime Obs,Arterial line Tubing Change,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-10 16:08:00,DateTime Obs,PICC Line Cap Change,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-10 16:08:00,DateTime Obs,PICC Line Dressing Change,2161-08-10 13:00:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-10 16:08:00,DateTime Obs,Arterial line Cap Change,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-10 16:08:00,DateTime Obs,Arterial line Insertion Date,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-10 16:08:00,DateTime Obs,Arterial Line Dressing Change,2161-08-10 12:39:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-10 16:08:00,DateTime Obs,PICC Line Insertion Date,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-10 16:08:00,DateTime Obs,Impaired Skin  - Dressing Change #1,2161-08-08 12:14:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-10 16:25:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+14983072,20660097,2161-08-10 17:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+14983072,20660097,2161-08-10 17:00:00,Output,Foley,40.0,ml,outputevents
+14983072,20660097,2161-08-10 17:00:00,Prescription,Potassium Chloride,20-40,mEq,prescriptions
+14983072,20660097,2161-08-10 17:00:00,Prescription,SW,50,mL,prescriptions
+14983072,20660097,2161-08-10 17:00:00,Output,R Pleural #1,40.0,ml,outputevents
+14983072,20660097,2161-08-10 17:03:00,Input,KCL (Bolus),49.999998807907104,ml,inputevents
+14983072,20660097,2161-08-10 17:03:00,Input,Potassium Chloride,20.000000596046448,mEq,inputevents
+14983072,20660097,2161-08-10 17:03:00,Input,IVF ingredient,49.999998807907104,ml,ingredientevents
+14983072,20660097,2161-08-10 17:03:00,Input,Water,49.999998807907104,ml,ingredientevents
+14983072,20660097,2161-08-10 18:00:00,Output,Foley,125.0,ml,outputevents
+14983072,20660097,2161-08-10 18:18:00,Lab Result,Potassium| Blood,4.3,mEq/L,labevents
+14983072,20660097,2161-08-10 18:18:00,Lab Result,Magnesium| Blood,1.8,mg/dL,labevents
+14983072,20660097,2161-08-10 18:18:00,Lab Result,"Creatine Kinase, MB Isoenzyme| Blood",9.0,ng/mL,labevents
+14983072,20660097,2161-08-10 18:18:00,Lab Result,Creatine Kinase (CK)| Blood,6402.0,IU/L,labevents
+14983072,20660097,2161-08-10 18:18:00,Lab Result,"Calcium, Total| Blood",7.6,mg/dL,labevents
+14983072,20660097,2161-08-10 18:18:00,Lab Result,Phosphate| Blood,2.6,mg/dL,labevents
+14983072,20660097,2161-08-10 18:21:00,Input,Water,49.999998807907104,ml,ingredientevents
+14983072,20660097,2161-08-10 18:21:00,Input,IVF ingredient,49.999998807907104,ml,ingredientevents
+14983072,20660097,2161-08-10 18:21:00,Input,KCL (Bolus),49.999998807907104,ml,inputevents
+14983072,20660097,2161-08-10 18:21:00,Input,Potassium Chloride,20.000000596046448,mEq,inputevents
+14983072,20660097,2161-08-10 19:00:00,Output,Foley,145.0,ml,outputevents
+14983072,20660097,2161-08-10 20:00:00,Prescription,Epidural Bag,1,BAG,prescriptions
+14983072,20660097,2161-08-10 20:00:00,Output,R Pleural #1,40.0,ml,outputevents
+14983072,20660097,2161-08-10 20:00:00,Pharmacy,2,,NaN,pharmacy
+14983072,20660097,2161-08-10 20:00:00,Output,Foley,45.0,ml,outputevents
+14983072,20660097,2161-08-10 20:00:00,Prescription,HYDROmorphone P.F.,2500,mcg,prescriptions
+14983072,20660097,2161-08-10 20:00:00,Prescription,Bupivacaine 0.1%,250,mL,prescriptions
+14983072,20660097,2161-08-10 20:43:00,DateTime Obs,Impaired Skin  - Dressing Change #1,2161-08-08 12:14:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-10 20:57:00,Input,Magnesium Sulfate,2.0000001043081284,grams,inputevents
+14983072,20660097,2161-08-10 20:57:00,Input,Magnesium Sulfate (Bolus),49.999998807907104,ml,inputevents
+14983072,20660097,2161-08-10 20:57:00,Input,Water,49.999998807907104,ml,ingredientevents
+14983072,20660097,2161-08-10 20:57:00,Input,IVF ingredient,49.999998807907104,ml,ingredientevents
+14983072,20660097,2161-08-10 21:00:00,Output,Foley,140.0,ml,outputevents
+14983072,20660097,2161-08-10 21:43:00,DateTime Obs,Arterial line Cap Change,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-10 21:43:00,DateTime Obs,Arterial Line Dressing Change,2161-08-10 12:39:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-10 21:43:00,DateTime Obs,PICC Line Tubing Change,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-10 21:43:00,DateTime Obs,Arterial line Tubing Change,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-10 21:43:00,DateTime Obs,PICC Line Cap Change,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-10 21:43:00,DateTime Obs,PICC Line Insertion Date,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-10 21:43:00,DateTime Obs,PICC Line Dressing Change,2161-08-10 13:00:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-10 21:43:00,DateTime Obs,Arterial line Insertion Date,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-10 22:00:00,Output,Foley,35.0,ml,outputevents
+14983072,20660097,2161-08-10 22:00:00,Output,R Pleural #1,30.0,ml,outputevents
+14983072,20660097,2161-08-10 22:08:00,Lab Result,pH| Blood,7.36,units,labevents
+14983072,20660097,2161-08-10 22:08:00,Lab Result,pCO2| Blood,49.0,mm Hg,labevents
+14983072,20660097,2161-08-10 22:08:00,Lab Result,Calculated Total CO2| Blood,29.0,mEq/L,labevents
+14983072,20660097,2161-08-10 22:08:00,Lab Result,Base Excess| Blood,0.0,mEq/L,labevents
+14983072,20660097,2161-08-10 22:08:00,Lab Result,Specimen Type| Blood,,,labevents
+14983072,20660097,2161-08-10 22:08:00,Lab Result,pO2| Blood,105.0,mm Hg,labevents
+14983072,20660097,2161-08-10 23:00:00,Output,Foley,180.0,ml,outputevents
+14983072,20660097,2161-08-10 23:01:00,Input,Water,10.0,ml,ingredientevents
+14983072,20660097,2161-08-10 23:01:00,Input,Pantoprazole (Protonix),1.0,dose,inputevents
+14983072,20660097,2161-08-10 23:01:00,Input,IVF ingredient,10.0,ml,ingredientevents
+14983072,20660097,2161-08-10 23:01:00,Input,Solution,10.0,ml,inputevents
+14983072,20660097,2161-08-10 23:02:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+14983072,20660097,2161-08-10 23:02:00,Input,Furosemide (Lasix),20.000001415610317,mg,inputevents
+14983072,20660097,2161-08-11 00:00:00,Pharmacy,Furosemide,,NaN,pharmacy
+14983072,20660097,2161-08-11 00:00:00,Output,Foley,500.0,ml,outputevents
+14983072,20660097,2161-08-11 00:00:00,Prescription,Furosemide,20,mg,prescriptions
+14983072,20660097,2161-08-11 00:52:00,DateTime Obs,Arterial line Insertion Date,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-11 00:52:00,DateTime Obs,Arterial Line Dressing Change,2161-08-10 12:39:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-11 00:52:00,DateTime Obs,Arterial line Cap Change,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-11 00:52:00,DateTime Obs,Arterial line Tubing Change,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-11 00:53:00,DateTime Obs,PICC Line Cap Change,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-11 00:53:00,DateTime Obs,PICC Line Insertion Date,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-11 00:53:00,DateTime Obs,PICC Line Dressing Change,2161-08-10 13:00:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-11 00:53:00,DateTime Obs,PICC Line Tubing Change,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-11 00:53:00,DateTime Obs,Impaired Skin  - Dressing Change #1,2161-08-08 12:14:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-11 01:00:00,Output,Foley,300.0,ml,outputevents
+14983072,20660097,2161-08-11 01:25:00,Lab Result,Hematocrit| Blood,27.2,%,labevents
+14983072,20660097,2161-08-11 01:25:00,Lab Result,"Creatine Kinase, MB Isoenzyme| Blood",7.0,ng/mL,labevents
+14983072,20660097,2161-08-11 01:25:00,Lab Result,Creatinine| Blood,0.7,mg/dL,labevents
+14983072,20660097,2161-08-11 01:25:00,Lab Result,Glucose| Blood,86.0,mg/dL,labevents
+14983072,20660097,2161-08-11 01:25:00,Lab Result,Magnesium| Blood,1.9,mg/dL,labevents
+14983072,20660097,2161-08-11 01:25:00,Lab Result,Phosphate| Blood,2.7,mg/dL,labevents
+14983072,20660097,2161-08-11 01:25:00,Lab Result,Potassium| Blood,3.8,mEq/L,labevents
+14983072,20660097,2161-08-11 01:25:00,Lab Result,Sodium| Blood,132.0,mEq/L,labevents
+14983072,20660097,2161-08-11 01:25:00,Lab Result,"Calcium, Total| Blood",8.1,mg/dL,labevents
+14983072,20660097,2161-08-11 01:25:00,Lab Result,Bicarbonate| Blood,29.0,mEq/L,labevents
+14983072,20660097,2161-08-11 01:25:00,Lab Result,Anion Gap| Blood,12.0,mEq/L,labevents
+14983072,20660097,2161-08-11 01:25:00,Lab Result,PTT| Blood,25.7,sec,labevents
+14983072,20660097,2161-08-11 01:25:00,Lab Result,PT| Blood,13.0,sec,labevents
+14983072,20660097,2161-08-11 01:25:00,Lab Result,INR(PT)| Blood,1.1,,labevents
+14983072,20660097,2161-08-11 01:25:00,Lab Result,White Blood Cells| Blood,10.7,K/uL,labevents
+14983072,20660097,2161-08-11 01:25:00,Lab Result,Red Blood Cells| Blood,3.26,m/uL,labevents
+14983072,20660097,2161-08-11 01:25:00,Lab Result,RDW| Blood,14.8,%,labevents
+14983072,20660097,2161-08-11 01:25:00,Lab Result,Platelet Count| Blood,205.0,K/uL,labevents
+14983072,20660097,2161-08-11 01:25:00,Lab Result,MCV| Blood,83.0,fL,labevents
+14983072,20660097,2161-08-11 01:25:00,Lab Result,MCHC| Blood,34.9,%,labevents
+14983072,20660097,2161-08-11 01:25:00,Lab Result,MCH| Blood,29.2,pg,labevents
+14983072,20660097,2161-08-11 01:25:00,Lab Result,Hemoglobin| Blood,9.5,g/dL,labevents
+14983072,20660097,2161-08-11 01:25:00,Lab Result,Urea Nitrogen| Blood,6.0,mg/dL,labevents
+14983072,20660097,2161-08-11 01:25:00,Lab Result,Chloride| Blood,95.0,mEq/L,labevents
+14983072,20660097,2161-08-11 01:25:00,Lab Result,Creatine Kinase (CK)| Blood,4681.0,IU/L,labevents
+14983072,20660097,2161-08-11 02:00:00,Output,Foley,200.0,ml,outputevents
+14983072,20660097,2161-08-11 02:00:00,Output,R Pleural #1,40.0,ml,outputevents
+14983072,20660097,2161-08-11 02:58:00,Input,Magnesium Sulfate,2.0000001043081284,grams,inputevents
+14983072,20660097,2161-08-11 02:58:00,Input,IVF ingredient,49.999998807907104,ml,ingredientevents
+14983072,20660097,2161-08-11 02:58:00,Input,Water,49.999998807907104,ml,ingredientevents
+14983072,20660097,2161-08-11 02:58:00,Input,Water,49.999998807907104,ml,ingredientevents
+14983072,20660097,2161-08-11 02:58:00,Input,IVF ingredient,49.999998807907104,ml,ingredientevents
+14983072,20660097,2161-08-11 02:58:00,Input,Magnesium Sulfate (Bolus),49.999998807907104,ml,inputevents
+14983072,20660097,2161-08-11 02:58:00,Input,KCL (Bolus),49.999998807907104,ml,inputevents
+14983072,20660097,2161-08-11 02:58:00,Input,Potassium Chloride,20.000000596046448,mEq,inputevents
+14983072,20660097,2161-08-11 03:00:00,Output,Foley,30.0,ml,outputevents
+14983072,20660097,2161-08-11 04:00:00,DateTime Obs,Impaired Skin  - Dressing Change #1,2161-08-08 12:14:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-11 04:00:00,DateTime Obs,Arterial line Tubing Change,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-11 04:00:00,DateTime Obs,Arterial line Insertion Date,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-11 04:00:00,DateTime Obs,Arterial Line Dressing Change,2161-08-10 12:39:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-11 04:00:00,DateTime Obs,Arterial line Cap Change,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-11 04:28:00,Output,Foley,170.0,ml,outputevents
+14983072,20660097,2161-08-11 04:34:00,Input,Potassium Chloride,20.000000596046448,mEq,inputevents
+14983072,20660097,2161-08-11 04:34:00,Input,IVF ingredient,49.999998807907104,ml,ingredientevents
+14983072,20660097,2161-08-11 04:34:00,Input,KCL (Bolus),49.999998807907104,ml,inputevents
+14983072,20660097,2161-08-11 04:34:00,Input,Water,49.999998807907104,ml,ingredientevents
+14983072,20660097,2161-08-11 05:00:00,Output,R Pleural #1,30.0,ml,outputevents
+14983072,20660097,2161-08-11 05:00:00,Output,Foley,30.0,ml,outputevents
+14983072,20660097,2161-08-11 05:47:00,DateTime Obs,Arterial line Insertion Date,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-11 05:47:00,DateTime Obs,Arterial line Cap Change,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-11 05:47:00,DateTime Obs,Arterial line Tubing Change,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-11 05:47:00,DateTime Obs,Arterial Line Dressing Change,2161-08-10 12:39:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-11 05:48:00,DateTime Obs,PICC Line Insertion Date,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-11 05:48:00,DateTime Obs,PICC Line Cap Change,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-11 05:48:00,DateTime Obs,PICC Line Dressing Change,2161-08-10 13:00:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-11 05:48:00,DateTime Obs,PICC Line Tubing Change,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-11 06:00:00,Output,Foley,50.0,ml,outputevents
+14983072,20660097,2161-08-11 07:00:00,Output,Foley,50.0,ml,outputevents
+14983072,20660097,2161-08-11 08:00:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+14983072,20660097,2161-08-11 08:00:00,DateTime Obs,PICC Line Insertion Date,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-11 08:00:00,DateTime Obs,PICC Line Dressing Change,2161-08-10 13:00:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-11 08:00:00,DateTime Obs,PICC Line Tubing Change,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-11 08:00:00,DateTime Obs,Impaired Skin  - Dressing Change #1,2161-08-08 12:14:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-11 08:00:00,DateTime Obs,PICC Line Cap Change,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-11 08:01:00,Output,Foley,110.0,ml,outputevents
+14983072,20660097,2161-08-11 09:00:00,Input,PO Intake,240.0,ml,inputevents
+14983072,20660097,2161-08-11 09:00:00,DateTime Obs,PICC Line Cap Change,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-11 09:00:00,Input,Water,240.0,ml,ingredientevents
+14983072,20660097,2161-08-11 09:00:00,DateTime Obs,PICC Line Insertion Date,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-11 09:00:00,DateTime Obs,PICC Line Tubing Change,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-11 09:00:00,Input,Oral/Gastric Ingredient,240.0,ml,ingredientevents
+14983072,20660097,2161-08-11 09:00:00,DateTime Obs,PICC Line Dressing Change,2161-08-10 13:00:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-11 09:10:00,DateTime Obs,Arterial line Tubing Change,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-11 09:10:00,DateTime Obs,Arterial line Insertion Date,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-11 09:10:00,DateTime Obs,Arterial Line Dressing Change,2161-08-10 12:39:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-11 09:10:00,DateTime Obs,Arterial line Cap Change,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-11 10:00:00,Pharmacy,Furosemide,,NaN,pharmacy
+14983072,20660097,2161-08-11 10:00:00,Prescription,Furosemide,20,mg,prescriptions
+14983072,20660097,2161-08-11 10:00:00,Output,Foley,110.0,ml,outputevents
+14983072,20660097,2161-08-11 11:01:00,Input,Furosemide (Lasix),20.000001415610317,mg,inputevents
+14983072,20660097,2161-08-11 12:00:00,Input,Oral/Gastric Ingredient,240.0,ml,ingredientevents
+14983072,20660097,2161-08-11 12:00:00,Input,Solution,10.0,ml,inputevents
+14983072,20660097,2161-08-11 12:00:00,Input,Pantoprazole (Protonix),1.0,dose,inputevents
+14983072,20660097,2161-08-11 12:00:00,Input,PO Intake,240.0,ml,inputevents
+14983072,20660097,2161-08-11 12:00:00,Input,IVF ingredient,10.0,ml,ingredientevents
+14983072,20660097,2161-08-11 12:00:00,Output,Foley,800.0,ml,outputevents
+14983072,20660097,2161-08-11 12:00:00,Output,Chest Tube #1,100.0,ml,outputevents
+14983072,20660097,2161-08-11 12:00:00,Input,Water,10.0,ml,ingredientevents
+14983072,20660097,2161-08-11 12:00:00,Input,Water,240.0,ml,ingredientevents
+14983072,20660097,2161-08-11 13:01:00,Output,Foley,450.0,ml,outputevents
+14983072,20660097,2161-08-11 14:00:00,Output,Foley,180.0,ml,outputevents
+14983072,20660097,2161-08-11 14:20:00,Lab Result,Chloride| Blood,92.0,mEq/L,labevents
+14983072,20660097,2161-08-11 14:20:00,Lab Result,Anion Gap| Blood,16.0,mEq/L,labevents
+14983072,20660097,2161-08-11 14:20:00,Lab Result,Bicarbonate| Blood,29.0,mEq/L,labevents
+14983072,20660097,2161-08-11 14:20:00,Lab Result,"Calcium, Total| Blood",8.2,mg/dL,labevents
+14983072,20660097,2161-08-11 14:20:00,Lab Result,Urea Nitrogen| Blood,7.0,mg/dL,labevents
+14983072,20660097,2161-08-11 14:20:00,Lab Result,Creatinine| Blood,0.6,mg/dL,labevents
+14983072,20660097,2161-08-11 14:20:00,Lab Result,Magnesium| Blood,1.9,mg/dL,labevents
+14983072,20660097,2161-08-11 14:20:00,Lab Result,Phosphate| Blood,3.3,mg/dL,labevents
+14983072,20660097,2161-08-11 14:20:00,Lab Result,Potassium| Blood,3.9,mEq/L,labevents
+14983072,20660097,2161-08-11 14:20:00,Lab Result,Sodium| Blood,133.0,mEq/L,labevents
+14983072,20660097,2161-08-11 14:20:00,Lab Result,Glucose| Blood,70.0,mg/dL,labevents
+14983072,20660097,2161-08-11 16:00:00,Input,PO Intake,240.0,ml,inputevents
+14983072,20660097,2161-08-11 16:00:00,Input,Oral/Gastric Ingredient,240.0,ml,ingredientevents
+14983072,20660097,2161-08-11 16:00:00,Input,Water,240.0,ml,ingredientevents
+14983072,20660097,2161-08-11 16:00:00,DateTime Obs,PICC Line Tubing Change,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-11 16:00:00,DateTime Obs,PICC Line Dressing Change,2161-08-10 13:00:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-11 16:00:00,DateTime Obs,PICC Line Insertion Date,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-11 16:00:00,DateTime Obs,Impaired Skin  - Dressing Change #1,2161-08-08 12:14:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-11 16:00:00,Output,Chest Tube #1,50.0,ml,outputevents
+14983072,20660097,2161-08-11 16:00:00,Output,Foley,160.0,ml,outputevents
+14983072,20660097,2161-08-11 16:00:00,DateTime Obs,PICC Line Cap Change,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-11 16:20:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+14983072,20660097,2161-08-11 17:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+14983072,20660097,2161-08-11 17:00:00,Prescription,Potassium Chloride,40,mEq,prescriptions
+14983072,20660097,2161-08-11 18:00:00,Output,Foley,120.0,ml,outputevents
+14983072,20660097,2161-08-11 18:27:00,Input,Water,240.0,ml,ingredientevents
+14983072,20660097,2161-08-11 18:27:00,Input,Oral/Gastric Ingredient,240.0,ml,ingredientevents
+14983072,20660097,2161-08-11 18:27:00,Input,PO Intake,240.0,ml,inputevents
+14983072,20660097,2161-08-11 20:00:00,Output,Foley,120.0,ml,outputevents
+14983072,20660097,2161-08-11 20:15:00,DateTime Obs,PICC Line Insertion Date,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-11 20:15:00,DateTime Obs,PICC Line Cap Change,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-11 20:15:00,DateTime Obs,PICC Line Tubing Change,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-11 20:15:00,DateTime Obs,PICC Line Dressing Change,2161-08-10 13:00:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-11 20:15:00,DateTime Obs,Impaired Skin  - Dressing Change #1,2161-08-08 12:14:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-11 20:25:00,Input,Oral/Gastric Ingredient,240.0,ml,ingredientevents
+14983072,20660097,2161-08-11 20:25:00,Input,Water,240.0,ml,ingredientevents
+14983072,20660097,2161-08-11 20:25:00,Input,PO Intake,240.0,ml,inputevents
+14983072,20660097,2161-08-11 22:00:00,Output,Foley,100.0,ml,outputevents
+14983072,20660097,2161-08-11 22:00:00,Output,Chest Tube #1,80.0,ml,outputevents
+14983072,20660097,2161-08-12 00:00:00,Output,Foley,80.0,ml,outputevents
+14983072,20660097,2161-08-12 00:29:00,DateTime Obs,PICC Line Insertion Date,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-12 00:29:00,DateTime Obs,Impaired Skin  - Dressing Change #1,2161-08-08 12:14:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-12 00:29:00,DateTime Obs,PICC Line Tubing Change,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-12 00:29:00,DateTime Obs,PICC Line Cap Change,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-12 00:29:00,DateTime Obs,PICC Line Dressing Change,2161-08-10 13:00:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-12 00:30:00,Input,Pantoprazole (Protonix),1.0,dose,inputevents
+14983072,20660097,2161-08-12 00:30:00,Input,Water,10.0,ml,ingredientevents
+14983072,20660097,2161-08-12 00:30:00,Input,IVF ingredient,10.0,ml,ingredientevents
+14983072,20660097,2161-08-12 00:30:00,Input,Solution,10.0,ml,inputevents
+14983072,20660097,2161-08-12 00:30:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+14983072,20660097,2161-08-12 02:30:00,Input,Water,120.0,ml,ingredientevents
+14983072,20660097,2161-08-12 02:30:00,Input,Oral/Gastric Ingredient,120.0,ml,ingredientevents
+14983072,20660097,2161-08-12 02:30:00,Input,PO Intake,120.0,ml,inputevents
+14983072,20660097,2161-08-12 04:00:00,Output,Foley,120.0,ml,outputevents
+14983072,20660097,2161-08-12 04:36:00,DateTime Obs,PICC Line Dressing Change,2161-08-10 13:00:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-12 04:36:00,DateTime Obs,PICC Line Insertion Date,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-12 04:36:00,DateTime Obs,PICC Line Cap Change,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-12 04:36:00,DateTime Obs,PICC Line Tubing Change,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-12 04:37:00,DateTime Obs,Impaired Skin  - Dressing Change #1,2161-08-08 12:14:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-12 04:54:00,DateTime Obs,PICC Line Cap Change,2161-08-11 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-12 04:54:00,DateTime Obs,PICC Line Insertion Date,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-12 04:54:00,DateTime Obs,PICC Line Dressing Change,2161-08-11 17:30:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-12 04:54:00,DateTime Obs,PICC Line Tubing Change,2161-08-11 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-12 05:44:00,Lab Result,Glucose| Blood,83.0,mg/dL,labevents
+14983072,20660097,2161-08-12 05:44:00,Lab Result,Hematocrit| Blood,27.7,%,labevents
+14983072,20660097,2161-08-12 05:44:00,Lab Result,Hemoglobin| Blood,9.8,g/dL,labevents
+14983072,20660097,2161-08-12 05:44:00,Lab Result,MCH| Blood,29.5,pg,labevents
+14983072,20660097,2161-08-12 05:44:00,Lab Result,MCHC| Blood,35.4,%,labevents
+14983072,20660097,2161-08-12 05:44:00,Lab Result,MCV| Blood,83.0,fL,labevents
+14983072,20660097,2161-08-12 05:44:00,Lab Result,Platelet Count| Blood,214.0,K/uL,labevents
+14983072,20660097,2161-08-12 05:44:00,Lab Result,RDW| Blood,14.6,%,labevents
+14983072,20660097,2161-08-12 05:44:00,Lab Result,Red Blood Cells| Blood,3.32,m/uL,labevents
+14983072,20660097,2161-08-12 05:44:00,Lab Result,White Blood Cells| Blood,9.3,K/uL,labevents
+14983072,20660097,2161-08-12 05:44:00,Lab Result,Anion Gap| Blood,14.0,mEq/L,labevents
+14983072,20660097,2161-08-12 05:44:00,Lab Result,Bicarbonate| Blood,30.0,mEq/L,labevents
+14983072,20660097,2161-08-12 05:44:00,Lab Result,"Calcium, Total| Blood",8.2,mg/dL,labevents
+14983072,20660097,2161-08-12 05:44:00,Lab Result,Chloride| Blood,96.0,mEq/L,labevents
+14983072,20660097,2161-08-12 05:44:00,Lab Result,Creatine Kinase (CK)| Blood,1641.0,IU/L,labevents
+14983072,20660097,2161-08-12 05:44:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14983072,20660097,2161-08-12 05:44:00,Lab Result,Urea Nitrogen| Blood,8.0,mg/dL,labevents
+14983072,20660097,2161-08-12 05:44:00,Lab Result,Sodium| Blood,136.0,mEq/L,labevents
+14983072,20660097,2161-08-12 05:44:00,Lab Result,Potassium| Blood,4.1,mEq/L,labevents
+14983072,20660097,2161-08-12 05:44:00,Lab Result,Creatinine| Blood,0.6,mg/dL,labevents
+14983072,20660097,2161-08-12 05:44:00,Lab Result,Phosphate| Blood,3.0,mg/dL,labevents
+14983072,20660097,2161-08-12 05:44:00,Lab Result,Magnesium| Blood,1.8,mg/dL,labevents
+14983072,20660097,2161-08-12 05:44:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14983072,20660097,2161-08-12 06:00:00,Output,Chest Tube #1,60.0,ml,outputevents
+14983072,20660097,2161-08-12 06:00:00,Output,Foley,60.0,ml,outputevents
+14983072,20660097,2161-08-12 08:00:00,Output,Foley,160.0,ml,outputevents
+14983072,20660097,2161-08-12 08:39:00,Input,PO Intake,100.0,ml,inputevents
+14983072,20660097,2161-08-12 08:39:00,Input,Oral/Gastric Ingredient,100.0,ml,ingredientevents
+14983072,20660097,2161-08-12 08:39:00,Input,Water,100.0,ml,ingredientevents
+14983072,20660097,2161-08-12 08:41:00,DateTime Obs,PICC Line Cap Change,2161-08-11 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-12 08:41:00,DateTime Obs,PICC Line Insertion Date,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-12 08:41:00,DateTime Obs,PICC Line Dressing Change,2161-08-11 17:30:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-12 08:41:00,DateTime Obs,Impaired Skin  - Dressing Change #1,2161-08-08 12:14:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-12 08:41:00,DateTime Obs,PICC Line Tubing Change,2161-08-11 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-12 08:53:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+14983072,20660097,2161-08-12 10:07:00,Output,Foley,100.0,ml,outputevents
+14983072,20660097,2161-08-12 10:35:00,Input,Oral/Gastric Ingredient,220.0,ml,ingredientevents
+14983072,20660097,2161-08-12 10:35:00,Input,Water,220.0,ml,ingredientevents
+14983072,20660097,2161-08-12 10:35:00,Input,PO Intake,220.0,ml,inputevents
+14983072,20660097,2161-08-12 10:36:00,DateTime Obs,Impaired Skin  - Dressing Change #1,2161-08-08 12:14:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-12 11:00:00,Output,Foley,60.0,ml,outputevents
+14983072,20660097,2161-08-12 11:52:00,DateTime Obs,PICC Line Dressing Change,2161-08-11 17:30:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-12 11:52:00,DateTime Obs,Impaired Skin  - Dressing Change #1,2161-08-08 12:14:00,Date and Time,datetimeevents
+14983072,20660097,2161-08-12 11:52:00,DateTime Obs,PICC Line Tubing Change,2161-08-11 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-12 11:52:00,DateTime Obs,PICC Line Insertion Date,2161-08-10 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-12 11:52:00,DateTime Obs,PICC Line Cap Change,2161-08-11 00:00:00,Date,datetimeevents
+14983072,20660097,2161-08-12 12:37:09,Transfer,transfer Thoracic Surgery,NaN,NaN,transfers
+14983072,20660097,2161-08-12 12:37:32,Transfer,transfer Thoracic Surgery,NaN,NaN,transfers
+14983072,20660097,2161-08-12 13:00:00,Prescription,Alteplase (Catheter Clearance),1,mg,prescriptions
+14983072,20660097,2161-08-12 13:00:00,Pharmacy,Alteplase (Catheter Clearance),,NaN,pharmacy
+14983072,20660097,2161-08-12 14:00:00,Prescription,Epidural Bag,1,BAG,prescriptions
+14983072,20660097,2161-08-12 14:00:00,Prescription,HYDROmorphone P.F.,2500,mcg,prescriptions
+14983072,20660097,2161-08-12 14:00:00,Prescription,DiphenhydrAMINE,12.5-25,mg,prescriptions
+14983072,20660097,2161-08-12 14:00:00,Pharmacy,2,,NaN,pharmacy
+14983072,20660097,2161-08-12 14:00:00,Prescription,DiphenhydrAMINE,12.5-25,mg,prescriptions
+14983072,20660097,2161-08-12 14:00:00,Pharmacy,DiphenhydrAMINE,,NaN,pharmacy
+14983072,20660097,2161-08-12 14:00:00,Prescription,Bupivacaine 0.1%,250,mL,prescriptions
+14983072,20660097,2161-08-12 14:00:00,Prescription,Pantoprazole,40,mg,prescriptions
+14983072,20660097,2161-08-12 14:00:00,Pharmacy,DiphenhydrAMINE,,NaN,pharmacy
+14983072,20660097,2161-08-12 14:00:00,Pharmacy,Pantoprazole,,NaN,pharmacy
+14983072,20660097,2161-08-12 15:00:00,Prescription,Alteplase (Catheter Clearance),4,mg,prescriptions
+14983072,20660097,2161-08-12 15:00:00,Pharmacy,Alteplase (Catheter Clearance),,NaN,pharmacy
+14983072,20660097,2161-08-12 18:00:00,Prescription,SW,50,mL,prescriptions
+14983072,20660097,2161-08-12 18:00:00,Prescription,Magnesium Sulfate,2,gm,prescriptions
+14983072,20660097,2161-08-12 18:00:00,Pharmacy,Magnesium Sulfate,,NaN,pharmacy
+14983072,20660097,2161-08-12 19:00:00,Prescription,Albuterol 0.083% Neb Soln,1,NEB,prescriptions
+14983072,20660097,2161-08-12 19:00:00,Pharmacy,Ipratropium Bromide Neb,,NaN,pharmacy
+14983072,20660097,2161-08-12 19:00:00,Prescription,Ipratropium Bromide Neb,1,NEB,prescriptions
+14983072,20660097,2161-08-12 19:00:00,Pharmacy,Albuterol 0.083% Neb Soln,,NaN,pharmacy
+14983072,20660097,2161-08-12 20:00:00,Pharmacy,MetFORMIN (Glucophage),,NaN,pharmacy
+14983072,20660097,2161-08-12 20:00:00,Prescription,MetFORMIN (Glucophage),750,mg,prescriptions
+14983072,20660097,2161-08-12 23:00:00,Pharmacy,Furosemide,,NaN,pharmacy
+14983072,20660097,2161-08-12 23:00:00,Prescription,Furosemide,10,mg,prescriptions
+14983072,20660097,2161-08-13 00:00:00,Prescription,Ondansetron,8,mg,prescriptions
+14983072,20660097,2161-08-13 00:00:00,Pharmacy,Ondansetron,,NaN,pharmacy
+14983072,20660097,2161-08-13 04:28:00,Lab Result,Glucose| Blood,111.0,mg/dL,labevents
+14983072,20660097,2161-08-13 04:28:00,Lab Result,Anion Gap| Blood,15.0,mEq/L,labevents
+14983072,20660097,2161-08-13 04:28:00,Lab Result,Bicarbonate| Blood,31.0,mEq/L,labevents
+14983072,20660097,2161-08-13 04:28:00,Lab Result,"Calcium, Total| Blood",8.6,mg/dL,labevents
+14983072,20660097,2161-08-13 04:28:00,Lab Result,Creatinine| Blood,0.6,mg/dL,labevents
+14983072,20660097,2161-08-13 04:28:00,Lab Result,Magnesium| Blood,2.0,mg/dL,labevents
+14983072,20660097,2161-08-13 04:28:00,Lab Result,Chloride| Blood,91.0,mEq/L,labevents
+14983072,20660097,2161-08-13 04:28:00,Lab Result,Potassium| Blood,3.8,mEq/L,labevents
+14983072,20660097,2161-08-13 04:28:00,Lab Result,White Blood Cells| Blood,11.2,K/uL,labevents
+14983072,20660097,2161-08-13 04:28:00,Lab Result,Phosphate| Blood,3.2,mg/dL,labevents
+14983072,20660097,2161-08-13 04:28:00,Lab Result,RDW| Blood,14.9,%,labevents
+14983072,20660097,2161-08-13 04:28:00,Lab Result,Platelet Count| Blood,267.0,K/uL,labevents
+14983072,20660097,2161-08-13 04:28:00,Lab Result,MCHC| Blood,35.7,%,labevents
+14983072,20660097,2161-08-13 04:28:00,Lab Result,Red Blood Cells| Blood,3.74,m/uL,labevents
+14983072,20660097,2161-08-13 04:28:00,Lab Result,MCH| Blood,29.2,pg,labevents
+14983072,20660097,2161-08-13 04:28:00,Lab Result,Hemoglobin| Blood,10.9,g/dL,labevents
+14983072,20660097,2161-08-13 04:28:00,Lab Result,Hematocrit| Blood,30.6,%,labevents
+14983072,20660097,2161-08-13 04:28:00,Lab Result,Urea Nitrogen| Blood,7.0,mg/dL,labevents
+14983072,20660097,2161-08-13 04:28:00,Lab Result,Sodium| Blood,133.0,mEq/L,labevents
+14983072,20660097,2161-08-13 04:28:00,Lab Result,MCV| Blood,82.0,fL,labevents
+14983072,20660097,2161-08-13 09:00:00,Pharmacy,OxycoDONE (Immediate Release) ,,NaN,pharmacy
+14983072,20660097,2161-08-13 09:00:00,Prescription,OxycoDONE (Immediate Release) ,5,mg,prescriptions
+14983072,20660097,2161-08-13 10:00:00,Pharmacy,Oxycodone-Acetaminophen,,NaN,pharmacy
+14983072,20660097,2161-08-13 10:00:00,Prescription,Oxycodone-Acetaminophen,1-2,TAB,prescriptions
+14983072,20660097,2161-08-13 18:00:00,Pharmacy,Ondansetron,,NaN,pharmacy
+14983072,20660097,2161-08-13 18:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+14983072,20660097,2161-08-13 18:00:00,Prescription,HYDROmorphone (Dilaudid),0.125,mg,prescriptions
+14983072,20660097,2161-08-13 18:00:00,Prescription,Ondansetron,4,mg,prescriptions
+14983072,20660097,2161-08-13 19:00:00,Prescription,HYDROmorphone (Dilaudid),0.125,mg,prescriptions
+14983072,20660097,2161-08-13 19:00:00,Prescription,Furosemide,10,mg,prescriptions
+14983072,20660097,2161-08-13 19:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+14983072,20660097,2161-08-13 19:00:00,Pharmacy,Furosemide,,NaN,pharmacy
+14983072,20660097,2161-08-13 20:00:00,Prescription,Docusate Sodium,100,mg,prescriptions
+14983072,20660097,2161-08-13 20:00:00,Pharmacy,Docusate Sodium,,NaN,pharmacy
+14983072,20660097,2161-08-13 22:00:00,Prescription,HYDROmorphone (Dilaudid),0.125,mg,prescriptions
+14983072,20660097,2161-08-13 22:00:00,Pharmacy,Acetaminophen,,NaN,pharmacy
+14983072,20660097,2161-08-13 22:00:00,Prescription,OxycoDONE (Immediate Release) ,5-10,mg,prescriptions
+14983072,20660097,2161-08-13 22:00:00,Prescription,HYDROmorphone (Dilaudid),0.125,mg,prescriptions
+14983072,20660097,2161-08-13 22:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+14983072,20660097,2161-08-13 22:00:00,Prescription,Acetaminophen,650,mg,prescriptions
+14983072,20660097,2161-08-13 22:00:00,Pharmacy,OxycoDONE (Immediate Release) ,,NaN,pharmacy
+14983072,20660097,2161-08-13 22:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+14983072,20660097,2161-08-14 10:00:00,Prescription,Alteplase (Catheter Clearance),1,mg,prescriptions
+14983072,20660097,2161-08-14 10:00:00,Pharmacy,Alteplase (Catheter Clearance),,NaN,pharmacy
+14983072,20660097,2161-08-14 16:23:00,Lab Result,Potassium| Blood,3.5,mEq/L,labevents
+14983072,20660097,2161-08-14 16:23:00,Lab Result,Phosphate| Blood,2.6,mg/dL,labevents
+14983072,20660097,2161-08-14 16:23:00,Lab Result,Magnesium| Blood,1.8,mg/dL,labevents
+14983072,20660097,2161-08-14 16:23:00,Lab Result,Urea Nitrogen| Blood,7.0,mg/dL,labevents
+14983072,20660097,2161-08-14 16:23:00,Lab Result,Glucose| Blood,143.0,mg/dL,labevents
+14983072,20660097,2161-08-14 16:23:00,Lab Result,Estimated GFR (MDRD equation)| Blood,,,labevents
+14983072,20660097,2161-08-14 16:23:00,Lab Result,Creatinine| Blood,0.7,mg/dL,labevents
+14983072,20660097,2161-08-14 16:23:00,Lab Result,Chloride| Blood,98.0,mEq/L,labevents
+14983072,20660097,2161-08-14 16:23:00,Lab Result,Anion Gap| Blood,11.0,mEq/L,labevents
+14983072,20660097,2161-08-14 16:23:00,Lab Result,"Calcium, Total| Blood",8.4,mg/dL,labevents
+14983072,20660097,2161-08-14 16:23:00,Lab Result,Bicarbonate| Blood,32.0,mEq/L,labevents
+14983072,20660097,2161-08-14 16:23:00,Lab Result,Sodium| Blood,137.0,mEq/L,labevents
+14983072,20660097,2161-08-15 04:59:00,Lab Result,Anion Gap| Blood,12.0,mEq/L,labevents
+14983072,20660097,2161-08-15 04:59:00,Lab Result,Bicarbonate| Blood,30.0,mEq/L,labevents
+14983072,20660097,2161-08-15 04:59:00,Lab Result,Potassium| Blood,3.7,mEq/L,labevents
+14983072,20660097,2161-08-15 04:59:00,Lab Result,"Calcium, Total| Blood",8.1,mg/dL,labevents
+14983072,20660097,2161-08-15 04:59:00,Lab Result,Phosphate| Blood,3.9,mg/dL,labevents
+14983072,20660097,2161-08-15 04:59:00,Lab Result,Chloride| Blood,100.0,mEq/L,labevents
+14983072,20660097,2161-08-15 04:59:00,Lab Result,Creatinine| Blood,0.6,mg/dL,labevents
+14983072,20660097,2161-08-15 04:59:00,Lab Result,Magnesium| Blood,1.9,mg/dL,labevents
+14983072,20660097,2161-08-15 04:59:00,Lab Result,Glucose| Blood,107.0,mg/dL,labevents
+14983072,20660097,2161-08-15 04:59:00,Lab Result,Sodium| Blood,138.0,mEq/L,labevents
+14983072,20660097,2161-08-15 04:59:00,Lab Result,Urea Nitrogen| Blood,6.0,mg/dL,labevents
+14983072,20660097,2161-08-15 08:00:00,Pharmacy,Chlorpheniramine-Hydrocodone,,NaN,pharmacy
+14983072,20660097,2161-08-15 08:00:00,Prescription,Chlorpheniramine-Hydrocodone,5,mL,prescriptions
+14983072,20660097,2161-08-15 09:00:00,Prescription,Milk of Magnesia,30,mL,prescriptions
+14983072,20660097,2161-08-15 09:00:00,Pharmacy,Cepacol (Menthol),,NaN,pharmacy
+14983072,20660097,2161-08-15 09:00:00,Prescription,Cepacol (Menthol),1,LOZ,prescriptions
+14983072,20660097,2161-08-15 09:00:00,Prescription,Bisacodyl,10,mg,prescriptions
+14983072,20660097,2161-08-15 09:00:00,Pharmacy,Milk of Magnesia,,NaN,pharmacy
+14983072,20660097,2161-08-15 09:00:00,Prescription,Bisacodyl,10,mg,prescriptions
+14983072,20660097,2161-08-15 09:00:00,Pharmacy,Bisacodyl,,NaN,pharmacy
+14983072,20660097,2161-08-15 09:00:00,Pharmacy,Bisacodyl,,NaN,pharmacy
+14983072,20660097,2161-08-15 12:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+14983072,20660097,2161-08-15 12:00:00,Prescription,Potassium Chloride,40,mEq,prescriptions
+14983072,20660097,2161-08-15 12:00:00,Prescription,Potassium Chloride,40,mEq,prescriptions
+14983072,20660097,2161-08-15 12:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+14983072,20660097,2161-08-15 16:00:00,Prescription,Lactulose,15,mL,prescriptions
+14983072,20660097,2161-08-15 16:00:00,Pharmacy,Lactulose,,NaN,pharmacy
+14983072,20660097,2161-08-15 16:25:11,Transfer,discharge,NaN,NaN,transfers

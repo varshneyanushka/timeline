@@ -1,0 +1,972 @@
+subject_id,hadm_id,event_time,event_type,description,value,unit,source_table
+14942359,22667384.0,2120-09-26 10:00:00,Prescription,Levothyroxine Sodium,37.5,mcg,prescriptions
+14942359,22667384.0,2120-09-26 10:00:00,Pharmacy,Levothyroxine Sodium,,NaN,pharmacy
+14942359,22667384.0,2120-09-26 10:04:00,Transfer,ED Emergency Department,NaN,NaN,transfers
+14942359,22667384.0,2120-09-26 12:18:00,Admission,EW EMER.,NaN,NaN,admissions
+14942359,22667384.0,2120-09-26 12:19:34,Service,NSURG,NaN,NaN,services
+14942359,22667384.0,2120-09-26 13:00:00,Prescription,Ondansetron,,,prescriptions
+14942359,22667384.0,2120-09-26 13:00:00,Pharmacy,Ondansetron,,NaN,pharmacy
+14942359,22667384.0,2120-09-26 13:17:00,Transfer,admit Trauma SICU (TSICU),NaN,NaN,transfers
+14942359,22667384.0,2120-09-26 13:33:00,Input,Levetiracetam (Keppra),500.0,mg,inputevents
+14942359,22667384.0,2120-09-26 13:38:00,Output,Emesis,200.0,ml,outputevents
+14942359,22667384.0,2120-09-26 13:47:00,Procedure,20 Gauge,111.0,min,procedureevents
+14942359,22667384.0,2120-09-26 13:47:00,Procedure,20 Gauge,111.0,min,procedureevents
+14942359,22667384.0,2120-09-26 13:47:00,Procedure,18 Gauge,3257.0,min,procedureevents
+14942359,22667384.0,2120-09-26 13:47:00,DateTime Obs,20 Gauge Insertion Date,2120-09-26 13:47:00,Date,datetimeevents
+14942359,22667384.0,2120-09-26 13:47:00,DateTime Obs,18 Gauge Insertion Date,2120-09-26 13:48:00,Date,datetimeevents
+14942359,22667384.0,2120-09-26 13:47:00,Procedure,18 Gauge,3257.0,min,procedureevents
+14942359,22667384.0,2120-09-26 13:48:00,Procedure,Family updated by MD,1.0,,procedureevents
+14942359,22667384.0,2120-09-26 13:48:00,Procedure,Family updated by MD,1.0,,procedureevents
+14942359,22667384.0,2120-09-26 14:00:00,Prescription,Potassium Chl 20 mEq / 1000 mL NS,1000,mL,prescriptions
+14942359,22667384.0,2120-09-26 14:00:00,Prescription,Sodium Chloride 0.9%  Flush,3,mL,prescriptions
+14942359,22667384.0,2120-09-26 14:00:00,Prescription,Pneumococcal Vac Polyvalent,0.5,mL,prescriptions
+14942359,22667384.0,2120-09-26 14:00:00,Prescription,Acetaminophen,325-650,mg,prescriptions
+14942359,22667384.0,2120-09-26 14:00:00,Pharmacy,,,NaN,pharmacy
+14942359,22667384.0,2120-09-26 14:00:00,Pharmacy,Pneumococcal Vac Polyvalent,,NaN,pharmacy
+14942359,22667384.0,2120-09-26 14:00:00,Pharmacy,Acetaminophen,,NaN,pharmacy
+14942359,22667384.0,2120-09-26 14:00:00,Pharmacy,Sodium Chloride 0.9%  Flush,,NaN,pharmacy
+14942359,22667384.0,2120-09-26 14:19:00,Input,Potassium Chloride,19.99999984167516,mEq,inputevents
+14942359,22667384.0,2120-09-26 14:19:00,Input,NaCl 0.9%,999.9999715089798,ml,inputevents
+14942359,22667384.0,2120-09-26 14:19:00,Input,IVF ingredient,999.9999715089798,ml,ingredientevents
+14942359,22667384.0,2120-09-26 14:19:00,Procedure,Nasal Swab,1.0,,procedureevents
+14942359,22667384.0,2120-09-26 14:19:00,Procedure,Nasal Swab,1.0,,procedureevents
+14942359,22667384.0,2120-09-26 14:19:00,Input,Water,999.9999715089798,ml,ingredientevents
+14942359,22667384.0,2120-09-26 14:22:00,Input,Pre-Admission/Non-ICU Intake,400.0,ml,inputevents
+14942359,22667384.0,2120-09-26 14:22:00,Input,Water,400.0,ml,ingredientevents
+14942359,22667384.0,2120-09-26 15:00:00,Prescription,Insulin,0,UNIT,prescriptions
+14942359,22667384.0,2120-09-26 15:00:00,Prescription,Ondansetron,4-8,mg,prescriptions
+14942359,22667384.0,2120-09-26 15:00:00,Prescription,Iso-Osmotic Sodium Chloride,50,mL,prescriptions
+14942359,22667384.0,2120-09-26 15:00:00,Prescription,Famotidine,20,mg,prescriptions
+14942359,22667384.0,2120-09-26 15:00:00,Pharmacy,Famotidine,,NaN,pharmacy
+14942359,22667384.0,2120-09-26 15:00:00,Prescription,Glucagon,1,mg,prescriptions
+14942359,22667384.0,2120-09-26 15:00:00,Prescription,HYDROmorphone (Dilaudid),0.25,mg,prescriptions
+14942359,22667384.0,2120-09-26 15:00:00,Pharmacy,Glucagon,,NaN,pharmacy
+14942359,22667384.0,2120-09-26 15:00:00,Pharmacy,Insulin,,NaN,pharmacy
+14942359,22667384.0,2120-09-26 15:00:00,Pharmacy,Dextrose 50%,,NaN,pharmacy
+14942359,22667384.0,2120-09-26 15:00:00,Prescription,HydrALAzine,10,mg,prescriptions
+14942359,22667384.0,2120-09-26 15:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+14942359,22667384.0,2120-09-26 15:00:00,Pharmacy,HydrALAzine,,NaN,pharmacy
+14942359,22667384.0,2120-09-26 15:00:00,Pharmacy,Ondansetron,,NaN,pharmacy
+14942359,22667384.0,2120-09-26 15:00:00,Prescription,Dextrose 50%,12.5,gm,prescriptions
+14942359,22667384.0,2120-09-26 15:11:00,Output,Void,400.0,ml,outputevents
+14942359,22667384.0,2120-09-26 15:23:00,Input,Hydralazine,10.000000707805157,mg,inputevents
+14942359,22667384.0,2120-09-26 15:42:00,DateTime Obs,20 Gauge Insertion Date,2120-09-26 00:00:00,Date,datetimeevents
+14942359,22667384.0,2120-09-26 15:42:00,Procedure,18 Gauge,1417.0,min,procedureevents
+14942359,22667384.0,2120-09-26 15:42:00,DateTime Obs,18 Gauge Insertion Date,2120-09-26 15:42:00,Date,datetimeevents
+14942359,22667384.0,2120-09-26 15:42:00,Procedure,18 Gauge,1417.0,min,procedureevents
+14942359,22667384.0,2120-09-26 16:00:00,DateTime Obs,18 Gauge Insertion Date,2120-09-26 00:00:00,Date,datetimeevents
+14942359,22667384.0,2120-09-26 17:45:00,Lab Result,"Creatine Kinase, MB Isoenzyme| Blood",2.0,ng/mL,labevents
+14942359,22667384.0,2120-09-26 17:45:00,Lab Result,Creatine Kinase (CK)| Blood,47.0,IU/L,labevents
+14942359,22667384.0,2120-09-26 17:45:00,Lab Result,Troponin T| Blood,,ng/mL,labevents
+14942359,22667384.0,2120-09-26 19:00:00,Pharmacy,Ondansetron,,NaN,pharmacy
+14942359,22667384.0,2120-09-26 19:00:00,Pharmacy,Sodium Chloride 0.9%  Flush,,NaN,pharmacy
+14942359,22667384.0,2120-09-26 19:00:00,Prescription,Ondansetron,4,mg,prescriptions
+14942359,22667384.0,2120-09-26 19:00:00,Prescription,Sodium Chloride 0.9%  Flush,3,mL,prescriptions
+14942359,22667384.0,2120-09-26 19:00:00,Pharmacy,Insulin,,NaN,pharmacy
+14942359,22667384.0,2120-09-26 19:00:00,Pharmacy,HydrALAzine,,NaN,pharmacy
+14942359,22667384.0,2120-09-26 19:00:00,Pharmacy,Acetaminophen,,NaN,pharmacy
+14942359,22667384.0,2120-09-26 19:00:00,Prescription,Insulin,0,UNIT,prescriptions
+14942359,22667384.0,2120-09-26 19:00:00,Prescription,Dextrose 50%,12.5,gm,prescriptions
+14942359,22667384.0,2120-09-26 19:00:00,Pharmacy,Famotidine,,NaN,pharmacy
+14942359,22667384.0,2120-09-26 19:00:00,Pharmacy,Pneumococcal Vac Polyvalent,,NaN,pharmacy
+14942359,22667384.0,2120-09-26 19:00:00,Pharmacy,,,NaN,pharmacy
+14942359,22667384.0,2120-09-26 19:00:00,Prescription,HydrALAzine,10,mg,prescriptions
+14942359,22667384.0,2120-09-26 19:00:00,Pharmacy,Dextrose 50%,,NaN,pharmacy
+14942359,22667384.0,2120-09-26 19:00:00,Prescription,Pneumococcal Vac Polyvalent,0.5,mL,prescriptions
+14942359,22667384.0,2120-09-26 19:00:00,Pharmacy,Glucagon,,NaN,pharmacy
+14942359,22667384.0,2120-09-26 19:00:00,Prescription,Iso-Osmotic Sodium Chloride,50,mL,prescriptions
+14942359,22667384.0,2120-09-26 19:00:00,Prescription,Acetaminophen,325-650,mg,prescriptions
+14942359,22667384.0,2120-09-26 19:00:00,Prescription,Potassium Chl 20 mEq / 1000 mL NS,1000,mL,prescriptions
+14942359,22667384.0,2120-09-26 19:00:00,Prescription,Famotidine,20,mg,prescriptions
+14942359,22667384.0,2120-09-26 19:00:00,Prescription,Glucagon,1,mg,prescriptions
+14942359,22667384.0,2120-09-26 20:00:00,Prescription,LeVETiracetam,500,mg,prescriptions
+14942359,22667384.0,2120-09-26 20:00:00,DateTime Obs,18 Gauge Insertion Date,2120-09-26 00:00:00,Date,datetimeevents
+14942359,22667384.0,2120-09-26 20:00:00,Pharmacy,Docusate Sodium,,NaN,pharmacy
+14942359,22667384.0,2120-09-26 20:00:00,Pharmacy,Docusate Sodium,,NaN,pharmacy
+14942359,22667384.0,2120-09-26 20:00:00,Pharmacy,LeVETiracetam,,NaN,pharmacy
+14942359,22667384.0,2120-09-26 20:00:00,Prescription,0.9% Sodium Chloride,100,mL,prescriptions
+14942359,22667384.0,2120-09-26 20:00:00,Pharmacy,LeVETiracetam,,NaN,pharmacy
+14942359,22667384.0,2120-09-26 20:00:00,Prescription,LeVETiracetam,500,mg,prescriptions
+14942359,22667384.0,2120-09-26 20:00:00,Prescription,Docusate Sodium,100,mg,prescriptions
+14942359,22667384.0,2120-09-26 20:00:00,Input,Insulin - Regular,2.0,units,inputevents
+14942359,22667384.0,2120-09-26 20:00:00,Prescription,0.9% Sodium Chloride,100,mL,prescriptions
+14942359,22667384.0,2120-09-26 20:00:00,Prescription,Docusate Sodium,100,mg,prescriptions
+14942359,22667384.0,2120-09-26 20:08:00,Input,Famotidine (Pepcid),1.0,dose,inputevents
+14942359,22667384.0,2120-09-26 20:08:00,Input,IVF ingredient,50.0,ml,ingredientevents
+14942359,22667384.0,2120-09-26 20:08:00,Input,Water,50.0,ml,ingredientevents
+14942359,22667384.0,2120-09-26 20:08:00,Input,Solution,50.0,ml,inputevents
+14942359,22667384.0,2120-09-26 23:30:00,Input,Lorazepam (Ativan),0.2500000118743628,mg,inputevents
+14942359,22667384.0,2120-09-26 23:30:00,Output,Foley,600.0,ml,outputevents
+14942359,22667384.0,2120-09-27 00:00:00,Prescription,Lorazepam,0.25,mg,prescriptions
+14942359,22667384.0,2120-09-27 00:00:00,Pharmacy,Lorazepam,,NaN,pharmacy
+14942359,22667384.0,2120-09-27 00:00:00,DateTime Obs,18 Gauge Insertion Date,2120-09-26 00:00:00,Date,datetimeevents
+14942359,22667384.0,2120-09-27 00:05:00,Input,Lorazepam (Ativan),0.2500000118743628,mg,inputevents
+14942359,22667384.0,2120-09-27 01:00:00,Output,Foley,75.0,ml,outputevents
+14942359,22667384.0,2120-09-27 01:56:00,Lab Result,Creatinine| Blood,0.8,mg/dL,labevents
+14942359,22667384.0,2120-09-27 01:56:00,Lab Result,Hematocrit| Blood,40.5,%,labevents
+14942359,22667384.0,2120-09-27 01:56:00,Lab Result,Urea Nitrogen| Blood,12.0,mg/dL,labevents
+14942359,22667384.0,2120-09-27 01:56:00,Lab Result,Troponin T| Blood,,ng/mL,labevents
+14942359,22667384.0,2120-09-27 01:56:00,Lab Result,PT| Blood,10.1,sec,labevents
+14942359,22667384.0,2120-09-27 01:56:00,Lab Result,Chloride| Blood,107.0,mEq/L,labevents
+14942359,22667384.0,2120-09-27 01:56:00,Lab Result,Anion Gap| Blood,15.0,mEq/L,labevents
+14942359,22667384.0,2120-09-27 01:56:00,Lab Result,Phosphate| Blood,2.7,mg/dL,labevents
+14942359,22667384.0,2120-09-27 01:56:00,Lab Result,"Creatine Kinase, MB Isoenzyme| Blood",1.0,ng/mL,labevents
+14942359,22667384.0,2120-09-27 01:56:00,Lab Result,Bicarbonate| Blood,25.0,mEq/L,labevents
+14942359,22667384.0,2120-09-27 01:56:00,Lab Result,Sodium| Blood,143.0,mEq/L,labevents
+14942359,22667384.0,2120-09-27 01:56:00,Lab Result,Hemoglobin| Blood,13.0,g/dL,labevents
+14942359,22667384.0,2120-09-27 01:56:00,Lab Result,"Calcium, Total| Blood",9.0,mg/dL,labevents
+14942359,22667384.0,2120-09-27 01:56:00,Lab Result,Potassium| Blood,4.1,mEq/L,labevents
+14942359,22667384.0,2120-09-27 01:56:00,Lab Result,PTT| Blood,22.7,sec,labevents
+14942359,22667384.0,2120-09-27 01:56:00,Lab Result,INR(PT)| Blood,0.9,,labevents
+14942359,22667384.0,2120-09-27 01:56:00,Lab Result,Magnesium| Blood,2.1,mg/dL,labevents
+14942359,22667384.0,2120-09-27 01:56:00,Lab Result,MCHC| Blood,32.0,%,labevents
+14942359,22667384.0,2120-09-27 01:56:00,Lab Result,MCV| Blood,98.0,fL,labevents
+14942359,22667384.0,2120-09-27 01:56:00,Lab Result,Platelet Count| Blood,216.0,K/uL,labevents
+14942359,22667384.0,2120-09-27 01:56:00,Lab Result,RDW| Blood,12.6,%,labevents
+14942359,22667384.0,2120-09-27 01:56:00,Lab Result,Red Blood Cells| Blood,4.12,m/uL,labevents
+14942359,22667384.0,2120-09-27 01:56:00,Lab Result,White Blood Cells| Blood,8.7,K/uL,labevents
+14942359,22667384.0,2120-09-27 01:56:00,Lab Result,Glucose| Blood,159.0,mg/dL,labevents
+14942359,22667384.0,2120-09-27 01:56:00,Lab Result,MCH| Blood,31.4,pg,labevents
+14942359,22667384.0,2120-09-27 02:00:00,Output,Foley,40.0,ml,outputevents
+14942359,22667384.0,2120-09-27 03:00:00,Output,Foley,60.0,ml,outputevents
+14942359,22667384.0,2120-09-27 03:28:00,Input,NaCl 0.9%,452.5,ml,inputevents
+14942359,22667384.0,2120-09-27 03:28:00,Input,Potassium Chloride,9.050000134855509,mEq,inputevents
+14942359,22667384.0,2120-09-27 03:28:00,Input,IVF ingredient,452.5,ml,ingredientevents
+14942359,22667384.0,2120-09-27 03:28:00,Input,Water,452.5,ml,ingredientevents
+14942359,22667384.0,2120-09-27 03:45:00,Output,Foley,30.0,ml,outputevents
+14942359,22667384.0,2120-09-27 04:00:00,DateTime Obs,18 Gauge Insertion Date,2120-09-26 00:00:00,Date,datetimeevents
+14942359,22667384.0,2120-09-27 04:00:00,Output,Foley,30.0,ml,outputevents
+14942359,22667384.0,2120-09-27 04:04:00,Input,Insulin - Regular,2.0,units,inputevents
+14942359,22667384.0,2120-09-27 06:00:00,Output,Foley,120.0,ml,outputevents
+14942359,22667384.0,2120-09-27 07:00:00,Output,Foley,90.0,ml,outputevents
+14942359,22667384.0,2120-09-27 07:30:00,Procedure,Family updated by RN,1.0,,procedureevents
+14942359,22667384.0,2120-09-27 07:30:00,Procedure,Family updated by RN,1.0,,procedureevents
+14942359,22667384.0,2120-09-27 08:00:00,DateTime Obs,18 Gauge Insertion Date,2120-09-26 00:00:00,Date,datetimeevents
+14942359,22667384.0,2120-09-27 08:00:00,Output,Foley,15.0,ml,outputevents
+14942359,22667384.0,2120-09-27 08:47:00,Input,Levetiracetam (Keppra),500.0,mg,inputevents
+14942359,22667384.0,2120-09-27 08:48:00,Input,Solution,100.0,ml,inputevents
+14942359,22667384.0,2120-09-27 08:48:00,Input,Water,50.0,ml,ingredientevents
+14942359,22667384.0,2120-09-27 08:48:00,Input,Water,100.0,ml,ingredientevents
+14942359,22667384.0,2120-09-27 08:48:00,Input,IVF ingredient,100.0,ml,ingredientevents
+14942359,22667384.0,2120-09-27 08:48:00,Input,IVF ingredient,50.0,ml,ingredientevents
+14942359,22667384.0,2120-09-27 08:48:00,Input,Famotidine (Pepcid),1.0,dose,inputevents
+14942359,22667384.0,2120-09-27 08:48:00,Input,Solution,50.0,ml,inputevents
+14942359,22667384.0,2120-09-27 09:00:00,Output,Foley,20.0,ml,outputevents
+14942359,22667384.0,2120-09-27 09:15:00,Procedure,CT scan,1.0,,procedureevents
+14942359,22667384.0,2120-09-27 09:15:00,Procedure,CT scan,1.0,,procedureevents
+14942359,22667384.0,2120-09-27 10:00:00,Input,IVF ingredient,547.4999811649323,ml,ingredientevents
+14942359,22667384.0,2120-09-27 10:00:00,Input,Water,547.4999811649323,ml,ingredientevents
+14942359,22667384.0,2120-09-27 10:00:00,Input,NaCl 0.9%,547.4999811649323,ml,inputevents
+14942359,22667384.0,2120-09-27 10:00:00,Output,Foley,50.0,ml,outputevents
+14942359,22667384.0,2120-09-27 10:00:00,Input,Potassium Chloride,10.950000137090685,mEq,inputevents
+14942359,22667384.0,2120-09-27 10:39:00,Procedure,Family updated by RN,1.0,,procedureevents
+14942359,22667384.0,2120-09-27 10:39:00,Procedure,Family updated by RN,1.0,,procedureevents
+14942359,22667384.0,2120-09-27 11:00:00,Output,Foley,60.0,ml,outputevents
+14942359,22667384.0,2120-09-27 12:00:00,DateTime Obs,18 Gauge Insertion Date,2120-09-26 00:00:00,Date,datetimeevents
+14942359,22667384.0,2120-09-27 12:00:00,Output,Foley,50.0,ml,outputevents
+14942359,22667384.0,2120-09-27 13:00:00,Output,Foley,60.0,ml,outputevents
+14942359,22667384.0,2120-09-27 13:11:00,Procedure,EEG,1.0,,procedureevents
+14942359,22667384.0,2120-09-27 13:11:00,Procedure,EEG,1.0,,procedureevents
+14942359,22667384.0,2120-09-27 14:00:00,Output,Foley,25.0,ml,outputevents
+14942359,22667384.0,2120-09-27 15:00:00,Output,Foley,40.0,ml,outputevents
+14942359,22667384.0,2120-09-27 16:00:00,Output,Foley,30.0,ml,outputevents
+14942359,22667384.0,2120-09-27 16:00:00,Procedure,Family updated by MD,1.0,,procedureevents
+14942359,22667384.0,2120-09-27 16:00:00,DateTime Obs,18 Gauge Insertion Date,2120-09-26 00:00:00,Date,datetimeevents
+14942359,22667384.0,2120-09-27 16:00:00,Procedure,Family updated by MD,1.0,,procedureevents
+14942359,22667384.0,2120-09-27 16:00:00,Procedure,Family met with Social Worker,1.0,,procedureevents
+14942359,22667384.0,2120-09-27 16:00:00,Procedure,Family met with Social Worker,1.0,,procedureevents
+14942359,22667384.0,2120-09-27 17:00:00,Output,Foley,30.0,ml,outputevents
+14942359,22667384.0,2120-09-27 17:11:00,Input,IVF ingredient,998.8000053167344,ml,ingredientevents
+14942359,22667384.0,2120-09-27 17:11:00,Input,Water,998.8000053167344,ml,ingredientevents
+14942359,22667384.0,2120-09-27 17:11:00,Input,NaCl 0.9%,998.8000053167344,ml,inputevents
+14942359,22667384.0,2120-09-27 17:11:00,Input,Potassium Chloride,19.97600040398538,mEq,inputevents
+14942359,22667384.0,2120-09-27 18:00:00,Output,Foley,40.0,ml,outputevents
+14942359,22667384.0,2120-09-27 19:50:00,Input,Famotidine (Pepcid),1.0,dose,inputevents
+14942359,22667384.0,2120-09-27 19:50:00,Input,Solution,50.0,ml,inputevents
+14942359,22667384.0,2120-09-27 19:50:00,Input,Water,50.0,ml,ingredientevents
+14942359,22667384.0,2120-09-27 19:50:00,Input,IVF ingredient,50.0,ml,ingredientevents
+14942359,22667384.0,2120-09-27 19:51:00,DateTime Obs,18 Gauge Insertion Date,2120-09-26 00:00:00,Date,datetimeevents
+14942359,22667384.0,2120-09-27 20:50:00,Input,Lorazepam (Ativan),1.0000000474974513,mg,inputevents
+14942359,22667384.0,2120-09-27 21:00:00,DateTime Obs,18 Gauge Insertion Date,2120-09-26 00:00:00,Date,datetimeevents
+14942359,22667384.0,2120-09-27 21:00:00,Prescription,Acetaminophen IV,1000,mg,prescriptions
+14942359,22667384.0,2120-09-27 21:00:00,Pharmacy,Lorazepam,,NaN,pharmacy
+14942359,22667384.0,2120-09-27 21:00:00,Pharmacy,Acetaminophen IV,,NaN,pharmacy
+14942359,22667384.0,2120-09-27 21:00:00,Prescription,Soln,100,mL,prescriptions
+14942359,22667384.0,2120-09-27 21:00:00,Prescription,Lorazepam,0.5,mg,prescriptions
+14942359,22667384.0,2120-09-27 21:10:00,Input,Levetiracetam (Keppra),500.0,mg,inputevents
+14942359,22667384.0,2120-09-27 22:00:00,Pharmacy,Lorazepam,,NaN,pharmacy
+14942359,22667384.0,2120-09-27 22:00:00,Prescription,Lorazepam,0.5,mg,prescriptions
+14942359,22667384.0,2120-09-27 22:30:00,Input,Acetaminophen-IV,1000.0,mg,inputevents
+14942359,22667384.0,2120-09-27 23:00:00,Prescription,Lorazepam,0.5,mg,prescriptions
+14942359,22667384.0,2120-09-27 23:00:00,Pharmacy,Lorazepam,,NaN,pharmacy
+14942359,22667384.0,2120-09-28 00:26:00,DateTime Obs,18 Gauge Insertion Date,2120-09-26 00:00:00,Date,datetimeevents
+14942359,22667384.0,2120-09-28 03:27:00,Lab Result,MCH| Blood,32.4,pg,labevents
+14942359,22667384.0,2120-09-28 03:27:00,Lab Result,HIV Antibody| Blood,,,labevents
+14942359,22667384.0,2120-09-28 03:27:00,Lab Result,"Calcium, Total| Blood",8.6,mg/dL,labevents
+14942359,22667384.0,2120-09-28 03:27:00,Lab Result,Creatinine| Blood,0.7,mg/dL,labevents
+14942359,22667384.0,2120-09-28 03:27:00,Lab Result,Glucose| Blood,129.0,mg/dL,labevents
+14942359,22667384.0,2120-09-28 03:27:00,Lab Result,Hepatitis B Surface Antigen| Blood,,,labevents
+14942359,22667384.0,2120-09-28 03:27:00,Lab Result,Hepatitis C Virus Antibody| Blood,,,labevents
+14942359,22667384.0,2120-09-28 03:27:00,Lab Result,Magnesium| Blood,2.1,mg/dL,labevents
+14942359,22667384.0,2120-09-28 03:27:00,Lab Result,Phosphate| Blood,1.9,mg/dL,labevents
+14942359,22667384.0,2120-09-28 03:27:00,Lab Result,White Blood Cells| Blood,10.9,K/uL,labevents
+14942359,22667384.0,2120-09-28 03:27:00,Lab Result,Bicarbonate| Blood,21.0,mEq/L,labevents
+14942359,22667384.0,2120-09-28 03:27:00,Lab Result,Red Blood Cells| Blood,3.71,m/uL,labevents
+14942359,22667384.0,2120-09-28 03:27:00,Lab Result,Platelet Count| Blood,185.0,K/uL,labevents
+14942359,22667384.0,2120-09-28 03:27:00,Lab Result,MCV| Blood,99.0,fL,labevents
+14942359,22667384.0,2120-09-28 03:27:00,Lab Result,MCHC| Blood,32.8,%,labevents
+14942359,22667384.0,2120-09-28 03:27:00,Lab Result,Hemoglobin| Blood,12.0,g/dL,labevents
+14942359,22667384.0,2120-09-28 03:27:00,Lab Result,Hematocrit| Blood,36.6,%,labevents
+14942359,22667384.0,2120-09-28 03:27:00,Lab Result,Potassium| Blood,4.0,mEq/L,labevents
+14942359,22667384.0,2120-09-28 03:27:00,Lab Result,Sodium| Blood,146.0,mEq/L,labevents
+14942359,22667384.0,2120-09-28 03:27:00,Lab Result,Urea Nitrogen| Blood,14.0,mg/dL,labevents
+14942359,22667384.0,2120-09-28 03:27:00,Lab Result,RDW| Blood,13.2,%,labevents
+14942359,22667384.0,2120-09-28 03:27:00,Lab Result,Anion Gap| Blood,18.0,mEq/L,labevents
+14942359,22667384.0,2120-09-28 03:27:00,Lab Result,Chloride| Blood,111.0,mEq/L,labevents
+14942359,22667384.0,2120-09-28 05:00:00,Output,Void,200.0,ml,outputevents
+14942359,22667384.0,2120-09-28 05:16:00,DateTime Obs,18 Gauge Insertion Date,2120-09-26 00:00:00,Date,datetimeevents
+14942359,22667384.0,2120-09-28 06:08:00,DateTime Obs,18 Gauge Insertion Date,2120-09-26 00:00:00,Date,datetimeevents
+14942359,22667384.0,2120-09-28 06:30:00,Input,Water,730.0,ml,ingredientevents
+14942359,22667384.0,2120-09-28 06:30:00,Input,IVF ingredient,730.0,ml,ingredientevents
+14942359,22667384.0,2120-09-28 06:30:00,Input,NaCl 0.9%,730.0,ml,inputevents
+14942359,22667384.0,2120-09-28 06:30:00,Input,Potassium Chloride,14.600000217556952,mEq,inputevents
+14942359,22667384.0,2120-09-28 08:17:00,Input,Water,50.0,ml,ingredientevents
+14942359,22667384.0,2120-09-28 08:17:00,Input,IVF ingredient,50.0,ml,ingredientevents
+14942359,22667384.0,2120-09-28 08:17:00,Input,Famotidine (Pepcid),1.0,dose,inputevents
+14942359,22667384.0,2120-09-28 08:17:00,Input,Solution,50.0,ml,inputevents
+14942359,22667384.0,2120-09-28 09:00:00,Input,Levetiracetam (Keppra),500.0,mg,inputevents
+14942359,22667384.0,2120-09-28 10:00:00,Prescription,Levothyroxine Sodium,37.5,mcg,prescriptions
+14942359,22667384.0,2120-09-28 10:00:00,Pharmacy,Levothyroxine Sodium,,NaN,pharmacy
+14942359,22667384.0,2120-09-28 11:35:00,DateTime Obs,18 Gauge Insertion Date,2120-09-26 00:00:00,Date,datetimeevents
+14942359,22667384.0,2120-09-28 12:00:00,Output,Void,300.0,ml,outputevents
+14942359,22667384.0,2120-09-28 16:22:00,Input,Oral/Gastric Ingredient,75.0,ml,ingredientevents
+14942359,22667384.0,2120-09-28 16:22:00,Input,PO Intake,75.0,ml,inputevents
+14942359,22667384.0,2120-09-28 16:22:00,Input,Water,75.0,ml,ingredientevents
+14942359,22667384.0,2120-09-28 16:31:00,DateTime Obs,18 Gauge Insertion Date,2120-09-26 00:00:00,Date,datetimeevents
+14942359,22667384.0,2120-09-28 17:33:00,Input,Water,75.0,ml,ingredientevents
+14942359,22667384.0,2120-09-28 17:33:00,Input,Oral/Gastric Ingredient,75.0,ml,ingredientevents
+14942359,22667384.0,2120-09-28 17:33:00,Input,PO Intake,75.0,ml,inputevents
+14942359,22667384.0,2120-09-28 17:50:00,Input,IVF ingredient,166.5671730041504,ml,ingredientevents
+14942359,22667384.0,2120-09-28 17:50:00,Input,Water,166.5671730041504,ml,ingredientevents
+14942359,22667384.0,2120-09-28 17:50:00,Input,Potassium Chloride,3.331343598663807,mEq,inputevents
+14942359,22667384.0,2120-09-28 17:50:00,Input,NaCl 0.9%,166.5671730041504,ml,inputevents
+14942359,22667384.0,2120-09-28 18:00:00,Output,Void,600.0,ml,outputevents
+14942359,22667384.0,2120-09-28 19:54:00,Input,Water,103.43283593654633,ml,ingredientevents
+14942359,22667384.0,2120-09-28 19:54:00,Input,IVF ingredient,103.43283593654633,ml,ingredientevents
+14942359,22667384.0,2120-09-28 19:54:00,Input,Potassium Chloride,2.068656811490655,mEq,inputevents
+14942359,22667384.0,2120-09-28 19:54:00,Input,NaCl 0.9%,103.43283593654633,ml,inputevents
+14942359,22667384.0,2120-09-28 20:13:00,DateTime Obs,20 Gauge Insertion Date,2120-09-28 20:13:00,Date,datetimeevents
+14942359,22667384.0,2120-09-28 20:13:00,Procedure,20 Gauge,1273.0,min,procedureevents
+14942359,22667384.0,2120-09-28 20:13:00,Procedure,20 Gauge,1273.0,min,procedureevents
+14942359,22667384.0,2120-09-28 20:14:00,Input,Water,99.9999976158142,ml,ingredientevents
+14942359,22667384.0,2120-09-28 20:14:00,Input,IVF ingredient,99.9999976158142,ml,ingredientevents
+14942359,22667384.0,2120-09-28 20:14:00,Input,Piggyback,99.9999976158142,ml,inputevents
+14942359,22667384.0,2120-09-28 20:30:00,Input,Solution,50.0,ml,inputevents
+14942359,22667384.0,2120-09-28 20:30:00,Input,Famotidine (Pepcid),1.0,dose,inputevents
+14942359,22667384.0,2120-09-28 20:30:00,Input,IVF ingredient,50.0,ml,ingredientevents
+14942359,22667384.0,2120-09-28 20:30:00,Input,Water,50.0,ml,ingredientevents
+14942359,22667384.0,2120-09-28 21:11:00,Input,Potassium Chloride,16.025000238791108,mEq,inputevents
+14942359,22667384.0,2120-09-28 21:11:00,Input,NaCl 0.9%,801.25,ml,inputevents
+14942359,22667384.0,2120-09-28 21:11:00,Input,IVF ingredient,801.25,ml,ingredientevents
+14942359,22667384.0,2120-09-28 21:11:00,Input,Water,801.25,ml,ingredientevents
+14942359,22667384.0,2120-09-28 22:00:00,Output,Void,300.0,ml,outputevents
+14942359,22667384.0,2120-09-28 23:00:00,Prescription,Iso-Osmotic Sodium Chloride,50,mL,prescriptions
+14942359,22667384.0,2120-09-28 23:00:00,Pharmacy,Famotidine,,NaN,pharmacy
+14942359,22667384.0,2120-09-28 23:00:00,Prescription,Famotidine,20,mg,prescriptions
+14942359,22667384.0,2120-09-29 00:01:00,DateTime Obs,20 Gauge Insertion Date,2120-09-28 00:00:00,Date,datetimeevents
+14942359,22667384.0,2120-09-29 02:02:00,Lab Result,"Calcium, Total| Blood",8.4,mg/dL,labevents
+14942359,22667384.0,2120-09-29 02:02:00,Lab Result,Chloride| Blood,109.0,mEq/L,labevents
+14942359,22667384.0,2120-09-29 02:02:00,Lab Result,"Bilirubin, Total| Blood",0.4,mg/dL,labevents
+14942359,22667384.0,2120-09-29 02:02:00,Lab Result,INR(PT)| Blood,1.0,,labevents
+14942359,22667384.0,2120-09-29 02:02:00,Lab Result,White Blood Cells| Blood,9.8,K/uL,labevents
+14942359,22667384.0,2120-09-29 02:02:00,Lab Result,Red Blood Cells| Blood,3.85,m/uL,labevents
+14942359,22667384.0,2120-09-29 02:02:00,Lab Result,RDW| Blood,12.8,%,labevents
+14942359,22667384.0,2120-09-29 02:02:00,Lab Result,Platelet Count| Blood,197.0,K/uL,labevents
+14942359,22667384.0,2120-09-29 02:02:00,Lab Result,MCV| Blood,99.0,fL,labevents
+14942359,22667384.0,2120-09-29 02:02:00,Lab Result,MCHC| Blood,32.2,%,labevents
+14942359,22667384.0,2120-09-29 02:02:00,Lab Result,MCH| Blood,31.7,pg,labevents
+14942359,22667384.0,2120-09-29 02:02:00,Lab Result,Hemoglobin| Blood,12.2,g/dL,labevents
+14942359,22667384.0,2120-09-29 02:02:00,Lab Result,Hematocrit| Blood,37.9,%,labevents
+14942359,22667384.0,2120-09-29 02:02:00,Lab Result,Bicarbonate| Blood,22.0,mEq/L,labevents
+14942359,22667384.0,2120-09-29 02:02:00,Lab Result,Asparate Aminotransferase (AST)| Blood,29.0,IU/L,labevents
+14942359,22667384.0,2120-09-29 02:02:00,Lab Result,Anion Gap| Blood,15.0,mEq/L,labevents
+14942359,22667384.0,2120-09-29 02:02:00,Lab Result,PT| Blood,10.4,sec,labevents
+14942359,22667384.0,2120-09-29 02:02:00,Lab Result,Alkaline Phosphatase| Blood,49.0,IU/L,labevents
+14942359,22667384.0,2120-09-29 02:02:00,Lab Result,PTT| Blood,25.5,sec,labevents
+14942359,22667384.0,2120-09-29 02:02:00,Lab Result,Alanine Aminotransferase (ALT)| Blood,21.0,IU/L,labevents
+14942359,22667384.0,2120-09-29 02:02:00,Lab Result,Creatinine| Blood,0.5,mg/dL,labevents
+14942359,22667384.0,2120-09-29 02:02:00,Lab Result,Urea Nitrogen| Blood,13.0,mg/dL,labevents
+14942359,22667384.0,2120-09-29 02:02:00,Lab Result,Sodium| Blood,142.0,mEq/L,labevents
+14942359,22667384.0,2120-09-29 02:02:00,Lab Result,Potassium| Blood,3.7,mEq/L,labevents
+14942359,22667384.0,2120-09-29 02:02:00,Lab Result,Glucose| Blood,111.0,mg/dL,labevents
+14942359,22667384.0,2120-09-29 02:02:00,Lab Result,Albumin| Blood,3.6,g/dL,labevents
+14942359,22667384.0,2120-09-29 02:02:00,Lab Result,Lactate Dehydrogenase (LD)| Blood,229.0,IU/L,labevents
+14942359,22667384.0,2120-09-29 02:02:00,Lab Result,Phosphate| Blood,1.6,mg/dL,labevents
+14942359,22667384.0,2120-09-29 02:02:00,Lab Result,Magnesium| Blood,1.9,mg/dL,labevents
+14942359,22667384.0,2120-09-29 04:23:00,DateTime Obs,20 Gauge Insertion Date,2120-09-28 00:00:00,Date,datetimeevents
+14942359,22667384.0,2120-09-29 05:00:00,Output,Void,350.0,ml,outputevents
+14942359,22667384.0,2120-09-29 05:10:00,Procedure,Urine Culture,1.0,,procedureevents
+14942359,22667384.0,2120-09-29 05:10:00,Procedure,Urine Culture,1.0,,procedureevents
+14942359,22667384.0,2120-09-29 05:11:00,Lab Result,pH| Urine,5.5,units,labevents
+14942359,22667384.0,2120-09-29 05:11:00,Lab Result,Specific Gravity| Urine,1.013, ,labevents
+14942359,22667384.0,2120-09-29 05:11:00,Lab Result,Bilirubin| Urine,,mg/dL,labevents
+14942359,22667384.0,2120-09-29 05:11:00,Lab Result,Blood| Urine,,,labevents
+14942359,22667384.0,2120-09-29 05:11:00,Lab Result,Glucose| Urine,,mg/dL,labevents
+14942359,22667384.0,2120-09-29 05:11:00,Lab Result,Urine Appearance| Urine,,,labevents
+14942359,22667384.0,2120-09-29 05:11:00,Lab Result,Protein| Urine,,mg/dL,labevents
+14942359,22667384.0,2120-09-29 05:11:00,Lab Result,Urine Color| Urine,,,labevents
+14942359,22667384.0,2120-09-29 05:11:00,Lab Result,Ketone| Urine,40.0,mg/dL,labevents
+14942359,22667384.0,2120-09-29 05:11:00,Lab Result,Nitrite| Urine,,,labevents
+14942359,22667384.0,2120-09-29 05:11:00,Lab Result,Urobilinogen| Urine,2.0,mg/dL,labevents
+14942359,22667384.0,2120-09-29 05:11:00,Lab Result,Leukocytes| Urine,,,labevents
+14942359,22667384.0,2120-09-29 05:30:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14942359,22667384.0,2120-09-29 05:30:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14942359,22667384.0,2120-09-29 05:45:00,Procedure,CT scan,1.0,,procedureevents
+14942359,22667384.0,2120-09-29 05:45:00,Procedure,CT scan,1.0,,procedureevents
+14942359,22667384.0,2120-09-29 07:00:00,Pharmacy,Neutra-Phos,,NaN,pharmacy
+14942359,22667384.0,2120-09-29 07:00:00,Prescription,Neutra-Phos,1,PKT,prescriptions
+14942359,22667384.0,2120-09-29 07:52:00,Input,IVF ingredient,50.0,ml,ingredientevents
+14942359,22667384.0,2120-09-29 07:52:00,Input,Famotidine (Pepcid),1.0,dose,inputevents
+14942359,22667384.0,2120-09-29 07:52:00,Input,Solution,50.0,ml,inputevents
+14942359,22667384.0,2120-09-29 07:52:00,Input,Water,50.0,ml,ingredientevents
+14942359,22667384.0,2120-09-29 08:00:00,Input,Water,90.0,ml,ingredientevents
+14942359,22667384.0,2120-09-29 08:00:00,Input,Oral/Gastric Ingredient,90.0,ml,ingredientevents
+14942359,22667384.0,2120-09-29 08:00:00,DateTime Obs,20 Gauge Insertion Date,2120-09-28 00:00:00,Date,datetimeevents
+14942359,22667384.0,2120-09-29 08:00:00,Input,PO Intake,90.0,ml,inputevents
+14942359,22667384.0,2120-09-29 08:12:00,Input,Water,99.9999976158142,ml,ingredientevents
+14942359,22667384.0,2120-09-29 08:12:00,Input,Piggyback,99.9999976158142,ml,inputevents
+14942359,22667384.0,2120-09-29 08:12:00,Input,IVF ingredient,99.9999976158142,ml,ingredientevents
+14942359,22667384.0,2120-09-29 08:15:00,Input,Acetaminophen-IV,1000.0,mg,inputevents
+14942359,22667384.0,2120-09-29 08:30:00,Input,NaCl 0.9%,198.75,ml,inputevents
+14942359,22667384.0,2120-09-29 08:30:00,Input,Potassium Chloride,3.975000059232116,mEq,inputevents
+14942359,22667384.0,2120-09-29 08:30:00,Input,IVF ingredient,198.75,ml,ingredientevents
+14942359,22667384.0,2120-09-29 08:30:00,Input,Water,198.75,ml,ingredientevents
+14942359,22667384.0,2120-09-29 10:00:00,Prescription,Lovastatin,40,mg,prescriptions
+14942359,22667384.0,2120-09-29 10:00:00,Prescription,Acetaminophen,650,mg,prescriptions
+14942359,22667384.0,2120-09-29 10:00:00,Prescription,Atorvastatin,40,mg,prescriptions
+14942359,22667384.0,2120-09-29 10:00:00,Input,Water,450.0,ml,ingredientevents
+14942359,22667384.0,2120-09-29 10:00:00,Prescription,Omeprazole,20,mg,prescriptions
+14942359,22667384.0,2120-09-29 10:00:00,Prescription,Acetaminophen,650,mg,prescriptions
+14942359,22667384.0,2120-09-29 10:00:00,Input,Oral/Gastric Ingredient,450.0,ml,ingredientevents
+14942359,22667384.0,2120-09-29 10:00:00,Prescription,Levothyroxine Sodium,75,mcg,prescriptions
+14942359,22667384.0,2120-09-29 10:00:00,Pharmacy,Acetaminophen,,NaN,pharmacy
+14942359,22667384.0,2120-09-29 10:00:00,Pharmacy,Lovastatin,,NaN,pharmacy
+14942359,22667384.0,2120-09-29 10:00:00,Pharmacy,Acetaminophen,,NaN,pharmacy
+14942359,22667384.0,2120-09-29 10:00:00,Input,PO Intake,450.0,ml,inputevents
+14942359,22667384.0,2120-09-29 10:00:00,Pharmacy,Atorvastatin,,NaN,pharmacy
+14942359,22667384.0,2120-09-29 10:00:00,Pharmacy,Omeprazole,,NaN,pharmacy
+14942359,22667384.0,2120-09-29 10:00:00,Pharmacy,Levothyroxine Sodium,,NaN,pharmacy
+14942359,22667384.0,2120-09-29 10:29:00,Output,Void,350.0,ml,outputevents
+14942359,22667384.0,2120-09-29 11:00:00,Output,Void,200.0,ml,outputevents
+14942359,22667384.0,2120-09-29 12:19:00,Output,Void,150.0,ml,outputevents
+14942359,22667384.0,2120-09-29 12:57:00,Input,Oral/Gastric Ingredient,160.0,ml,ingredientevents
+14942359,22667384.0,2120-09-29 12:57:00,Input,PO Intake,160.0,ml,inputevents
+14942359,22667384.0,2120-09-29 12:57:00,Input,Water,160.0,ml,ingredientevents
+14942359,22667384.0,2120-09-29 12:58:00,Output,Void,230.0,ml,outputevents
+14942359,22667384.0,2120-09-29 13:00:00,DateTime Obs,20 Gauge Insertion Date,2120-09-28 00:00:00,Date,datetimeevents
+14942359,22667384.0,2120-09-29 13:05:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+14942359,22667384.0,2120-09-29 14:00:00,Prescription,Heparin,5000,UNIT,prescriptions
+14942359,22667384.0,2120-09-29 14:00:00,Pharmacy,Heparin,,NaN,pharmacy
+14942359,22667384.0,2120-09-29 14:09:00,Input,IVF ingredient,185.0,ml,ingredientevents
+14942359,22667384.0,2120-09-29 14:09:00,Input,Potassium Chloride,7.789473742246628,mEq,inputevents
+14942359,22667384.0,2120-09-29 14:09:00,Input,NaCl 0.9%,185.0,ml,inputevents
+14942359,22667384.0,2120-09-29 14:09:00,Input,Water,185.0,ml,ingredientevents
+14942359,22667384.0,2120-09-29 16:15:00,Output,Void,600.0,ml,outputevents
+14942359,22667384.0,2120-09-29 16:30:00,Input,Water,60.0,ml,ingredientevents
+14942359,22667384.0,2120-09-29 16:30:00,Input,Oral/Gastric Ingredient,60.0,ml,ingredientevents
+14942359,22667384.0,2120-09-29 16:30:00,Input,PO Intake,60.0,ml,inputevents
+14942359,22667384.0,2120-09-29 17:26:05,Transfer,transfer Neurology,NaN,NaN,transfers
+14942359,22667384.0,2120-09-29 20:00:00,Prescription,LeVETiracetam,500,mg,prescriptions
+14942359,22667384.0,2120-09-29 20:00:00,Pharmacy,LeVETiracetam,,NaN,pharmacy
+14942359,22667384.0,2120-09-30 05:15:00,Lab Result,Red Blood Cells| Blood,3.88,m/uL,labevents
+14942359,22667384.0,2120-09-30 05:15:00,Lab Result,Anion Gap| Blood,12.0,mEq/L,labevents
+14942359,22667384.0,2120-09-30 05:15:00,Lab Result,White Blood Cells| Blood,7.0,K/uL,labevents
+14942359,22667384.0,2120-09-30 05:15:00,Lab Result,Chloride| Blood,108.0,mEq/L,labevents
+14942359,22667384.0,2120-09-30 05:15:00,Lab Result,RDW| Blood,12.7,%,labevents
+14942359,22667384.0,2120-09-30 05:15:00,Lab Result,Creatinine| Blood,0.5,mg/dL,labevents
+14942359,22667384.0,2120-09-30 05:15:00,Lab Result,Glucose| Blood,117.0,mg/dL,labevents
+14942359,22667384.0,2120-09-30 05:15:00,Lab Result,Magnesium| Blood,2.0,mg/dL,labevents
+14942359,22667384.0,2120-09-30 05:15:00,Lab Result,Phosphate| Blood,1.9,mg/dL,labevents
+14942359,22667384.0,2120-09-30 05:15:00,Lab Result,Potassium| Blood,3.3,mEq/L,labevents
+14942359,22667384.0,2120-09-30 05:15:00,Lab Result,Bicarbonate| Blood,28.0,mEq/L,labevents
+14942359,22667384.0,2120-09-30 05:15:00,Lab Result,Sodium| Blood,145.0,mEq/L,labevents
+14942359,22667384.0,2120-09-30 05:15:00,Lab Result,INR(PT)| Blood,1.0,,labevents
+14942359,22667384.0,2120-09-30 05:15:00,Lab Result,PT| Blood,10.8,sec,labevents
+14942359,22667384.0,2120-09-30 05:15:00,Lab Result,PTT| Blood,26.4,sec,labevents
+14942359,22667384.0,2120-09-30 05:15:00,Lab Result,Hematocrit| Blood,37.6,%,labevents
+14942359,22667384.0,2120-09-30 05:15:00,Lab Result,Hemoglobin| Blood,12.5,g/dL,labevents
+14942359,22667384.0,2120-09-30 05:15:00,Lab Result,MCH| Blood,32.2,pg,labevents
+14942359,22667384.0,2120-09-30 05:15:00,Lab Result,MCHC| Blood,33.3,%,labevents
+14942359,22667384.0,2120-09-30 05:15:00,Lab Result,MCV| Blood,97.0,fL,labevents
+14942359,22667384.0,2120-09-30 05:15:00,Lab Result,Platelet Count| Blood,210.0,K/uL,labevents
+14942359,22667384.0,2120-09-30 05:15:00,Lab Result,Urea Nitrogen| Blood,7.0,mg/dL,labevents
+14942359,22667384.0,2120-09-30 05:15:00,Lab Result,"Calcium, Total| Blood",8.7,mg/dL,labevents
+14942359,22667384.0,2120-09-30 10:00:00,Pharmacy,Neutra-Phos,,NaN,pharmacy
+14942359,22667384.0,2120-09-30 10:00:00,Prescription,Neutra-Phos,1,PKT,prescriptions
+14942359,22667384.0,2120-09-30 23:00:00,Pharmacy,HydrALAzine,,NaN,pharmacy
+14942359,22667384.0,2120-09-30 23:00:00,Prescription,HydrALAzine,10-20,mg,prescriptions
+14942359,22667384.0,2120-10-01 05:10:00,Lab Result,Sodium| Blood,136.0,mEq/L,labevents
+14942359,22667384.0,2120-10-01 05:10:00,Lab Result,"Calcium, Total| Blood",8.2,mg/dL,labevents
+14942359,22667384.0,2120-10-01 05:10:00,Lab Result,White Blood Cells| Blood,8.8,K/uL,labevents
+14942359,22667384.0,2120-10-01 05:10:00,Lab Result,Red Blood Cells| Blood,4.01,m/uL,labevents
+14942359,22667384.0,2120-10-01 05:10:00,Lab Result,RDW| Blood,12.4,%,labevents
+14942359,22667384.0,2120-10-01 05:10:00,Lab Result,Platelet Count| Blood,221.0,K/uL,labevents
+14942359,22667384.0,2120-10-01 05:10:00,Lab Result,MCV| Blood,95.0,fL,labevents
+14942359,22667384.0,2120-10-01 05:10:00,Lab Result,MCHC| Blood,32.8,%,labevents
+14942359,22667384.0,2120-10-01 05:10:00,Lab Result,MCH| Blood,31.2,pg,labevents
+14942359,22667384.0,2120-10-01 05:10:00,Lab Result,Hemoglobin| Blood,12.5,g/dL,labevents
+14942359,22667384.0,2120-10-01 05:10:00,Lab Result,Hematocrit| Blood,38.1,%,labevents
+14942359,22667384.0,2120-10-01 05:10:00,Lab Result,Urea Nitrogen| Blood,10.0,mg/dL,labevents
+14942359,22667384.0,2120-10-01 05:10:00,Lab Result,Potassium| Blood,3.0,mEq/L,labevents
+14942359,22667384.0,2120-10-01 05:10:00,Lab Result,Phosphate| Blood,2.6,mg/dL,labevents
+14942359,22667384.0,2120-10-01 05:10:00,Lab Result,Magnesium| Blood,1.7,mg/dL,labevents
+14942359,22667384.0,2120-10-01 05:10:00,Lab Result,Glucose| Blood,122.0,mg/dL,labevents
+14942359,22667384.0,2120-10-01 05:10:00,Lab Result,Chloride| Blood,101.0,mEq/L,labevents
+14942359,22667384.0,2120-10-01 05:10:00,Lab Result,Anion Gap| Blood,12.0,mEq/L,labevents
+14942359,22667384.0,2120-10-01 05:10:00,Lab Result,Bicarbonate| Blood,26.0,mEq/L,labevents
+14942359,22667384.0,2120-10-01 05:10:00,Lab Result,Creatinine| Blood,0.5,mg/dL,labevents
+14942359,22667384.0,2120-10-01 10:00:00,Pharmacy,Potassium Chloride (Powder),,NaN,pharmacy
+14942359,22667384.0,2120-10-01 10:00:00,Prescription,Potassium Chloride (Powder),20,mEq,prescriptions
+14942359,22667384.0,2120-10-01 17:00:00,Pharmacy,Artificial Tears,,NaN,pharmacy
+14942359,22667384.0,2120-10-01 17:00:00,Prescription,Artificial Tears,1-2,DROP,prescriptions
+14942359,22667384.0,2120-10-01 19:00:00,Prescription,5% Dextrose,500,mL,prescriptions
+14942359,22667384.0,2120-10-01 19:00:00,Prescription,Potassium Chloride,40,mEq,prescriptions
+14942359,22667384.0,2120-10-01 19:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+14942359,22667384.0,2120-10-02 05:20:00,Lab Result,Magnesium| Blood,1.8,mg/dL,labevents
+14942359,22667384.0,2120-10-02 05:20:00,Lab Result,Chloride| Blood,94.0,mEq/L,labevents
+14942359,22667384.0,2120-10-02 05:20:00,Lab Result,Creatinine| Blood,0.5,mg/dL,labevents
+14942359,22667384.0,2120-10-02 05:20:00,Lab Result,Glucose| Blood,141.0,mg/dL,labevents
+14942359,22667384.0,2120-10-02 05:20:00,Lab Result,Red Blood Cells| Blood,4.45,m/uL,labevents
+14942359,22667384.0,2120-10-02 05:20:00,Lab Result,Potassium| Blood,3.7,mEq/L,labevents
+14942359,22667384.0,2120-10-02 05:20:00,Lab Result,"Calcium, Total| Blood",9.1,mg/dL,labevents
+14942359,22667384.0,2120-10-02 05:20:00,Lab Result,Sodium| Blood,129.0,mEq/L,labevents
+14942359,22667384.0,2120-10-02 05:20:00,Lab Result,Urea Nitrogen| Blood,9.0,mg/dL,labevents
+14942359,22667384.0,2120-10-02 05:20:00,Lab Result,Hematocrit| Blood,42.6,%,labevents
+14942359,22667384.0,2120-10-02 05:20:00,Lab Result,Hemoglobin| Blood,14.0,g/dL,labevents
+14942359,22667384.0,2120-10-02 05:20:00,Lab Result,MCH| Blood,31.5,pg,labevents
+14942359,22667384.0,2120-10-02 05:20:00,Lab Result,MCHC| Blood,32.9,%,labevents
+14942359,22667384.0,2120-10-02 05:20:00,Lab Result,MCV| Blood,96.0,fL,labevents
+14942359,22667384.0,2120-10-02 05:20:00,Lab Result,Phosphate| Blood,2.7,mg/dL,labevents
+14942359,22667384.0,2120-10-02 05:20:00,Lab Result,Bicarbonate| Blood,26.0,mEq/L,labevents
+14942359,22667384.0,2120-10-02 05:20:00,Lab Result,INR(PT)| Blood,1.0,,labevents
+14942359,22667384.0,2120-10-02 05:20:00,Lab Result,PTT| Blood,25.8,sec,labevents
+14942359,22667384.0,2120-10-02 05:20:00,Lab Result,Anion Gap| Blood,13.0,mEq/L,labevents
+14942359,22667384.0,2120-10-02 05:20:00,Lab Result,White Blood Cells| Blood,11.5,K/uL,labevents
+14942359,22667384.0,2120-10-02 05:20:00,Lab Result,RDW| Blood,12.8,%,labevents
+14942359,22667384.0,2120-10-02 05:20:00,Lab Result,Platelet Count| Blood,273.0,K/uL,labevents
+14942359,22667384.0,2120-10-02 05:20:00,Lab Result,PT| Blood,10.5,sec,labevents
+14942359,22667384.0,2120-10-02 12:00:00,Prescription,Sodium Chloride,2,gm,prescriptions
+14942359,22667384.0,2120-10-02 12:00:00,Prescription,Sodium Chloride,1,gm,prescriptions
+14942359,22667384.0,2120-10-02 12:00:00,Pharmacy,,,NaN,pharmacy
+14942359,22667384.0,2120-10-02 12:00:00,Pharmacy,Sodium Chloride,,NaN,pharmacy
+14942359,22667384.0,2120-10-02 12:00:00,Pharmacy,Sodium Chloride,,NaN,pharmacy
+14942359,22667384.0,2120-10-02 12:00:00,Prescription,Sodium Chloride 3% (Hypertonic),500,mL,prescriptions
+14942359,22667384.0,2120-10-02 15:00:00,Prescription,Heparin Flush (10 units/ml),2,mL,prescriptions
+14942359,22667384.0,2120-10-02 15:00:00,Pharmacy,Heparin Flush (10 units/ml),,NaN,pharmacy
+14942359,22667384.0,2120-10-02 20:57:00,Lab Result,Potassium| Blood,3.8,mEq/L,labevents
+14942359,22667384.0,2120-10-02 20:57:00,Lab Result,Sodium| Blood,127.0,mEq/L,labevents
+14942359,22667384.0,2120-10-02 20:57:00,Lab Result,Chloride| Blood,93.0,mEq/L,labevents
+14942359,22667384.0,2120-10-02 23:00:00,Pharmacy,,,NaN,pharmacy
+14942359,22667384.0,2120-10-02 23:00:00,Prescription,Sodium Chloride 3% (Hypertonic),500,mL,prescriptions
+14942359,22667384.0,2120-10-03 01:30:00,Lab Result,Chloride| Blood,93.0,mEq/L,labevents
+14942359,22667384.0,2120-10-03 01:30:00,Lab Result,Potassium| Blood,3.8,mEq/L,labevents
+14942359,22667384.0,2120-10-03 01:30:00,Lab Result,Sodium| Blood,126.0,mEq/L,labevents
+14942359,22667384.0,2120-10-03 04:00:00,Prescription,Sodium Chloride 3% (Hypertonic),500,mL,prescriptions
+14942359,22667384.0,2120-10-03 04:00:00,Pharmacy,,,NaN,pharmacy
+14942359,22667384.0,2120-10-03 05:29:00,Lab Result,Sodium| Blood,130.0,mEq/L,labevents
+14942359,22667384.0,2120-10-03 05:29:00,Lab Result,Potassium| Blood,3.8,mEq/L,labevents
+14942359,22667384.0,2120-10-03 05:29:00,Lab Result,Chloride| Blood,96.0,mEq/L,labevents
+14942359,22667384.0,2120-10-03 09:25:00,Lab Result,Bicarbonate| Blood,25.0,mEq/L,labevents
+14942359,22667384.0,2120-10-03 09:25:00,Lab Result,Phosphate| Blood,1.9,mg/dL,labevents
+14942359,22667384.0,2120-10-03 09:25:00,Lab Result,Magnesium| Blood,1.8,mg/dL,labevents
+14942359,22667384.0,2120-10-03 09:25:00,Lab Result,Glucose| Blood,110.0,mg/dL,labevents
+14942359,22667384.0,2120-10-03 09:25:00,Lab Result,Creatinine| Blood,0.6,mg/dL,labevents
+14942359,22667384.0,2120-10-03 09:25:00,Lab Result,Chloride| Blood,93.0,mEq/L,labevents
+14942359,22667384.0,2120-10-03 09:25:00,Lab Result,"Calcium, Total| Blood",8.2,mg/dL,labevents
+14942359,22667384.0,2120-10-03 09:25:00,Lab Result,Anion Gap| Blood,15.0,mEq/L,labevents
+14942359,22667384.0,2120-10-03 09:25:00,Lab Result,Platelet Count| Blood,245.0,K/uL,labevents
+14942359,22667384.0,2120-10-03 09:25:00,Lab Result,RDW| Blood,12.8,%,labevents
+14942359,22667384.0,2120-10-03 09:25:00,Lab Result,MCV| Blood,95.0,fL,labevents
+14942359,22667384.0,2120-10-03 09:25:00,Lab Result,MCHC| Blood,33.4,%,labevents
+14942359,22667384.0,2120-10-03 09:25:00,Lab Result,MCH| Blood,31.6,pg,labevents
+14942359,22667384.0,2120-10-03 09:25:00,Lab Result,Hemoglobin| Blood,11.9,g/dL,labevents
+14942359,22667384.0,2120-10-03 09:25:00,Lab Result,Hematocrit| Blood,35.8,%,labevents
+14942359,22667384.0,2120-10-03 09:25:00,Lab Result,Potassium| Blood,3.8,mEq/L,labevents
+14942359,22667384.0,2120-10-03 09:25:00,Lab Result,Red Blood Cells| Blood,3.78,m/uL,labevents
+14942359,22667384.0,2120-10-03 09:25:00,Lab Result,Sodium| Blood,129.0,mEq/L,labevents
+14942359,22667384.0,2120-10-03 09:25:00,Lab Result,White Blood Cells| Blood,9.8,K/uL,labevents
+14942359,22667384.0,2120-10-03 09:25:00,Lab Result,INR(PT)| Blood,1.0,,labevents
+14942359,22667384.0,2120-10-03 09:25:00,Lab Result,PTT| Blood,26.4,sec,labevents
+14942359,22667384.0,2120-10-03 09:25:00,Lab Result,Urea Nitrogen| Blood,8.0,mg/dL,labevents
+14942359,22667384.0,2120-10-03 09:25:00,Lab Result,PT| Blood,10.8,sec,labevents
+14942359,22667384.0,2120-10-03 12:00:00,Lab Result,Basophils| Blood,0.3,%,labevents
+14942359,22667384.0,2120-10-03 12:00:00,Lab Result,PTT| Blood,27.0,sec,labevents
+14942359,22667384.0,2120-10-03 12:00:00,Lab Result,PT| Blood,10.7,sec,labevents
+14942359,22667384.0,2120-10-03 12:00:00,Lab Result,INR(PT)| Blood,1.0,,labevents
+14942359,22667384.0,2120-10-03 12:00:00,Lab Result,Urea Nitrogen| Blood,9.0,mg/dL,labevents
+14942359,22667384.0,2120-10-03 12:00:00,Lab Result,Sodium| Blood,132.0,mEq/L,labevents
+14942359,22667384.0,2120-10-03 12:00:00,Lab Result,Potassium| Blood,3.8,mEq/L,labevents
+14942359,22667384.0,2120-10-03 12:00:00,Lab Result,Phosphate| Blood,2.0,mg/dL,labevents
+14942359,22667384.0,2120-10-03 12:00:00,Lab Result,Magnesium| Blood,1.7,mg/dL,labevents
+14942359,22667384.0,2120-10-03 12:00:00,Lab Result,Glucose| Blood,135.0,mg/dL,labevents
+14942359,22667384.0,2120-10-03 12:00:00,Lab Result,Creatinine| Blood,0.6,mg/dL,labevents
+14942359,22667384.0,2120-10-03 12:00:00,Lab Result,Chloride| Blood,98.0,mEq/L,labevents
+14942359,22667384.0,2120-10-03 12:00:00,Lab Result,"Calcium, Total| Blood",8.3,mg/dL,labevents
+14942359,22667384.0,2120-10-03 12:00:00,Lab Result,Bicarbonate| Blood,24.0,mEq/L,labevents
+14942359,22667384.0,2120-10-03 12:00:00,Lab Result,Estimated GFR (MDRD equation)| Blood,,,labevents
+14942359,22667384.0,2120-10-03 12:00:00,Lab Result,White Blood Cells| Blood,9.6,K/uL,labevents
+14942359,22667384.0,2120-10-03 12:00:00,Lab Result,Eosinophils| Blood,0.3,%,labevents
+14942359,22667384.0,2120-10-03 12:00:00,Lab Result,Hematocrit| Blood,37.7,%,labevents
+14942359,22667384.0,2120-10-03 12:00:00,Lab Result,Anion Gap| Blood,14.0,mEq/L,labevents
+14942359,22667384.0,2120-10-03 12:00:00,Lab Result,Lymphocytes| Blood,12.9,%,labevents
+14942359,22667384.0,2120-10-03 12:00:00,Lab Result,MCH| Blood,31.4,pg,labevents
+14942359,22667384.0,2120-10-03 12:00:00,Lab Result,MCHC| Blood,33.1,%,labevents
+14942359,22667384.0,2120-10-03 12:00:00,Lab Result,MCV| Blood,95.0,fL,labevents
+14942359,22667384.0,2120-10-03 12:00:00,Lab Result,Hemoglobin| Blood,12.5,g/dL,labevents
+14942359,22667384.0,2120-10-03 12:00:00,Lab Result,Monocytes| Blood,4.2,%,labevents
+14942359,22667384.0,2120-10-03 12:00:00,Lab Result,RDW| Blood,13.0,%,labevents
+14942359,22667384.0,2120-10-03 12:00:00,Lab Result,Platelet Count| Blood,247.0,K/uL,labevents
+14942359,22667384.0,2120-10-03 12:00:00,Lab Result,Red Blood Cells| Blood,3.97,m/uL,labevents
+14942359,22667384.0,2120-10-03 12:00:00,Lab Result,Neutrophils| Blood,82.3,%,labevents
+14942359,22667384.0,2120-10-03 13:37:42,Transfer,transfer Neurology,NaN,NaN,transfers
+14942359,22667384.0,2120-10-03 13:39:07,Transfer,transfer Neurology,NaN,NaN,transfers
+14942359,22667384.0,2120-10-03 13:56:01,Transfer,transfer Neurology,NaN,NaN,transfers
+14942359,22667384.0,2120-10-03 14:00:00,Pharmacy,,,NaN,pharmacy
+14942359,22667384.0,2120-10-03 14:00:00,Prescription,Sodium Chloride 3% (Hypertonic),500,mL,prescriptions
+14942359,22667384.0,2120-10-03 17:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+14942359,22667384.0,2120-10-03 17:00:00,Pharmacy,Magnesium Sulfate,,NaN,pharmacy
+14942359,22667384.0,2120-10-03 17:00:00,Pharmacy,Neutra-Phos,,NaN,pharmacy
+14942359,22667384.0,2120-10-03 17:00:00,Prescription,Potassium Chloride,20,mEq,prescriptions
+14942359,22667384.0,2120-10-03 17:00:00,Prescription,Magnesium Sulfate,2,gm,prescriptions
+14942359,22667384.0,2120-10-03 17:00:00,Prescription,Bag,50,mL,prescriptions
+14942359,22667384.0,2120-10-03 17:00:00,Prescription,Neutra-Phos,1,PKT,prescriptions
+14942359,22667384.0,2120-10-03 18:32:00,Lab Result,Potassium| Blood,4.0,mEq/L,labevents
+14942359,22667384.0,2120-10-03 18:32:00,Lab Result,Chloride| Blood,98.0,mEq/L,labevents
+14942359,22667384.0,2120-10-03 18:32:00,Lab Result,Sodium| Blood,132.0,mEq/L,labevents
+14942359,22667384.0,2120-10-03 21:23:00,Lab Result,Chloride| Blood,98.0,mEq/L,labevents
+14942359,22667384.0,2120-10-03 21:23:00,Lab Result,Potassium| Blood,3.9,mEq/L,labevents
+14942359,22667384.0,2120-10-03 21:23:00,Lab Result,Sodium| Blood,132.0,mEq/L,labevents
+14942359,22667384.0,2120-10-04 04:36:00,Lab Result,Chloride| Blood,97.0,mEq/L,labevents
+14942359,22667384.0,2120-10-04 04:36:00,Lab Result,Sodium| Blood,132.0,mEq/L,labevents
+14942359,22667384.0,2120-10-04 04:36:00,Lab Result,Potassium| Blood,3.7,mEq/L,labevents
+14942359,22667384.0,2120-10-04 05:55:00,Lab Result,Sodium| Blood,135.0,mEq/L,labevents
+14942359,22667384.0,2120-10-04 05:55:00,Lab Result,White Blood Cells| Blood,9.1,K/uL,labevents
+14942359,22667384.0,2120-10-04 05:55:00,Lab Result,Red Blood Cells| Blood,3.86,m/uL,labevents
+14942359,22667384.0,2120-10-04 05:55:00,Lab Result,Glucose| Blood,101.0,mg/dL,labevents
+14942359,22667384.0,2120-10-04 05:55:00,Lab Result,RDW| Blood,13.2,%,labevents
+14942359,22667384.0,2120-10-04 05:55:00,Lab Result,Magnesium| Blood,2.2,mg/dL,labevents
+14942359,22667384.0,2120-10-04 05:55:00,Lab Result,Potassium| Blood,3.7,mEq/L,labevents
+14942359,22667384.0,2120-10-04 05:55:00,Lab Result,Platelet Count| Blood,238.0,K/uL,labevents
+14942359,22667384.0,2120-10-04 05:55:00,Lab Result,MCV| Blood,97.0,fL,labevents
+14942359,22667384.0,2120-10-04 05:55:00,Lab Result,MCHC| Blood,33.0,%,labevents
+14942359,22667384.0,2120-10-04 05:55:00,Lab Result,Creatinine| Blood,0.6,mg/dL,labevents
+14942359,22667384.0,2120-10-04 05:55:00,Lab Result,Hemoglobin| Blood,12.3,g/dL,labevents
+14942359,22667384.0,2120-10-04 05:55:00,Lab Result,Hematocrit| Blood,37.3,%,labevents
+14942359,22667384.0,2120-10-04 05:55:00,Lab Result,Urea Nitrogen| Blood,8.0,mg/dL,labevents
+14942359,22667384.0,2120-10-04 05:55:00,Lab Result,Phosphate| Blood,2.3,mg/dL,labevents
+14942359,22667384.0,2120-10-04 05:55:00,Lab Result,MCH| Blood,31.8,pg,labevents
+14942359,22667384.0,2120-10-04 05:55:00,Lab Result,Chloride| Blood,100.0,mEq/L,labevents
+14942359,22667384.0,2120-10-04 05:55:00,Lab Result,"Calcium, Total| Blood",8.3,mg/dL,labevents
+14942359,22667384.0,2120-10-04 05:55:00,Lab Result,INR(PT)| Blood,1.0,,labevents
+14942359,22667384.0,2120-10-04 05:55:00,Lab Result,PT| Blood,10.4,sec,labevents
+14942359,22667384.0,2120-10-04 05:55:00,Lab Result,PTT| Blood,26.6,sec,labevents
+14942359,22667384.0,2120-10-04 05:55:00,Lab Result,Anion Gap| Blood,12.0,mEq/L,labevents
+14942359,22667384.0,2120-10-04 05:55:00,Lab Result,Bicarbonate| Blood,27.0,mEq/L,labevents
+14942359,22667384.0,2120-10-04 08:00:00,Prescription,Sodium Chloride,2,gm,prescriptions
+14942359,22667384.0,2120-10-04 08:00:00,Pharmacy,Sodium Chloride,,NaN,pharmacy
+14942359,22667384.0,2120-10-04 10:00:00,Pharmacy,Sodium Chloride,,NaN,pharmacy
+14942359,22667384.0,2120-10-04 10:00:00,Pharmacy,Sodium Chloride,,NaN,pharmacy
+14942359,22667384.0,2120-10-04 10:00:00,Prescription,Sodium Chloride,2,gm,prescriptions
+14942359,22667384.0,2120-10-04 10:00:00,Prescription,Sodium Chloride,2,gm,prescriptions
+14942359,22667384.0,2120-10-05 05:10:00,Lab Result,MCV| Blood,95.0,fL,labevents
+14942359,22667384.0,2120-10-05 05:10:00,Lab Result,Platelet Count| Blood,263.0,K/uL,labevents
+14942359,22667384.0,2120-10-05 05:10:00,Lab Result,RDW| Blood,13.0,%,labevents
+14942359,22667384.0,2120-10-05 05:10:00,Lab Result,Red Blood Cells| Blood,3.82,m/uL,labevents
+14942359,22667384.0,2120-10-05 05:10:00,Lab Result,White Blood Cells| Blood,9.8,K/uL,labevents
+14942359,22667384.0,2120-10-05 05:10:00,Lab Result,Hemoglobin| Blood,11.7,g/dL,labevents
+14942359,22667384.0,2120-10-05 05:10:00,Lab Result,Hematocrit| Blood,36.4,%,labevents
+14942359,22667384.0,2120-10-05 05:10:00,Lab Result,MCHC| Blood,32.2,%,labevents
+14942359,22667384.0,2120-10-05 05:10:00,Lab Result,MCH| Blood,30.8,pg,labevents
+14942359,22667384.0,2120-10-05 05:10:00,Lab Result,Anion Gap| Blood,13.0,mEq/L,labevents
+14942359,22667384.0,2120-10-05 05:10:00,Lab Result,"Calcium, Total| Blood",8.6,mg/dL,labevents
+14942359,22667384.0,2120-10-05 05:10:00,Lab Result,PTT| Blood,25.1,sec,labevents
+14942359,22667384.0,2120-10-05 05:10:00,Lab Result,PT| Blood,9.8,sec,labevents
+14942359,22667384.0,2120-10-05 05:10:00,Lab Result,INR(PT)| Blood,0.9,,labevents
+14942359,22667384.0,2120-10-05 05:10:00,Lab Result,Urea Nitrogen| Blood,12.0,mg/dL,labevents
+14942359,22667384.0,2120-10-05 05:10:00,Lab Result,Bicarbonate| Blood,27.0,mEq/L,labevents
+14942359,22667384.0,2120-10-05 05:10:00,Lab Result,Potassium| Blood,4.1,mEq/L,labevents
+14942359,22667384.0,2120-10-05 05:10:00,Lab Result,Sodium| Blood,137.0,mEq/L,labevents
+14942359,22667384.0,2120-10-05 05:10:00,Lab Result,Phosphate| Blood,2.2,mg/dL,labevents
+14942359,22667384.0,2120-10-05 05:10:00,Lab Result,Magnesium| Blood,2.0,mg/dL,labevents
+14942359,22667384.0,2120-10-05 05:10:00,Lab Result,Glucose| Blood,115.0,mg/dL,labevents
+14942359,22667384.0,2120-10-05 05:10:00,Lab Result,Creatinine| Blood,0.6,mg/dL,labevents
+14942359,22667384.0,2120-10-05 05:10:00,Lab Result,Chloride| Blood,101.0,mEq/L,labevents
+14942359,22667384.0,2120-10-05 20:00:00,Prescription,Metoprolol Tartrate,12.5,mg,prescriptions
+14942359,22667384.0,2120-10-05 20:00:00,Pharmacy,Metoprolol Tartrate,,NaN,pharmacy
+14942359,22667384.0,2120-10-06 05:40:00,Lab Result,Urea Nitrogen| Blood,7.0,mg/dL,labevents
+14942359,22667384.0,2120-10-06 05:40:00,Lab Result,Sodium| Blood,139.0,mEq/L,labevents
+14942359,22667384.0,2120-10-06 05:40:00,Lab Result,Potassium| Blood,4.0,mEq/L,labevents
+14942359,22667384.0,2120-10-06 05:40:00,Lab Result,Phosphate| Blood,3.6,mg/dL,labevents
+14942359,22667384.0,2120-10-06 05:40:00,Lab Result,RDW| Blood,12.8,%,labevents
+14942359,22667384.0,2120-10-06 05:40:00,Lab Result,Glucose| Blood,108.0,mg/dL,labevents
+14942359,22667384.0,2120-10-06 05:40:00,Lab Result,Platelet Count| Blood,325.0,K/uL,labevents
+14942359,22667384.0,2120-10-06 05:40:00,Lab Result,MCV| Blood,96.0,fL,labevents
+14942359,22667384.0,2120-10-06 05:40:00,Lab Result,MCHC| Blood,32.9,%,labevents
+14942359,22667384.0,2120-10-06 05:40:00,Lab Result,MCH| Blood,31.6,pg,labevents
+14942359,22667384.0,2120-10-06 05:40:00,Lab Result,Hemoglobin| Blood,12.9,g/dL,labevents
+14942359,22667384.0,2120-10-06 05:40:00,Lab Result,Hematocrit| Blood,39.3,%,labevents
+14942359,22667384.0,2120-10-06 05:40:00,Lab Result,Magnesium| Blood,1.9,mg/dL,labevents
+14942359,22667384.0,2120-10-06 05:40:00,Lab Result,Red Blood Cells| Blood,4.09,m/uL,labevents
+14942359,22667384.0,2120-10-06 05:40:00,Lab Result,Creatinine| Blood,0.7,mg/dL,labevents
+14942359,22667384.0,2120-10-06 05:40:00,Lab Result,Chloride| Blood,99.0,mEq/L,labevents
+14942359,22667384.0,2120-10-06 05:40:00,Lab Result,"Calcium, Total| Blood",9.5,mg/dL,labevents
+14942359,22667384.0,2120-10-06 05:40:00,Lab Result,White Blood Cells| Blood,11.0,K/uL,labevents
+14942359,22667384.0,2120-10-06 05:40:00,Lab Result,Bicarbonate| Blood,31.0,mEq/L,labevents
+14942359,22667384.0,2120-10-06 05:40:00,Lab Result,Anion Gap| Blood,13.0,mEq/L,labevents
+14942359,22667384.0,2120-10-07 05:39:00,Lab Result,Bicarbonate| Blood,28.0,mEq/L,labevents
+14942359,22667384.0,2120-10-07 05:39:00,Lab Result,Urea Nitrogen| Blood,10.0,mg/dL,labevents
+14942359,22667384.0,2120-10-07 05:39:00,Lab Result,Sodium| Blood,137.0,mEq/L,labevents
+14942359,22667384.0,2120-10-07 05:39:00,Lab Result,Phosphate| Blood,4.3,mg/dL,labevents
+14942359,22667384.0,2120-10-07 05:39:00,Lab Result,Magnesium| Blood,2.0,mg/dL,labevents
+14942359,22667384.0,2120-10-07 05:39:00,Lab Result,Anion Gap| Blood,13.0,mEq/L,labevents
+14942359,22667384.0,2120-10-07 05:39:00,Lab Result,Glucose| Blood,112.0,mg/dL,labevents
+14942359,22667384.0,2120-10-07 05:39:00,Lab Result,Creatinine| Blood,0.6,mg/dL,labevents
+14942359,22667384.0,2120-10-07 05:39:00,Lab Result,Chloride| Blood,100.0,mEq/L,labevents
+14942359,22667384.0,2120-10-07 05:39:00,Lab Result,"Calcium, Total| Blood",9.3,mg/dL,labevents
+14942359,22667384.0,2120-10-07 05:39:00,Lab Result,Potassium| Blood,4.3,mEq/L,labevents
+14942359,22667384.0,2120-10-07 10:00:00,Prescription,Lovastatin,40,mg,prescriptions
+14942359,22667384.0,2120-10-07 10:00:00,Pharmacy,Lovastatin,,NaN,pharmacy
+14942359,22667384.0,2120-10-07 12:06:41,Transfer,discharge,NaN,NaN,transfers
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,PO,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,PO,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,PO,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,PO,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,PO,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,PO,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,PO,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,PO,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,PO,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,PO,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,PO,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,PO,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,PO,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,PO,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,PO,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,PO,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,PO,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,PO,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,PO,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,PO,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,PO,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,PO,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,PO,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail
+14942359,,,Medication Route,,NaN,NaN,emar_detail

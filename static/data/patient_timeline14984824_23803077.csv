@@ -1,0 +1,882 @@
+subject_id,hadm_id,event_time,event_type,description,value,unit,source_table
+14984824,23803077,2133-06-09 10:00:00,Pharmacy,PredniSONE,,NaN,pharmacy
+14984824,23803077,2133-06-09 10:00:00,Prescription,PredniSONE,10,mg,prescriptions
+14984824,23803077,2133-06-09 10:00:00,Prescription,Ferrous Sulfate,325,mg,prescriptions
+14984824,23803077,2133-06-09 10:00:00,Pharmacy,Ferrous Sulfate,,NaN,pharmacy
+14984824,23803077,2133-06-09 17:38:00,Admission,URGENT,NaN,NaN,admissions
+14984824,23803077,2133-06-09 17:38:39,Transfer,admit Surgery/Pancreatic/Biliary/Bariatric,NaN,NaN,transfers
+14984824,23803077,2133-06-09 17:38:39,Service,SURG,NaN,NaN,services
+14984824,23803077,2133-06-09 20:00:00,Pharmacy,Ipratropium Bromide Neb,,NaN,pharmacy
+14984824,23803077,2133-06-09 20:00:00,Prescription,Acetaminophen,325-650,mg,prescriptions
+14984824,23803077,2133-06-09 20:00:00,Prescription,Pneumococcal Vac Polyvalent,0.5,mL,prescriptions
+14984824,23803077,2133-06-09 20:00:00,Pharmacy,Bisacodyl,,NaN,pharmacy
+14984824,23803077,2133-06-09 20:00:00,Prescription,Ipratropium Bromide Neb,1,NEB,prescriptions
+14984824,23803077,2133-06-09 20:00:00,Prescription,Bisacodyl,10,mg,prescriptions
+14984824,23803077,2133-06-09 20:00:00,Pharmacy,Heparin,,NaN,pharmacy
+14984824,23803077,2133-06-09 20:00:00,Prescription,Acetylcysteine 20%,1-10,mL,prescriptions
+14984824,23803077,2133-06-09 20:00:00,Pharmacy,Acetaminophen,,NaN,pharmacy
+14984824,23803077,2133-06-09 20:00:00,Prescription,Bisacodyl,10,mg,prescriptions
+14984824,23803077,2133-06-09 20:00:00,Prescription,Albuterol 0.083% Neb Soln,1,NEB,prescriptions
+14984824,23803077,2133-06-09 20:00:00,Pharmacy,Pneumococcal Vac Polyvalent,,NaN,pharmacy
+14984824,23803077,2133-06-09 20:00:00,Pharmacy,Bisacodyl,,NaN,pharmacy
+14984824,23803077,2133-06-09 20:00:00,Pharmacy,Albuterol 0.083% Neb Soln,,NaN,pharmacy
+14984824,23803077,2133-06-09 20:00:00,Prescription,Heparin,5000,UNIT,prescriptions
+14984824,23803077,2133-06-09 20:00:00,Pharmacy,Acetylcysteine 20%,,NaN,pharmacy
+14984824,23803077,2133-06-09 21:40:00,Lab Result,Bicarbonate| Blood,34.0,mEq/L,labevents
+14984824,23803077,2133-06-09 21:40:00,Lab Result,Sodium| Blood,143.0,mEq/L,labevents
+14984824,23803077,2133-06-09 21:40:00,Lab Result,MCV| Blood,96.0,fL,labevents
+14984824,23803077,2133-06-09 21:40:00,Lab Result,Monocytes| Blood,2.4,%,labevents
+14984824,23803077,2133-06-09 21:40:00,Lab Result,Creatinine| Blood,0.7,mg/dL,labevents
+14984824,23803077,2133-06-09 21:40:00,Lab Result,Neutrophils| Blood,86.7,%,labevents
+14984824,23803077,2133-06-09 21:40:00,Lab Result,Platelet Count| Blood,162.0,K/uL,labevents
+14984824,23803077,2133-06-09 21:40:00,Lab Result,Glucose| Blood,237.0,mg/dL,labevents
+14984824,23803077,2133-06-09 21:40:00,Lab Result,Estimated GFR (MDRD equation)| Blood,,,labevents
+14984824,23803077,2133-06-09 21:40:00,Lab Result,Red Blood Cells| Blood,3.67,m/uL,labevents
+14984824,23803077,2133-06-09 21:40:00,Lab Result,White Blood Cells| Blood,8.3,K/uL,labevents
+14984824,23803077,2133-06-09 21:40:00,Lab Result,Anion Gap| Blood,14.0,mEq/L,labevents
+14984824,23803077,2133-06-09 21:40:00,Lab Result,Magnesium| Blood,2.1,mg/dL,labevents
+14984824,23803077,2133-06-09 21:40:00,Lab Result,Phosphate| Blood,2.6,mg/dL,labevents
+14984824,23803077,2133-06-09 21:40:00,Lab Result,Urea Nitrogen| Blood,21.0,mg/dL,labevents
+14984824,23803077,2133-06-09 21:40:00,Lab Result,RDW| Blood,14.5,%,labevents
+14984824,23803077,2133-06-09 21:40:00,Lab Result,MCHC| Blood,31.9,%,labevents
+14984824,23803077,2133-06-09 21:40:00,Lab Result,Potassium| Blood,4.1,mEq/L,labevents
+14984824,23803077,2133-06-09 21:40:00,Lab Result,"Calcium, Total| Blood",8.5,mg/dL,labevents
+14984824,23803077,2133-06-09 21:40:00,Lab Result,INR(PT)| Blood,1.1,,labevents
+14984824,23803077,2133-06-09 21:40:00,Lab Result,PT| Blood,12.9,sec,labevents
+14984824,23803077,2133-06-09 21:40:00,Lab Result,PTT| Blood,22.1,sec,labevents
+14984824,23803077,2133-06-09 21:40:00,Lab Result,Chloride| Blood,99.0,mEq/L,labevents
+14984824,23803077,2133-06-09 21:40:00,Lab Result,Eosinophils| Blood,0.6,%,labevents
+14984824,23803077,2133-06-09 21:40:00,Lab Result,Hematocrit| Blood,35.2,%,labevents
+14984824,23803077,2133-06-09 21:40:00,Lab Result,Hemoglobin| Blood,11.2,g/dL,labevents
+14984824,23803077,2133-06-09 21:40:00,Lab Result,Basophils| Blood,0.2,%,labevents
+14984824,23803077,2133-06-09 21:40:00,Lab Result,MCH| Blood,30.6,pg,labevents
+14984824,23803077,2133-06-09 21:40:00,Lab Result,Lymphocytes| Blood,10.1,%,labevents
+14984824,23803077,2133-06-09 22:00:00,Prescription,Voriconazole,200,mg,prescriptions
+14984824,23803077,2133-06-09 22:00:00,Prescription,Voriconazole,200,mg,prescriptions
+14984824,23803077,2133-06-09 22:00:00,Pharmacy,Voriconazole,,NaN,pharmacy
+14984824,23803077,2133-06-09 22:00:00,Pharmacy,Voriconazole,,NaN,pharmacy
+14984824,23803077,2133-06-10 04:00:00,Prescription,Lorazepam,0.5,mg,prescriptions
+14984824,23803077,2133-06-10 04:00:00,Pharmacy,Lorazepam,,NaN,pharmacy
+14984824,23803077,2133-06-10 10:00:00,Prescription,Enoxaparin Sodium,30,mg,prescriptions
+14984824,23803077,2133-06-10 10:00:00,Pharmacy,MetRONIDAZOLE (FLagyl),,NaN,pharmacy
+14984824,23803077,2133-06-10 10:00:00,Prescription,MetRONIDAZOLE (FLagyl),500,mg,prescriptions
+14984824,23803077,2133-06-10 10:00:00,Pharmacy,Enoxaparin Sodium,,NaN,pharmacy
+14984824,23803077,2133-06-10 14:00:00,Prescription,Morphine Sulfate IR,15,mg,prescriptions
+14984824,23803077,2133-06-10 14:00:00,Pharmacy,Morphine Sulfate IR,,NaN,pharmacy
+14984824,23803077,2133-06-10 19:00:00,Pharmacy,Voriconazole,,NaN,pharmacy
+14984824,23803077,2133-06-10 19:00:00,Prescription,Voriconazole,200,mg,prescriptions
+14984824,23803077,2133-06-11 02:00:00,Prescription,HYDROmorphone (Dilaudid),0.25,mg,prescriptions
+14984824,23803077,2133-06-11 02:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+14984824,23803077,2133-06-11 10:00:00,Prescription,HYDROmorphone (Dilaudid),0.25,mg,prescriptions
+14984824,23803077,2133-06-11 10:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+14984824,23803077,2133-06-11 12:00:00,Prescription,Lorazepam,0.25,mg,prescriptions
+14984824,23803077,2133-06-11 12:00:00,Pharmacy,Lorazepam,,NaN,pharmacy
+14984824,23803077,2133-06-12 06:00:00,Prescription,Syringe,10,mL,prescriptions
+14984824,23803077,2133-06-12 06:00:00,Pharmacy,CefazoLIN,,NaN,pharmacy
+14984824,23803077,2133-06-12 06:00:00,Prescription,CefazoLIN,2,g,prescriptions
+14984824,23803077,2133-06-12 11:00:00,Prescription,Morphine Sulfate,1,mg,prescriptions
+14984824,23803077,2133-06-12 11:00:00,Pharmacy,Morphine Sulfate,,NaN,pharmacy
+14984824,23803077,2133-06-12 14:00:00,Pharmacy,CefazoLIN,,NaN,pharmacy
+14984824,23803077,2133-06-12 14:00:00,Prescription,CefazoLIN,2,g,prescriptions
+14984824,23803077,2133-06-12 14:00:00,Prescription,0.9% Sodium Chloride,100,mL,prescriptions
+14984824,23803077,2133-06-12 14:34:00,Lab Result,Base Excess| Blood,9.0,mEq/L,labevents
+14984824,23803077,2133-06-12 14:34:00,Lab Result,"Chloride, Whole Blood| Blood",96.0,mEq/L,labevents
+14984824,23803077,2133-06-12 14:34:00,Lab Result,Calculated Total CO2| Blood,37.0,mEq/L,labevents
+14984824,23803077,2133-06-12 14:34:00,Lab Result,Specimen Type| Blood,,,labevents
+14984824,23803077,2133-06-12 14:34:00,Lab Result,"Sodium, Whole Blood| Blood",139.0,mEq/L,labevents
+14984824,23803077,2133-06-12 14:34:00,Lab Result,pO2| Blood,58.0,mm Hg,labevents
+14984824,23803077,2133-06-12 14:34:00,Lab Result,pH| Blood,7.45,units,labevents
+14984824,23803077,2133-06-12 14:34:00,Lab Result,pCO2| Blood,52.0,mm Hg,labevents
+14984824,23803077,2133-06-12 14:34:00,Lab Result,"Potassium, Whole Blood| Blood",3.6,mEq/L,labevents
+14984824,23803077,2133-06-12 14:34:00,Lab Result,Lactate| Blood,1.1,mmol/L,labevents
+14984824,23803077,2133-06-12 14:34:00,Lab Result,Intubated| Blood,,,labevents
+14984824,23803077,2133-06-12 14:34:00,Lab Result,Hemoglobin| Blood,11.6,g/dL,labevents
+14984824,23803077,2133-06-12 14:34:00,Lab Result,"Hematocrit, Calculated| Blood",35.0,%,labevents
+14984824,23803077,2133-06-12 14:34:00,Lab Result,Glucose| Blood,188.0,mg/dL,labevents
+14984824,23803077,2133-06-12 14:34:00,Lab Result,Free Calcium| Blood,1.16,mmol/L,labevents
+14984824,23803077,2133-06-12 14:34:00,Lab Result,Oxygen Saturation| Blood,92.0,%,labevents
+14984824,23803077,2133-06-12 16:10:00,Lab Result,RBC| Urine,0.0,#/hpf,labevents
+14984824,23803077,2133-06-12 16:10:00,Lab Result,Yeast| Urine,,,labevents
+14984824,23803077,2133-06-12 16:10:00,Lab Result,WBC| Urine,0.0,#/hpf,labevents
+14984824,23803077,2133-06-12 16:10:00,Lab Result,Urobilinogen| Urine,,mg/dL,labevents
+14984824,23803077,2133-06-12 16:10:00,Lab Result,Urine Mucous| Urine,,,labevents
+14984824,23803077,2133-06-12 16:10:00,Lab Result,Urine Color| Urine,,,labevents
+14984824,23803077,2133-06-12 16:10:00,Lab Result,Urine Appearance| Urine,,,labevents
+14984824,23803077,2133-06-12 16:10:00,Lab Result,Specific Gravity| Urine,1.015, ,labevents
+14984824,23803077,2133-06-12 16:10:00,Lab Result,Protein| Urine,,mg/dL,labevents
+14984824,23803077,2133-06-12 16:10:00,Lab Result,Glucose| Urine,100.0,mg/dL,labevents
+14984824,23803077,2133-06-12 16:10:00,Lab Result,Nitrite| Urine,,,labevents
+14984824,23803077,2133-06-12 16:10:00,Lab Result,pH| Urine,6.5,units,labevents
+14984824,23803077,2133-06-12 16:10:00,Lab Result,Bacteria| Urine,,,labevents
+14984824,23803077,2133-06-12 16:10:00,Lab Result,Bilirubin| Urine,,mg/dL,labevents
+14984824,23803077,2133-06-12 16:10:00,Lab Result,Blood| Urine,,,labevents
+14984824,23803077,2133-06-12 16:10:00,Lab Result,Amorphous Crystals| Urine,,,labevents
+14984824,23803077,2133-06-12 16:10:00,Lab Result,Epithelial Cells| Urine,1.0,#/hpf,labevents
+14984824,23803077,2133-06-12 16:10:00,Lab Result,Ketone| Urine,,mg/dL,labevents
+14984824,23803077,2133-06-12 16:10:00,Lab Result,Leukocytes| Urine,,,labevents
+14984824,23803077,2133-06-12 16:10:00,Lab Result,Calcium Oxalate Crystals| Urine,,,labevents
+14984824,23803077,2133-06-12 19:19:00,Transfer,transfer Trauma SICU (TSICU),NaN,NaN,transfers
+14984824,23803077,2133-06-12 20:09:00,DateTime Obs,Arterial line Insertion Date,2133-06-12 20:09:00,Date,datetimeevents
+14984824,23803077,2133-06-12 20:09:00,DateTime Obs,Arterial Line Dressing Change,2133-06-12 20:09:00,Date and Time,datetimeevents
+14984824,23803077,2133-06-12 20:09:00,DateTime Obs,Arterial line Change over Wire Date,2133-06-12 20:09:00,Date,datetimeevents
+14984824,23803077,2133-06-12 20:09:00,DateTime Obs,Arterial line Cap Change,2133-06-12 20:09:00,Date,datetimeevents
+14984824,23803077,2133-06-12 20:09:00,Procedure,Arterial Line,829.0,min,procedureevents
+14984824,23803077,2133-06-12 20:09:00,DateTime Obs,Arterial line Tubing Change,2133-06-12 20:09:00,Date,datetimeevents
+14984824,23803077,2133-06-12 20:09:00,Procedure,Arterial Line,829.0,min,procedureevents
+14984824,23803077,2133-06-12 20:10:00,Procedure,18 Gauge,2630.0,min,procedureevents
+14984824,23803077,2133-06-12 20:10:00,Input,Water,3.8709678053855896,ml,ingredientevents
+14984824,23803077,2133-06-12 20:10:00,Input,Solution,3.8709678053855896,ml,inputevents
+14984824,23803077,2133-06-12 20:10:00,Input,Propofol,38.70967822149396,mg,inputevents
+14984824,23803077,2133-06-12 20:10:00,DateTime Obs,18 Gauge Insertion Date,2133-06-12 20:10:00,Date,datetimeevents
+14984824,23803077,2133-06-12 20:10:00,Input,Calories,4.258064210414887,Kcal,ingredientevents
+14984824,23803077,2133-06-12 20:10:00,Input,IVF ingredient,3.8709678053855896,ml,ingredientevents
+14984824,23803077,2133-06-12 20:10:00,Procedure,18 Gauge,2630.0,min,procedureevents
+14984824,23803077,2133-06-12 20:11:00,Procedure,22 Gauge,5760.0,min,procedureevents
+14984824,23803077,2133-06-12 20:11:00,DateTime Obs,22 Gauge Insertion Date,2133-06-12 20:11:00,Date,datetimeevents
+14984824,23803077,2133-06-12 20:11:00,Procedure,22 Gauge,5760.0,min,procedureevents
+14984824,23803077,2133-06-12 20:15:00,Procedure,Invasive Ventilation,1101.0,min,procedureevents
+14984824,23803077,2133-06-12 20:15:00,Procedure,Invasive Ventilation,1101.0,min,procedureevents
+14984824,23803077,2133-06-12 20:23:00,Input,Water,1300.0,ml,ingredientevents
+14984824,23803077,2133-06-12 20:23:00,Input,OR Crystalloid Intake,1300.0,ml,inputevents
+14984824,23803077,2133-06-12 20:23:00,Input,IVF ingredient,1300.0,ml,ingredientevents
+14984824,23803077,2133-06-12 20:23:00,Input,OR Intake_ingr,1300.0,ml,ingredientevents
+14984824,23803077,2133-06-12 20:24:00,Output,OR Urine,430.0,ml,outputevents
+14984824,23803077,2133-06-12 20:28:00,Input,IVF ingredient,3.7832536697387695,ml,ingredientevents
+14984824,23803077,2133-06-12 20:28:00,Input,Water,3.7832536697387695,ml,ingredientevents
+14984824,23803077,2133-06-12 20:28:00,Input,Calories,4.1615787744522095,Kcal,ingredientevents
+14984824,23803077,2133-06-12 20:28:00,Input,Propofol,37.83253557048738,mg,inputevents
+14984824,23803077,2133-06-12 20:28:00,Input,Solution,3.7832536697387695,ml,inputevents
+14984824,23803077,2133-06-12 20:30:00,Input,Phenylephrine,0.6451613444369286,mg,inputevents
+14984824,23803077,2133-06-12 20:30:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14984824,23803077,2133-06-12 20:30:00,Input,Water,2.688172161579132,ml,ingredientevents
+14984824,23803077,2133-06-12 20:30:00,Input,IVF ingredient,2.688172161579132,ml,ingredientevents
+14984824,23803077,2133-06-12 20:30:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14984824,23803077,2133-06-12 20:30:00,Input,NaCl 0.9%,2.688172161579132,ml,inputevents
+14984824,23803077,2133-06-12 20:35:00,Input,Phenylephrine,1.6344086470780894,mg,inputevents
+14984824,23803077,2133-06-12 20:35:00,Input,IVF ingredient,6.810035765171051,ml,ingredientevents
+14984824,23803077,2133-06-12 20:35:00,Input,NaCl 0.9%,6.810035765171051,ml,inputevents
+14984824,23803077,2133-06-12 20:35:00,Input,Water,6.810035765171051,ml,ingredientevents
+14984824,23803077,2133-06-12 20:50:00,Input,IVF ingredient,1.289745718240738,ml,ingredientevents
+14984824,23803077,2133-06-12 20:50:00,Input,Propofol,12.89745676331222,mg,inputevents
+14984824,23803077,2133-06-12 20:50:00,Input,Calories,1.4187201857566831,Kcal,ingredientevents
+14984824,23803077,2133-06-12 20:50:00,Input,Solution,1.289745718240738,ml,inputevents
+14984824,23803077,2133-06-12 20:50:00,Input,Water,1.289745718240738,ml,ingredientevents
+14984824,23803077,2133-06-12 20:53:00,Lab Result,Creatinine| Blood,0.5,mg/dL,labevents
+14984824,23803077,2133-06-12 20:53:00,Lab Result,Sodium| Blood,142.0,mEq/L,labevents
+14984824,23803077,2133-06-12 20:53:00,Lab Result,"Creatine Kinase, MB Isoenzyme| Blood",7.0,ng/mL,labevents
+14984824,23803077,2133-06-12 20:53:00,Lab Result,Creatine Kinase (CK)| Blood,109.0,IU/L,labevents
+14984824,23803077,2133-06-12 20:53:00,Lab Result,Potassium| Blood,4.0,mEq/L,labevents
+14984824,23803077,2133-06-12 20:53:00,Lab Result,Magnesium| Blood,1.9,mg/dL,labevents
+14984824,23803077,2133-06-12 20:53:00,Lab Result,Glucose| Blood,228.0,mg/dL,labevents
+14984824,23803077,2133-06-12 20:53:00,Lab Result,Phosphate| Blood,3.8,mg/dL,labevents
+14984824,23803077,2133-06-12 20:53:00,Lab Result,Urea Nitrogen| Blood,15.0,mg/dL,labevents
+14984824,23803077,2133-06-12 20:53:00,Lab Result,Troponin T| Blood,0.06,ng/mL,labevents
+14984824,23803077,2133-06-12 20:53:00,Lab Result,PTT| Blood,21.1,sec,labevents
+14984824,23803077,2133-06-12 20:53:00,Lab Result,PT| Blood,12.4,sec,labevents
+14984824,23803077,2133-06-12 20:53:00,Lab Result,INR(PT)| Blood,1.0,,labevents
+14984824,23803077,2133-06-12 20:53:00,Lab Result,White Blood Cells| Blood,21.0,K/uL,labevents
+14984824,23803077,2133-06-12 20:53:00,Lab Result,Red Blood Cells| Blood,3.54,m/uL,labevents
+14984824,23803077,2133-06-12 20:53:00,Lab Result,RDW| Blood,14.8,%,labevents
+14984824,23803077,2133-06-12 20:53:00,Lab Result,Platelet Count| Blood,271.0,K/uL,labevents
+14984824,23803077,2133-06-12 20:53:00,Lab Result,MCV| Blood,96.0,fL,labevents
+14984824,23803077,2133-06-12 20:53:00,Lab Result,MCHC| Blood,33.2,%,labevents
+14984824,23803077,2133-06-12 20:53:00,Lab Result,MCH| Blood,31.7,pg,labevents
+14984824,23803077,2133-06-12 20:53:00,Lab Result,Hemoglobin| Blood,11.2,g/dL,labevents
+14984824,23803077,2133-06-12 20:53:00,Lab Result,Hematocrit| Blood,33.8,%,labevents
+14984824,23803077,2133-06-12 20:53:00,Lab Result,Chloride| Blood,101.0,mEq/L,labevents
+14984824,23803077,2133-06-12 20:53:00,Lab Result,Anion Gap| Blood,13.0,mEq/L,labevents
+14984824,23803077,2133-06-12 20:53:00,Lab Result,Bicarbonate| Blood,32.0,mEq/L,labevents
+14984824,23803077,2133-06-12 20:53:00,Lab Result,"Calcium, Total| Blood",8.1,mg/dL,labevents
+14984824,23803077,2133-06-12 20:54:00,Input,Water,4.121863752603531,ml,ingredientevents
+14984824,23803077,2133-06-12 20:54:00,Input,IVF ingredient,4.121863752603531,ml,ingredientevents
+14984824,23803077,2133-06-12 20:54:00,Input,Phenylephrine,0.9892473390209487,mg,inputevents
+14984824,23803077,2133-06-12 20:54:00,Input,NaCl 0.9%,4.121863752603531,ml,inputevents
+14984824,23803077,2133-06-12 21:00:00,Prescription,Propofol,1000,mg,prescriptions
+14984824,23803077,2133-06-12 21:00:00,Input,Calories,1.4190549552440643,Kcal,ingredientevents
+14984824,23803077,2133-06-12 21:00:00,Input,Water,1.2900501787662506,ml,ingredientevents
+14984824,23803077,2133-06-12 21:00:00,Prescription,LR,1000,mL,prescriptions
+14984824,23803077,2133-06-12 21:00:00,Input,IVF ingredient,1.2900501787662506,ml,ingredientevents
+14984824,23803077,2133-06-12 21:00:00,Input,Solution,1.2900501787662506,ml,inputevents
+14984824,23803077,2133-06-12 21:00:00,Pharmacy,Propofol,,NaN,pharmacy
+14984824,23803077,2133-06-12 21:00:00,Pharmacy,Fentanyl Citrate,,NaN,pharmacy
+14984824,23803077,2133-06-12 21:00:00,Pharmacy,Phenylephrine,,NaN,pharmacy
+14984824,23803077,2133-06-12 21:00:00,Pharmacy,Famotidine,,NaN,pharmacy
+14984824,23803077,2133-06-12 21:00:00,Pharmacy,Propofol,,NaN,pharmacy
+14984824,23803077,2133-06-12 21:00:00,Pharmacy,Sodium Chloride 0.9%  Flush,,NaN,pharmacy
+14984824,23803077,2133-06-12 21:00:00,Pharmacy,,,NaN,pharmacy
+14984824,23803077,2133-06-12 21:00:00,Prescription,Sodium Chloride 0.9%  Flush,3,mL,prescriptions
+14984824,23803077,2133-06-12 21:00:00,Prescription,Famotidine,20,mg,prescriptions
+14984824,23803077,2133-06-12 21:00:00,Prescription,Phenylephrine,60,mg,prescriptions
+14984824,23803077,2133-06-12 21:00:00,Prescription,5% Dextrose,250,mL,prescriptions
+14984824,23803077,2133-06-12 21:00:00,Prescription,Fentanyl Citrate,2.5,mg,prescriptions
+14984824,23803077,2133-06-12 21:00:00,Prescription,Soln,50,mL,prescriptions
+14984824,23803077,2133-06-12 21:00:00,Input,Propofol,12.900500558316708,mg,inputevents
+14984824,23803077,2133-06-12 21:00:00,Prescription,Propofol,200,mg,prescriptions
+14984824,23803077,2133-06-12 21:00:00,Prescription,Iso-Osmotic Sodium Chloride,50,mL,prescriptions
+14984824,23803077,2133-06-12 21:01:00,Lab Result,Base Excess| Blood,7.0,mEq/L,labevents
+14984824,23803077,2133-06-12 21:01:00,Lab Result,pCO2| Blood,50.0,mm Hg,labevents
+14984824,23803077,2133-06-12 21:01:00,Lab Result,pH| Blood,7.43,units,labevents
+14984824,23803077,2133-06-12 21:01:00,Lab Result,pO2| Blood,68.0,mm Hg,labevents
+14984824,23803077,2133-06-12 21:01:00,Lab Result,Specimen Type| Blood,,,labevents
+14984824,23803077,2133-06-12 21:01:00,Lab Result,Calculated Total CO2| Blood,34.0,mEq/L,labevents
+14984824,23803077,2133-06-12 21:11:00,Input,IVF ingredient,44.9999989271164,ml,ingredientevents
+14984824,23803077,2133-06-12 21:11:00,Input,LR,44.9999989271164,ml,inputevents
+14984824,23803077,2133-06-12 21:11:00,Input,Water,44.9999989271164,ml,ingredientevents
+14984824,23803077,2133-06-12 21:12:00,Input,Solution,2.063586115837097,ml,inputevents
+14984824,23803077,2133-06-12 21:12:00,Input,Propofol,20.63585864380002,mg,inputevents
+14984824,23803077,2133-06-12 21:12:00,Input,Water,2.063586115837097,ml,ingredientevents
+14984824,23803077,2133-06-12 21:12:00,Input,Calories,2.269944190979004,Kcal,ingredientevents
+14984824,23803077,2133-06-12 21:12:00,Input,IVF ingredient,2.063586115837097,ml,ingredientevents
+14984824,23803077,2133-06-12 21:13:00,Output,Foley,200.0,ml,outputevents
+14984824,23803077,2133-06-12 21:17:00,Input,NaCl 0.9%,0.6452591121196747,ml,inputevents
+14984824,23803077,2133-06-12 21:17:00,Input,Water,0.6452591121196747,ml,ingredientevents
+14984824,23803077,2133-06-12 21:17:00,Input,IVF ingredient,0.6452591121196747,ml,ingredientevents
+14984824,23803077,2133-06-12 21:17:00,Input,Phenylephrine,0.154862198542105,mg,inputevents
+14984824,23803077,2133-06-12 21:20:00,Input,Phenylephrine,14.702965425385628,mg,inputevents
+14984824,23803077,2133-06-12 21:20:00,Input,Water,61.26234886050224,ml,ingredientevents
+14984824,23803077,2133-06-12 21:20:00,Input,IVF ingredient,61.26234886050224,ml,ingredientevents
+14984824,23803077,2133-06-12 21:20:00,Input,NaCl 0.9%,61.26234886050224,ml,inputevents
+14984824,23803077,2133-06-12 21:36:00,Input,Water,18.57227611541748,ml,ingredientevents
+14984824,23803077,2133-06-12 21:36:00,Input,Calories,20.429499864578247,Kcal,ingredientevents
+14984824,23803077,2133-06-12 21:36:00,Input,IVF ingredient,18.57227611541748,ml,ingredientevents
+14984824,23803077,2133-06-12 21:36:00,Input,Propofol,185.7227403670549,mg,inputevents
+14984824,23803077,2133-06-12 21:36:00,Input,Solution,18.57227611541748,ml,inputevents
+14984824,23803077,2133-06-12 21:37:00,Input,Fentanyl,24.99999936844688,mcg,inputevents
+14984824,23803077,2133-06-12 21:46:00,Input,Fentanyl,24.99999936844688,mcg,inputevents
+14984824,23803077,2133-06-12 22:00:00,Prescription,Midazolam,100,mg,prescriptions
+14984824,23803077,2133-06-12 22:00:00,Prescription,0.9% Sodium Chloride,100,mL,prescriptions
+14984824,23803077,2133-06-12 22:00:00,Output,Chest Tube #2,90.0,ml,outputevents
+14984824,23803077,2133-06-12 22:00:00,Output,Chest Tube #1,65.0,ml,outputevents
+14984824,23803077,2133-06-12 22:00:00,Output,Foley,25.0,ml,outputevents
+14984824,23803077,2133-06-12 22:00:00,Pharmacy,Midazolam,,NaN,pharmacy
+14984824,23803077,2133-06-12 22:06:00,Input,Famotidine (Pepcid),1.0,dose,inputevents
+14984824,23803077,2133-06-12 22:06:00,Input,Solution,50.0,ml,inputevents
+14984824,23803077,2133-06-12 22:06:00,Input,Water,50.0,ml,ingredientevents
+14984824,23803077,2133-06-12 22:06:00,Input,IVF ingredient,50.0,ml,ingredientevents
+14984824,23803077,2133-06-12 22:20:00,Input,Fentanyl,0.1458333429127378,mg,inputevents
+14984824,23803077,2133-06-12 22:20:00,Input,Dextrose 5%,14.583333767950537,ml,inputevents
+14984824,23803077,2133-06-12 22:20:00,Input,Water,14.583333767950537,ml,ingredientevents
+14984824,23803077,2133-06-12 22:20:00,Input,Calories,2.479166747070849,Kcal,ingredientevents
+14984824,23803077,2133-06-12 22:20:00,Input,IVF ingredient,14.583333767950537,ml,ingredientevents
+14984824,23803077,2133-06-12 22:25:00,Input,Water,954.9999466538428,ml,ingredientevents
+14984824,23803077,2133-06-12 22:25:00,Input,LR,954.9999466538428,ml,inputevents
+14984824,23803077,2133-06-12 22:25:00,Input,IVF ingredient,954.9999466538428,ml,ingredientevents
+14984824,23803077,2133-06-12 22:40:00,Input,LR,250.0,ml,inputevents
+14984824,23803077,2133-06-12 22:40:00,Input,Water,250.0,ml,ingredientevents
+14984824,23803077,2133-06-12 22:40:00,Input,IVF ingredient,250.0,ml,ingredientevents
+14984824,23803077,2133-06-12 23:00:00,Prescription,Insulin,0,UNIT,prescriptions
+14984824,23803077,2133-06-12 23:00:00,Pharmacy,Insulin,,NaN,pharmacy
+14984824,23803077,2133-06-12 23:11:00,Input,LR,250.0,ml,inputevents
+14984824,23803077,2133-06-12 23:11:00,Input,Water,250.0,ml,ingredientevents
+14984824,23803077,2133-06-12 23:11:00,Input,IVF ingredient,250.0,ml,ingredientevents
+14984824,23803077,2133-06-12 23:30:00,Input,Oral/Gastric Ingredient,30.0,ml,ingredientevents
+14984824,23803077,2133-06-12 23:30:00,Input,Water,30.0,ml,ingredientevents
+14984824,23803077,2133-06-12 23:30:00,Input,Water,30.0,ml,ingredientevents
+14984824,23803077,2133-06-12 23:30:00,Input,Oral/Gastric Ingredient,30.0,ml,ingredientevents
+14984824,23803077,2133-06-12 23:30:00,Input,GT Flush,30.0,ml,inputevents
+14984824,23803077,2133-06-12 23:30:00,Input,Gastric Meds,30.0,ml,inputevents
+14984824,23803077,2133-06-13 00:00:00,DateTime Obs,Arterial line Tubing Change,2133-06-12 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-13 00:00:00,DateTime Obs,Arterial line Insertion Date,2133-06-12 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-13 00:00:00,DateTime Obs,Arterial Line Dressing Change,2133-06-12 20:09:00,Date and Time,datetimeevents
+14984824,23803077,2133-06-13 00:00:00,Input,IVF ingredient,0.0799999982118606,ml,ingredientevents
+14984824,23803077,2133-06-13 00:00:00,DateTime Obs,Arterial line Change over Wire Date,2133-06-12 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-13 00:00:00,DateTime Obs,Arterial line Cap Change,2133-06-12 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-13 00:00:00,Pharmacy,Fentanyl Citrate,,NaN,pharmacy
+14984824,23803077,2133-06-13 00:00:00,Output,Foley,60.0,ml,outputevents
+14984824,23803077,2133-06-13 00:00:00,Prescription,Fentanyl Citrate,50,mcg,prescriptions
+14984824,23803077,2133-06-13 00:00:00,Input,Water,0.0799999982118606,ml,ingredientevents
+14984824,23803077,2133-06-13 00:00:00,Input,NaCl 0.9%,0.0799999982118606,ml,inputevents
+14984824,23803077,2133-06-13 00:00:00,Input,Midazolam (Versed),0.0800000052549876,mg,inputevents
+14984824,23803077,2133-06-13 00:04:00,Input,IVF ingredient,12.402481704950333,ml,ingredientevents
+14984824,23803077,2133-06-13 00:04:00,Input,Water,12.402481704950333,ml,ingredientevents
+14984824,23803077,2133-06-13 00:04:00,Input,NaCl 0.9%,12.402481704950333,ml,inputevents
+14984824,23803077,2133-06-13 00:04:00,Input,Midazolam (Versed),12.402482592733575,mg,inputevents
+14984824,23803077,2133-06-13 00:11:00,Input,IVF ingredient,17.47588050365448,ml,ingredientevents
+14984824,23803077,2133-06-13 00:11:00,Input,NaCl 0.9%,17.47588050365448,ml,inputevents
+14984824,23803077,2133-06-13 00:11:00,Input,Phenylephrine,4.194211564026773,mg,inputevents
+14984824,23803077,2133-06-13 00:11:00,Input,Fentanyl,24.99999936844688,mcg,inputevents
+14984824,23803077,2133-06-13 00:11:00,Input,Water,17.47588050365448,ml,ingredientevents
+14984824,23803077,2133-06-13 01:00:00,DateTime Obs,Arterial line Tubing Change,2133-06-12 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-13 01:00:00,Pharmacy,,,NaN,pharmacy
+14984824,23803077,2133-06-13 01:00:00,Prescription,LR,1000,mL,prescriptions
+14984824,23803077,2133-06-13 01:00:00,DateTime Obs,Arterial line Change over Wire Date,2133-06-13 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-13 01:00:00,DateTime Obs,Arterial line Insertion Date,2133-06-12 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-13 01:00:00,DateTime Obs,Arterial Line Dressing Change,2133-06-13 01:00:00,Date and Time,datetimeevents
+14984824,23803077,2133-06-13 01:00:00,DateTime Obs,Arterial line Cap Change,2133-06-12 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-13 01:01:00,Output,Foley,25.0,ml,outputevents
+14984824,23803077,2133-06-13 01:12:00,Input,NaCl 0.9%,2.146960020065308,ml,inputevents
+14984824,23803077,2133-06-13 01:12:00,Input,Water,2.146960020065308,ml,ingredientevents
+14984824,23803077,2133-06-13 01:12:00,Input,Phenylephrine,0.5152704543434083,mg,inputevents
+14984824,23803077,2133-06-13 01:12:00,Input,IVF ingredient,2.146960020065308,ml,ingredientevents
+14984824,23803077,2133-06-13 01:20:00,Input,IVF ingredient,3.541256457567215,ml,ingredientevents
+14984824,23803077,2133-06-13 01:20:00,Input,Water,3.541256457567215,ml,ingredientevents
+14984824,23803077,2133-06-13 01:20:00,Input,Phenylephrine,0.8499016548739746,mg,inputevents
+14984824,23803077,2133-06-13 01:20:00,Input,NaCl 0.9%,3.541256457567215,ml,inputevents
+14984824,23803077,2133-06-13 01:31:00,Input,IVF ingredient,21.46215856075287,ml,ingredientevents
+14984824,23803077,2133-06-13 01:31:00,Input,Water,21.46215856075287,ml,ingredientevents
+14984824,23803077,2133-06-13 01:31:00,Input,Phenylephrine,5.150918732397258,mg,inputevents
+14984824,23803077,2133-06-13 01:31:00,Input,NaCl 0.9%,21.46215856075287,ml,inputevents
+14984824,23803077,2133-06-13 02:00:00,Pharmacy,Hydrocortisone Na Succ.,,NaN,pharmacy
+14984824,23803077,2133-06-13 02:00:00,Prescription,Hydrocortisone Na Succ.,80,mg,prescriptions
+14984824,23803077,2133-06-13 02:11:00,Lab Result,RDW| Blood,15.1,%,labevents
+14984824,23803077,2133-06-13 02:11:00,Lab Result,Red Blood Cells| Blood,3.31,m/uL,labevents
+14984824,23803077,2133-06-13 02:11:00,Lab Result,MCH| Blood,30.1,pg,labevents
+14984824,23803077,2133-06-13 02:11:00,Lab Result,MCHC| Blood,31.8,%,labevents
+14984824,23803077,2133-06-13 02:11:00,Lab Result,MCV| Blood,95.0,fL,labevents
+14984824,23803077,2133-06-13 02:11:00,Lab Result,Platelet Count| Blood,214.0,K/uL,labevents
+14984824,23803077,2133-06-13 02:11:00,Lab Result,PTT| Blood,21.0,sec,labevents
+14984824,23803077,2133-06-13 02:11:00,Lab Result,White Blood Cells| Blood,15.6,K/uL,labevents
+14984824,23803077,2133-06-13 02:11:00,Lab Result,PT| Blood,13.0,sec,labevents
+14984824,23803077,2133-06-13 02:11:00,Lab Result,INR(PT)| Blood,1.1,,labevents
+14984824,23803077,2133-06-13 02:11:00,Lab Result,Urea Nitrogen| Blood,14.0,mg/dL,labevents
+14984824,23803077,2133-06-13 02:11:00,Lab Result,Sodium| Blood,142.0,mEq/L,labevents
+14984824,23803077,2133-06-13 02:11:00,Lab Result,Hemoglobin| Blood,10.0,g/dL,labevents
+14984824,23803077,2133-06-13 02:11:00,Lab Result,Potassium| Blood,3.9,mEq/L,labevents
+14984824,23803077,2133-06-13 02:11:00,Lab Result,Phosphate| Blood,3.0,mg/dL,labevents
+14984824,23803077,2133-06-13 02:11:00,Lab Result,Magnesium| Blood,1.8,mg/dL,labevents
+14984824,23803077,2133-06-13 02:11:00,Lab Result,Hematocrit| Blood,31.3,%,labevents
+14984824,23803077,2133-06-13 02:11:00,Lab Result,Creatinine| Blood,0.5,mg/dL,labevents
+14984824,23803077,2133-06-13 02:11:00,Lab Result,Chloride| Blood,104.0,mEq/L,labevents
+14984824,23803077,2133-06-13 02:11:00,Lab Result,"Calcium, Total| Blood",7.7,mg/dL,labevents
+14984824,23803077,2133-06-13 02:11:00,Lab Result,Bicarbonate| Blood,30.0,mEq/L,labevents
+14984824,23803077,2133-06-13 02:11:00,Lab Result,Anion Gap| Blood,12.0,mEq/L,labevents
+14984824,23803077,2133-06-13 02:11:00,Lab Result,Glucose| Blood,102.0,mg/dL,labevents
+14984824,23803077,2133-06-13 02:31:00,Input,NaCl 0.9%,39.740763902664185,ml,inputevents
+14984824,23803077,2133-06-13 02:31:00,Input,Water,39.740763902664185,ml,ingredientevents
+14984824,23803077,2133-06-13 02:31:00,Input,IVF ingredient,39.740763902664185,ml,ingredientevents
+14984824,23803077,2133-06-13 02:31:00,Input,Phenylephrine,9.537784666463269,mg,inputevents
+14984824,23803077,2133-06-13 02:40:00,Lab Result,Base Excess| Blood,11.0,mEq/L,labevents
+14984824,23803077,2133-06-13 02:40:00,Lab Result,Calculated Total CO2| Blood,36.0,mEq/L,labevents
+14984824,23803077,2133-06-13 02:40:00,Lab Result,pCO2| Blood,43.0,mm Hg,labevents
+14984824,23803077,2133-06-13 02:40:00,Lab Result,pH| Blood,7.52,units,labevents
+14984824,23803077,2133-06-13 02:40:00,Lab Result,Specimen Type| Blood,,,labevents
+14984824,23803077,2133-06-13 02:40:00,Lab Result,pO2| Blood,96.0,mm Hg,labevents
+14984824,23803077,2133-06-13 03:00:00,Output,Foley,32.0,ml,outputevents
+14984824,23803077,2133-06-13 04:10:00,Output,Foley,16.0,ml,outputevents
+14984824,23803077,2133-06-13 04:12:00,Input,Water,0.2167100459337234,ml,ingredientevents
+14984824,23803077,2133-06-13 04:12:00,Input,IVF ingredient,0.2167100459337234,ml,ingredientevents
+14984824,23803077,2133-06-13 04:12:00,Input,IVF ingredient,6.436092495918274,ml,ingredientevents
+14984824,23803077,2133-06-13 04:12:00,Input,Midazolam (Versed),0.2167100610677153,mg,inputevents
+14984824,23803077,2133-06-13 04:12:00,Input,NaCl 0.9%,0.2167100459337234,ml,inputevents
+14984824,23803077,2133-06-13 04:12:00,Input,Phenylephrine,1.5446624311152846,mg,inputevents
+14984824,23803077,2133-06-13 04:12:00,Input,NaCl 0.9%,6.436092495918274,ml,inputevents
+14984824,23803077,2133-06-13 04:12:00,Input,Water,6.436092495918274,ml,ingredientevents
+14984824,23803077,2133-06-13 04:18:00,Output,Chest Tube #1,100.0,ml,outputevents
+14984824,23803077,2133-06-13 04:18:00,Output,Chest Tube #2,90.0,ml,outputevents
+14984824,23803077,2133-06-13 04:30:00,Input,Water,0.9654139280319214,ml,ingredientevents
+14984824,23803077,2133-06-13 04:30:00,Input,IVF ingredient,0.9654139280319214,ml,ingredientevents
+14984824,23803077,2133-06-13 04:30:00,Input,Phenylephrine,0.2316993777640164,mg,inputevents
+14984824,23803077,2133-06-13 04:30:00,Input,NaCl 0.9%,0.9654139280319214,ml,inputevents
+14984824,23803077,2133-06-13 04:33:00,Input,NaCl 0.9%,2.3221366554498672,ml,inputevents
+14984824,23803077,2133-06-13 04:33:00,Input,Water,2.3221366554498672,ml,ingredientevents
+14984824,23803077,2133-06-13 04:33:00,Input,IVF ingredient,2.3221366554498672,ml,ingredientevents
+14984824,23803077,2133-06-13 04:33:00,Input,Phenylephrine,0.5573128910327796,mg,inputevents
+14984824,23803077,2133-06-13 04:46:00,Input,Water,16.505033761262894,ml,ingredientevents
+14984824,23803077,2133-06-13 04:46:00,Input,NaCl 0.9%,16.505033761262894,ml,inputevents
+14984824,23803077,2133-06-13 04:46:00,Input,Phenylephrine,3.961208996770438,mg,inputevents
+14984824,23803077,2133-06-13 04:46:00,Input,IVF ingredient,16.505033761262894,ml,ingredientevents
+14984824,23803077,2133-06-13 05:00:00,Output,Foley,28.0,ml,outputevents
+14984824,23803077,2133-06-13 05:08:00,Input,Midazolam (Versed),0.1916666687975521,mg,inputevents
+14984824,23803077,2133-06-13 05:08:00,Input,Water,0.1916666766628623,ml,ingredientevents
+14984824,23803077,2133-06-13 05:08:00,Input,IVF ingredient,0.1916666766628623,ml,ingredientevents
+14984824,23803077,2133-06-13 05:08:00,Input,NaCl 0.9%,0.1916666766628623,ml,inputevents
+14984824,23803077,2133-06-13 05:28:00,Input,LR,250.0,ml,inputevents
+14984824,23803077,2133-06-13 05:28:00,Input,IVF ingredient,250.0,ml,ingredientevents
+14984824,23803077,2133-06-13 05:28:00,Input,Water,250.0,ml,ingredientevents
+14984824,23803077,2133-06-13 05:31:00,Input,IVF ingredient,1.133428007364273,ml,ingredientevents
+14984824,23803077,2133-06-13 05:31:00,Input,NaCl 0.9%,1.133428007364273,ml,inputevents
+14984824,23803077,2133-06-13 05:31:00,Input,Midazolam (Versed),1.133427969762124,mg,inputevents
+14984824,23803077,2133-06-13 05:31:00,Input,Water,1.133428007364273,ml,ingredientevents
+14984824,23803077,2133-06-13 05:58:00,Input,Calories,0.3045833432115614,Kcal,ingredientevents
+14984824,23803077,2133-06-13 05:58:00,Input,Water,1.7916667200624945,ml,ingredientevents
+14984824,23803077,2133-06-13 05:58:00,Input,Fentanyl,0.0179166678435649,mg,inputevents
+14984824,23803077,2133-06-13 05:58:00,Input,IVF ingredient,1.7916667200624945,ml,ingredientevents
+14984824,23803077,2133-06-13 05:58:00,Input,Dextrose 5%,1.7916667200624945,ml,inputevents
+14984824,23803077,2133-06-13 06:00:00,Pharmacy,,,NaN,pharmacy
+14984824,23803077,2133-06-13 06:00:00,Prescription,LR,500,mL,prescriptions
+14984824,23803077,2133-06-13 06:00:00,Output,Foley,60.0,ml,outputevents
+14984824,23803077,2133-06-13 06:03:00,Input,IVF ingredient,3.0059584379196167,ml,ingredientevents
+14984824,23803077,2133-06-13 06:03:00,Input,Phenylephrine,0.7214301876956597,mg,inputevents
+14984824,23803077,2133-06-13 06:03:00,Input,NaCl 0.9%,3.0059584379196167,ml,inputevents
+14984824,23803077,2133-06-13 06:03:00,Input,Water,3.0059584379196167,ml,ingredientevents
+14984824,23803077,2133-06-13 06:05:00,Input,Fentanyl,24.99999936844688,mcg,inputevents
+14984824,23803077,2133-06-13 06:06:00,Input,Oral/Gastric Ingredient,30.0,ml,ingredientevents
+14984824,23803077,2133-06-13 06:06:00,Input,Water,30.0,ml,ingredientevents
+14984824,23803077,2133-06-13 06:06:00,Input,Water,30.0,ml,ingredientevents
+14984824,23803077,2133-06-13 06:06:00,Input,Oral/Gastric Ingredient,30.0,ml,ingredientevents
+14984824,23803077,2133-06-13 06:06:00,Input,Gastric Meds,30.0,ml,inputevents
+14984824,23803077,2133-06-13 06:06:00,Input,GT Flush,30.0,ml,inputevents
+14984824,23803077,2133-06-13 06:15:00,Input,IVF ingredient,5.5923576056957245,ml,ingredientevents
+14984824,23803077,2133-06-13 06:15:00,Input,Water,5.5923576056957245,ml,ingredientevents
+14984824,23803077,2133-06-13 06:15:00,Input,NaCl 0.9%,5.5923576056957245,ml,inputevents
+14984824,23803077,2133-06-13 06:15:00,Input,Phenylephrine,1.3421661060419865,mg,inputevents
+14984824,23803077,2133-06-13 06:39:00,Input,NaCl 0.9%,1.0752688646316528,ml,inputevents
+14984824,23803077,2133-06-13 06:39:00,Input,Water,1.0752688646316528,ml,ingredientevents
+14984824,23803077,2133-06-13 06:39:00,Input,Phenylephrine,0.2580645377747714,mg,inputevents
+14984824,23803077,2133-06-13 06:39:00,Input,IVF ingredient,1.0752688646316528,ml,ingredientevents
+14984824,23803077,2133-06-13 06:41:00,Input,Water,4.3029338121414185,ml,ingredientevents
+14984824,23803077,2133-06-13 06:41:00,Input,IVF ingredient,4.3029338121414185,ml,ingredientevents
+14984824,23803077,2133-06-13 06:41:00,Input,Phenylephrine,1.0327041673008353,mg,inputevents
+14984824,23803077,2133-06-13 06:41:00,Input,NaCl 0.9%,4.3029338121414185,ml,inputevents
+14984824,23803077,2133-06-13 06:56:00,Input,Water,250.0,ml,ingredientevents
+14984824,23803077,2133-06-13 06:56:00,Input,IVF ingredient,250.0,ml,ingredientevents
+14984824,23803077,2133-06-13 06:56:00,Input,LR,250.0,ml,inputevents
+14984824,23803077,2133-06-13 07:01:00,Input,NaCl 0.9%,9.32575696706772,ml,inputevents
+14984824,23803077,2133-06-13 07:01:00,Input,Water,9.32575696706772,ml,ingredientevents
+14984824,23803077,2133-06-13 07:01:00,Input,IVF ingredient,9.32575696706772,ml,ingredientevents
+14984824,23803077,2133-06-13 07:01:00,Input,Phenylephrine,2.23818194353953,mg,inputevents
+14984824,23803077,2133-06-13 07:37:00,Input,Solution,50.0,ml,inputevents
+14984824,23803077,2133-06-13 07:37:00,Input,IVF ingredient,50.0,ml,ingredientevents
+14984824,23803077,2133-06-13 07:37:00,Input,Water,50.0,ml,ingredientevents
+14984824,23803077,2133-06-13 07:37:00,Input,Famotidine (Pepcid),1.0,dose,inputevents
+14984824,23803077,2133-06-13 07:53:00,Input,IVF ingredient,4.878088057041168,ml,ingredientevents
+14984824,23803077,2133-06-13 07:53:00,Input,NaCl 0.9%,4.878088057041168,ml,inputevents
+14984824,23803077,2133-06-13 07:53:00,Input,Water,4.878088057041168,ml,ingredientevents
+14984824,23803077,2133-06-13 07:53:00,Input,Phenylephrine,1.170741299574729,mg,inputevents
+14984824,23803077,2133-06-13 07:54:00,Input,GT Flush,30.0,ml,inputevents
+14984824,23803077,2133-06-13 07:54:00,Input,Oral/Gastric Ingredient,30.0,ml,ingredientevents
+14984824,23803077,2133-06-13 07:54:00,Input,Water,30.0,ml,ingredientevents
+14984824,23803077,2133-06-13 07:54:00,Input,Water,30.0,ml,ingredientevents
+14984824,23803077,2133-06-13 07:54:00,Input,Gastric Meds,30.0,ml,inputevents
+14984824,23803077,2133-06-13 07:54:00,Input,Oral/Gastric Ingredient,30.0,ml,ingredientevents
+14984824,23803077,2133-06-13 08:00:00,Pharmacy,Chlorhexidine Gluconate 0.12% Oral Rinse,,NaN,pharmacy
+14984824,23803077,2133-06-13 08:00:00,Output,Chest Tube #1,0.0,ml,outputevents
+14984824,23803077,2133-06-13 08:00:00,Output,Chest Tube #2,0.0,ml,outputevents
+14984824,23803077,2133-06-13 08:00:00,Prescription,Chlorhexidine Gluconate 0.12% Oral Rinse,15,mL,prescriptions
+14984824,23803077,2133-06-13 08:00:00,Output,Foley,70.0,ml,outputevents
+14984824,23803077,2133-06-13 08:27:00,Input,Insulin - Regular,6.0,units,inputevents
+14984824,23803077,2133-06-13 08:27:00,Input,Phenylephrine,1.394776616507443,mg,inputevents
+14984824,23803077,2133-06-13 08:27:00,Input,NaCl 0.9%,5.811568155884743,ml,inputevents
+14984824,23803077,2133-06-13 08:27:00,Input,IVF ingredient,5.811568155884743,ml,ingredientevents
+14984824,23803077,2133-06-13 08:27:00,Input,Water,5.811568155884743,ml,ingredientevents
+14984824,23803077,2133-06-13 08:32:00,DateTime Obs,Arterial Line Dressing Change,2133-06-13 01:00:00,Date and Time,datetimeevents
+14984824,23803077,2133-06-13 08:32:00,DateTime Obs,Arterial line Cap Change,2133-06-12 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-13 08:32:00,DateTime Obs,Arterial line Change over Wire Date,2133-06-13 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-13 08:32:00,DateTime Obs,Arterial line Insertion Date,2133-06-12 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-13 08:32:00,DateTime Obs,18 Gauge Insertion Date,2133-06-12 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-13 08:32:00,DateTime Obs,Arterial line Tubing Change,2133-06-12 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-13 08:33:00,DateTime Obs,22 Gauge Insertion Date,2133-06-12 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-13 09:00:00,DateTime Obs,Arterial line Tubing Change,2133-06-12 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-13 09:00:00,DateTime Obs,Arterial line Cap Change,2133-06-12 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-13 09:00:00,DateTime Obs,Arterial line Change over Wire Date,2133-06-13 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-13 09:00:00,DateTime Obs,Arterial Line Dressing Change,2133-06-13 01:00:00,Date and Time,datetimeevents
+14984824,23803077,2133-06-13 09:00:00,DateTime Obs,Arterial line Insertion Date,2133-06-12 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-13 09:21:00,Input,Water,22.962946891784668,ml,ingredientevents
+14984824,23803077,2133-06-13 09:21:00,Input,IVF ingredient,22.962946891784668,ml,ingredientevents
+14984824,23803077,2133-06-13 09:21:00,Input,NaCl 0.9%,22.962946891784668,ml,inputevents
+14984824,23803077,2133-06-13 09:21:00,Input,Phenylephrine,5.511108320206404,mg,inputevents
+14984824,23803077,2133-06-13 10:00:00,Pharmacy,Fentanyl Citrate,,NaN,pharmacy
+14984824,23803077,2133-06-13 10:00:00,Prescription,Fentanyl Citrate,25-50,mcg,prescriptions
+14984824,23803077,2133-06-13 10:00:00,Output,Foley,45.0,ml,outputevents
+14984824,23803077,2133-06-13 12:00:00,Output,Foley,35.0,ml,outputevents
+14984824,23803077,2133-06-13 12:00:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+14984824,23803077,2133-06-13 12:01:00,Input,Phenylephrine,13.49738729186356,mg,inputevents
+14984824,23803077,2133-06-13 12:01:00,Input,IVF ingredient,56.239100605249405,ml,ingredientevents
+14984824,23803077,2133-06-13 12:01:00,Input,Water,56.239100605249405,ml,ingredientevents
+14984824,23803077,2133-06-13 12:01:00,Input,NaCl 0.9%,56.239100605249405,ml,inputevents
+14984824,23803077,2133-06-13 12:35:00,DateTime Obs,18 Gauge Insertion Date,2133-06-12 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-13 12:35:00,DateTime Obs,22 Gauge Insertion Date,2133-06-12 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-13 12:40:00,Input,Fentanyl,24.99999936844688,mcg,inputevents
+14984824,23803077,2133-06-13 13:00:00,Input,Fentanyl,24.99999936844688,mcg,inputevents
+14984824,23803077,2133-06-13 14:00:00,Prescription,Heparin,2500,UNIT,prescriptions
+14984824,23803077,2133-06-13 14:00:00,Output,Foley,30.0,ml,outputevents
+14984824,23803077,2133-06-13 14:00:00,Pharmacy,Heparin,,NaN,pharmacy
+14984824,23803077,2133-06-13 15:15:00,Input,Fentanyl,24.99999936844688,mcg,inputevents
+14984824,23803077,2133-06-13 16:00:00,Prescription,Morphine Sulfate,0.5-2,mg,prescriptions
+14984824,23803077,2133-06-13 16:00:00,Output,Chest Tube #2,15.0,ml,outputevents
+14984824,23803077,2133-06-13 16:00:00,Output,Foley,45.0,ml,outputevents
+14984824,23803077,2133-06-13 16:00:00,Pharmacy,Morphine Sulfate,,NaN,pharmacy
+14984824,23803077,2133-06-13 16:00:00,Output,Chest Tube #1,90.0,ml,outputevents
+14984824,23803077,2133-06-13 16:40:00,Input,LR,999.999976158142,ml,inputevents
+14984824,23803077,2133-06-13 16:40:00,Input,Water,999.999976158142,ml,ingredientevents
+14984824,23803077,2133-06-13 16:40:00,Input,IVF ingredient,999.999976158142,ml,ingredientevents
+14984824,23803077,2133-06-13 16:45:00,Input,PO Intake,60.0,ml,inputevents
+14984824,23803077,2133-06-13 16:45:00,Input,Water,60.0,ml,ingredientevents
+14984824,23803077,2133-06-13 16:45:00,Input,Oral/Gastric Ingredient,60.0,ml,ingredientevents
+14984824,23803077,2133-06-13 16:48:00,DateTime Obs,18 Gauge Insertion Date,2133-06-12 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-13 16:49:00,DateTime Obs,22 Gauge Insertion Date,2133-06-12 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-13 17:00:00,Pharmacy,Morphine Sulfate IR,,NaN,pharmacy
+14984824,23803077,2133-06-13 17:00:00,Prescription,Morphine Sulfate IR,15,mg,prescriptions
+14984824,23803077,2133-06-13 17:00:00,Input,Morphine Sulfate,1.0000000474974513,mg,inputevents
+14984824,23803077,2133-06-13 17:15:00,Input,IVF ingredient,24.3583345413208,ml,ingredientevents
+14984824,23803077,2133-06-13 17:15:00,Input,Water,24.3583345413208,ml,ingredientevents
+14984824,23803077,2133-06-13 17:15:00,Input,NaCl 0.9%,24.3583345413208,ml,inputevents
+14984824,23803077,2133-06-13 17:15:00,Input,Phenylephrine,5.846001768077258,mg,inputevents
+14984824,23803077,2133-06-13 18:00:00,Output,Foley,45.0,ml,outputevents
+14984824,23803077,2133-06-13 20:00:00,DateTime Obs,22 Gauge Insertion Date,2133-06-12 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-13 20:00:00,Output,Foley,65.0,ml,outputevents
+14984824,23803077,2133-06-13 20:00:00,DateTime Obs,18 Gauge Insertion Date,2133-06-12 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-13 20:05:00,Input,IVF ingredient,92.5975000411272,ml,ingredientevents
+14984824,23803077,2133-06-13 20:05:00,Input,Water,92.5975000411272,ml,ingredientevents
+14984824,23803077,2133-06-13 20:05:00,Input,Phenylephrine,22.223405190743502,mg,inputevents
+14984824,23803077,2133-06-13 20:05:00,Input,NaCl 0.9%,92.5975000411272,ml,inputevents
+14984824,23803077,2133-06-13 21:00:00,Input,PO Intake,60.0,ml,inputevents
+14984824,23803077,2133-06-13 21:00:00,Input,Water,60.0,ml,ingredientevents
+14984824,23803077,2133-06-13 21:00:00,Input,Oral/Gastric Ingredient,60.0,ml,ingredientevents
+14984824,23803077,2133-06-13 22:00:00,Output,Chest Tube #1,80.0,ml,outputevents
+14984824,23803077,2133-06-13 22:00:00,Output,Foley,30.0,ml,outputevents
+14984824,23803077,2133-06-13 22:00:00,Output,Chest Tube #2,4.0,ml,outputevents
+14984824,23803077,2133-06-13 22:16:00,Input,Morphine Sulfate,1.0000000474974513,mg,inputevents
+14984824,23803077,2133-06-13 23:15:00,Input,LR,249.99999046325684,ml,inputevents
+14984824,23803077,2133-06-13 23:15:00,Input,IVF ingredient,249.99999046325684,ml,ingredientevents
+14984824,23803077,2133-06-13 23:15:00,Input,Water,249.99999046325684,ml,ingredientevents
+14984824,23803077,2133-06-14 00:00:00,Output,Foley,60.0,ml,outputevents
+14984824,23803077,2133-06-14 00:00:00,DateTime Obs,18 Gauge Insertion Date,2133-06-12 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-14 00:00:00,DateTime Obs,22 Gauge Insertion Date,2133-06-12 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-14 02:00:00,Output,Foley,65.0,ml,outputevents
+14984824,23803077,2133-06-14 03:00:00,Output,Foley,22.0,ml,outputevents
+14984824,23803077,2133-06-14 03:00:00,Output,Chest Tube #1,70.0,ml,outputevents
+14984824,23803077,2133-06-14 03:00:00,Output,Chest Tube #2,0.0,ml,outputevents
+14984824,23803077,2133-06-14 03:00:00,Input,Morphine Sulfate,1.0000000474974513,mg,inputevents
+14984824,23803077,2133-06-14 03:54:00,Lab Result,Bicarbonate| Blood,30.0,mEq/L,labevents
+14984824,23803077,2133-06-14 03:54:00,Lab Result,Potassium| Blood,3.8,mEq/L,labevents
+14984824,23803077,2133-06-14 03:54:00,Lab Result,Phosphate| Blood,2.6,mg/dL,labevents
+14984824,23803077,2133-06-14 03:54:00,Lab Result,Magnesium| Blood,1.9,mg/dL,labevents
+14984824,23803077,2133-06-14 03:54:00,Lab Result,Glucose| Blood,83.0,mg/dL,labevents
+14984824,23803077,2133-06-14 03:54:00,Lab Result,Creatinine| Blood,0.5,mg/dL,labevents
+14984824,23803077,2133-06-14 03:54:00,Lab Result,Chloride| Blood,103.0,mEq/L,labevents
+14984824,23803077,2133-06-14 03:54:00,Lab Result,"Calcium, Total| Blood",8.1,mg/dL,labevents
+14984824,23803077,2133-06-14 03:54:00,Lab Result,Urea Nitrogen| Blood,13.0,mg/dL,labevents
+14984824,23803077,2133-06-14 03:54:00,Lab Result,Anion Gap| Blood,13.0,mEq/L,labevents
+14984824,23803077,2133-06-14 03:54:00,Lab Result,White Blood Cells| Blood,11.1,K/uL,labevents
+14984824,23803077,2133-06-14 03:54:00,Lab Result,RDW| Blood,14.8,%,labevents
+14984824,23803077,2133-06-14 03:54:00,Lab Result,Platelet Count| Blood,202.0,K/uL,labevents
+14984824,23803077,2133-06-14 03:54:00,Lab Result,MCV| Blood,101.0,fL,labevents
+14984824,23803077,2133-06-14 03:54:00,Lab Result,MCHC| Blood,31.1,%,labevents
+14984824,23803077,2133-06-14 03:54:00,Lab Result,MCH| Blood,31.4,pg,labevents
+14984824,23803077,2133-06-14 03:54:00,Lab Result,Hemoglobin| Blood,10.1,g/dL,labevents
+14984824,23803077,2133-06-14 03:54:00,Lab Result,Hematocrit| Blood,32.6,%,labevents
+14984824,23803077,2133-06-14 03:54:00,Lab Result,Red Blood Cells| Blood,3.23,m/uL,labevents
+14984824,23803077,2133-06-14 03:54:00,Lab Result,Sodium| Blood,142.0,mEq/L,labevents
+14984824,23803077,2133-06-14 04:00:00,Input,Oral/Gastric Ingredient,60.0,ml,ingredientevents
+14984824,23803077,2133-06-14 04:00:00,Output,Foley,22.0,ml,outputevents
+14984824,23803077,2133-06-14 04:00:00,Input,PO Intake,60.0,ml,inputevents
+14984824,23803077,2133-06-14 04:00:00,Input,Water,60.0,ml,ingredientevents
+14984824,23803077,2133-06-14 04:41:00,DateTime Obs,22 Gauge Insertion Date,2133-06-12 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-14 04:41:00,DateTime Obs,18 Gauge Insertion Date,2133-06-12 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-14 04:42:00,Input,Water,7.155215740203857,ml,ingredientevents
+14984824,23803077,2133-06-14 04:42:00,Input,IVF ingredient,7.155215740203857,ml,ingredientevents
+14984824,23803077,2133-06-14 04:42:00,Input,Phenylephrine,1.7172522348118946,mg,inputevents
+14984824,23803077,2133-06-14 04:42:00,Input,NaCl 0.9%,7.155215740203857,ml,inputevents
+14984824,23803077,2133-06-14 05:00:00,Output,Foley,5.0,ml,outputevents
+14984824,23803077,2133-06-14 05:32:00,Input,Water,20.791662335395813,ml,ingredientevents
+14984824,23803077,2133-06-14 05:32:00,Input,IVF ingredient,20.791662335395813,ml,ingredientevents
+14984824,23803077,2133-06-14 05:32:00,Input,LR,249.99999046325684,ml,inputevents
+14984824,23803077,2133-06-14 05:32:00,Input,Phenylephrine,4.990000306861475,mg,inputevents
+14984824,23803077,2133-06-14 05:32:00,Input,NaCl 0.9%,20.791662335395813,ml,inputevents
+14984824,23803077,2133-06-14 05:32:00,Input,IVF ingredient,249.99999046325684,ml,ingredientevents
+14984824,23803077,2133-06-14 05:32:00,Input,Water,249.99999046325684,ml,ingredientevents
+14984824,23803077,2133-06-14 06:00:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14984824,23803077,2133-06-14 06:00:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14984824,23803077,2133-06-14 06:00:00,Input,Morphine Sulfate,1.0000000474974513,mg,inputevents
+14984824,23803077,2133-06-14 06:00:00,Output,Foley,50.0,ml,outputevents
+14984824,23803077,2133-06-14 07:28:00,Input,IVF ingredient,62.35500687360764,ml,ingredientevents
+14984824,23803077,2133-06-14 07:28:00,Input,Water,62.35500687360764,ml,ingredientevents
+14984824,23803077,2133-06-14 07:28:00,Input,NaCl 0.9%,62.35500687360764,ml,inputevents
+14984824,23803077,2133-06-14 07:28:00,Input,Phenylephrine,14.965205249609426,mg,inputevents
+14984824,23803077,2133-06-14 08:00:00,Output,Chest Tube #1,100.0,ml,outputevents
+14984824,23803077,2133-06-14 08:00:00,Output,Foley,65.0,ml,outputevents
+14984824,23803077,2133-06-14 08:00:00,Output,Chest Tube #2,0.0,ml,outputevents
+14984824,23803077,2133-06-14 08:21:00,Input,Water,50.0,ml,ingredientevents
+14984824,23803077,2133-06-14 08:21:00,Input,IVF ingredient,50.0,ml,ingredientevents
+14984824,23803077,2133-06-14 08:21:00,Input,Famotidine (Pepcid),1.0,dose,inputevents
+14984824,23803077,2133-06-14 08:21:00,Input,Solution,50.0,ml,inputevents
+14984824,23803077,2133-06-14 08:51:00,DateTime Obs,22 Gauge Insertion Date,2133-06-12 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-14 08:51:00,DateTime Obs,18 Gauge Insertion Date,2133-06-12 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-14 10:00:00,Output,Foley,95.0,ml,outputevents
+14984824,23803077,2133-06-14 10:11:00,Procedure,Transthoracic Echo,1.0,,procedureevents
+14984824,23803077,2133-06-14 10:11:00,Procedure,Transthoracic Echo,1.0,,procedureevents
+14984824,23803077,2133-06-14 12:00:00,Output,Foley,80.0,ml,outputevents
+14984824,23803077,2133-06-14 12:40:00,Input,IVF ingredient,12.499999701976776,ml,ingredientevents
+14984824,23803077,2133-06-14 12:40:00,Input,Water,12.499999701976776,ml,ingredientevents
+14984824,23803077,2133-06-14 12:40:00,Input,LR,12.499999701976776,ml,inputevents
+14984824,23803077,2133-06-14 12:51:00,Input,LR,249.99999046325684,ml,inputevents
+14984824,23803077,2133-06-14 12:51:00,Input,IVF ingredient,249.99999046325684,ml,ingredientevents
+14984824,23803077,2133-06-14 12:51:00,Input,Water,249.99999046325684,ml,ingredientevents
+14984824,23803077,2133-06-14 12:53:00,Input,LR,249.99999046325684,ml,inputevents
+14984824,23803077,2133-06-14 12:53:00,Input,IVF ingredient,249.99999046325684,ml,ingredientevents
+14984824,23803077,2133-06-14 12:53:00,Input,Water,249.99999046325684,ml,ingredientevents
+14984824,23803077,2133-06-14 12:55:00,Input,Water,605.8333188891411,ml,ingredientevents
+14984824,23803077,2133-06-14 12:55:00,Input,IVF ingredient,605.8333188891411,ml,ingredientevents
+14984824,23803077,2133-06-14 12:55:00,Input,LR,605.8333188891411,ml,inputevents
+14984824,23803077,2133-06-14 13:00:00,Prescription,LR,500,mL,prescriptions
+14984824,23803077,2133-06-14 13:00:00,Output,Foley,35.0,ml,outputevents
+14984824,23803077,2133-06-14 13:00:00,Output,Chest Tube #1,90.0,ml,outputevents
+14984824,23803077,2133-06-14 13:00:00,Output,Chest Tube #2,0.0,ml,outputevents
+14984824,23803077,2133-06-14 13:00:00,Prescription,Metoprolol Tartrate,2.5,mg,prescriptions
+14984824,23803077,2133-06-14 13:00:00,Pharmacy,Metoprolol Tartrate,,NaN,pharmacy
+14984824,23803077,2133-06-14 13:00:00,Pharmacy,,,NaN,pharmacy
+14984824,23803077,2133-06-14 13:16:00,Input,Water,21.415766805410385,ml,ingredientevents
+14984824,23803077,2133-06-14 13:16:00,Input,IVF ingredient,21.415766805410385,ml,ingredientevents
+14984824,23803077,2133-06-14 13:16:00,Input,NaCl 0.9%,21.415766805410385,ml,inputevents
+14984824,23803077,2133-06-14 13:16:00,Input,Phenylephrine,5.139785522260354,mg,inputevents
+14984824,23803077,2133-06-14 13:28:00,DateTime Obs,22 Gauge Insertion Date,2133-06-12 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-14 13:28:00,DateTime Obs,18 Gauge Insertion Date,2133-06-12 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-14 14:00:00,Output,Foley,30.0,ml,outputevents
+14984824,23803077,2133-06-14 14:59:00,Input,Oral/Gastric Ingredient,200.0,ml,ingredientevents
+14984824,23803077,2133-06-14 14:59:00,Input,PO Intake,200.0,ml,inputevents
+14984824,23803077,2133-06-14 14:59:00,Input,Water,200.0,ml,ingredientevents
+14984824,23803077,2133-06-14 15:00:00,Input,Insulin - Regular,2.0,units,inputevents
+14984824,23803077,2133-06-14 16:00:00,Prescription,Acetaminophen,650,mg,prescriptions
+14984824,23803077,2133-06-14 16:00:00,Pharmacy,Albumin 5% (25g / 500mL),,NaN,pharmacy
+14984824,23803077,2133-06-14 16:00:00,Prescription,Acetaminophen,650,mg,prescriptions
+14984824,23803077,2133-06-14 16:00:00,Pharmacy,Acetaminophen,,NaN,pharmacy
+14984824,23803077,2133-06-14 16:00:00,Pharmacy,Acetaminophen,,NaN,pharmacy
+14984824,23803077,2133-06-14 16:00:00,Prescription,Albumin 5% (25g / 500mL),25,g,prescriptions
+14984824,23803077,2133-06-14 16:00:00,Output,Foley,30.0,ml,outputevents
+14984824,23803077,2133-06-14 16:43:00,DateTime Obs,22 Gauge Insertion Date,2133-06-12 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-14 17:00:00,Output,Chest Tube #2,0.0,ml,outputevents
+14984824,23803077,2133-06-14 17:00:00,Output,Foley,35.0,ml,outputevents
+14984824,23803077,2133-06-14 17:00:00,Output,Chest Tube #1,70.0,ml,outputevents
+14984824,23803077,2133-06-14 17:00:00,DateTime Obs,18 Gauge Insertion Date,2133-06-12 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-14 17:15:00,Input,Phenylephrine,12.42341165561811,mg,inputevents
+14984824,23803077,2133-06-14 17:15:00,Input,Water,51.764199793338776,ml,ingredientevents
+14984824,23803077,2133-06-14 17:15:00,Input,IVF ingredient,51.764199793338776,ml,ingredientevents
+14984824,23803077,2133-06-14 17:15:00,Input,NaCl 0.9%,51.764199793338776,ml,inputevents
+14984824,23803077,2133-06-14 18:00:00,Output,Foley,80.0,ml,outputevents
+14984824,23803077,2133-06-14 18:50:00,Procedure,22 Gauge,3968.0,min,procedureevents
+14984824,23803077,2133-06-14 18:50:00,Procedure,22 Gauge,3968.0,min,procedureevents
+14984824,23803077,2133-06-14 18:50:00,DateTime Obs,22 Gauge Insertion Date,2133-06-14 18:51:00,Date,datetimeevents
+14984824,23803077,2133-06-14 19:00:00,Input,Blood Ingredient,500.0000088214874,ml,ingredientevents
+14984824,23803077,2133-06-14 19:00:00,Input,Water,500.0000088214874,ml,ingredientevents
+14984824,23803077,2133-06-14 19:00:00,Input,Albumin 5%,500.0000088214874,ml,inputevents
+14984824,23803077,2133-06-14 20:00:00,Output,Chest Tube #1,80.0,ml,outputevents
+14984824,23803077,2133-06-14 20:00:00,Output,Chest Tube #2,12.0,ml,outputevents
+14984824,23803077,2133-06-14 20:00:00,Output,Foley,100.0,ml,outputevents
+14984824,23803077,2133-06-14 21:00:00,Output,Foley,100.0,ml,outputevents
+14984824,23803077,2133-06-14 21:21:00,Input,Oral/Gastric Ingredient,60.0,ml,ingredientevents
+14984824,23803077,2133-06-14 21:21:00,Input,PO Intake,60.0,ml,inputevents
+14984824,23803077,2133-06-14 21:21:00,Input,Water,60.0,ml,ingredientevents
+14984824,23803077,2133-06-14 22:00:00,Output,Chest Tube #1,40.0,ml,outputevents
+14984824,23803077,2133-06-14 22:00:00,Output,Chest Tube #2,0.0,ml,outputevents
+14984824,23803077,2133-06-14 22:00:00,Output,Foley,80.0,ml,outputevents
+14984824,23803077,2133-06-14 22:04:00,Input,NaCl 0.9%,42.40112769603729,ml,inputevents
+14984824,23803077,2133-06-14 22:04:00,Input,Phenylephrine,10.176273848628623,mg,inputevents
+14984824,23803077,2133-06-14 22:04:00,Input,IVF ingredient,42.40112769603729,ml,ingredientevents
+14984824,23803077,2133-06-14 22:04:00,Input,Water,42.40112769603729,ml,ingredientevents
+14984824,23803077,2133-06-14 22:52:00,DateTime Obs,22 Gauge Insertion Date,2133-06-14 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-14 23:00:00,Prescription,Potassium Chloride,20,mEq,prescriptions
+14984824,23803077,2133-06-14 23:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+14984824,23803077,2133-06-14 23:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+14984824,23803077,2133-06-14 23:00:00,Prescription,5% Dextrose,500,mL,prescriptions
+14984824,23803077,2133-06-14 23:00:00,Prescription,5% Dextrose,1000,mL,prescriptions
+14984824,23803077,2133-06-14 23:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+14984824,23803077,2133-06-14 23:00:00,Output,Foley,110.0,ml,outputevents
+14984824,23803077,2133-06-14 23:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+14984824,23803077,2133-06-14 23:00:00,Prescription,Potassium Chloride,40,mEq,prescriptions
+14984824,23803077,2133-06-14 23:00:00,Prescription,5% Dextrose,500,mL,prescriptions
+14984824,23803077,2133-06-14 23:00:00,Prescription,SW,200,mL,prescriptions
+14984824,23803077,2133-06-14 23:00:00,Prescription,Potassium Chloride,40,mEq,prescriptions
+14984824,23803077,2133-06-14 23:00:00,Prescription,Potassium Chloride,60,mEq,prescriptions
+14984824,23803077,2133-06-14 23:17:00,Input,Morphine Sulfate,1.0000000474974513,mg,inputevents
+14984824,23803077,2133-06-15 00:00:00,Output,Foley,60.0,ml,outputevents
+14984824,23803077,2133-06-15 01:00:00,Output,Foley,50.0,ml,outputevents
+14984824,23803077,2133-06-15 01:00:00,Pharmacy,Metoprolol Tartrate,,NaN,pharmacy
+14984824,23803077,2133-06-15 01:00:00,Input,Metoprolol,2.500000176951289,mg,inputevents
+14984824,23803077,2133-06-15 01:00:00,Prescription,Metoprolol Tartrate,2.5,mg,prescriptions
+14984824,23803077,2133-06-15 01:00:00,Prescription,LR,1000,mL,prescriptions
+14984824,23803077,2133-06-15 01:00:00,Pharmacy,,,NaN,pharmacy
+14984824,23803077,2133-06-15 01:02:00,Input,IVF ingredient,365.3989124298096,ml,ingredientevents
+14984824,23803077,2133-06-15 01:02:00,Input,LR,365.3989124298096,ml,inputevents
+14984824,23803077,2133-06-15 01:02:00,Input,Water,365.3989124298096,ml,ingredientevents
+14984824,23803077,2133-06-15 02:00:00,Output,Foley,40.0,ml,outputevents
+14984824,23803077,2133-06-15 03:00:00,Input,Water,7.142671912908554,ml,ingredientevents
+14984824,23803077,2133-06-15 03:00:00,Input,IVF ingredient,7.142671912908554,ml,ingredientevents
+14984824,23803077,2133-06-15 03:00:00,Output,Foley,60.0,ml,outputevents
+14984824,23803077,2133-06-15 03:00:00,Output,Chest Tube #1,100.0,ml,outputevents
+14984824,23803077,2133-06-15 03:00:00,Input,NaCl 0.9%,7.142671912908554,ml,inputevents
+14984824,23803077,2133-06-15 03:00:00,Output,Chest Tube #2,4.0,ml,outputevents
+14984824,23803077,2133-06-15 03:00:00,Input,Phenylephrine,1.714241707304609,mg,inputevents
+14984824,23803077,2133-06-15 03:57:00,Input,NaCl 0.9%,3.849870033562184,ml,inputevents
+14984824,23803077,2133-06-15 03:57:00,Input,Phenylephrine,0.9239690662070644,mg,inputevents
+14984824,23803077,2133-06-15 03:57:00,Input,Water,3.849870033562184,ml,ingredientevents
+14984824,23803077,2133-06-15 03:57:00,Input,IVF ingredient,3.849870033562184,ml,ingredientevents
+14984824,23803077,2133-06-15 04:00:00,Input,Morphine Sulfate,1.0000000474974513,mg,inputevents
+14984824,23803077,2133-06-15 04:00:00,Prescription,Metoprolol Tartrate,2.5,mg,prescriptions
+14984824,23803077,2133-06-15 04:00:00,Pharmacy,Metoprolol Tartrate,,NaN,pharmacy
+14984824,23803077,2133-06-15 04:00:00,Output,Foley,50.0,ml,outputevents
+14984824,23803077,2133-06-15 04:10:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+14984824,23803077,2133-06-15 04:20:00,Input,Metoprolol,2.500000176951289,mg,inputevents
+14984824,23803077,2133-06-15 04:40:00,Input,NaCl 0.9%,1.522041641175747,ml,inputevents
+14984824,23803077,2133-06-15 04:40:00,Input,Phenylephrine,0.3652900959423277,mg,inputevents
+14984824,23803077,2133-06-15 04:40:00,Input,Water,1.522041641175747,ml,ingredientevents
+14984824,23803077,2133-06-15 04:40:00,Input,IVF ingredient,1.522041641175747,ml,ingredientevents
+14984824,23803077,2133-06-15 05:00:00,Output,Chest Tube #2,0.0,ml,outputevents
+14984824,23803077,2133-06-15 05:00:00,Output,Chest Tube #1,30.0,ml,outputevents
+14984824,23803077,2133-06-15 05:00:00,Output,Foley,70.0,ml,outputevents
+14984824,23803077,2133-06-15 05:07:00,Input,Morphine Sulfate,1.0000000474974513,mg,inputevents
+14984824,23803077,2133-06-15 05:31:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14984824,23803077,2133-06-15 05:31:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14984824,23803077,2133-06-15 05:41:00,Input,Morphine Sulfate,1.0000000474974513,mg,inputevents
+14984824,23803077,2133-06-15 05:44:00,Input,Metoprolol,5.000000353902578,mg,inputevents
+14984824,23803077,2133-06-15 05:52:00,Input,Furosemide (Lasix),10.000000707805157,mg,inputevents
+14984824,23803077,2133-06-15 05:53:00,Lab Result,Sodium| Blood,142.0,mEq/L,labevents
+14984824,23803077,2133-06-15 05:53:00,Lab Result,Magnesium| Blood,1.9,mg/dL,labevents
+14984824,23803077,2133-06-15 05:53:00,Lab Result,Phosphate| Blood,2.2,mg/dL,labevents
+14984824,23803077,2133-06-15 05:53:00,Lab Result,Potassium| Blood,3.6,mEq/L,labevents
+14984824,23803077,2133-06-15 05:53:00,Lab Result,Chloride| Blood,102.0,mEq/L,labevents
+14984824,23803077,2133-06-15 05:53:00,Lab Result,"Calcium, Total| Blood",8.4,mg/dL,labevents
+14984824,23803077,2133-06-15 05:53:00,Lab Result,Bicarbonate| Blood,33.0,mEq/L,labevents
+14984824,23803077,2133-06-15 05:53:00,Lab Result,Anion Gap| Blood,11.0,mEq/L,labevents
+14984824,23803077,2133-06-15 05:53:00,Lab Result,Glucose| Blood,96.0,mg/dL,labevents
+14984824,23803077,2133-06-15 05:53:00,Lab Result,Urea Nitrogen| Blood,11.0,mg/dL,labevents
+14984824,23803077,2133-06-15 05:53:00,Lab Result,Creatinine| Blood,0.5,mg/dL,labevents
+14984824,23803077,2133-06-15 05:54:00,Input,LR,12.268000662326813,ml,inputevents
+14984824,23803077,2133-06-15 05:54:00,Input,Water,12.268000662326813,ml,ingredientevents
+14984824,23803077,2133-06-15 05:54:00,Input,IVF ingredient,12.268000662326813,ml,ingredientevents
+14984824,23803077,2133-06-15 06:00:00,Pharmacy,Furosemide,,NaN,pharmacy
+14984824,23803077,2133-06-15 06:00:00,Pharmacy,Metoprolol Tartrate,,NaN,pharmacy
+14984824,23803077,2133-06-15 06:00:00,Prescription,Furosemide,10,mg,prescriptions
+14984824,23803077,2133-06-15 06:00:00,Prescription,Metoprolol Tartrate,5,mg,prescriptions
+14984824,23803077,2133-06-15 06:28:00,Input,Metoprolol,5.000000353902578,mg,inputevents
+14984824,23803077,2133-06-15 06:30:00,Output,Foley,310.0,ml,outputevents
+14984824,23803077,2133-06-15 06:31:00,Input,LR,1001.700011342764,ml,inputevents
+14984824,23803077,2133-06-15 06:31:00,Input,Water,1001.700011342764,ml,ingredientevents
+14984824,23803077,2133-06-15 06:31:00,Input,IVF ingredient,1001.700011342764,ml,ingredientevents
+14984824,23803077,2133-06-15 06:45:00,Input,IVF ingredient,99.9999976158142,ml,ingredientevents
+14984824,23803077,2133-06-15 06:45:00,Input,Piggyback,99.9999976158142,ml,inputevents
+14984824,23803077,2133-06-15 06:45:00,Input,Potassium Chloride,10.000000298023224,mEq,inputevents
+14984824,23803077,2133-06-15 06:45:00,Input,Water,99.9999976158142,ml,ingredientevents
+14984824,23803077,2133-06-15 06:59:00,Input,Metoprolol,5.000000353902578,mg,inputevents
+14984824,23803077,2133-06-15 07:00:00,Prescription,Furosemide,10,mg,prescriptions
+14984824,23803077,2133-06-15 07:00:00,Prescription,Metoprolol Tartrate,5,mg,prescriptions
+14984824,23803077,2133-06-15 07:00:00,Pharmacy,Furosemide,,NaN,pharmacy
+14984824,23803077,2133-06-15 07:00:00,Pharmacy,Metoprolol Tartrate,,NaN,pharmacy
+14984824,23803077,2133-06-15 07:00:00,Output,Foley,150.0,ml,outputevents
+14984824,23803077,2133-06-15 08:00:00,Output,Foley,200.0,ml,outputevents
+14984824,23803077,2133-06-15 08:11:00,DateTime Obs,22 Gauge Insertion Date,2133-06-14 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-15 09:00:00,Output,Chest Tube #2,0.0,ml,outputevents
+14984824,23803077,2133-06-15 09:00:00,Output,Chest Tube #1,90.0,ml,outputevents
+14984824,23803077,2133-06-15 09:00:00,Output,Foley,100.0,ml,outputevents
+14984824,23803077,2133-06-15 09:24:00,Input,Metoprolol,10.000000707805157,mg,inputevents
+14984824,23803077,2133-06-15 10:00:00,Pharmacy,Metoprolol Tartrate,,NaN,pharmacy
+14984824,23803077,2133-06-15 10:00:00,Prescription,Metoprolol Tartrate,10,mg,prescriptions
+14984824,23803077,2133-06-15 10:00:00,Output,Foley,35.0,ml,outputevents
+14984824,23803077,2133-06-15 11:00:00,Pharmacy,Lorazepam,,NaN,pharmacy
+14984824,23803077,2133-06-15 11:00:00,Prescription,Lorazepam,0.5,mg,prescriptions
+14984824,23803077,2133-06-15 12:00:00,Output,Foley,30.0,ml,outputevents
+14984824,23803077,2133-06-15 12:00:00,Input,Metoprolol,10.000000707805157,mg,inputevents
+14984824,23803077,2133-06-15 13:00:00,Prescription,Metoprolol Tartrate,10,mg,prescriptions
+14984824,23803077,2133-06-15 13:00:00,Prescription,Metoprolol Tartrate,5,mg,prescriptions
+14984824,23803077,2133-06-15 13:00:00,Prescription,Metoprolol Tartrate,10,mg,prescriptions
+14984824,23803077,2133-06-15 13:00:00,Pharmacy,Metoprolol Tartrate,,NaN,pharmacy
+14984824,23803077,2133-06-15 13:00:00,Pharmacy,Metoprolol Tartrate,,NaN,pharmacy
+14984824,23803077,2133-06-15 13:00:00,Prescription,Metoprolol Tartrate,10,mg,prescriptions
+14984824,23803077,2133-06-15 13:00:00,Pharmacy,Metoprolol Tartrate,,NaN,pharmacy
+14984824,23803077,2133-06-15 13:00:00,Pharmacy,Metoprolol Tartrate,,NaN,pharmacy
+14984824,23803077,2133-06-15 14:00:00,Output,Chest Tube #2,0.0,ml,outputevents
+14984824,23803077,2133-06-15 14:00:00,Output,Foley,7.0,ml,outputevents
+14984824,23803077,2133-06-15 14:00:00,Output,Chest Tube #1,60.0,ml,outputevents
+14984824,23803077,2133-06-15 14:47:00,Input,Potassium Chloride,10.000000298023224,mEq,inputevents
+14984824,23803077,2133-06-15 14:47:00,Input,Water,99.9999976158142,ml,ingredientevents
+14984824,23803077,2133-06-15 14:47:00,Input,IVF ingredient,99.9999976158142,ml,ingredientevents
+14984824,23803077,2133-06-15 14:47:00,Input,Piggyback,99.9999976158142,ml,inputevents
+14984824,23803077,2133-06-15 14:51:00,DateTime Obs,22 Gauge Insertion Date,2133-06-14 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-15 15:00:00,Prescription,Albumin 25% (12.5g / 50mL),12.5,g,prescriptions
+14984824,23803077,2133-06-15 15:00:00,Pharmacy,Albumin 25% (12.5g / 50mL),,NaN,pharmacy
+14984824,23803077,2133-06-15 16:00:00,Output,Foley,60.0,ml,outputevents
+14984824,23803077,2133-06-15 16:48:00,Input,Water,49.999998807907104,ml,ingredientevents
+14984824,23803077,2133-06-15 16:48:00,Input,Blood Ingredient,49.999998807907104,ml,ingredientevents
+14984824,23803077,2133-06-15 16:48:00,Input,Albumin 25%,49.999998807907104,ml,inputevents
+14984824,23803077,2133-06-15 16:50:00,DateTime Obs,22 Gauge Insertion Date,2133-06-14 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-15 18:00:00,Output,Foley,35.0,ml,outputevents
+14984824,23803077,2133-06-15 18:00:00,Output,Chest Tube #1,20.0,ml,outputevents
+14984824,23803077,2133-06-15 18:00:00,Output,Chest Tube #2,0.0,ml,outputevents
+14984824,23803077,2133-06-15 18:13:00,Input,Morphine Sulfate,2.0000000949949026,mg,inputevents
+14984824,23803077,2133-06-15 20:00:00,Output,Chest Tube #2,5.0,ml,outputevents
+14984824,23803077,2133-06-15 20:00:00,Prescription,Metoprolol Tartrate,12.5,mg,prescriptions
+14984824,23803077,2133-06-15 20:00:00,Pharmacy,Metoprolol Tartrate,,NaN,pharmacy
+14984824,23803077,2133-06-15 20:00:00,Output,Foley,40.0,ml,outputevents
+14984824,23803077,2133-06-15 20:00:00,Prescription,Lorazepam,0.5,mg,prescriptions
+14984824,23803077,2133-06-15 20:00:00,Output,Chest Tube #1,10.0,ml,outputevents
+14984824,23803077,2133-06-15 20:00:00,Pharmacy,Lorazepam,,NaN,pharmacy
+14984824,23803077,2133-06-15 20:50:00,DateTime Obs,22 Gauge Insertion Date,2133-06-14 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-15 21:03:00,Input,Metoprolol,5.000000353902578,mg,inputevents
+14984824,23803077,2133-06-15 21:07:00,Output,Foley,14.0,ml,outputevents
+14984824,23803077,2133-06-15 22:00:00,Pharmacy,,,NaN,pharmacy
+14984824,23803077,2133-06-15 22:00:00,Prescription,Metoprolol Tartrate,5,mg,prescriptions
+14984824,23803077,2133-06-15 22:00:00,Pharmacy,Metoprolol Tartrate,,NaN,pharmacy
+14984824,23803077,2133-06-15 22:00:00,Prescription,LR,1000,mL,prescriptions
+14984824,23803077,2133-06-15 22:07:00,Output,Foley,10.0,ml,outputevents
+14984824,23803077,2133-06-15 23:00:00,Output,Foley,20.0,ml,outputevents
+14984824,23803077,2133-06-16 00:00:00,Output,Chest Tube #2,0.0,ml,outputevents
+14984824,23803077,2133-06-16 00:00:00,Output,Chest Tube #1,40.0,ml,outputevents
+14984824,23803077,2133-06-16 00:00:00,Input,Metoprolol,5.000000353902578,mg,inputevents
+14984824,23803077,2133-06-16 00:00:00,Output,Foley,30.0,ml,outputevents
+14984824,23803077,2133-06-16 00:47:00,DateTime Obs,22 Gauge Insertion Date,2133-06-14 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-16 01:16:00,Output,Foley,15.0,ml,outputevents
+14984824,23803077,2133-06-16 02:27:00,Output,Foley,30.0,ml,outputevents
+14984824,23803077,2133-06-16 02:33:00,Input,Morphine Sulfate,2.0000000949949026,mg,inputevents
+14984824,23803077,2133-06-16 03:09:00,Output,Foley,30.0,ml,outputevents
+14984824,23803077,2133-06-16 04:00:00,Output,Foley,25.0,ml,outputevents
+14984824,23803077,2133-06-16 04:00:00,Output,Chest Tube #1,15.0,ml,outputevents
+14984824,23803077,2133-06-16 04:00:00,Pharmacy,Metoprolol Tartrate,,NaN,pharmacy
+14984824,23803077,2133-06-16 04:00:00,Output,Chest Tube #2,0.0,ml,outputevents
+14984824,23803077,2133-06-16 04:00:00,Prescription,Metoprolol Tartrate,5,mg,prescriptions
+14984824,23803077,2133-06-16 04:28:00,Input,Metoprolol,7.500000298023224,mg,inputevents
+14984824,23803077,2133-06-16 04:37:00,DateTime Obs,22 Gauge Insertion Date,2133-06-14 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-16 04:38:00,DateTime Obs,22 Gauge Insertion Date,2133-06-14 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-16 05:02:00,Output,Foley,20.0,ml,outputevents
+14984824,23803077,2133-06-16 06:00:00,Output,Foley,15.0,ml,outputevents
+14984824,23803077,2133-06-16 06:03:00,Input,Metoprolol,5.000000353902578,mg,inputevents
+14984824,23803077,2133-06-16 06:03:00,Input,Morphine Sulfate,2.0000000949949026,mg,inputevents
+14984824,23803077,2133-06-16 08:00:00,Input,Metoprolol,10.000000707805157,mg,inputevents
+14984824,23803077,2133-06-16 08:00:00,Input,Morphine Sulfate,2.0000000949949026,mg,inputevents
+14984824,23803077,2133-06-16 08:00:00,Output,Chest Tube #1,20.0,ml,outputevents
+14984824,23803077,2133-06-16 08:00:00,Output,Foley,33.0,ml,outputevents
+14984824,23803077,2133-06-16 09:00:00,DateTime Obs,22 Gauge Insertion Date,2133-06-14 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-16 09:02:00,Input,Morphine Sulfate,2.0000000949949026,mg,inputevents
+14984824,23803077,2133-06-16 10:00:00,Pharmacy,Morphine Sulfate,,NaN,pharmacy
+14984824,23803077,2133-06-16 10:00:00,Pharmacy,Morphine Sulfate,,NaN,pharmacy
+14984824,23803077,2133-06-16 10:00:00,Prescription,Morphine Sulfate,1-2,mg,prescriptions
+14984824,23803077,2133-06-16 10:00:00,Output,Foley,15.0,ml,outputevents
+14984824,23803077,2133-06-16 10:00:00,Prescription,Morphine Sulfate,5-10,mg,prescriptions
+14984824,23803077,2133-06-16 12:00:00,Output,Chest Tube #2,0.0,ml,outputevents
+14984824,23803077,2133-06-16 12:00:00,Output,Chest Tube #1,0.0,ml,outputevents
+14984824,23803077,2133-06-16 12:00:00,Output,Foley,18.0,ml,outputevents
+14984824,23803077,2133-06-16 12:05:00,DateTime Obs,22 Gauge Insertion Date,2133-06-14 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-16 13:00:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14984824,23803077,2133-06-16 13:00:00,Procedure,Chest X-Ray,1.0,,procedureevents
+14984824,23803077,2133-06-16 14:00:00,Input,Metoprolol,10.000000707805157,mg,inputevents
+14984824,23803077,2133-06-16 14:06:00,Input,Morphine Sulfate,2.0000000949949026,mg,inputevents
+14984824,23803077,2133-06-16 14:06:00,Output,Foley,10.0,ml,outputevents
+14984824,23803077,2133-06-16 16:00:00,Output,Foley,15.0,ml,outputevents
+14984824,23803077,2133-06-16 20:00:00,Output,Chest Tube #1,40.0,ml,outputevents
+14984824,23803077,2133-06-16 20:00:00,Output,Chest Tube #2,0.0,ml,outputevents
+14984824,23803077,2133-06-16 20:12:00,Output,Foley,30.0,ml,outputevents
+14984824,23803077,2133-06-16 20:22:00,DateTime Obs,22 Gauge Insertion Date,2133-06-14 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-16 21:06:00,Output,Foley,40.0,ml,outputevents
+14984824,23803077,2133-06-16 22:00:00,Prescription,Metoprolol Tartrate,7.5,mg,prescriptions
+14984824,23803077,2133-06-16 22:00:00,Pharmacy,Metoprolol Tartrate,,NaN,pharmacy
+14984824,23803077,2133-06-16 22:00:00,Pharmacy,Metoprolol Tartrate,,NaN,pharmacy
+14984824,23803077,2133-06-16 22:00:00,Prescription,Metoprolol Tartrate,10,mg,prescriptions
+14984824,23803077,2133-06-16 23:00:00,Output,Foley,10.0,ml,outputevents
+14984824,23803077,2133-06-17 00:00:00,Output,Chest Tube #1,55.0,ml,outputevents
+14984824,23803077,2133-06-17 00:00:00,Output,Chest Tube #2,0.0,ml,outputevents
+14984824,23803077,2133-06-17 00:18:00,Output,Foley,10.0,ml,outputevents
+14984824,23803077,2133-06-17 00:20:00,DateTime Obs,22 Gauge Insertion Date,2133-06-14 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-17 02:52:00,Output,Foley,10.0,ml,outputevents
+14984824,23803077,2133-06-17 04:00:00,Output,Chest Tube #2,0.0,ml,outputevents
+14984824,23803077,2133-06-17 04:00:00,Output,Foley,8.0,ml,outputevents
+14984824,23803077,2133-06-17 04:00:00,Output,Chest Tube #1,0.0,ml,outputevents
+14984824,23803077,2133-06-17 04:20:00,Input,Morphine Sulfate,1.0000000474974513,mg,inputevents
+14984824,23803077,2133-06-17 04:23:00,DateTime Obs,22 Gauge Insertion Date,2133-06-14 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-17 05:04:00,Output,Foley,5.0,ml,outputevents
+14984824,23803077,2133-06-17 06:20:00,Output,Foley,10.0,ml,outputevents
+14984824,23803077,2133-06-17 08:00:00,Output,Foley,5.0,ml,outputevents
+14984824,23803077,2133-06-17 08:10:00,Input,Water,50.0,ml,ingredientevents
+14984824,23803077,2133-06-17 08:10:00,Input,Morphine Sulfate,1.0000000474974513,mg,inputevents
+14984824,23803077,2133-06-17 08:10:00,Input,Famotidine (Pepcid),1.0,dose,inputevents
+14984824,23803077,2133-06-17 08:10:00,Input,Solution,50.0,ml,inputevents
+14984824,23803077,2133-06-17 08:10:00,Input,IVF ingredient,50.0,ml,ingredientevents
+14984824,23803077,2133-06-17 08:15:00,DateTime Obs,22 Gauge Insertion Date,2133-06-14 00:00:00,Date,datetimeevents
+14984824,23803077,2133-06-17 08:36:00,Input,Water,86.65071326494217,ml,ingredientevents
+14984824,23803077,2133-06-17 08:36:00,Input,IVF ingredient,86.65071326494217,ml,ingredientevents
+14984824,23803077,2133-06-17 08:36:00,Input,LR,86.65071326494217,ml,inputevents
+14984824,23803077,2133-06-17 09:00:00,Output,Foley,0.0,ml,outputevents
+14984824,23803077,2133-06-17 09:49:00,Input,Morphine Sulfate,1.0000000474974513,mg,inputevents
+14984824,23803077,2133-06-17 10:20:00,Procedure,Cardiac Arrest,1.0,,procedureevents
+14984824,23803077,2133-06-17 10:20:00,Procedure,Respiratory Arrest,1.0,,procedureevents
+14984824,23803077,2133-06-17 10:20:00,Procedure,Cardiac Arrest,1.0,,procedureevents
+14984824,23803077,2133-06-17 10:20:00,Procedure,Respiratory Arrest,1.0,,procedureevents
+14984824,23803077,2133-06-17 12:58:34,Transfer,discharge,NaN,NaN,transfers

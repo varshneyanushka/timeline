@@ -1,0 +1,893 @@
+subject_id,hadm_id,event_time,event_type,description,value,unit,source_table
+15011665,24072156,2174-08-16 06:06:00,Transfer,ED Emergency Department,NaN,NaN,transfers
+15011665,24072156,2174-08-16 08:06:00,Admission,EW EMER.,NaN,NaN,admissions
+15011665,24072156,2174-08-16 08:06:43,Service,NSURG,NaN,NaN,services
+15011665,24072156,2174-08-16 08:19:00,Procedure,Intubation,1.0,,procedureevents
+15011665,24072156,2174-08-16 08:19:00,Procedure,Intubation,1.0,,procedureevents
+15011665,24072156,2174-08-16 08:24:00,Procedure,Invasive Ventilation,1676.0,min,procedureevents
+15011665,24072156,2174-08-16 08:24:00,Procedure,Invasive Ventilation,1676.0,min,procedureevents
+15011665,24072156,2174-08-16 08:55:00,Transfer,admit Trauma SICU (TSICU),NaN,NaN,transfers
+15011665,24072156,2174-08-16 09:00:00,Prescription,Bisacodyl,10,mg,prescriptions
+15011665,24072156,2174-08-16 09:00:00,Pharmacy,,,NaN,pharmacy
+15011665,24072156,2174-08-16 09:00:00,Pharmacy,Ondansetron,,NaN,pharmacy
+15011665,24072156,2174-08-16 09:00:00,Prescription,Propofol,1000,mg,prescriptions
+15011665,24072156,2174-08-16 09:00:00,Pharmacy,Acetaminophen,,NaN,pharmacy
+15011665,24072156,2174-08-16 09:00:00,Prescription,Pantoprazole Sodium,40,mg,prescriptions
+15011665,24072156,2174-08-16 09:00:00,Prescription,Vial,1,VIAL,prescriptions
+15011665,24072156,2174-08-16 09:00:00,Pharmacy,Mannitol 20%,,NaN,pharmacy
+15011665,24072156,2174-08-16 09:00:00,Pharmacy,Pantoprazole,,NaN,pharmacy
+15011665,24072156,2174-08-16 09:00:00,Pharmacy,Propofol,,NaN,pharmacy
+15011665,24072156,2174-08-16 09:00:00,Pharmacy,Bisacodyl,,NaN,pharmacy
+15011665,24072156,2174-08-16 09:00:00,Prescription,Pneumococcal Vac Polyvalent,0.5,mL,prescriptions
+15011665,24072156,2174-08-16 09:00:00,Prescription,Soln.,250,mL,prescriptions
+15011665,24072156,2174-08-16 09:00:00,Prescription,Senna,1,TAB,prescriptions
+15011665,24072156,2174-08-16 09:00:00,Pharmacy,Propofol,,NaN,pharmacy
+15011665,24072156,2174-08-16 09:00:00,Prescription,Mannitol 20%,50,g,prescriptions
+15011665,24072156,2174-08-16 09:00:00,Prescription,Bisacodyl,10,mg,prescriptions
+15011665,24072156,2174-08-16 09:00:00,Prescription,Potassium Chl 20 mEq / 1000 mL NS,1000,mL,prescriptions
+15011665,24072156,2174-08-16 09:00:00,Prescription,Propofol,200,mg,prescriptions
+15011665,24072156,2174-08-16 09:00:00,Pharmacy,Senna,,NaN,pharmacy
+15011665,24072156,2174-08-16 09:00:00,Pharmacy,Bisacodyl,,NaN,pharmacy
+15011665,24072156,2174-08-16 09:00:00,Prescription,Ondansetron,4,mg,prescriptions
+15011665,24072156,2174-08-16 09:00:00,Prescription,Acetaminophen,650,mg,prescriptions
+15011665,24072156,2174-08-16 09:00:00,Pharmacy,Pneumococcal Vac Polyvalent,,NaN,pharmacy
+15011665,24072156,2174-08-16 09:11:00,Output,Foley,160.0,ml,outputevents
+15011665,24072156,2174-08-16 09:30:00,Procedure,20 Gauge,750.0,min,procedureevents
+15011665,24072156,2174-08-16 09:30:00,Procedure,20 Gauge,750.0,min,procedureevents
+15011665,24072156,2174-08-16 09:30:00,DateTime Obs,20 Gauge Insertion Date,2174-08-16 12:37:00,Date,datetimeevents
+15011665,24072156,2174-08-16 09:33:00,Procedure,20 Gauge,747.0,min,procedureevents
+15011665,24072156,2174-08-16 09:33:00,DateTime Obs,20 Gauge Insertion Date,2174-08-16 09:33:00,Date,datetimeevents
+15011665,24072156,2174-08-16 09:33:00,Procedure,20 Gauge,747.0,min,procedureevents
+15011665,24072156,2174-08-16 09:41:00,Input,Water,1000.0000219345092,ml,ingredientevents
+15011665,24072156,2174-08-16 09:41:00,Input,IVF ingredient,1000.0000219345092,ml,ingredientevents
+15011665,24072156,2174-08-16 09:41:00,Input,Potassium Chloride,20.000000327825543,mEq,inputevents
+15011665,24072156,2174-08-16 09:41:00,Input,NaCl 0.9%,1000.0000219345092,ml,inputevents
+15011665,24072156,2174-08-16 09:42:00,Output,Pre-Admission,700.0,ml,outputevents
+15011665,24072156,2174-08-16 10:00:00,Prescription,Finasteride,5,mg,prescriptions
+15011665,24072156,2174-08-16 10:00:00,Pharmacy,Levothyroxine Sodium,,NaN,pharmacy
+15011665,24072156,2174-08-16 10:00:00,Pharmacy,Fludrocortisone Acetate,,NaN,pharmacy
+15011665,24072156,2174-08-16 10:00:00,Pharmacy,Finasteride,,NaN,pharmacy
+15011665,24072156,2174-08-16 10:00:00,Prescription,Fludrocortisone Acetate,0.1,mg,prescriptions
+15011665,24072156,2174-08-16 10:00:00,Output,Foley,100.0,ml,outputevents
+15011665,24072156,2174-08-16 10:00:00,Prescription,Levothyroxine Sodium,75,mcg,prescriptions
+15011665,24072156,2174-08-16 10:38:00,Lab Result,Potassium| Blood,6.3,mEq/L,labevents
+15011665,24072156,2174-08-16 10:38:00,Lab Result,Urea Nitrogen| Blood,18.0,mg/dL,labevents
+15011665,24072156,2174-08-16 10:38:00,Lab Result,Anion Gap| Blood,11.0,mEq/L,labevents
+15011665,24072156,2174-08-16 10:38:00,Lab Result,Bicarbonate| Blood,24.0,mEq/L,labevents
+15011665,24072156,2174-08-16 10:38:00,Lab Result,"Calcium, Total| Blood",7.4,mg/dL,labevents
+15011665,24072156,2174-08-16 10:38:00,Lab Result,Chloride| Blood,113.0,mEq/L,labevents
+15011665,24072156,2174-08-16 10:38:00,Lab Result,Creatinine| Blood,0.6,mg/dL,labevents
+15011665,24072156,2174-08-16 10:38:00,Lab Result,Glucose| Blood,131.0,mg/dL,labevents
+15011665,24072156,2174-08-16 10:38:00,Lab Result,Magnesium| Blood,1.6,mg/dL,labevents
+15011665,24072156,2174-08-16 10:38:00,Lab Result,"Osmolality, Measured| Blood",299.0,mOsm/kg,labevents
+15011665,24072156,2174-08-16 10:38:00,Lab Result,Phosphate| Blood,3.1,mg/dL,labevents
+15011665,24072156,2174-08-16 10:38:00,Lab Result,Sodium| Blood,142.0,mEq/L,labevents
+15011665,24072156,2174-08-16 11:00:00,Input,Solution,10.0,ml,inputevents
+15011665,24072156,2174-08-16 11:00:00,Input,Water,10.0,ml,ingredientevents
+15011665,24072156,2174-08-16 11:00:00,Input,IVF ingredient,10.0,ml,ingredientevents
+15011665,24072156,2174-08-16 11:00:00,Prescription,NiCARdipine IV,125,mg,prescriptions
+15011665,24072156,2174-08-16 11:00:00,Output,Foley,60.0,ml,outputevents
+15011665,24072156,2174-08-16 11:00:00,Prescription,0.9% Sodium Chloride,250,mL,prescriptions
+15011665,24072156,2174-08-16 11:00:00,Pharmacy,NiCARdipine,,NaN,pharmacy
+15011665,24072156,2174-08-16 11:00:00,Input,Pantoprazole (Protonix),1.0,dose,inputevents
+15011665,24072156,2174-08-16 12:00:00,Prescription,Insulin,0,UNIT,prescriptions
+15011665,24072156,2174-08-16 12:00:00,Output,Foley,175.0,ml,outputevents
+15011665,24072156,2174-08-16 12:00:00,Pharmacy,Insulin,,NaN,pharmacy
+15011665,24072156,2174-08-16 12:11:00,DateTime Obs,Arterial line Tubing Change,2174-08-16 12:11:00,Date,datetimeevents
+15011665,24072156,2174-08-16 12:11:00,DateTime Obs,Arterial Line Dressing Change,2174-08-16 12:11:00,Date and Time,datetimeevents
+15011665,24072156,2174-08-16 12:11:00,DateTime Obs,Arterial line Insertion Date,2174-08-16 12:11:00,Date,datetimeevents
+15011665,24072156,2174-08-16 12:11:00,Procedure,Arterial Line,4193.0,min,procedureevents
+15011665,24072156,2174-08-16 12:11:00,DateTime Obs,Arterial line Cap Change,2174-08-16 12:11:00,Date,datetimeevents
+15011665,24072156,2174-08-16 12:11:00,Procedure,Arterial Line,4193.0,min,procedureevents
+15011665,24072156,2174-08-16 12:19:00,Lab Result,Sodium| Blood,138.0,mEq/L,labevents
+15011665,24072156,2174-08-16 12:19:00,Lab Result,Urea Nitrogen| Blood,19.0,mg/dL,labevents
+15011665,24072156,2174-08-16 12:19:00,Lab Result,Glucose| Blood,148.0,mg/dL,labevents
+15011665,24072156,2174-08-16 12:19:00,Lab Result,Creatinine| Blood,0.7,mg/dL,labevents
+15011665,24072156,2174-08-16 12:19:00,Lab Result,Chloride| Blood,104.0,mEq/L,labevents
+15011665,24072156,2174-08-16 12:19:00,Lab Result,Bicarbonate| Blood,26.0,mEq/L,labevents
+15011665,24072156,2174-08-16 12:19:00,Lab Result,Anion Gap| Blood,12.0,mEq/L,labevents
+15011665,24072156,2174-08-16 12:19:00,Lab Result,Potassium| Blood,4.0,mEq/L,labevents
+15011665,24072156,2174-08-16 12:35:00,Input,NaCl 0.9%,6.762468338012695,ml,inputevents
+15011665,24072156,2174-08-16 12:35:00,Input,Nicardipine,3.3812341280281544,mg,inputevents
+15011665,24072156,2174-08-16 12:35:00,Input,Water,6.762468338012695,ml,ingredientevents
+15011665,24072156,2174-08-16 12:35:00,Input,IVF ingredient,6.762468338012695,ml,ingredientevents
+15011665,24072156,2174-08-16 12:36:00,DateTime Obs,20 Gauge Insertion Date,2174-08-16 12:36:00,Date,datetimeevents
+15011665,24072156,2174-08-16 12:36:00,Procedure,20 Gauge,1415.0,min,procedureevents
+15011665,24072156,2174-08-16 12:36:00,Procedure,20 Gauge,1415.0,min,procedureevents
+15011665,24072156,2174-08-16 12:38:00,Input,Water,249.99999046325684,ml,ingredientevents
+15011665,24072156,2174-08-16 12:38:00,Input,IVF ingredient,249.99999046325684,ml,ingredientevents
+15011665,24072156,2174-08-16 12:38:00,Input,Piggyback,249.99999046325684,ml,inputevents
+15011665,24072156,2174-08-16 13:07:00,Input,IVF ingredient,21.24760612845421,ml,ingredientevents
+15011665,24072156,2174-08-16 13:07:00,Input,Water,21.24760612845421,ml,ingredientevents
+15011665,24072156,2174-08-16 13:07:00,Input,NaCl 0.9%,21.24760612845421,ml,inputevents
+15011665,24072156,2174-08-16 13:07:00,Input,Nicardipine,10.623803493217563,mg,inputevents
+15011665,24072156,2174-08-16 14:00:00,Output,Foley,310.0,ml,outputevents
+15011665,24072156,2174-08-16 14:14:00,Input,NaCl 0.9%,18.743458211421967,ml,inputevents
+15011665,24072156,2174-08-16 14:14:00,Input,Nicardipine,9.371729378472082,mg,inputevents
+15011665,24072156,2174-08-16 14:14:00,Input,IVF ingredient,18.743458211421967,ml,ingredientevents
+15011665,24072156,2174-08-16 14:14:00,Input,Water,18.743458211421967,ml,ingredientevents
+15011665,24072156,2174-08-16 14:19:00,Lab Result,Sodium| Blood,136.0,mEq/L,labevents
+15011665,24072156,2174-08-16 14:19:00,Lab Result,"Osmolality, Measured| Blood",298.0,mOsm/kg,labevents
+15011665,24072156,2174-08-16 14:19:00,Lab Result,Glucose| Blood,171.0,mg/dL,labevents
+15011665,24072156,2174-08-16 15:25:00,Input,Water,8.24084298312664,ml,ingredientevents
+15011665,24072156,2174-08-16 15:25:00,Input,NaCl 0.9%,8.24084298312664,ml,inputevents
+15011665,24072156,2174-08-16 15:25:00,Input,Nicardipine,4.120421668631025,mg,inputevents
+15011665,24072156,2174-08-16 15:25:00,Input,IVF ingredient,8.24084298312664,ml,ingredientevents
+15011665,24072156,2174-08-16 16:00:00,Output,Foley,250.0,ml,outputevents
+15011665,24072156,2174-08-16 16:04:00,Input,NaCl 0.9%,13.482634603977203,ml,inputevents
+15011665,24072156,2174-08-16 16:04:00,Input,Nicardipine,6.741318240528926,mg,inputevents
+15011665,24072156,2174-08-16 16:04:00,Input,IVF ingredient,13.482634603977203,ml,ingredientevents
+15011665,24072156,2174-08-16 16:04:00,Input,Water,13.482634603977203,ml,ingredientevents
+15011665,24072156,2174-08-16 16:21:00,Input,Dextrose 5%,125.00000381469728,ml,inputevents
+15011665,24072156,2174-08-16 16:21:00,Input,Water,125.00000381469728,ml,ingredientevents
+15011665,24072156,2174-08-16 16:21:00,Input,IVF ingredient,125.00000381469728,ml,ingredientevents
+15011665,24072156,2174-08-16 16:21:00,Input,Calories,21.25000047683716,Kcal,ingredientevents
+15011665,24072156,2174-08-16 16:21:00,Input,Mannitol,49.99999809265137,grams,inputevents
+15011665,24072156,2174-08-16 16:57:00,Input,Calories,3.718964338302612,Kcal,ingredientevents
+15011665,24072156,2174-08-16 16:57:00,Input,Propofol,33.808767795562744,mg,inputevents
+15011665,24072156,2174-08-16 16:57:00,Input,Water,3.380877017974853,ml,ingredientevents
+15011665,24072156,2174-08-16 16:57:00,Input,IVF ingredient,3.380877017974853,ml,ingredientevents
+15011665,24072156,2174-08-16 16:57:00,Input,Solution,3.380877017974853,ml,inputevents
+15011665,24072156,2174-08-16 17:00:00,Output,Foley,325.0,ml,outputevents
+15011665,24072156,2174-08-16 17:02:00,Input,NaCl 0.9%,34.09029275178909,ml,inputevents
+15011665,24072156,2174-08-16 17:02:00,Input,Water,34.09029275178909,ml,ingredientevents
+15011665,24072156,2174-08-16 17:02:00,Input,IVF ingredient,34.09029275178909,ml,ingredientevents
+15011665,24072156,2174-08-16 17:02:00,Input,Nicardipine,17.045150205376558,mg,inputevents
+15011665,24072156,2174-08-16 17:06:00,DateTime Obs,Arterial line Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-16 17:06:00,DateTime Obs,20 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-16 17:06:00,DateTime Obs,Arterial line Cap Change,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-16 17:06:00,DateTime Obs,Arterial Line Dressing Change,2174-08-16 12:11:00,Date and Time,datetimeevents
+15011665,24072156,2174-08-16 17:06:00,DateTime Obs,Arterial line Tubing Change,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-16 17:07:00,Lab Result,Creatine Kinase (CK)| Blood,54.0,IU/L,labevents
+15011665,24072156,2174-08-16 17:07:00,Lab Result,"Creatine Kinase, MB Isoenzyme| Blood",,ng/mL,labevents
+15011665,24072156,2174-08-16 17:07:00,Lab Result,"Osmolality, Measured| Blood",302.0,mOsm/kg,labevents
+15011665,24072156,2174-08-16 17:07:00,Lab Result,Sodium| Blood,137.0,mEq/L,labevents
+15011665,24072156,2174-08-16 17:07:00,Lab Result,Troponin T| Blood,,ng/mL,labevents
+15011665,24072156,2174-08-16 17:30:00,Procedure,CT scan,1.0,,procedureevents
+15011665,24072156,2174-08-16 17:30:00,Procedure,CT scan,1.0,,procedureevents
+15011665,24072156,2174-08-16 18:00:00,Prescription,0.9% Sodium Chloride,250,mL,prescriptions
+15011665,24072156,2174-08-16 18:00:00,Output,Foley,200.0,ml,outputevents
+15011665,24072156,2174-08-16 18:00:00,Pharmacy,Phenytoin,,NaN,pharmacy
+15011665,24072156,2174-08-16 18:00:00,Prescription,Phenytoin Sodium,1000,mg,prescriptions
+15011665,24072156,2174-08-16 19:00:00,Prescription,Fentanyl Citrate,25-100,mcg,prescriptions
+15011665,24072156,2174-08-16 19:00:00,Output,Oral Gastric,50.0,ml,outputevents
+15011665,24072156,2174-08-16 19:00:00,Pharmacy,Fentanyl Citrate,,NaN,pharmacy
+15011665,24072156,2174-08-16 19:00:00,Output,Foley,280.0,ml,outputevents
+15011665,24072156,2174-08-16 19:11:00,Input,Water,34.56596800684929,ml,ingredientevents
+15011665,24072156,2174-08-16 19:11:00,Input,IVF ingredient,34.56596800684929,ml,ingredientevents
+15011665,24072156,2174-08-16 19:11:00,Input,NaCl 0.9%,34.56596800684929,ml,inputevents
+15011665,24072156,2174-08-16 19:11:00,Input,Nicardipine,17.282988876104355,mg,inputevents
+15011665,24072156,2174-08-16 19:51:00,Input,Dilantin,1000.0,mg,inputevents
+15011665,24072156,2174-08-16 19:51:00,Input,Piggyback,249.99999046325684,ml,inputevents
+15011665,24072156,2174-08-16 19:51:00,Input,IVF ingredient,249.99999046325684,ml,ingredientevents
+15011665,24072156,2174-08-16 19:51:00,Input,Water,249.99999046325684,ml,ingredientevents
+15011665,24072156,2174-08-16 20:00:00,Prescription,Docusate Sodium (Liquid),100,mg,prescriptions
+15011665,24072156,2174-08-16 20:00:00,DateTime Obs,20 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-16 20:00:00,DateTime Obs,Arterial line Tubing Change,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-16 20:00:00,DateTime Obs,Arterial line Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-16 20:00:00,DateTime Obs,Arterial Line Dressing Change,2174-08-16 12:11:00,Date and Time,datetimeevents
+15011665,24072156,2174-08-16 20:00:00,DateTime Obs,Arterial line Cap Change,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-16 20:00:00,Pharmacy,Docusate Sodium (Liquid),,NaN,pharmacy
+15011665,24072156,2174-08-16 20:00:00,Pharmacy,Chlorhexidine Gluconate 0.12% Oral Rinse,,NaN,pharmacy
+15011665,24072156,2174-08-16 20:00:00,Prescription,Chlorhexidine Gluconate 0.12% Oral Rinse,15,mL,prescriptions
+15011665,24072156,2174-08-16 20:30:00,Input,GT Flush,20.0,ml,inputevents
+15011665,24072156,2174-08-16 20:30:00,Input,Water,40.0,ml,ingredientevents
+15011665,24072156,2174-08-16 20:30:00,Input,Oral/Gastric Ingredient,20.0,ml,ingredientevents
+15011665,24072156,2174-08-16 20:30:00,Input,Water,20.0,ml,ingredientevents
+15011665,24072156,2174-08-16 20:30:00,Input,Oral/Gastric Ingredient,40.0,ml,ingredientevents
+15011665,24072156,2174-08-16 20:30:00,Input,Gastric Meds,40.0,ml,inputevents
+15011665,24072156,2174-08-16 20:30:00,Lab Result,Urobilinogen| Urine,,mg/dL,labevents
+15011665,24072156,2174-08-16 20:30:00,Lab Result,Bacteria| Urine,,,labevents
+15011665,24072156,2174-08-16 20:30:00,Lab Result,Bilirubin| Urine,,mg/dL,labevents
+15011665,24072156,2174-08-16 20:30:00,Lab Result,Blood| Urine,,,labevents
+15011665,24072156,2174-08-16 20:30:00,Lab Result,Epithelial Cells| Urine,,#/hpf,labevents
+15011665,24072156,2174-08-16 20:30:00,Lab Result,Glucose| Urine,,mg/dL,labevents
+15011665,24072156,2174-08-16 20:30:00,Lab Result,WBC| Urine,,#/hpf,labevents
+15011665,24072156,2174-08-16 20:30:00,Lab Result,Ketone| Urine,,mg/dL,labevents
+15011665,24072156,2174-08-16 20:30:00,Lab Result,Leukocytes| Urine,,,labevents
+15011665,24072156,2174-08-16 20:30:00,Lab Result,Yeast| Urine,,,labevents
+15011665,24072156,2174-08-16 20:30:00,Lab Result,pH| Urine,6.5,units,labevents
+15011665,24072156,2174-08-16 20:30:00,Lab Result,Urine Color| Urine,,,labevents
+15011665,24072156,2174-08-16 20:30:00,Lab Result,Nitrite| Urine,,,labevents
+15011665,24072156,2174-08-16 20:30:00,Lab Result,Specific Gravity| Urine,1.038, ,labevents
+15011665,24072156,2174-08-16 20:30:00,Lab Result,RBC| Urine,,#/hpf,labevents
+15011665,24072156,2174-08-16 20:30:00,Lab Result,Urine Appearance| Urine,,,labevents
+15011665,24072156,2174-08-16 20:30:00,Lab Result,Protein| Urine,,mg/dL,labevents
+15011665,24072156,2174-08-16 20:39:00,Procedure,Blood Cultured,1.0,,procedureevents
+15011665,24072156,2174-08-16 20:39:00,Procedure,Blood Cultured,1.0,,procedureevents
+15011665,24072156,2174-08-16 20:39:00,Procedure,Urine Culture,1.0,,procedureevents
+15011665,24072156,2174-08-16 20:39:00,Procedure,Urine Culture,1.0,,procedureevents
+15011665,24072156,2174-08-16 20:40:00,Output,Foley,280.0,ml,outputevents
+15011665,24072156,2174-08-16 20:49:00,DateTime Obs,20 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-16 20:56:00,Input,Insulin - Regular,4.0,units,inputevents
+15011665,24072156,2174-08-16 21:00:00,Input,IVF ingredient,19.30044111609459,ml,ingredientevents
+15011665,24072156,2174-08-16 21:00:00,Prescription,Acetaminophen,325-650,mg,prescriptions
+15011665,24072156,2174-08-16 21:00:00,Input,Water,19.30044111609459,ml,ingredientevents
+15011665,24072156,2174-08-16 21:00:00,Pharmacy,Acetaminophen,,NaN,pharmacy
+15011665,24072156,2174-08-16 21:00:00,Input,NaCl 0.9%,19.30044111609459,ml,inputevents
+15011665,24072156,2174-08-16 21:00:00,Pharmacy,Acetaminophen,,NaN,pharmacy
+15011665,24072156,2174-08-16 21:00:00,Input,Nicardipine,9.650223073549569,mg,inputevents
+15011665,24072156,2174-08-16 21:00:00,Prescription,Acetaminophen,325-650,mg,prescriptions
+15011665,24072156,2174-08-16 21:28:00,Output,Foley,50.0,ml,outputevents
+15011665,24072156,2174-08-16 21:30:00,Input,Water,249.99999046325684,ml,ingredientevents
+15011665,24072156,2174-08-16 21:30:00,Input,IVF ingredient,249.99999046325684,ml,ingredientevents
+15011665,24072156,2174-08-16 21:30:00,Input,Piggyback,249.99999046325684,ml,inputevents
+15011665,24072156,2174-08-16 21:39:00,Procedure,Sputum Culture,1.0,,procedureevents
+15011665,24072156,2174-08-16 21:39:00,Procedure,Sputum Culture,1.0,,procedureevents
+15011665,24072156,2174-08-16 22:00:00,DateTime Obs,18 Gauge Insertion Date,2174-08-16 22:14:00,Date,datetimeevents
+15011665,24072156,2174-08-16 22:00:00,Procedure,18 Gauge,4124.0,min,procedureevents
+15011665,24072156,2174-08-16 22:00:00,Procedure,18 Gauge,4124.0,min,procedureevents
+15011665,24072156,2174-08-16 22:00:00,Output,Foley,175.0,ml,outputevents
+15011665,24072156,2174-08-16 22:00:00,DateTime Obs,20 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-16 22:03:00,Lab Result,Magnesium| Blood,2.0,mg/dL,labevents
+15011665,24072156,2174-08-16 22:03:00,Lab Result,Sodium| Blood,138.0,mEq/L,labevents
+15011665,24072156,2174-08-16 22:03:00,Lab Result,"Osmolality, Measured| Blood",313.0,mOsm/kg,labevents
+15011665,24072156,2174-08-16 22:03:00,Lab Result,Potassium| Blood,4.1,mEq/L,labevents
+15011665,24072156,2174-08-16 22:05:00,Input,NaCl 0.9%,1000.000027537346,ml,inputevents
+15011665,24072156,2174-08-16 22:05:00,Input,IVF ingredient,1000.000027537346,ml,ingredientevents
+15011665,24072156,2174-08-16 22:05:00,Input,Water,1000.000027537346,ml,ingredientevents
+15011665,24072156,2174-08-16 22:05:00,Input,Potassium Chloride,19.999999586492777,mEq,inputevents
+15011665,24072156,2174-08-16 22:13:00,Input,IVF ingredient,11.85805344581604,ml,ingredientevents
+15011665,24072156,2174-08-16 22:13:00,Input,Nicardipine,5.9290280332788825,mg,inputevents
+15011665,24072156,2174-08-16 22:13:00,Input,NaCl 0.9%,11.85805344581604,ml,inputevents
+15011665,24072156,2174-08-16 22:13:00,Input,Water,11.85805344581604,ml,ingredientevents
+15011665,24072156,2174-08-16 22:28:00,Procedure,20 Gauge,2563.0,min,procedureevents
+15011665,24072156,2174-08-16 22:28:00,DateTime Obs,20 Gauge Insertion Date,2174-08-16 22:29:00,Date,datetimeevents
+15011665,24072156,2174-08-16 22:28:00,Procedure,20 Gauge,2563.0,min,procedureevents
+15011665,24072156,2174-08-16 23:00:00,Output,Foley,200.0,ml,outputevents
+15011665,24072156,2174-08-16 23:09:00,Input,NaCl 0.9%,10.633597150444984,ml,inputevents
+15011665,24072156,2174-08-16 23:09:00,Input,IVF ingredient,10.633597150444984,ml,ingredientevents
+15011665,24072156,2174-08-16 23:09:00,Input,Nicardipine,5.316800037689973,mg,inputevents
+15011665,24072156,2174-08-16 23:09:00,Input,Water,10.633597150444984,ml,ingredientevents
+15011665,24072156,2174-08-16 23:13:00,DateTime Obs,20 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-17 00:00:00,Output,Oral Gastric,0.0,ml,outputevents
+15011665,24072156,2174-08-17 00:00:00,Output,Foley,60.0,ml,outputevents
+15011665,24072156,2174-08-17 00:16:00,Input,Water,5.501960843801498,ml,ingredientevents
+15011665,24072156,2174-08-17 00:16:00,Input,IVF ingredient,5.501960843801498,ml,ingredientevents
+15011665,24072156,2174-08-17 00:16:00,Input,Nicardipine,2.750980987912044,mg,inputevents
+15011665,24072156,2174-08-17 00:16:00,Input,NaCl 0.9%,5.501960843801498,ml,inputevents
+15011665,24072156,2174-08-17 00:34:00,Input,Piggyback,249.99999046325684,ml,inputevents
+15011665,24072156,2174-08-17 00:34:00,Input,Water,249.99999046325684,ml,ingredientevents
+15011665,24072156,2174-08-17 00:34:00,Input,IVF ingredient,249.99999046325684,ml,ingredientevents
+15011665,24072156,2174-08-17 00:39:00,DateTime Obs,20 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-17 00:39:00,DateTime Obs,Arterial line Tubing Change,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-17 00:39:00,DateTime Obs,18 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-17 00:39:00,DateTime Obs,Arterial line Cap Change,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-17 00:39:00,DateTime Obs,Arterial Line Dressing Change,2174-08-16 12:11:00,Date and Time,datetimeevents
+15011665,24072156,2174-08-17 00:39:00,DateTime Obs,Arterial line Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-17 00:40:00,DateTime Obs,20 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-17 01:06:00,Output,Foley,280.0,ml,outputevents
+15011665,24072156,2174-08-17 01:08:00,Input,Water,1.3225867412984371,ml,ingredientevents
+15011665,24072156,2174-08-17 01:08:00,Input,Nicardipine,0.661293506709626,mg,inputevents
+15011665,24072156,2174-08-17 01:08:00,Input,NaCl 0.9%,1.3225867412984371,ml,inputevents
+15011665,24072156,2174-08-17 01:08:00,Input,IVF ingredient,1.3225867412984371,ml,ingredientevents
+15011665,24072156,2174-08-17 01:55:00,Input,Water,2.4292352497577667,ml,ingredientevents
+15011665,24072156,2174-08-17 01:55:00,Input,Nicardipine,1.2146176777605433,mg,inputevents
+15011665,24072156,2174-08-17 01:55:00,Input,NaCl 0.9%,2.4292352497577667,ml,inputevents
+15011665,24072156,2174-08-17 01:55:00,Input,IVF ingredient,2.4292352497577667,ml,ingredientevents
+15011665,24072156,2174-08-17 02:00:00,Prescription,Phenytoin Sodium,100,mg,prescriptions
+15011665,24072156,2174-08-17 02:00:00,Pharmacy,Phenytoin,,NaN,pharmacy
+15011665,24072156,2174-08-17 02:00:00,Prescription,0.9% Sodium Chloride,100,mL,prescriptions
+15011665,24072156,2174-08-17 02:00:00,Output,Foley,300.0,ml,outputevents
+15011665,24072156,2174-08-17 02:37:00,Input,Dilantin,100.00000149011612,mg,inputevents
+15011665,24072156,2174-08-17 02:38:00,Input,Water,99.9999976158142,ml,ingredientevents
+15011665,24072156,2174-08-17 02:38:00,Input,Piggyback,99.9999976158142,ml,inputevents
+15011665,24072156,2174-08-17 02:38:00,Input,IVF ingredient,99.9999976158142,ml,ingredientevents
+15011665,24072156,2174-08-17 02:41:00,Lab Result,PTT| Blood,28.4,sec,labevents
+15011665,24072156,2174-08-17 02:41:00,Lab Result,Red Blood Cells| Blood,3.54,m/uL,labevents
+15011665,24072156,2174-08-17 02:41:00,Lab Result,RDW| Blood,13.3,%,labevents
+15011665,24072156,2174-08-17 02:41:00,Lab Result,Platelet Count| Blood,245.0,K/uL,labevents
+15011665,24072156,2174-08-17 02:41:00,Lab Result,MCV| Blood,92.0,fL,labevents
+15011665,24072156,2174-08-17 02:41:00,Lab Result,MCHC| Blood,35.9,%,labevents
+15011665,24072156,2174-08-17 02:41:00,Lab Result,MCH| Blood,32.8,pg,labevents
+15011665,24072156,2174-08-17 02:41:00,Lab Result,Hemoglobin| Blood,11.6,g/dL,labevents
+15011665,24072156,2174-08-17 02:41:00,Lab Result,Hematocrit| Blood,32.4,%,labevents
+15011665,24072156,2174-08-17 02:41:00,Lab Result,PT| Blood,12.9,sec,labevents
+15011665,24072156,2174-08-17 02:41:00,Lab Result,INR(PT)| Blood,1.1,,labevents
+15011665,24072156,2174-08-17 02:41:00,Lab Result,Urea Nitrogen| Blood,15.0,mg/dL,labevents
+15011665,24072156,2174-08-17 02:41:00,Lab Result,Sodium| Blood,140.0,mEq/L,labevents
+15011665,24072156,2174-08-17 02:41:00,Lab Result,Potassium| Blood,4.4,mEq/L,labevents
+15011665,24072156,2174-08-17 02:41:00,Lab Result,White Blood Cells| Blood,12.4,K/uL,labevents
+15011665,24072156,2174-08-17 02:41:00,Lab Result,Phosphate| Blood,2.4,mg/dL,labevents
+15011665,24072156,2174-08-17 02:41:00,Lab Result,Magnesium| Blood,2.2,mg/dL,labevents
+15011665,24072156,2174-08-17 02:41:00,Lab Result,Glucose| Blood,165.0,mg/dL,labevents
+15011665,24072156,2174-08-17 02:41:00,Lab Result,Creatinine| Blood,0.8,mg/dL,labevents
+15011665,24072156,2174-08-17 02:41:00,Lab Result,"Creatine Kinase, MB Isoenzyme| Blood",,ng/mL,labevents
+15011665,24072156,2174-08-17 02:41:00,Lab Result,Creatine Kinase (CK)| Blood,68.0,IU/L,labevents
+15011665,24072156,2174-08-17 02:41:00,Lab Result,Chloride| Blood,107.0,mEq/L,labevents
+15011665,24072156,2174-08-17 02:41:00,Lab Result,"Calcium, Total| Blood",8.7,mg/dL,labevents
+15011665,24072156,2174-08-17 02:41:00,Lab Result,Bicarbonate| Blood,25.0,mEq/L,labevents
+15011665,24072156,2174-08-17 02:41:00,Lab Result,Anion Gap| Blood,12.0,mEq/L,labevents
+15011665,24072156,2174-08-17 02:41:00,Input,Nicardipine,9.24165624383022,mg,inputevents
+15011665,24072156,2174-08-17 02:41:00,Input,NaCl 0.9%,18.48331168293953,ml,inputevents
+15011665,24072156,2174-08-17 02:41:00,Input,IVF ingredient,18.48331168293953,ml,ingredientevents
+15011665,24072156,2174-08-17 02:41:00,Input,Water,18.48331168293953,ml,ingredientevents
+15011665,24072156,2174-08-17 02:41:00,Lab Result,"Osmolality, Measured| Blood",313.0,mOsm/kg,labevents
+15011665,24072156,2174-08-17 04:15:00,Output,Foley,260.0,ml,outputevents
+15011665,24072156,2174-08-17 04:25:00,DateTime Obs,Arterial line Cap Change,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-17 04:25:00,DateTime Obs,Arterial Line Dressing Change,2174-08-16 12:11:00,Date and Time,datetimeevents
+15011665,24072156,2174-08-17 04:25:00,DateTime Obs,Arterial line Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-17 04:25:00,DateTime Obs,Arterial line Tubing Change,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-17 04:26:00,DateTime Obs,20 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-17 04:26:00,DateTime Obs,18 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-17 05:00:00,Output,Foley,225.0,ml,outputevents
+15011665,24072156,2174-08-17 05:36:00,Input,Water,23.288974910974503,ml,ingredientevents
+15011665,24072156,2174-08-17 05:36:00,Input,IVF ingredient,23.288974910974503,ml,ingredientevents
+15011665,24072156,2174-08-17 05:36:00,Input,NaCl 0.9%,23.288974910974503,ml,inputevents
+15011665,24072156,2174-08-17 05:36:00,Input,Nicardipine,11.644487669400403,mg,inputevents
+15011665,24072156,2174-08-17 06:21:00,Input,Water,250.00000095367432,ml,ingredientevents
+15011665,24072156,2174-08-17 06:21:00,Input,IVF ingredient,250.00000095367432,ml,ingredientevents
+15011665,24072156,2174-08-17 06:21:00,Input,Piggyback,250.00000095367432,ml,inputevents
+15011665,24072156,2174-08-17 07:02:00,Output,Foley,275.0,ml,outputevents
+15011665,24072156,2174-08-17 07:27:00,Lab Result,"Osmolality, Measured| Blood",313.0,mOsm/kg,labevents
+15011665,24072156,2174-08-17 07:27:00,Lab Result,Sodium| Blood,141.0,mEq/L,labevents
+15011665,24072156,2174-08-17 08:00:00,Output,Foley,230.0,ml,outputevents
+15011665,24072156,2174-08-17 08:01:00,DateTime Obs,18 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-17 08:01:00,DateTime Obs,Arterial line Tubing Change,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-17 08:01:00,DateTime Obs,Arterial line Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-17 08:01:00,DateTime Obs,20 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-17 08:01:00,DateTime Obs,Arterial Line Dressing Change,2174-08-16 12:11:00,Date and Time,datetimeevents
+15011665,24072156,2174-08-17 08:01:00,DateTime Obs,Arterial line Cap Change,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-17 08:03:00,Input,Water,29.100896537303925,ml,ingredientevents
+15011665,24072156,2174-08-17 08:03:00,Input,IVF ingredient,29.100896537303925,ml,ingredientevents
+15011665,24072156,2174-08-17 08:03:00,Input,NaCl 0.9%,29.100896537303925,ml,inputevents
+15011665,24072156,2174-08-17 08:03:00,Input,Nicardipine,14.550448642694391,mg,inputevents
+15011665,24072156,2174-08-17 08:20:00,Input,Water,10.0,ml,ingredientevents
+15011665,24072156,2174-08-17 08:20:00,Input,Solution,10.0,ml,inputevents
+15011665,24072156,2174-08-17 08:20:00,Input,Pantoprazole (Protonix),1.0,dose,inputevents
+15011665,24072156,2174-08-17 08:20:00,Input,IVF ingredient,10.0,ml,ingredientevents
+15011665,24072156,2174-08-17 09:00:00,Output,Foley,240.0,ml,outputevents
+15011665,24072156,2174-08-17 09:19:00,Input,Piggyback,250.00000095367432,ml,inputevents
+15011665,24072156,2174-08-17 09:19:00,Input,Water,250.00000095367432,ml,ingredientevents
+15011665,24072156,2174-08-17 09:19:00,Input,IVF ingredient,250.00000095367432,ml,ingredientevents
+15011665,24072156,2174-08-17 10:00:00,Output,Foley,170.0,ml,outputevents
+15011665,24072156,2174-08-17 10:04:00,Input,IVF ingredient,997.3000140190125,ml,ingredientevents
+15011665,24072156,2174-08-17 10:04:00,Input,NaCl 0.9%,997.3000140190125,ml,inputevents
+15011665,24072156,2174-08-17 10:04:00,Input,Potassium Chloride,19.945999778807163,mEq,inputevents
+15011665,24072156,2174-08-17 10:04:00,Input,Water,997.3000140190125,ml,ingredientevents
+15011665,24072156,2174-08-17 10:35:00,Input,Water,99.9999976158142,ml,ingredientevents
+15011665,24072156,2174-08-17 10:35:00,Input,IVF ingredient,99.9999976158142,ml,ingredientevents
+15011665,24072156,2174-08-17 10:35:00,Input,Piggyback,99.9999976158142,ml,inputevents
+15011665,24072156,2174-08-17 10:36:00,Input,Nicardipine,2.2192880060174502,mg,inputevents
+15011665,24072156,2174-08-17 10:36:00,Input,Water,4.438576430082321,ml,ingredientevents
+15011665,24072156,2174-08-17 10:36:00,Input,IVF ingredient,4.438576430082321,ml,ingredientevents
+15011665,24072156,2174-08-17 10:36:00,Input,NaCl 0.9%,4.438576430082321,ml,inputevents
+15011665,24072156,2174-08-17 10:57:00,Input,IVF ingredient,6.3423797488212585,ml,ingredientevents
+15011665,24072156,2174-08-17 10:57:00,Input,Water,6.3423797488212585,ml,ingredientevents
+15011665,24072156,2174-08-17 10:57:00,Input,Nicardipine,3.1711897463537757,mg,inputevents
+15011665,24072156,2174-08-17 10:57:00,Input,NaCl 0.9%,6.3423797488212585,ml,inputevents
+15011665,24072156,2174-08-17 11:00:00,Output,Foley,250.0,ml,outputevents
+15011665,24072156,2174-08-17 11:01:00,Lab Result,"Osmolality, Measured| Blood",318.0,mOsm/kg,labevents
+15011665,24072156,2174-08-17 11:01:00,Lab Result,Albumin| Blood,4.0,g/dL,labevents
+15011665,24072156,2174-08-17 11:01:00,Lab Result,Creatine Kinase (CK)| Blood,105.0,IU/L,labevents
+15011665,24072156,2174-08-17 11:01:00,Lab Result,"Creatine Kinase, MB Isoenzyme| Blood",2.0,ng/mL,labevents
+15011665,24072156,2174-08-17 11:01:00,Lab Result,Phenytoin| Blood,30.1,ug/mL,labevents
+15011665,24072156,2174-08-17 11:01:00,Lab Result,Sodium| Blood,146.0,mEq/L,labevents
+15011665,24072156,2174-08-17 11:22:00,Input,Water,23.131239652633667,ml,ingredientevents
+15011665,24072156,2174-08-17 11:22:00,Input,IVF ingredient,23.131239652633667,ml,ingredientevents
+15011665,24072156,2174-08-17 11:22:00,Input,NaCl 0.9%,23.131239652633667,ml,inputevents
+15011665,24072156,2174-08-17 11:22:00,Input,Nicardipine,11.56561978859827,mg,inputevents
+15011665,24072156,2174-08-17 12:00:00,Pharmacy,Famotidine,,NaN,pharmacy
+15011665,24072156,2174-08-17 12:00:00,Output,Foley,200.0,ml,outputevents
+15011665,24072156,2174-08-17 12:00:00,Prescription,Iso-Osmotic Sodium Chloride,50,mL,prescriptions
+15011665,24072156,2174-08-17 12:00:00,Prescription,Famotidine,20,mg,prescriptions
+15011665,24072156,2174-08-17 12:20:00,Procedure,Extubation,1.0,,procedureevents
+15011665,24072156,2174-08-17 12:20:00,Procedure,Extubation,1.0,,procedureevents
+15011665,24072156,2174-08-17 12:43:00,Input,NaCl 0.9%,17.71597045660019,ml,inputevents
+15011665,24072156,2174-08-17 12:43:00,Input,Nicardipine,8.857985158101656,mg,inputevents
+15011665,24072156,2174-08-17 12:43:00,Input,IVF ingredient,17.71597045660019,ml,ingredientevents
+15011665,24072156,2174-08-17 12:43:00,Input,Water,17.71597045660019,ml,ingredientevents
+15011665,24072156,2174-08-17 13:00:00,Output,Foley,175.0,ml,outputevents
+15011665,24072156,2174-08-17 13:07:00,Input,Piggyback,250.00000095367432,ml,inputevents
+15011665,24072156,2174-08-17 13:07:00,Input,Water,250.00000095367432,ml,ingredientevents
+15011665,24072156,2174-08-17 13:07:00,Input,IVF ingredient,250.00000095367432,ml,ingredientevents
+15011665,24072156,2174-08-17 13:50:00,Input,IVF ingredient,5.8226000517606735,ml,ingredientevents
+15011665,24072156,2174-08-17 13:50:00,Input,Nicardipine,2.911299816332757,mg,inputevents
+15011665,24072156,2174-08-17 13:50:00,Input,NaCl 0.9%,5.8226000517606735,ml,inputevents
+15011665,24072156,2174-08-17 13:50:00,Input,Water,5.8226000517606735,ml,ingredientevents
+15011665,24072156,2174-08-17 14:00:00,Output,Foley,275.0,ml,outputevents
+15011665,24072156,2174-08-17 14:15:00,Input,Nicardipine,4.871541183092631,mg,inputevents
+15011665,24072156,2174-08-17 14:15:00,Input,NaCl 0.9%,9.743083506822586,ml,inputevents
+15011665,24072156,2174-08-17 14:15:00,Input,IVF ingredient,9.743083506822586,ml,ingredientevents
+15011665,24072156,2174-08-17 14:15:00,Input,Water,9.743083506822586,ml,ingredientevents
+15011665,24072156,2174-08-17 15:00:00,Output,Foley,275.0,ml,outputevents
+15011665,24072156,2174-08-17 15:00:00,Lab Result,"Osmolality, Measured| Blood",321.0,mOsm/kg,labevents
+15011665,24072156,2174-08-17 15:00:00,Lab Result,Glucose| Blood,174.0,mg/dL,labevents
+15011665,24072156,2174-08-17 15:00:00,Lab Result,Sodium| Blood,148.0,mEq/L,labevents
+15011665,24072156,2174-08-17 15:01:00,Input,IVF ingredient,3.417138308286667,ml,ingredientevents
+15011665,24072156,2174-08-17 15:01:00,Input,Nicardipine,1.708568976027891,mg,inputevents
+15011665,24072156,2174-08-17 15:01:00,Input,NaCl 0.9%,3.417138308286667,ml,inputevents
+15011665,24072156,2174-08-17 15:01:00,Input,Water,3.417138308286667,ml,ingredientevents
+15011665,24072156,2174-08-17 15:19:00,Input,NaCl 0.9%,7.275069415569305,ml,inputevents
+15011665,24072156,2174-08-17 15:19:00,Input,Nicardipine,3.637534595327452,mg,inputevents
+15011665,24072156,2174-08-17 15:19:00,Input,Water,7.275069415569305,ml,ingredientevents
+15011665,24072156,2174-08-17 15:19:00,Input,IVF ingredient,7.275069415569305,ml,ingredientevents
+15011665,24072156,2174-08-17 16:00:00,Output,Foley,200.0,ml,outputevents
+15011665,24072156,2174-08-17 16:05:00,Input,NaCl 0.9%,19.878885820508003,ml,inputevents
+15011665,24072156,2174-08-17 16:05:00,Input,Nicardipine,9.939442716131452,mg,inputevents
+15011665,24072156,2174-08-17 16:05:00,Input,Water,19.878885820508003,ml,ingredientevents
+15011665,24072156,2174-08-17 16:05:00,Input,IVF ingredient,19.878885820508003,ml,ingredientevents
+15011665,24072156,2174-08-17 16:17:00,Input,Insulin - Regular,2.0,units,inputevents
+15011665,24072156,2174-08-17 16:18:00,Input,IVF ingredient,250.00000095367432,ml,ingredientevents
+15011665,24072156,2174-08-17 16:18:00,Input,Water,250.00000095367432,ml,ingredientevents
+15011665,24072156,2174-08-17 16:18:00,Input,Piggyback,250.00000095367432,ml,inputevents
+15011665,24072156,2174-08-17 17:00:00,Output,Foley,320.0,ml,outputevents
+15011665,24072156,2174-08-17 18:00:00,Output,Foley,270.0,ml,outputevents
+15011665,24072156,2174-08-17 18:30:00,Input,NaCl 0.9%,1.1077557653188703,ml,inputevents
+15011665,24072156,2174-08-17 18:30:00,Input,Nicardipine,0.5538778932532296,mg,inputevents
+15011665,24072156,2174-08-17 18:30:00,Input,Water,1.1077557653188703,ml,ingredientevents
+15011665,24072156,2174-08-17 18:30:00,Input,IVF ingredient,1.1077557653188703,ml,ingredientevents
+15011665,24072156,2174-08-17 18:37:00,Input,IVF ingredient,11.30217258632183,ml,ingredientevents
+15011665,24072156,2174-08-17 18:37:00,Input,Water,11.30217258632183,ml,ingredientevents
+15011665,24072156,2174-08-17 18:37:00,Input,Nicardipine,5.651086648867931,mg,inputevents
+15011665,24072156,2174-08-17 18:37:00,Input,NaCl 0.9%,11.30217258632183,ml,inputevents
+15011665,24072156,2174-08-17 19:00:00,Output,Foley,350.0,ml,outputevents
+15011665,24072156,2174-08-17 19:01:00,Lab Result,Glucose| Blood,99.0,mg/dL,labevents
+15011665,24072156,2174-08-17 19:01:00,Lab Result,"Osmolality, Measured| Blood",331.0,mOsm/kg,labevents
+15011665,24072156,2174-08-17 19:01:00,Lab Result,Sodium| Blood,152.0,mEq/L,labevents
+15011665,24072156,2174-08-17 19:40:00,Input,Nicardipine,15.213083010166883,mg,inputevents
+15011665,24072156,2174-08-17 19:40:00,Input,IVF ingredient,30.42616367340088,ml,ingredientevents
+15011665,24072156,2174-08-17 19:40:00,Input,Water,30.42616367340088,ml,ingredientevents
+15011665,24072156,2174-08-17 19:40:00,Input,NaCl 0.9%,30.42616367340088,ml,inputevents
+15011665,24072156,2174-08-17 19:49:00,DateTime Obs,Arterial line Cap Change,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-17 19:49:00,DateTime Obs,Arterial line Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-17 19:49:00,DateTime Obs,Arterial line Tubing Change,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-17 19:49:00,DateTime Obs,20 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-17 19:49:00,DateTime Obs,18 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-17 19:49:00,DateTime Obs,Arterial Line Dressing Change,2174-08-16 12:11:00,Date and Time,datetimeevents
+15011665,24072156,2174-08-17 20:00:00,Output,Foley,300.0,ml,outputevents
+15011665,24072156,2174-08-17 20:24:00,Input,Fentanyl,24.99999936844688,mcg,inputevents
+15011665,24072156,2174-08-17 21:00:00,Output,Foley,225.0,ml,outputevents
+15011665,24072156,2174-08-17 21:14:00,Input,Metoprolol,5.000000353902578,mg,inputevents
+15011665,24072156,2174-08-17 22:00:00,Pharmacy,Metoprolol Tartrate,,NaN,pharmacy
+15011665,24072156,2174-08-17 22:00:00,Prescription,Metoprolol Tartrate,5-10,mg,prescriptions
+15011665,24072156,2174-08-17 22:00:00,Output,Foley,250.0,ml,outputevents
+15011665,24072156,2174-08-17 22:04:00,Input,Nicardipine,17.698000425298233,mg,inputevents
+15011665,24072156,2174-08-17 22:04:00,Input,NaCl 0.9%,35.39599220454693,ml,inputevents
+15011665,24072156,2174-08-17 22:04:00,Input,IVF ingredient,35.39599220454693,ml,ingredientevents
+15011665,24072156,2174-08-17 22:04:00,Input,Water,35.39599220454693,ml,ingredientevents
+15011665,24072156,2174-08-17 22:32:00,Input,NaCl 0.9%,116.0000034570694,ml,inputevents
+15011665,24072156,2174-08-17 22:32:00,Input,Potassium Chloride,2.3200000561773777,mEq,inputevents
+15011665,24072156,2174-08-17 22:32:00,Input,IVF ingredient,116.0000034570694,ml,ingredientevents
+15011665,24072156,2174-08-17 22:32:00,Input,Water,116.0000034570694,ml,ingredientevents
+15011665,24072156,2174-08-17 22:59:00,Lab Result,"Osmolality, Measured| Blood",322.0,mOsm/kg,labevents
+15011665,24072156,2174-08-17 22:59:00,Lab Result,Sodium| Blood,156.0,mEq/L,labevents
+15011665,24072156,2174-08-17 23:00:00,Output,Foley,200.0,ml,outputevents
+15011665,24072156,2174-08-18 00:00:00,Output,Foley,275.0,ml,outputevents
+15011665,24072156,2174-08-18 00:10:00,DateTime Obs,Arterial line Cap Change,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-18 00:10:00,DateTime Obs,Arterial Line Dressing Change,2174-08-16 12:11:00,Date and Time,datetimeevents
+15011665,24072156,2174-08-18 00:10:00,DateTime Obs,Arterial line Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-18 00:10:00,DateTime Obs,Arterial line Tubing Change,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-18 00:10:00,DateTime Obs,20 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-18 00:10:00,DateTime Obs,18 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-18 01:00:00,Output,Foley,175.0,ml,outputevents
+15011665,24072156,2174-08-18 01:21:00,Input,Water,10.066366910934448,ml,ingredientevents
+15011665,24072156,2174-08-18 01:21:00,Input,IVF ingredient,10.066366910934448,ml,ingredientevents
+15011665,24072156,2174-08-18 01:21:00,Input,Nicardipine,5.033184192143381,mg,inputevents
+15011665,24072156,2174-08-18 01:21:00,Input,NaCl 0.9%,10.066366910934448,ml,inputevents
+15011665,24072156,2174-08-18 01:31:00,Lab Result,White Blood Cells| Blood,12.1,K/uL,labevents
+15011665,24072156,2174-08-18 01:31:00,Lab Result,Anion Gap| Blood,12.0,mEq/L,labevents
+15011665,24072156,2174-08-18 01:31:00,Lab Result,Bicarbonate| Blood,29.0,mEq/L,labevents
+15011665,24072156,2174-08-18 01:31:00,Lab Result,Chloride| Blood,119.0,mEq/L,labevents
+15011665,24072156,2174-08-18 01:31:00,Lab Result,Creatinine| Blood,0.8,mg/dL,labevents
+15011665,24072156,2174-08-18 01:31:00,Lab Result,Glucose| Blood,145.0,mg/dL,labevents
+15011665,24072156,2174-08-18 01:31:00,Lab Result,Magnesium| Blood,2.5,mg/dL,labevents
+15011665,24072156,2174-08-18 01:31:00,Lab Result,Phenytoin| Blood,28.9,ug/mL,labevents
+15011665,24072156,2174-08-18 01:31:00,Lab Result,Phosphate| Blood,2.1,mg/dL,labevents
+15011665,24072156,2174-08-18 01:31:00,Lab Result,Red Blood Cells| Blood,3.57,m/uL,labevents
+15011665,24072156,2174-08-18 01:31:00,Lab Result,"Calcium, Total| Blood",9.2,mg/dL,labevents
+15011665,24072156,2174-08-18 01:31:00,Lab Result,Urea Nitrogen| Blood,16.0,mg/dL,labevents
+15011665,24072156,2174-08-18 01:31:00,Lab Result,Potassium| Blood,3.7,mEq/L,labevents
+15011665,24072156,2174-08-18 01:31:00,Lab Result,Hematocrit| Blood,33.0,%,labevents
+15011665,24072156,2174-08-18 01:31:00,Lab Result,Hemoglobin| Blood,11.3,g/dL,labevents
+15011665,24072156,2174-08-18 01:31:00,Lab Result,MCH| Blood,31.8,pg,labevents
+15011665,24072156,2174-08-18 01:31:00,Lab Result,Sodium| Blood,156.0,mEq/L,labevents
+15011665,24072156,2174-08-18 01:31:00,Lab Result,MCHC| Blood,34.4,%,labevents
+15011665,24072156,2174-08-18 01:31:00,Lab Result,MCV| Blood,92.0,fL,labevents
+15011665,24072156,2174-08-18 01:31:00,Lab Result,Platelet Count| Blood,247.0,K/uL,labevents
+15011665,24072156,2174-08-18 01:31:00,Lab Result,RDW| Blood,13.5,%,labevents
+15011665,24072156,2174-08-18 01:53:00,Input,Fentanyl,24.99999936844688,mcg,inputevents
+15011665,24072156,2174-08-18 02:00:00,Output,Foley,150.0,ml,outputevents
+15011665,24072156,2174-08-18 02:17:00,Input,Nicardipine,28.11576573003549,mg,inputevents
+15011665,24072156,2174-08-18 02:17:00,Input,NaCl 0.9%,56.231520652771,ml,inputevents
+15011665,24072156,2174-08-18 02:17:00,Input,Water,56.231520652771,ml,ingredientevents
+15011665,24072156,2174-08-18 02:17:00,Input,IVF ingredient,56.231520652771,ml,ingredientevents
+15011665,24072156,2174-08-18 02:29:00,Input,Metoprolol,5.000000353902578,mg,inputevents
+15011665,24072156,2174-08-18 02:49:00,Input,IVF ingredient,20.83333283662796,ml,ingredientevents
+15011665,24072156,2174-08-18 02:49:00,Input,Calories,3.541666641831398,Kcal,ingredientevents
+15011665,24072156,2174-08-18 02:49:00,Input,Dextrose 5%,20.83333283662796,ml,inputevents
+15011665,24072156,2174-08-18 02:49:00,Input,Water,20.83333283662796,ml,ingredientevents
+15011665,24072156,2174-08-18 02:57:00,Lab Result,Sodium| Blood,155.0,mEq/L,labevents
+15011665,24072156,2174-08-18 02:57:00,Lab Result,"Osmolality, Measured| Blood",326.0,mOsm/kg,labevents
+15011665,24072156,2174-08-18 03:00:00,Output,Foley,125.0,ml,outputevents
+15011665,24072156,2174-08-18 03:00:00,Pharmacy,,,NaN,pharmacy
+15011665,24072156,2174-08-18 03:00:00,Prescription,5% Dextrose,1000,mL,prescriptions
+15011665,24072156,2174-08-18 03:45:00,DateTime Obs,Arterial line Cap Change,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-18 03:45:00,DateTime Obs,Arterial line Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-18 03:45:00,DateTime Obs,Arterial line Tubing Change,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-18 03:45:00,DateTime Obs,20 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-18 03:45:00,DateTime Obs,18 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-18 03:45:00,DateTime Obs,Arterial Line Dressing Change,2174-08-16 12:11:00,Date and Time,datetimeevents
+15011665,24072156,2174-08-18 03:49:00,Input,K Phos,15.00000098531018,mmol,inputevents
+15011665,24072156,2174-08-18 03:49:00,Input,Dextrose 5%,500.0000149011612,ml,inputevents
+15011665,24072156,2174-08-18 03:49:00,Input,Water,500.0000149011612,ml,ingredientevents
+15011665,24072156,2174-08-18 03:49:00,Input,Calories,85.00000275671482,Kcal,ingredientevents
+15011665,24072156,2174-08-18 03:49:00,Input,IVF ingredient,500.0000149011612,ml,ingredientevents
+15011665,24072156,2174-08-18 04:00:00,Prescription,Potassium Phosphate,15,mmol,prescriptions
+15011665,24072156,2174-08-18 04:00:00,Prescription,Potassium Phosphate,15-30,mmol,prescriptions
+15011665,24072156,2174-08-18 04:00:00,Prescription,5% Dextrose,500,mL,prescriptions
+15011665,24072156,2174-08-18 04:00:00,Pharmacy,Potassium Phosphate,,NaN,pharmacy
+15011665,24072156,2174-08-18 04:00:00,Pharmacy,Potassium Phosphate,,NaN,pharmacy
+15011665,24072156,2174-08-18 04:00:00,Prescription,5% Dextrose,500-500,mL,prescriptions
+15011665,24072156,2174-08-18 04:00:00,Output,Foley,150.0,ml,outputevents
+15011665,24072156,2174-08-18 05:00:00,Output,Foley,150.0,ml,outputevents
+15011665,24072156,2174-08-18 06:00:00,Output,Foley,150.0,ml,outputevents
+15011665,24072156,2174-08-18 06:43:00,Lab Result,"Osmolality, Measured| Blood",326.0,mOsm/kg,labevents
+15011665,24072156,2174-08-18 06:43:00,Input,IVF ingredient,15.817934036254885,ml,ingredientevents
+15011665,24072156,2174-08-18 06:43:00,Lab Result,Sodium| Blood,158.0,mEq/L,labevents
+15011665,24072156,2174-08-18 06:43:00,Input,Nicardipine,7.908968662377447,mg,inputevents
+15011665,24072156,2174-08-18 06:43:00,Input,NaCl 0.9%,15.817934036254885,ml,inputevents
+15011665,24072156,2174-08-18 06:43:00,Input,Water,15.817934036254885,ml,ingredientevents
+15011665,24072156,2174-08-18 07:00:00,Output,Foley,125.0,ml,outputevents
+15011665,24072156,2174-08-18 07:15:00,Input,Water,81.33333575725555,ml,ingredientevents
+15011665,24072156,2174-08-18 07:15:00,Input,IVF ingredient,81.33333575725555,ml,ingredientevents
+15011665,24072156,2174-08-18 07:15:00,Input,NaCl 0.9%,81.33333575725555,ml,inputevents
+15011665,24072156,2174-08-18 08:00:00,Pharmacy,,,NaN,pharmacy
+15011665,24072156,2174-08-18 08:00:00,Prescription,0.9% Sodium Chloride,1000,mL,prescriptions
+15011665,24072156,2174-08-18 08:00:00,Output,Foley,80.0,ml,outputevents
+15011665,24072156,2174-08-18 08:00:00,Pharmacy,Mannitol 20%,,NaN,pharmacy
+15011665,24072156,2174-08-18 08:00:00,Pharmacy,Heparin,,NaN,pharmacy
+15011665,24072156,2174-08-18 08:00:00,Prescription,Heparin,5000,UNIT,prescriptions
+15011665,24072156,2174-08-18 08:00:00,Prescription,Mannitol 20%,50,g,prescriptions
+15011665,24072156,2174-08-18 08:00:00,Prescription,Soln.,250,mL,prescriptions
+15011665,24072156,2174-08-18 08:11:00,Input,IVF ingredient,13.743800297379494,ml,ingredientevents
+15011665,24072156,2174-08-18 08:11:00,Input,Water,13.743800297379494,ml,ingredientevents
+15011665,24072156,2174-08-18 08:11:00,Input,Nicardipine,6.871901132399216,mg,inputevents
+15011665,24072156,2174-08-18 08:11:00,Input,NaCl 0.9%,13.743800297379494,ml,inputevents
+15011665,24072156,2174-08-18 08:14:00,DateTime Obs,18 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-18 08:14:00,DateTime Obs,Arterial line Cap Change,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-18 08:14:00,DateTime Obs,Arterial Line Dressing Change,2174-08-16 12:11:00,Date and Time,datetimeevents
+15011665,24072156,2174-08-18 08:14:00,DateTime Obs,Arterial line Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-18 08:14:00,DateTime Obs,Arterial line Tubing Change,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-18 08:14:00,DateTime Obs,20 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-18 08:16:00,Input,IVF ingredient,98.36902523040771,ml,ingredientevents
+15011665,24072156,2174-08-18 08:16:00,Input,Water,98.36902523040771,ml,ingredientevents
+15011665,24072156,2174-08-18 08:16:00,Input,NaCl 0.9%,98.36902523040771,ml,inputevents
+15011665,24072156,2174-08-18 08:19:00,Input,IVF ingredient,50.0,ml,ingredientevents
+15011665,24072156,2174-08-18 08:19:00,Input,Water,50.0,ml,ingredientevents
+15011665,24072156,2174-08-18 08:19:00,Input,Famotidine (Pepcid),1.0,dose,inputevents
+15011665,24072156,2174-08-18 08:19:00,Input,Solution,50.0,ml,inputevents
+15011665,24072156,2174-08-18 09:00:00,Pharmacy,,,NaN,pharmacy
+15011665,24072156,2174-08-18 09:00:00,Prescription,0.9% Sodium Chloride,1000,mL,prescriptions
+15011665,24072156,2174-08-18 09:00:00,Prescription,1/2 NS,1000,mL,prescriptions
+15011665,24072156,2174-08-18 09:00:00,Output,Foley,100.0,ml,outputevents
+15011665,24072156,2174-08-18 09:00:00,Pharmacy,,,NaN,pharmacy
+15011665,24072156,2174-08-18 09:14:00,Input,IVF ingredient,981.6335723400116,ml,ingredientevents
+15011665,24072156,2174-08-18 09:14:00,Input,Water,981.6335723400116,ml,ingredientevents
+15011665,24072156,2174-08-18 09:14:00,Input,NaCl 0.45%,981.6335723400116,ml,inputevents
+15011665,24072156,2174-08-18 09:16:00,Input,Water,7.2072432190179825,ml,ingredientevents
+15011665,24072156,2174-08-18 09:16:00,Input,NaCl 0.9%,7.2072432190179825,ml,inputevents
+15011665,24072156,2174-08-18 09:16:00,Input,Nicardipine,3.603622033551801,mg,inputevents
+15011665,24072156,2174-08-18 09:16:00,Input,IVF ingredient,7.2072432190179825,ml,ingredientevents
+15011665,24072156,2174-08-18 09:47:00,Input,Water,19.23893927037716,ml,ingredientevents
+15011665,24072156,2174-08-18 09:47:00,Input,IVF ingredient,19.23893927037716,ml,ingredientevents
+15011665,24072156,2174-08-18 09:47:00,Input,NaCl 0.9%,19.23893927037716,ml,inputevents
+15011665,24072156,2174-08-18 09:47:00,Input,Nicardipine,9.619471107725984,mg,inputevents
+15011665,24072156,2174-08-18 10:00:00,Output,Foley,40.0,ml,outputevents
+15011665,24072156,2174-08-18 11:00:00,Output,Foley,125.0,ml,outputevents
+15011665,24072156,2174-08-18 11:18:00,Input,IVF ingredient,57.65170057117939,ml,ingredientevents
+15011665,24072156,2174-08-18 11:18:00,Input,Nicardipine,28.825853667513,mg,inputevents
+15011665,24072156,2174-08-18 11:18:00,Input,NaCl 0.9%,57.65170057117939,ml,inputevents
+15011665,24072156,2174-08-18 11:18:00,Input,Water,57.65170057117939,ml,ingredientevents
+15011665,24072156,2174-08-18 11:49:00,Input,Water,200.0,ml,ingredientevents
+15011665,24072156,2174-08-18 11:49:00,Input,Oral/Gastric Ingredient,200.0,ml,ingredientevents
+15011665,24072156,2174-08-18 11:49:00,Input,Free Water,200.0,ml,inputevents
+15011665,24072156,2174-08-18 11:52:00,Lab Result,Sodium| Blood,154.0,mEq/L,labevents
+15011665,24072156,2174-08-18 11:52:00,Lab Result,"Osmolality, Measured| Blood",320.0,mOsm/kg,labevents
+15011665,24072156,2174-08-18 12:00:00,Pharmacy,NiCARdipine,,NaN,pharmacy
+15011665,24072156,2174-08-18 12:00:00,Prescription,1/2 NS,1000,mL,prescriptions
+15011665,24072156,2174-08-18 12:00:00,Output,Foley,110.0,ml,outputevents
+15011665,24072156,2174-08-18 12:00:00,Pharmacy,,,NaN,pharmacy
+15011665,24072156,2174-08-18 12:00:00,Prescription,NiCARdipine,30,mg,prescriptions
+15011665,24072156,2174-08-18 12:43:00,DateTime Obs,Arterial line Cap Change,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-18 12:43:00,DateTime Obs,Arterial Line Dressing Change,2174-08-16 12:11:00,Date and Time,datetimeevents
+15011665,24072156,2174-08-18 12:43:00,DateTime Obs,Arterial line Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-18 12:43:00,DateTime Obs,Arterial line Tubing Change,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-18 12:43:00,DateTime Obs,18 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-18 12:44:00,DateTime Obs,20 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-18 14:00:00,Output,Foley,140.0,ml,outputevents
+15011665,24072156,2174-08-18 15:00:00,Output,Foley,60.0,ml,outputevents
+15011665,24072156,2174-08-18 16:21:00,DateTime Obs,Arterial line Cap Change,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-18 16:21:00,DateTime Obs,Arterial line Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-18 16:21:00,DateTime Obs,Arterial line Tubing Change,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-18 16:21:00,DateTime Obs,20 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-18 16:21:00,DateTime Obs,18 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-18 16:21:00,DateTime Obs,Arterial Line Dressing Change,2174-08-16 12:11:00,Date and Time,datetimeevents
+15011665,24072156,2174-08-18 16:28:00,Input,Enteral Nutrition Ingredient,103.0000030696392,ml,ingredientevents
+15011665,24072156,2174-08-18 16:28:00,Input,Water,103.0000030696392,ml,ingredientevents
+15011665,24072156,2174-08-18 16:28:00,Input,Protein,6.43750019185245,grams,ingredientevents
+15011665,24072156,2174-08-18 16:28:00,Input,Replete (Full),103.0000030696392,ml,inputevents
+15011665,24072156,2174-08-18 16:28:00,Input,Calories,103.0000030696392,Kcal,ingredientevents
+15011665,24072156,2174-08-18 16:34:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+15011665,24072156,2174-08-18 16:39:00,Input,NaCl 0.9%,36.28791892528534,ml,inputevents
+15011665,24072156,2174-08-18 16:39:00,Input,Nicardipine,18.14396187546663,mg,inputevents
+15011665,24072156,2174-08-18 16:39:00,Input,Water,36.28791892528534,ml,ingredientevents
+15011665,24072156,2174-08-18 16:39:00,Input,IVF ingredient,36.28791892528534,ml,ingredientevents
+15011665,24072156,2174-08-18 17:00:00,Output,Foley,150.0,ml,outputevents
+15011665,24072156,2174-08-18 17:11:00,Procedure,20 Gauge,1533.0,min,procedureevents
+15011665,24072156,2174-08-18 17:11:00,Procedure,20 Gauge,1533.0,min,procedureevents
+15011665,24072156,2174-08-18 17:11:00,DateTime Obs,20 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-18 18:00:00,Input,Free Water,150.0,ml,inputevents
+15011665,24072156,2174-08-18 18:00:00,Input,Water,150.0,ml,ingredientevents
+15011665,24072156,2174-08-18 18:00:00,Input,Oral/Gastric Ingredient,150.0,ml,ingredientevents
+15011665,24072156,2174-08-18 18:22:00,DateTime Obs,20 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-18 19:00:00,Output,Foley,225.0,ml,outputevents
+15011665,24072156,2174-08-18 19:02:00,Lab Result,"Osmolality, Measured| Blood",318.0,mOsm/kg,labevents
+15011665,24072156,2174-08-18 19:02:00,Lab Result,Sodium| Blood,151.0,mEq/L,labevents
+15011665,24072156,2174-08-18 19:03:00,Input,NaCl 0.45%,1.2660001516342163,ml,inputevents
+15011665,24072156,2174-08-18 19:03:00,Input,Water,1.2660001516342163,ml,ingredientevents
+15011665,24072156,2174-08-18 19:03:00,Input,IVF ingredient,1.2660001516342163,ml,ingredientevents
+15011665,24072156,2174-08-18 19:04:00,Input,Water,923.7999502420424,ml,ingredientevents
+15011665,24072156,2174-08-18 19:04:00,Input,IVF ingredient,923.7999502420424,ml,ingredientevents
+15011665,24072156,2174-08-18 19:04:00,Input,NaCl 0.45%,923.7999502420424,ml,inputevents
+15011665,24072156,2174-08-18 19:29:00,DateTime Obs,18 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-18 19:29:00,DateTime Obs,20 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-18 19:29:00,DateTime Obs,Arterial line Tubing Change,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-18 19:29:00,DateTime Obs,Arterial line Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-18 19:29:00,DateTime Obs,Arterial Line Dressing Change,2174-08-16 12:11:00,Date and Time,datetimeevents
+15011665,24072156,2174-08-18 19:29:00,DateTime Obs,Arterial line Cap Change,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-18 19:31:00,Input,Nicardipine,16.72699952905532,mg,inputevents
+15011665,24072156,2174-08-18 19:31:00,Input,IVF ingredient,33.45399534702301,ml,ingredientevents
+15011665,24072156,2174-08-18 19:31:00,Input,Water,33.45399534702301,ml,ingredientevents
+15011665,24072156,2174-08-18 19:31:00,Input,NaCl 0.9%,33.45399534702301,ml,inputevents
+15011665,24072156,2174-08-18 19:34:00,Input,Metoprolol,10.000000707805157,mg,inputevents
+15011665,24072156,2174-08-18 19:44:00,Input,Insulin - Regular,2.0,units,inputevents
+15011665,24072156,2174-08-18 20:00:00,Prescription,NiCARdipine,40,mg,prescriptions
+15011665,24072156,2174-08-18 20:00:00,Pharmacy,NiCARdipine,,NaN,pharmacy
+15011665,24072156,2174-08-18 20:00:00,Output,Foley,110.0,ml,outputevents
+15011665,24072156,2174-08-18 20:05:00,Output,TF Residual Output,10.0,ml,outputevents
+15011665,24072156,2174-08-18 20:06:00,Input,Gastric Meds,30.0,ml,inputevents
+15011665,24072156,2174-08-18 20:06:00,Input,Oral/Gastric Ingredient,30.0,ml,ingredientevents
+15011665,24072156,2174-08-18 20:06:00,Input,Water,30.0,ml,ingredientevents
+15011665,24072156,2174-08-18 20:06:00,Input,Water,30.0,ml,ingredientevents
+15011665,24072156,2174-08-18 20:06:00,Input,GT Flush,30.0,ml,inputevents
+15011665,24072156,2174-08-18 20:06:00,Input,Oral/Gastric Ingredient,30.0,ml,ingredientevents
+15011665,24072156,2174-08-18 20:41:00,Input,Hydralazine,10.000000707805157,mg,inputevents
+15011665,24072156,2174-08-18 21:37:00,Input,Replete (Full),183.4874004125595,ml,inputevents
+15011665,24072156,2174-08-18 21:37:00,Input,Water,183.4874004125595,ml,ingredientevents
+15011665,24072156,2174-08-18 21:37:00,Input,Protein,11.46796252578497,grams,ingredientevents
+15011665,24072156,2174-08-18 21:37:00,Input,Enteral Nutrition Ingredient,183.4874004125595,ml,ingredientevents
+15011665,24072156,2174-08-18 21:37:00,Input,Calories,183.4874004125595,Kcal,ingredientevents
+15011665,24072156,2174-08-18 21:49:00,Input,NaCl 0.9%,28.89919500052929,ml,inputevents
+15011665,24072156,2174-08-18 21:49:00,Input,IVF ingredient,28.89919500052929,ml,ingredientevents
+15011665,24072156,2174-08-18 21:49:00,Input,Water,28.89919500052929,ml,ingredientevents
+15011665,24072156,2174-08-18 21:49:00,Input,Nicardipine,14.449599308136383,mg,inputevents
+15011665,24072156,2174-08-18 22:00:00,Output,Foley,200.0,ml,outputevents
+15011665,24072156,2174-08-18 23:23:00,Lab Result,"Osmolality, Measured| Blood",319.0,mOsm/kg,labevents
+15011665,24072156,2174-08-18 23:23:00,Lab Result,Sodium| Blood,152.0,mEq/L,labevents
+15011665,24072156,2174-08-18 23:40:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+15011665,24072156,2174-08-18 23:46:00,Input,Oral/Gastric Ingredient,150.0,ml,ingredientevents
+15011665,24072156,2174-08-18 23:46:00,Input,Water,150.0,ml,ingredientevents
+15011665,24072156,2174-08-18 23:46:00,Input,Water,30.0,ml,ingredientevents
+15011665,24072156,2174-08-18 23:46:00,Input,Oral/Gastric Ingredient,30.0,ml,ingredientevents
+15011665,24072156,2174-08-18 23:46:00,Input,Gastric Meds,30.0,ml,inputevents
+15011665,24072156,2174-08-18 23:46:00,Input,Free Water,150.0,ml,inputevents
+15011665,24072156,2174-08-18 23:48:00,Input,Nicardipine,1.7966077939490788,mg,inputevents
+15011665,24072156,2174-08-18 23:48:00,Input,NaCl 0.9%,3.593215122818947,ml,inputevents
+15011665,24072156,2174-08-18 23:48:00,Input,Water,3.593215122818947,ml,ingredientevents
+15011665,24072156,2174-08-18 23:48:00,Input,IVF ingredient,3.593215122818947,ml,ingredientevents
+15011665,24072156,2174-08-18 23:50:00,DateTime Obs,18 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-18 23:50:00,DateTime Obs,20 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-18 23:50:00,DateTime Obs,Arterial line Tubing Change,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-18 23:50:00,DateTime Obs,Arterial line Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-18 23:50:00,DateTime Obs,Arterial Line Dressing Change,2174-08-16 12:11:00,Date and Time,datetimeevents
+15011665,24072156,2174-08-18 23:50:00,DateTime Obs,Arterial line Cap Change,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-19 00:00:00,Output,Foley,265.0,ml,outputevents
+15011665,24072156,2174-08-19 00:05:00,Input,Water,49.38990995287895,ml,ingredientevents
+15011665,24072156,2174-08-19 00:05:00,Input,NaCl 0.9%,49.38990995287895,ml,inputevents
+15011665,24072156,2174-08-19 00:05:00,Input,IVF ingredient,49.38990995287895,ml,ingredientevents
+15011665,24072156,2174-08-19 00:05:00,Input,Nicardipine,24.694957937754225,mg,inputevents
+15011665,24072156,2174-08-19 01:00:00,Output,Foley,40.0,ml,outputevents
+15011665,24072156,2174-08-19 02:00:00,Output,Foley,125.0,ml,outputevents
+15011665,24072156,2174-08-19 02:00:00,Output,TF Residual Output,0.0,ml,outputevents
+15011665,24072156,2174-08-19 02:12:00,Input,Calories,213.01300048828125,Kcal,ingredientevents
+15011665,24072156,2174-08-19 02:12:00,Input,Replete (Full),213.01300048828125,ml,inputevents
+15011665,24072156,2174-08-19 02:12:00,Input,Protein,13.313312530517578,grams,ingredientevents
+15011665,24072156,2174-08-19 02:12:00,Input,Enteral Nutrition Ingredient,213.01300048828125,ml,ingredientevents
+15011665,24072156,2174-08-19 02:12:00,Input,Water,213.01300048828125,ml,ingredientevents
+15011665,24072156,2174-08-19 02:57:00,Lab Result,Creatinine| Blood,0.8,mg/dL,labevents
+15011665,24072156,2174-08-19 02:57:00,Lab Result,Glucose| Blood,134.0,mg/dL,labevents
+15011665,24072156,2174-08-19 02:57:00,Lab Result,Magnesium| Blood,2.3,mg/dL,labevents
+15011665,24072156,2174-08-19 02:57:00,Lab Result,INR(PT)| Blood,1.0,,labevents
+15011665,24072156,2174-08-19 02:57:00,Lab Result,"Osmolality, Measured| Blood",314.0,mOsm/kg,labevents
+15011665,24072156,2174-08-19 02:57:00,Lab Result,Phenytoin| Blood,20.0,ug/mL,labevents
+15011665,24072156,2174-08-19 02:57:00,Lab Result,Phosphate| Blood,2.3,mg/dL,labevents
+15011665,24072156,2174-08-19 02:57:00,Lab Result,Potassium| Blood,3.0,mEq/L,labevents
+15011665,24072156,2174-08-19 02:57:00,Lab Result,Sodium| Blood,151.0,mEq/L,labevents
+15011665,24072156,2174-08-19 02:57:00,Lab Result,Urea Nitrogen| Blood,29.0,mg/dL,labevents
+15011665,24072156,2174-08-19 02:57:00,Lab Result,Chloride| Blood,115.0,mEq/L,labevents
+15011665,24072156,2174-08-19 02:57:00,Lab Result,"Calcium, Total| Blood",8.6,mg/dL,labevents
+15011665,24072156,2174-08-19 02:57:00,Lab Result,White Blood Cells| Blood,10.4,K/uL,labevents
+15011665,24072156,2174-08-19 02:57:00,Lab Result,Anion Gap| Blood,10.0,mEq/L,labevents
+15011665,24072156,2174-08-19 02:57:00,Lab Result,RDW| Blood,13.4,%,labevents
+15011665,24072156,2174-08-19 02:57:00,Lab Result,Platelet Count| Blood,240.0,K/uL,labevents
+15011665,24072156,2174-08-19 02:57:00,Lab Result,MCV| Blood,92.0,fL,labevents
+15011665,24072156,2174-08-19 02:57:00,Lab Result,MCHC| Blood,35.5,%,labevents
+15011665,24072156,2174-08-19 02:57:00,Lab Result,MCH| Blood,32.7,pg,labevents
+15011665,24072156,2174-08-19 02:57:00,Lab Result,Hemoglobin| Blood,10.5,g/dL,labevents
+15011665,24072156,2174-08-19 02:57:00,Lab Result,Hematocrit| Blood,29.7,%,labevents
+15011665,24072156,2174-08-19 02:57:00,Lab Result,PTT| Blood,33.8,sec,labevents
+15011665,24072156,2174-08-19 02:57:00,Lab Result,PT| Blood,12.1,sec,labevents
+15011665,24072156,2174-08-19 02:57:00,Lab Result,Bicarbonate| Blood,29.0,mEq/L,labevents
+15011665,24072156,2174-08-19 02:57:00,Lab Result,Red Blood Cells| Blood,3.23,m/uL,labevents
+15011665,24072156,2174-08-19 03:00:00,Output,Foley,30.0,ml,outputevents
+15011665,24072156,2174-08-19 03:12:00,Input,Oral/Gastric Ingredient,30.0,ml,ingredientevents
+15011665,24072156,2174-08-19 03:12:00,Input,Oral/Gastric Ingredient,30.0,ml,ingredientevents
+15011665,24072156,2174-08-19 03:12:00,Input,Insulin - Regular,2.0,units,inputevents
+15011665,24072156,2174-08-19 03:12:00,Input,Water,30.0,ml,ingredientevents
+15011665,24072156,2174-08-19 03:12:00,Input,Gastric Meds,30.0,ml,inputevents
+15011665,24072156,2174-08-19 03:12:00,Input,Water,30.0,ml,ingredientevents
+15011665,24072156,2174-08-19 03:12:00,Input,GT Flush,30.0,ml,inputevents
+15011665,24072156,2174-08-19 03:41:00,DateTime Obs,Arterial line Tubing Change,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-19 03:41:00,DateTime Obs,Arterial line Cap Change,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-19 03:41:00,DateTime Obs,18 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-19 03:41:00,DateTime Obs,20 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-19 03:41:00,DateTime Obs,Arterial line Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-19 03:41:00,DateTime Obs,Arterial Line Dressing Change,2174-08-16 12:11:00,Date and Time,datetimeevents
+15011665,24072156,2174-08-19 03:42:00,DateTime Obs,18 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-19 04:22:00,Input,Gastric Meds,360.0,ml,inputevents
+15011665,24072156,2174-08-19 04:22:00,Input,Water,360.0,ml,ingredientevents
+15011665,24072156,2174-08-19 04:22:00,Input,Oral/Gastric Ingredient,360.0,ml,ingredientevents
+15011665,24072156,2174-08-19 04:40:00,Input,NaCl 0.9%,4.806932657957077,ml,inputevents
+15011665,24072156,2174-08-19 04:40:00,Input,Nicardipine,2.403466569376178,mg,inputevents
+15011665,24072156,2174-08-19 04:40:00,Input,IVF ingredient,4.806932657957077,ml,ingredientevents
+15011665,24072156,2174-08-19 04:40:00,Input,Water,4.806932657957077,ml,ingredientevents
+15011665,24072156,2174-08-19 05:00:00,Prescription,Potassium Chloride,80,mEq,prescriptions
+15011665,24072156,2174-08-19 05:00:00,Prescription,Potassium Chloride,80,mEq,prescriptions
+15011665,24072156,2174-08-19 05:00:00,Prescription,Potassium Chloride,40,mEq,prescriptions
+15011665,24072156,2174-08-19 05:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+15011665,24072156,2174-08-19 05:00:00,Prescription,Potassium Chloride,60,mEq,prescriptions
+15011665,24072156,2174-08-19 05:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+15011665,24072156,2174-08-19 05:00:00,Prescription,Potassium Chloride,60,mEq,prescriptions
+15011665,24072156,2174-08-19 05:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+15011665,24072156,2174-08-19 05:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+15011665,24072156,2174-08-19 05:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+15011665,24072156,2174-08-19 05:00:00,Output,Foley,150.0,ml,outputevents
+15011665,24072156,2174-08-19 05:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+15011665,24072156,2174-08-19 05:00:00,Prescription,Potassium Chloride,40,mEq,prescriptions
+15011665,24072156,2174-08-19 05:15:00,Input,Nicardipine,9.92887963366229,mg,inputevents
+15011665,24072156,2174-08-19 05:15:00,Input,NaCl 0.9%,19.85775700211525,ml,inputevents
+15011665,24072156,2174-08-19 05:15:00,Input,IVF ingredient,19.85775700211525,ml,ingredientevents
+15011665,24072156,2174-08-19 05:15:00,Input,Water,19.85775700211525,ml,ingredientevents
+15011665,24072156,2174-08-19 05:45:00,Input,Replete (Full),497.0,ml,inputevents
+15011665,24072156,2174-08-19 05:45:00,Input,Water,497.0,ml,ingredientevents
+15011665,24072156,2174-08-19 05:45:00,Input,Calories,497.0,Kcal,ingredientevents
+15011665,24072156,2174-08-19 05:45:00,Input,Protein,31.0625,grams,ingredientevents
+15011665,24072156,2174-08-19 05:45:00,Input,Enteral Nutrition Ingredient,497.0,ml,ingredientevents
+15011665,24072156,2174-08-19 06:00:00,Input,Oral/Gastric Ingredient,150.0,ml,ingredientevents
+15011665,24072156,2174-08-19 06:00:00,Input,Water,150.0,ml,ingredientevents
+15011665,24072156,2174-08-19 06:00:00,Output,Foley,175.0,ml,outputevents
+15011665,24072156,2174-08-19 06:00:00,Input,Free Water,150.0,ml,inputevents
+15011665,24072156,2174-08-19 06:15:00,Input,Metoprolol,10.000000707805157,mg,inputevents
+15011665,24072156,2174-08-19 06:34:00,Procedure,Chest X-Ray,1.0,,procedureevents
+15011665,24072156,2174-08-19 06:34:00,Procedure,Chest X-Ray,1.0,,procedureevents
+15011665,24072156,2174-08-19 06:39:00,Lab Result,"Osmolality, Measured| Blood",317.0,mOsm/kg,labevents
+15011665,24072156,2174-08-19 06:39:00,Lab Result,Sodium| Blood,150.0,mEq/L,labevents
+15011665,24072156,2174-08-19 07:00:00,Pharmacy,NiCARdipine,,NaN,pharmacy
+15011665,24072156,2174-08-19 07:00:00,Prescription,NiCARdipine,20,mg,prescriptions
+15011665,24072156,2174-08-19 07:00:00,Output,Foley,150.0,ml,outputevents
+15011665,24072156,2174-08-19 07:23:00,Input,Water,120.0,ml,ingredientevents
+15011665,24072156,2174-08-19 07:23:00,Input,NaCl 0.45%,120.0,ml,inputevents
+15011665,24072156,2174-08-19 07:23:00,Input,IVF ingredient,120.0,ml,ingredientevents
+15011665,24072156,2174-08-19 08:00:00,Output,Foley,80.0,ml,outputevents
+15011665,24072156,2174-08-19 08:59:00,Input,NaCl 0.45%,1.333288311958313,ml,inputevents
+15011665,24072156,2174-08-19 08:59:00,Input,IVF ingredient,1.333288311958313,ml,ingredientevents
+15011665,24072156,2174-08-19 08:59:00,Input,Water,1.333288311958313,ml,ingredientevents
+15011665,24072156,2174-08-19 09:00:00,DateTime Obs,Arterial line Cap Change,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-19 09:00:00,Input,NaCl 0.45%,5.6017002537846565,ml,inputevents
+15011665,24072156,2174-08-19 09:00:00,Input,Water,5.6017002537846565,ml,ingredientevents
+15011665,24072156,2174-08-19 09:00:00,Input,IVF ingredient,5.6017002537846565,ml,ingredientevents
+15011665,24072156,2174-08-19 09:00:00,Output,Foley,175.0,ml,outputevents
+15011665,24072156,2174-08-19 09:00:00,DateTime Obs,Arterial Line Dressing Change,2174-08-16 12:11:00,Date and Time,datetimeevents
+15011665,24072156,2174-08-19 09:00:00,DateTime Obs,Arterial line Tubing Change,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-19 09:00:00,DateTime Obs,Arterial line Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-19 09:01:00,DateTime Obs,18 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-19 09:01:00,DateTime Obs,20 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-19 09:56:00,Input,Water,30.0,ml,ingredientevents
+15011665,24072156,2174-08-19 09:56:00,Input,Water,30.0,ml,ingredientevents
+15011665,24072156,2174-08-19 09:56:00,Input,Water,50.0,ml,ingredientevents
+15011665,24072156,2174-08-19 09:56:00,Input,Oral/Gastric Ingredient,30.0,ml,ingredientevents
+15011665,24072156,2174-08-19 09:56:00,Input,GT Flush,30.0,ml,inputevents
+15011665,24072156,2174-08-19 09:56:00,Input,Oral/Gastric Ingredient,30.0,ml,ingredientevents
+15011665,24072156,2174-08-19 09:56:00,Input,Insulin - Regular,2.0,units,inputevents
+15011665,24072156,2174-08-19 09:56:00,Input,Gastric Meds,30.0,ml,inputevents
+15011665,24072156,2174-08-19 09:56:00,Input,Famotidine (Pepcid),1.0,dose,inputevents
+15011665,24072156,2174-08-19 09:56:00,Input,Solution,50.0,ml,inputevents
+15011665,24072156,2174-08-19 09:56:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+15011665,24072156,2174-08-19 09:56:00,Input,IVF ingredient,50.0,ml,ingredientevents
+15011665,24072156,2174-08-19 10:00:00,Pharmacy,Levothyroxine Sodium,,NaN,pharmacy
+15011665,24072156,2174-08-19 10:00:00,Prescription,Levothyroxine Sodium,88,mcg,prescriptions
+15011665,24072156,2174-08-19 10:00:00,Output,Foley,175.0,ml,outputevents
+15011665,24072156,2174-08-19 10:04:00,DateTime Obs,Arterial line Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-19 10:04:00,DateTime Obs,Arterial line Tubing Change,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-19 10:04:00,DateTime Obs,Arterial line Cap Change,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-19 10:04:00,DateTime Obs,Arterial Line Dressing Change,2174-08-16 12:11:00,Date and Time,datetimeevents
+15011665,24072156,2174-08-19 11:00:00,Output,Foley,110.0,ml,outputevents
+15011665,24072156,2174-08-19 12:00:00,Input,Water,200.0,ml,ingredientevents
+15011665,24072156,2174-08-19 12:00:00,Input,Oral/Gastric Ingredient,200.0,ml,ingredientevents
+15011665,24072156,2174-08-19 12:00:00,Output,Foley,100.0,ml,outputevents
+15011665,24072156,2174-08-19 12:00:00,Prescription,NiCARdipine,40,mg,prescriptions
+15011665,24072156,2174-08-19 12:00:00,Prescription,NiCARdipine,60,mg,prescriptions
+15011665,24072156,2174-08-19 12:00:00,Input,Free Water,200.0,ml,inputevents
+15011665,24072156,2174-08-19 12:00:00,Pharmacy,NiCARdipine,,NaN,pharmacy
+15011665,24072156,2174-08-19 12:00:00,Pharmacy,NiCARdipine,,NaN,pharmacy
+15011665,24072156,2174-08-19 12:37:00,Input,Oral/Gastric Ingredient,30.0,ml,ingredientevents
+15011665,24072156,2174-08-19 12:37:00,Input,Water,30.0,ml,ingredientevents
+15011665,24072156,2174-08-19 12:37:00,Input,GT Flush,30.0,ml,inputevents
+15011665,24072156,2174-08-19 12:37:00,Input,Gastric Meds,30.0,ml,inputevents
+15011665,24072156,2174-08-19 12:37:00,Input,Oral/Gastric Ingredient,30.0,ml,ingredientevents
+15011665,24072156,2174-08-19 12:37:00,Input,Water,30.0,ml,ingredientevents
+15011665,24072156,2174-08-19 12:41:00,DateTime Obs,18 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-19 12:41:00,DateTime Obs,20 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-19 13:00:00,Output,Foley,100.0,ml,outputevents
+15011665,24072156,2174-08-19 13:00:00,Prescription,5% Dextrose,250,mL,prescriptions
+15011665,24072156,2174-08-19 13:00:00,Pharmacy,Potassium Phosphate,,NaN,pharmacy
+15011665,24072156,2174-08-19 13:00:00,Prescription,5% Dextrose,500,mL,prescriptions
+15011665,24072156,2174-08-19 13:00:00,Prescription,Potassium Phosphate,30,mmol,prescriptions
+15011665,24072156,2174-08-19 13:00:00,Pharmacy,Potassium Phosphate,,NaN,pharmacy
+15011665,24072156,2174-08-19 13:00:00,Prescription,Potassium Phosphate,15,mmol,prescriptions
+15011665,24072156,2174-08-19 14:00:00,Output,Foley,130.0,ml,outputevents
+15011665,24072156,2174-08-19 14:02:00,Input,Protein,9.272261023521423,grams,ingredientevents
+15011665,24072156,2174-08-19 14:02:00,Input,Water,148.35617637634277,ml,ingredientevents
+15011665,24072156,2174-08-19 14:02:00,Input,Calories,148.35617637634277,Kcal,ingredientevents
+15011665,24072156,2174-08-19 14:02:00,Input,Enteral Nutrition Ingredient,148.35617637634277,ml,ingredientevents
+15011665,24072156,2174-08-19 14:02:00,Input,Replete (Full),148.35617637634277,ml,inputevents
+15011665,24072156,2174-08-19 15:00:00,Output,Foley,125.0,ml,outputevents
+15011665,24072156,2174-08-19 16:00:00,Output,Foley,150.0,ml,outputevents
+15011665,24072156,2174-08-19 16:24:00,Procedure,CT scan,1.0,,procedureevents
+15011665,24072156,2174-08-19 16:24:00,Procedure,CT scan,1.0,,procedureevents
+15011665,24072156,2174-08-19 17:00:00,Output,Foley,200.0,ml,outputevents
+15011665,24072156,2174-08-19 17:27:00,DateTime Obs,20 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-19 17:27:00,DateTime Obs,18 Gauge Insertion Date,2174-08-16 00:00:00,Date,datetimeevents
+15011665,24072156,2174-08-19 17:41:00,Input,Metoprolol,5.000000353902578,mg,inputevents
+15011665,24072156,2174-08-19 17:43:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+15011665,24072156,2174-08-19 18:00:00,Output,Foley,140.0,ml,outputevents
+15011665,24072156,2174-08-19 18:07:00,Input,Metoprolol,5.000000353902578,mg,inputevents
+15011665,24072156,2174-08-19 18:13:00,Input,Hydralazine,10.000000707805157,mg,inputevents
+15011665,24072156,2174-08-19 18:28:00,Input,Metoprolol,5.000000353902578,mg,inputevents
+15011665,24072156,2174-08-19 18:44:06,Transfer,transfer Neurology,NaN,NaN,transfers
+15011665,24072156,2174-08-19 19:00:00,Prescription,Metoprolol Tartrate,5,mg,prescriptions
+15011665,24072156,2174-08-19 19:00:00,Prescription,Metoprolol Tartrate,5-10,mg,prescriptions
+15011665,24072156,2174-08-19 19:00:00,Prescription,HydrALAzine,10,mg,prescriptions
+15011665,24072156,2174-08-19 19:00:00,Pharmacy,Metoprolol Tartrate,,NaN,pharmacy
+15011665,24072156,2174-08-19 19:00:00,Pharmacy,Metoprolol Tartrate,,NaN,pharmacy
+15011665,24072156,2174-08-19 19:00:00,Pharmacy,HydrALAzine,,NaN,pharmacy
+15011665,24072156,2174-08-19 20:00:00,Prescription,Pantoprazole,40,mg,prescriptions
+15011665,24072156,2174-08-19 20:00:00,Prescription,Metoprolol Tartrate,5-10,mg,prescriptions
+15011665,24072156,2174-08-19 20:00:00,Prescription,Sodium Chloride 0.9%  Flush,3,mL,prescriptions
+15011665,24072156,2174-08-19 20:00:00,Prescription,Ranitidine,75,mg,prescriptions
+15011665,24072156,2174-08-19 20:00:00,Pharmacy,Pantoprazole,,NaN,pharmacy
+15011665,24072156,2174-08-19 20:00:00,Pharmacy,Metoprolol Tartrate,,NaN,pharmacy
+15011665,24072156,2174-08-19 20:00:00,Pharmacy,Sodium Chloride 0.9%  Flush,,NaN,pharmacy
+15011665,24072156,2174-08-19 20:00:00,Pharmacy,Ranitidine,,NaN,pharmacy
+15011665,24072156,2174-08-20 06:05:00,Lab Result,Potassium| Blood,3.3,mEq/L,labevents
+15011665,24072156,2174-08-20 06:05:00,Lab Result,Sodium| Blood,150.0,mEq/L,labevents
+15011665,24072156,2174-08-20 06:05:00,Lab Result,Hematocrit| Blood,36.5,%,labevents
+15011665,24072156,2174-08-20 06:05:00,Lab Result,Urea Nitrogen| Blood,29.0,mg/dL,labevents
+15011665,24072156,2174-08-20 06:05:00,Lab Result,Phosphate| Blood,2.3,mg/dL,labevents
+15011665,24072156,2174-08-20 06:05:00,Lab Result,Magnesium| Blood,2.5,mg/dL,labevents
+15011665,24072156,2174-08-20 06:05:00,Lab Result,Glucose| Blood,119.0,mg/dL,labevents
+15011665,24072156,2174-08-20 06:05:00,Lab Result,Creatinine| Blood,0.8,mg/dL,labevents
+15011665,24072156,2174-08-20 06:05:00,Lab Result,Chloride| Blood,112.0,mEq/L,labevents
+15011665,24072156,2174-08-20 06:05:00,Lab Result,"Calcium, Total| Blood",9.0,mg/dL,labevents
+15011665,24072156,2174-08-20 06:05:00,Lab Result,Hemoglobin| Blood,12.7,g/dL,labevents
+15011665,24072156,2174-08-20 06:05:00,Lab Result,Bicarbonate| Blood,28.0,mEq/L,labevents
+15011665,24072156,2174-08-20 06:05:00,Lab Result,White Blood Cells| Blood,9.2,K/uL,labevents
+15011665,24072156,2174-08-20 06:05:00,Lab Result,Red Blood Cells| Blood,4.0,m/uL,labevents
+15011665,24072156,2174-08-20 06:05:00,Lab Result,RDW| Blood,13.2,%,labevents
+15011665,24072156,2174-08-20 06:05:00,Lab Result,Platelet Count| Blood,281.0,K/uL,labevents
+15011665,24072156,2174-08-20 06:05:00,Lab Result,MCV| Blood,91.0,fL,labevents
+15011665,24072156,2174-08-20 06:05:00,Lab Result,MCHC| Blood,34.9,%,labevents
+15011665,24072156,2174-08-20 06:05:00,Lab Result,Anion Gap| Blood,13.0,mEq/L,labevents
+15011665,24072156,2174-08-20 06:05:00,Lab Result,MCH| Blood,31.9,pg,labevents
+15011665,24072156,2174-08-20 12:34:43,Transfer,discharge,NaN,NaN,transfers

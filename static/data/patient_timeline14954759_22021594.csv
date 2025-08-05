@@ -1,0 +1,486 @@
+subject_id,hadm_id,event_time,event_type,description,value,unit,source_table
+14954759,22021594,2145-09-09 07:14:00,Transfer,ED Emergency Department,NaN,NaN,transfers
+14954759,22021594,2145-09-09 12:30:00,Admission,EW EMER.,NaN,NaN,admissions
+14954759,22021594,2145-09-09 12:31:37,Service,TRAUM,NaN,NaN,services
+14954759,22021594,2145-09-09 13:00:00,Output,Foley,0.0,ml,outputevents
+14954759,22021594,2145-09-09 13:30:00,Transfer,admit Trauma SICU (TSICU),NaN,NaN,transfers
+14954759,22021594,2145-09-09 13:48:00,DateTime Obs,18 Gauge Insertion Date,2145-09-09 13:48:00,Date,datetimeevents
+14954759,22021594,2145-09-09 13:48:00,Procedure,18 Gauge,5535.0,min,procedureevents
+14954759,22021594,2145-09-09 13:48:00,Procedure,18 Gauge,5535.0,min,procedureevents
+14954759,22021594,2145-09-09 13:50:00,Procedure,16 Gauge,6099.0,min,procedureevents
+14954759,22021594,2145-09-09 13:50:00,DateTime Obs,16 Gauge Insertion Date,2145-09-09 13:50:00,Date,datetimeevents
+14954759,22021594,2145-09-09 13:50:00,Procedure,16 Gauge,6099.0,min,procedureevents
+14954759,22021594,2145-09-09 14:00:00,Prescription,Lactated Ringers,1000,mL,prescriptions
+14954759,22021594,2145-09-09 14:00:00,Output,Foley,0.0,ml,outputevents
+14954759,22021594,2145-09-09 14:00:00,Pharmacy,,,NaN,pharmacy
+14954759,22021594,2145-09-09 14:02:00,Input,IVF ingredient,983.299971818924,ml,ingredientevents
+14954759,22021594,2145-09-09 14:02:00,Input,Water,983.299971818924,ml,ingredientevents
+14954759,22021594,2145-09-09 14:02:00,Input,LR,983.299971818924,ml,inputevents
+14954759,22021594,2145-09-09 14:03:00,Input,Water,1700.0,ml,ingredientevents
+14954759,22021594,2145-09-09 14:03:00,Input,Pre-Admission/Non-ICU Intake,1700.0,ml,inputevents
+14954759,22021594,2145-09-09 14:30:00,DateTime Obs,Indwelling (PortaCath) Port #1 Date Accessed,2145-09-09 18:42:00,Date,datetimeevents
+14954759,22021594,2145-09-09 14:30:00,DateTime Obs,Indwelling Port (PortaCath)Tubing Change,2145-09-09 18:42:00,Date,datetimeevents
+14954759,22021594,2145-09-09 14:30:00,DateTime Obs,Indwelling Port (PortaCath) Insertion Date,2145-09-09 18:42:00,Date,datetimeevents
+14954759,22021594,2145-09-09 14:30:00,DateTime Obs,Indwelling Port (PortaCath) Cap Change,2145-09-09 18:42:00,Date,datetimeevents
+14954759,22021594,2145-09-09 14:30:00,Procedure,Indwelling Port (PortaCath),96.0,hour,procedureevents
+14954759,22021594,2145-09-09 14:30:00,DateTime Obs,Indwelling (PortaCath) Dressing Change,2145-09-09 14:00:00,Date and Time,datetimeevents
+14954759,22021594,2145-09-09 14:30:00,Procedure,Indwelling Port (PortaCath),96.0,hour,procedureevents
+14954759,22021594,2145-09-09 14:39:00,Input,Hydromorphone (Dilaudid),0.2500000118743628,mg,inputevents
+14954759,22021594,2145-09-09 15:00:00,Prescription,Acetaminophen IV,1000,mg,prescriptions
+14954759,22021594,2145-09-09 15:00:00,Prescription,HYDROmorphone (Dilaudid),0.25-0.5,mg,prescriptions
+14954759,22021594,2145-09-09 15:00:00,Output,Foley,0.0,ml,outputevents
+14954759,22021594,2145-09-09 15:00:00,Pharmacy,Acetaminophen IV,,NaN,pharmacy
+14954759,22021594,2145-09-09 15:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+14954759,22021594,2145-09-09 15:17:00,Input,Blood Ingredient,196.99999809265137,ml,ingredientevents
+14954759,22021594,2145-09-09 15:17:00,Input,Platelets,196.99999809265137,ml,inputevents
+14954759,22021594,2145-09-09 15:17:00,Input,Water,196.99999809265137,ml,ingredientevents
+14954759,22021594,2145-09-09 15:30:00,DateTime Obs,Arterial line Tubing Change,2145-09-09 15:56:00,Date,datetimeevents
+14954759,22021594,2145-09-09 15:30:00,DateTime Obs,Arterial line Insertion Date,2145-09-09 15:56:00,Date,datetimeevents
+14954759,22021594,2145-09-09 15:30:00,Procedure,Arterial Line,90.93333333333334,hour,procedureevents
+14954759,22021594,2145-09-09 15:30:00,DateTime Obs,Arterial Line Dressing Change,2145-09-09 15:56:00,Date and Time,datetimeevents
+14954759,22021594,2145-09-09 15:30:00,Procedure,Arterial Line,90.93333333333334,hour,procedureevents
+14954759,22021594,2145-09-09 15:45:00,Lab Result,Potassium| Blood,4.6,mEq/L,labevents
+14954759,22021594,2145-09-09 15:45:00,Lab Result,Magnesium| Blood,2.4,mg/dL,labevents
+14954759,22021594,2145-09-09 15:45:00,Lab Result,Sodium| Blood,134.0,mEq/L,labevents
+14954759,22021594,2145-09-09 15:45:00,Lab Result,Glucose| Blood,114.0,mg/dL,labevents
+14954759,22021594,2145-09-09 15:45:00,Lab Result,Creatinine| Blood,3.8,mg/dL,labevents
+14954759,22021594,2145-09-09 15:45:00,Lab Result,Chloride| Blood,106.0,mEq/L,labevents
+14954759,22021594,2145-09-09 15:45:00,Lab Result,"Calcium, Total| Blood",8.0,mg/dL,labevents
+14954759,22021594,2145-09-09 15:45:00,Lab Result,Bicarbonate| Blood,16.0,mEq/L,labevents
+14954759,22021594,2145-09-09 15:45:00,Lab Result,Anion Gap| Blood,17.0,mEq/L,labevents
+14954759,22021594,2145-09-09 15:45:00,Lab Result,Blue Top Hold| Blood,,,labevents
+14954759,22021594,2145-09-09 15:45:00,Lab Result,Urea Nitrogen| Blood,40.0,mg/dL,labevents
+14954759,22021594,2145-09-09 15:45:00,Lab Result,Hematocrit| Blood,23.8,%,labevents
+14954759,22021594,2145-09-09 15:45:00,Lab Result,Phosphate| Blood,7.1,mg/dL,labevents
+14954759,22021594,2145-09-09 15:45:00,Lab Result,Platelet Count| Blood,384.0,K/uL,labevents
+14954759,22021594,2145-09-09 15:50:00,Lab Result,Lactate| Blood,1.1,mmol/L,labevents
+14954759,22021594,2145-09-09 15:50:00,Lab Result,Calculated Total CO2| Blood,17.0,mEq/L,labevents
+14954759,22021594,2145-09-09 15:50:00,Lab Result,Base Excess| Blood,-8.0,mEq/L,labevents
+14954759,22021594,2145-09-09 15:50:00,Lab Result,pCO2| Blood,32.0,mm Hg,labevents
+14954759,22021594,2145-09-09 15:50:00,Lab Result,pH| Blood,7.32,units,labevents
+14954759,22021594,2145-09-09 15:50:00,Lab Result,pO2| Blood,93.0,mm Hg,labevents
+14954759,22021594,2145-09-09 15:50:00,Lab Result,Specimen Type| Blood,,,labevents
+14954759,22021594,2145-09-09 15:50:00,Lab Result,Free Calcium| Blood,1.11,mmol/L,labevents
+14954759,22021594,2145-09-09 16:00:00,Output,Foley,0.0,ml,outputevents
+14954759,22021594,2145-09-09 17:00:00,Prescription,Ondansetron,4-8,mg,prescriptions
+14954759,22021594,2145-09-09 17:00:00,Prescription,Gabapentin,300,mg,prescriptions
+14954759,22021594,2145-09-09 17:00:00,Pharmacy,Ondansetron,,NaN,pharmacy
+14954759,22021594,2145-09-09 17:00:00,Pharmacy,Gabapentin,,NaN,pharmacy
+14954759,22021594,2145-09-09 17:00:00,Output,Foley,0.0,ml,outputevents
+14954759,22021594,2145-09-09 17:19:00,Input,Packed Red Blood Cells,350.0000095367432,ml,inputevents
+14954759,22021594,2145-09-09 17:19:00,Input,Water,350.0000095367432,ml,ingredientevents
+14954759,22021594,2145-09-09 17:19:00,Input,Blood Ingredient,350.0000095367432,ml,ingredientevents
+14954759,22021594,2145-09-09 18:00:00,Prescription,Lactated Ringers,1000,mL,prescriptions
+14954759,22021594,2145-09-09 18:00:00,Pharmacy,,,NaN,pharmacy
+14954759,22021594,2145-09-09 20:00:00,Pharmacy,Omeprazole,,NaN,pharmacy
+14954759,22021594,2145-09-09 20:00:00,Prescription,Senna,8.6,mg,prescriptions
+14954759,22021594,2145-09-09 20:00:00,Prescription,Docusate Sodium,100,mg,prescriptions
+14954759,22021594,2145-09-09 20:00:00,Pharmacy,Senna,,NaN,pharmacy
+14954759,22021594,2145-09-09 20:00:00,Output,Foley,5.0,ml,outputevents
+14954759,22021594,2145-09-09 20:00:00,Pharmacy,Docusate Sodium,,NaN,pharmacy
+14954759,22021594,2145-09-09 20:00:00,Prescription,Omeprazole,40,mg,prescriptions
+14954759,22021594,2145-09-09 21:00:00,Input,IVF ingredient,500.0,ml,ingredientevents
+14954759,22021594,2145-09-09 21:00:00,Input,LR,500.0,ml,inputevents
+14954759,22021594,2145-09-09 21:00:00,Input,Water,500.0,ml,ingredientevents
+14954759,22021594,2145-09-09 21:00:00,Output,Foley,8.0,ml,outputevents
+14954759,22021594,2145-09-09 21:30:00,Lab Result,Hematocrit| Blood,28.8,%,labevents
+14954759,22021594,2145-09-09 21:45:00,Lab Result,pO2| Blood,69.0,mm Hg,labevents
+14954759,22021594,2145-09-09 21:45:00,Lab Result,Base Excess| Blood,-7.0,mEq/L,labevents
+14954759,22021594,2145-09-09 21:45:00,Lab Result,Lactate| Blood,1.4,mmol/L,labevents
+14954759,22021594,2145-09-09 21:45:00,Lab Result,pCO2| Blood,31.0,mm Hg,labevents
+14954759,22021594,2145-09-09 21:45:00,Lab Result,pH| Blood,7.34,units,labevents
+14954759,22021594,2145-09-09 21:45:00,Lab Result,Specimen Type| Blood,,,labevents
+14954759,22021594,2145-09-09 21:45:00,Lab Result,Calculated Total CO2| Blood,17.0,mEq/L,labevents
+14954759,22021594,2145-09-09 22:00:00,Input,LR,500.0,ml,inputevents
+14954759,22021594,2145-09-09 22:00:00,Input,Hydromorphone (Dilaudid),0.5000000237487257,mg,inputevents
+14954759,22021594,2145-09-09 22:00:00,Input,IVF ingredient,500.0,ml,ingredientevents
+14954759,22021594,2145-09-09 22:00:00,Input,Water,500.0,ml,ingredientevents
+14954759,22021594,2145-09-09 23:00:00,Prescription,Lactated Ringers,1000,mL,prescriptions
+14954759,22021594,2145-09-09 23:00:00,Pharmacy,,,NaN,pharmacy
+14954759,22021594,2145-09-09 23:00:00,Output,Foley,7.0,ml,outputevents
+14954759,22021594,2145-09-09 23:52:00,Input,LR,721.6666494607925,ml,inputevents
+14954759,22021594,2145-09-09 23:52:00,Input,IVF ingredient,721.6666494607925,ml,ingredientevents
+14954759,22021594,2145-09-09 23:52:00,Input,Water,721.6666494607925,ml,ingredientevents
+14954759,22021594,2145-09-10 00:00:00,Output,Foley,6.0,ml,outputevents
+14954759,22021594,2145-09-10 00:20:00,Lab Result,Hematocrit| Blood,27.7,%,labevents
+14954759,22021594,2145-09-10 00:39:00,Lab Result,Specimen Type| Blood,,,labevents
+14954759,22021594,2145-09-10 00:39:00,Lab Result,pO2| Blood,70.0,mm Hg,labevents
+14954759,22021594,2145-09-10 00:39:00,Lab Result,pCO2| Blood,31.0,mm Hg,labevents
+14954759,22021594,2145-09-10 00:39:00,Lab Result,Lactate| Blood,1.1,mmol/L,labevents
+14954759,22021594,2145-09-10 00:39:00,Lab Result,Calculated Total CO2| Blood,17.0,mEq/L,labevents
+14954759,22021594,2145-09-10 00:39:00,Lab Result,Base Excess| Blood,-7.0,mEq/L,labevents
+14954759,22021594,2145-09-10 00:39:00,Lab Result,pH| Blood,7.34,units,labevents
+14954759,22021594,2145-09-10 01:00:00,Input,Water,249.99999046325684,ml,ingredientevents
+14954759,22021594,2145-09-10 01:00:00,Input,Blood Ingredient,249.99999046325684,ml,ingredientevents
+14954759,22021594,2145-09-10 01:00:00,Prescription,Albumin 5%,25,g,prescriptions
+14954759,22021594,2145-09-10 01:00:00,Input,Albumin 5%,249.99999046325684,ml,inputevents
+14954759,22021594,2145-09-10 01:00:00,Pharmacy,Albumin 5%,,NaN,pharmacy
+14954759,22021594,2145-09-10 01:00:00,Output,Foley,7.0,ml,outputevents
+14954759,22021594,2145-09-10 02:00:00,Input,Albumin 5%,249.99999046325684,ml,inputevents
+14954759,22021594,2145-09-10 02:00:00,Input,Water,249.99999046325684,ml,ingredientevents
+14954759,22021594,2145-09-10 02:00:00,Input,Blood Ingredient,249.99999046325684,ml,ingredientevents
+14954759,22021594,2145-09-10 02:00:00,Output,Foley,6.0,ml,outputevents
+14954759,22021594,2145-09-10 02:30:00,Input,Hydromorphone (Dilaudid),0.5000000237487257,mg,inputevents
+14954759,22021594,2145-09-10 03:00:00,Output,Foley,8.0,ml,outputevents
+14954759,22021594,2145-09-10 03:43:00,Lab Result,Urea Nitrogen| Blood,42.0,mg/dL,labevents
+14954759,22021594,2145-09-10 03:43:00,Lab Result,Sodium| Blood,133.0,mEq/L,labevents
+14954759,22021594,2145-09-10 03:43:00,Lab Result,Potassium| Blood,4.6,mEq/L,labevents
+14954759,22021594,2145-09-10 03:43:00,Lab Result,Phosphate| Blood,6.9,mg/dL,labevents
+14954759,22021594,2145-09-10 03:43:00,Lab Result,Magnesium| Blood,2.3,mg/dL,labevents
+14954759,22021594,2145-09-10 03:43:00,Lab Result,Glucose| Blood,99.0,mg/dL,labevents
+14954759,22021594,2145-09-10 03:43:00,Lab Result,Creatinine| Blood,4.0,mg/dL,labevents
+14954759,22021594,2145-09-10 03:43:00,Lab Result,Chloride| Blood,105.0,mEq/L,labevents
+14954759,22021594,2145-09-10 03:43:00,Lab Result,MCH| Blood,31.7,pg,labevents
+14954759,22021594,2145-09-10 03:43:00,Lab Result,Bicarbonate| Blood,16.0,mEq/L,labevents
+14954759,22021594,2145-09-10 03:43:00,Lab Result,Anion Gap| Blood,17.0,mEq/L,labevents
+14954759,22021594,2145-09-10 03:43:00,Lab Result,PTT| Blood,27.8,sec,labevents
+14954759,22021594,2145-09-10 03:43:00,Lab Result,PT| Blood,12.8,sec,labevents
+14954759,22021594,2145-09-10 03:43:00,Lab Result,INR(PT)| Blood,1.2,,labevents
+14954759,22021594,2145-09-10 03:43:00,Lab Result,White Blood Cells| Blood,18.4,K/uL,labevents
+14954759,22021594,2145-09-10 03:43:00,Lab Result,Red Blood Cells| Blood,2.77,m/uL,labevents
+14954759,22021594,2145-09-10 03:43:00,Lab Result,RDW| Blood,19.9,%,labevents
+14954759,22021594,2145-09-10 03:43:00,Lab Result,MCV| Blood,96.0,fL,labevents
+14954759,22021594,2145-09-10 03:43:00,Lab Result,MCHC| Blood,33.1,%,labevents
+14954759,22021594,2145-09-10 03:43:00,Lab Result,Hemoglobin| Blood,8.8,g/dL,labevents
+14954759,22021594,2145-09-10 03:43:00,Lab Result,Hematocrit| Blood,26.5,%,labevents
+14954759,22021594,2145-09-10 03:43:00,Lab Result,"Calcium, Total| Blood",7.9,mg/dL,labevents
+14954759,22021594,2145-09-10 03:43:00,Lab Result,Platelet Count| Blood,324.0,K/uL,labevents
+14954759,22021594,2145-09-10 04:00:00,Output,Foley,10.0,ml,outputevents
+14954759,22021594,2145-09-10 04:00:00,Lab Result,Calculated Total CO2| Blood,18.0,mEq/L,labevents
+14954759,22021594,2145-09-10 04:00:00,Lab Result,pH| Blood,7.31,units,labevents
+14954759,22021594,2145-09-10 04:00:00,Lab Result,Base Excess| Blood,-7.0,mEq/L,labevents
+14954759,22021594,2145-09-10 04:00:00,Lab Result,Lactate| Blood,0.7,mmol/L,labevents
+14954759,22021594,2145-09-10 04:00:00,Lab Result,pCO2| Blood,35.0,mm Hg,labevents
+14954759,22021594,2145-09-10 04:00:00,Lab Result,pO2| Blood,73.0,mm Hg,labevents
+14954759,22021594,2145-09-10 04:00:00,Lab Result,Specimen Type| Blood,,,labevents
+14954759,22021594,2145-09-10 07:05:00,Input,IVF ingredient,278.3330174088478,ml,ingredientevents
+14954759,22021594,2145-09-10 07:05:00,Input,LR,278.3330174088478,ml,inputevents
+14954759,22021594,2145-09-10 07:05:00,Input,Water,278.3330174088478,ml,ingredientevents
+14954759,22021594,2145-09-10 08:00:00,Prescription,Ranitidine,150,mg,prescriptions
+14954759,22021594,2145-09-10 08:00:00,Output,Foley,8.0,ml,outputevents
+14954759,22021594,2145-09-10 08:00:00,Pharmacy,Ranitidine,,NaN,pharmacy
+14954759,22021594,2145-09-10 08:00:00,Prescription,Citalopram,10,mg,prescriptions
+14954759,22021594,2145-09-10 08:00:00,Prescription,Levothyroxine Sodium,175,mcg,prescriptions
+14954759,22021594,2145-09-10 08:00:00,Prescription,Rosuvastatin Calcium,20,mg,prescriptions
+14954759,22021594,2145-09-10 08:00:00,Pharmacy,Citalopram,,NaN,pharmacy
+14954759,22021594,2145-09-10 08:00:00,Pharmacy,Rosuvastatin Calcium,,NaN,pharmacy
+14954759,22021594,2145-09-10 08:00:00,Pharmacy,Levothyroxine Sodium,,NaN,pharmacy
+14954759,22021594,2145-09-10 08:30:00,Input,Acetaminophen-IV,1000.0,mg,inputevents
+14954759,22021594,2145-09-10 08:47:00,Lab Result,"Chloride, Urine| Urine",19.0,mEq/L,labevents
+14954759,22021594,2145-09-10 08:47:00,Lab Result,Length of Urine Collection| Urine,,,labevents
+14954759,22021594,2145-09-10 08:47:00,Lab Result,"Creatinine, Urine| Urine",202.0,mg/dL,labevents
+14954759,22021594,2145-09-10 08:47:00,Lab Result,"Sodium, Urine| Urine",22.0,mEq/L,labevents
+14954759,22021594,2145-09-10 08:47:00,Lab Result,Hematocrit| Blood,26.6,%,labevents
+14954759,22021594,2145-09-10 08:47:00,Lab Result,"Potassium, Urine| Urine",60.0,mEq/L,labevents
+14954759,22021594,2145-09-10 09:00:00,Pharmacy,,,NaN,pharmacy
+14954759,22021594,2145-09-10 09:00:00,Prescription,Lactated Ringers,1000,mL,prescriptions
+14954759,22021594,2145-09-10 09:00:00,Output,Foley,4.0,ml,outputevents
+14954759,22021594,2145-09-10 11:00:00,Output,Foley,4.0,ml,outputevents
+14954759,22021594,2145-09-10 11:00:00,DateTime Obs,Arterial line Tubing Change,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-10 11:00:00,DateTime Obs,Arterial Line Dressing Change,2145-09-09 15:56:00,Date and Time,datetimeevents
+14954759,22021594,2145-09-10 11:00:00,DateTime Obs,Arterial line Insertion Date,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-10 11:01:00,DateTime Obs,Indwelling (PortaCath) Dressing Change,2145-09-09 14:00:00,Date and Time,datetimeevents
+14954759,22021594,2145-09-10 11:01:00,DateTime Obs,Indwelling (PortaCath) Port #1 Date Accessed,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-10 11:01:00,DateTime Obs,Indwelling Port (PortaCath)Tubing Change,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-10 11:01:00,DateTime Obs,18 Gauge Insertion Date,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-10 11:01:00,DateTime Obs,Indwelling Port (PortaCath) Insertion Date,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-10 11:01:00,DateTime Obs,16 Gauge Insertion Date,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-10 11:01:00,DateTime Obs,Indwelling Port (PortaCath) Cap Change,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-10 12:15:00,Input,Hydromorphone (Dilaudid),0.2500000118743628,mg,inputevents
+14954759,22021594,2145-09-10 12:40:00,Lab Result,Hematocrit| Blood,26.5,%,labevents
+14954759,22021594,2145-09-10 14:00:00,Output,Foley,4.0,ml,outputevents
+14954759,22021594,2145-09-10 16:00:00,Output,Foley,2.0,ml,outputevents
+14954759,22021594,2145-09-10 16:20:00,Lab Result,Troponin T| Blood,0.03,ng/mL,labevents
+14954759,22021594,2145-09-10 16:20:00,Lab Result,Urea Nitrogen| Blood,46.0,mg/dL,labevents
+14954759,22021594,2145-09-10 16:20:00,Lab Result,Sodium| Blood,133.0,mEq/L,labevents
+14954759,22021594,2145-09-10 16:20:00,Lab Result,Potassium| Blood,4.8,mEq/L,labevents
+14954759,22021594,2145-09-10 16:20:00,Lab Result,Magnesium| Blood,2.3,mg/dL,labevents
+14954759,22021594,2145-09-10 16:20:00,Lab Result,Glucose| Blood,91.0,mg/dL,labevents
+14954759,22021594,2145-09-10 16:20:00,Lab Result,Phosphate| Blood,7.0,mg/dL,labevents
+14954759,22021594,2145-09-10 16:20:00,Lab Result,"Creatine Kinase, MB Isoenzyme| Blood",10.0,ng/mL,labevents
+14954759,22021594,2145-09-10 16:20:00,Lab Result,Chloride| Blood,106.0,mEq/L,labevents
+14954759,22021594,2145-09-10 16:20:00,Lab Result,"Calcium, Total| Blood",8.0,mg/dL,labevents
+14954759,22021594,2145-09-10 16:20:00,Lab Result,Bicarbonate| Blood,16.0,mEq/L,labevents
+14954759,22021594,2145-09-10 16:20:00,Lab Result,Anion Gap| Blood,16.0,mEq/L,labevents
+14954759,22021594,2145-09-10 16:20:00,Lab Result,Hematocrit| Blood,25.9,%,labevents
+14954759,22021594,2145-09-10 16:20:00,Lab Result,Creatinine| Blood,4.4,mg/dL,labevents
+14954759,22021594,2145-09-10 16:29:00,Lab Result,Specimen Type| Blood,,,labevents
+14954759,22021594,2145-09-10 16:29:00,Lab Result,pO2| Blood,103.0,mm Hg,labevents
+14954759,22021594,2145-09-10 16:29:00,Lab Result,pH| Blood,7.34,units,labevents
+14954759,22021594,2145-09-10 16:29:00,Lab Result,pCO2| Blood,23.0,mm Hg,labevents
+14954759,22021594,2145-09-10 16:29:00,Lab Result,Base Excess| Blood,-11.0,mEq/L,labevents
+14954759,22021594,2145-09-10 16:29:00,Lab Result,Calculated Total CO2| Blood,13.0,mEq/L,labevents
+14954759,22021594,2145-09-10 16:29:00,Lab Result,Lactate| Blood,1.0,mmol/L,labevents
+14954759,22021594,2145-09-10 16:30:00,Lab Result,Polys| Ascites,77.0,%,labevents
+14954759,22021594,2145-09-10 16:30:00,Lab Result,Lymphocytes| Ascites,13.0,%,labevents
+14954759,22021594,2145-09-10 16:30:00,Lab Result,Monocytes| Ascites,9.0,%,labevents
+14954759,22021594,2145-09-10 16:30:00,Lab Result,"Lactate Dehydrogenase, Ascites| Ascites",526.0,IU/L,labevents
+14954759,22021594,2145-09-10 16:30:00,Lab Result,"Total Protein, Ascites| Ascites",3.9,g/dL,labevents
+14954759,22021594,2145-09-10 16:30:00,Lab Result,"Amylase, Ascites| Ascites",13.0,IU/L,labevents
+14954759,22021594,2145-09-10 16:30:00,Lab Result,"Albumin, Ascites| Ascites",1.8,g/dL,labevents
+14954759,22021594,2145-09-10 16:30:00,Lab Result,"RBC, Ascites| Ascites",61000.0,#/uL,labevents
+14954759,22021594,2145-09-10 16:30:00,Lab Result,"Glucose, Ascites| Ascites",33.0,mg/dL,labevents
+14954759,22021594,2145-09-10 16:30:00,Lab Result,"Total Nucleated Cells, Ascites| Ascites",500.0,#/uL,labevents
+14954759,22021594,2145-09-10 16:30:00,Lab Result,Macrophage| Ascites,1.0,%,labevents
+14954759,22021594,2145-09-10 16:32:00,Procedure,Paracentesis,1.0,,procedureevents
+14954759,22021594,2145-09-10 16:32:00,Procedure,Paracentesis,1.0,,procedureevents
+14954759,22021594,2145-09-10 17:52:00,Output,Tap,1400.0,ml,outputevents
+14954759,22021594,2145-09-10 18:15:00,Lab Result,Hematocrit| Blood,25.5,%,labevents
+14954759,22021594,2145-09-10 19:00:00,Output,Foley,5.0,ml,outputevents
+14954759,22021594,2145-09-10 23:00:00,Output,Foley,10.0,ml,outputevents
+14954759,22021594,2145-09-11 00:00:00,Input,Hydromorphone (Dilaudid),0.5000000237487257,mg,inputevents
+14954759,22021594,2145-09-11 00:00:00,Input,Acetaminophen-IV,1000.0,mg,inputevents
+14954759,22021594,2145-09-11 01:00:00,Output,Foley,10.0,ml,outputevents
+14954759,22021594,2145-09-11 01:29:00,Lab Result,PTT| Blood,26.5,sec,labevents
+14954759,22021594,2145-09-11 01:29:00,Lab Result,Urea Nitrogen| Blood,49.0,mg/dL,labevents
+14954759,22021594,2145-09-11 01:29:00,Lab Result,Sodium| Blood,129.0,mEq/L,labevents
+14954759,22021594,2145-09-11 01:29:00,Lab Result,Potassium| Blood,4.7,mEq/L,labevents
+14954759,22021594,2145-09-11 01:29:00,Lab Result,Phosphate| Blood,7.5,mg/dL,labevents
+14954759,22021594,2145-09-11 01:29:00,Lab Result,Magnesium| Blood,2.3,mg/dL,labevents
+14954759,22021594,2145-09-11 01:29:00,Lab Result,Glucose| Blood,81.0,mg/dL,labevents
+14954759,22021594,2145-09-11 01:29:00,Lab Result,PT| Blood,13.2,sec,labevents
+14954759,22021594,2145-09-11 01:29:00,Lab Result,INR(PT)| Blood,1.2,,labevents
+14954759,22021594,2145-09-11 01:29:00,Lab Result,Creatinine| Blood,4.9,mg/dL,labevents
+14954759,22021594,2145-09-11 01:29:00,Lab Result,"Calcium, Total| Blood",8.0,mg/dL,labevents
+14954759,22021594,2145-09-11 01:29:00,Lab Result,Anion Gap| Blood,13.0,mEq/L,labevents
+14954759,22021594,2145-09-11 01:29:00,Lab Result,White Blood Cells| Blood,13.8,K/uL,labevents
+14954759,22021594,2145-09-11 01:29:00,Lab Result,Red Blood Cells| Blood,2.41,m/uL,labevents
+14954759,22021594,2145-09-11 01:29:00,Lab Result,RDW| Blood,20.4,%,labevents
+14954759,22021594,2145-09-11 01:29:00,Lab Result,Platelet Count| Blood,288.0,K/uL,labevents
+14954759,22021594,2145-09-11 01:29:00,Lab Result,MCV| Blood,98.0,fL,labevents
+14954759,22021594,2145-09-11 01:29:00,Lab Result,MCHC| Blood,32.5,%,labevents
+14954759,22021594,2145-09-11 01:29:00,Lab Result,MCH| Blood,31.7,pg,labevents
+14954759,22021594,2145-09-11 01:29:00,Lab Result,Hemoglobin| Blood,7.6,g/dL,labevents
+14954759,22021594,2145-09-11 01:29:00,Lab Result,Chloride| Blood,104.0,mEq/L,labevents
+14954759,22021594,2145-09-11 01:29:00,Lab Result,Bicarbonate| Blood,17.0,mEq/L,labevents
+14954759,22021594,2145-09-11 01:29:00,Lab Result,Hematocrit| Blood,23.5,%,labevents
+14954759,22021594,2145-09-11 03:00:00,Output,Foley,5.0,ml,outputevents
+14954759,22021594,2145-09-11 06:00:00,Output,Foley,10.0,ml,outputevents
+14954759,22021594,2145-09-11 07:00:00,Input,Hydromorphone (Dilaudid),0.2500000118743628,mg,inputevents
+14954759,22021594,2145-09-11 08:00:00,Output,Foley,0.0,ml,outputevents
+14954759,22021594,2145-09-11 08:42:00,DateTime Obs,Indwelling Port (PortaCath) Insertion Date,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-11 08:42:00,DateTime Obs,Arterial line Tubing Change,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-11 08:42:00,DateTime Obs,Arterial line Insertion Date,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-11 08:42:00,DateTime Obs,Arterial Line Dressing Change,2145-09-09 15:56:00,Date and Time,datetimeevents
+14954759,22021594,2145-09-11 08:42:00,DateTime Obs,Indwelling Port (PortaCath) Cap Change,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-11 08:42:00,DateTime Obs,Indwelling Port (PortaCath)Tubing Change,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-11 08:42:00,DateTime Obs,18 Gauge Insertion Date,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-11 08:42:00,DateTime Obs,Indwelling (PortaCath) Port #1 Date Accessed,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-11 08:42:00,DateTime Obs,16 Gauge Insertion Date,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-11 08:42:00,DateTime Obs,Indwelling (PortaCath) Dressing Change,2145-09-09 14:00:00,Date and Time,datetimeevents
+14954759,22021594,2145-09-11 08:45:00,Lab Result,Hematocrit| Blood,22.9,%,labevents
+14954759,22021594,2145-09-11 09:29:00,Input,Acetaminophen-IV,1000.0,mg,inputevents
+14954759,22021594,2145-09-11 10:53:00,Input,IVF ingredient,531.6666825115681,ml,ingredientevents
+14954759,22021594,2145-09-11 10:53:00,Input,Water,531.6666825115681,ml,ingredientevents
+14954759,22021594,2145-09-11 10:53:00,Input,LR,531.6666825115681,ml,inputevents
+14954759,22021594,2145-09-11 13:36:00,DateTime Obs,Arterial Line Dressing Change,2145-09-09 15:56:00,Date and Time,datetimeevents
+14954759,22021594,2145-09-11 13:36:00,DateTime Obs,Arterial line Insertion Date,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-11 13:36:00,DateTime Obs,Arterial line Tubing Change,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-11 13:36:00,DateTime Obs,Indwelling Port (PortaCath) Cap Change,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-11 13:36:00,DateTime Obs,Indwelling Port (PortaCath) Insertion Date,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-11 13:36:00,DateTime Obs,Indwelling Port (PortaCath)Tubing Change,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-11 13:36:00,DateTime Obs,16 Gauge Insertion Date,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-11 13:36:00,DateTime Obs,Indwelling (PortaCath) Port #1 Date Accessed,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-11 13:36:00,DateTime Obs,Indwelling (PortaCath) Dressing Change,2145-09-09 14:00:00,Date and Time,datetimeevents
+14954759,22021594,2145-09-11 13:37:00,DateTime Obs,16 Gauge Insertion Date,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-11 13:37:00,DateTime Obs,18 Gauge Insertion Date,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-11 13:40:00,Lab Result,Hematocrit| Blood,22.4,%,labevents
+14954759,22021594,2145-09-11 17:33:00,DateTime Obs,Arterial Line Dressing Change,2145-09-09 15:56:00,Date and Time,datetimeevents
+14954759,22021594,2145-09-11 17:33:00,DateTime Obs,18 Gauge Insertion Date,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-11 17:33:00,DateTime Obs,Indwelling Port (PortaCath)Tubing Change,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-11 17:33:00,DateTime Obs,Indwelling (PortaCath) Port #1 Date Accessed,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-11 17:33:00,DateTime Obs,16 Gauge Insertion Date,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-11 17:33:00,DateTime Obs,Indwelling Port (PortaCath) Insertion Date,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-11 17:33:00,DateTime Obs,Arterial line Insertion Date,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-11 17:33:00,DateTime Obs,Indwelling Port (PortaCath) Cap Change,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-11 17:33:00,DateTime Obs,Indwelling (PortaCath) Dressing Change,2145-09-09 14:00:00,Date and Time,datetimeevents
+14954759,22021594,2145-09-11 17:33:00,DateTime Obs,Arterial line Tubing Change,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-11 17:38:00,Output,Foley,15.0,ml,outputevents
+14954759,22021594,2145-09-11 18:00:00,Input,Hydromorphone (Dilaudid),0.2500000118743628,mg,inputevents
+14954759,22021594,2145-09-11 18:29:00,Input,Acetaminophen-IV,1000.0,mg,inputevents
+14954759,22021594,2145-09-11 19:30:00,Lab Result,Hematocrit| Blood,22.4,%,labevents
+14954759,22021594,2145-09-11 20:00:00,Output,Foley,35.0,ml,outputevents
+14954759,22021594,2145-09-11 20:30:00,Input,Hydromorphone (Dilaudid),0.2500000118743628,mg,inputevents
+14954759,22021594,2145-09-11 21:00:00,Output,Foley,10.0,ml,outputevents
+14954759,22021594,2145-09-11 23:22:00,Input,Hydromorphone (Dilaudid),0.2500000118743628,mg,inputevents
+14954759,22021594,2145-09-12 00:00:00,Output,Foley,10.0,ml,outputevents
+14954759,22021594,2145-09-12 00:00:00,Input,Acetaminophen-IV,1000.0,mg,inputevents
+14954759,22021594,2145-09-12 02:24:00,Lab Result,Magnesium| Blood,2.4,mg/dL,labevents
+14954759,22021594,2145-09-12 02:24:00,Lab Result,Phosphate| Blood,8.5,mg/dL,labevents
+14954759,22021594,2145-09-12 02:24:00,Lab Result,"Calcium, Total| Blood",7.8,mg/dL,labevents
+14954759,22021594,2145-09-12 02:24:00,Lab Result,Creatinine| Blood,5.4,mg/dL,labevents
+14954759,22021594,2145-09-12 02:24:00,Lab Result,Chloride| Blood,103.0,mEq/L,labevents
+14954759,22021594,2145-09-12 02:24:00,Lab Result,White Blood Cells| Blood,17.1,K/uL,labevents
+14954759,22021594,2145-09-12 02:24:00,Lab Result,Potassium| Blood,5.5,mEq/L,labevents
+14954759,22021594,2145-09-12 02:24:00,Lab Result,Sodium| Blood,127.0,mEq/L,labevents
+14954759,22021594,2145-09-12 02:24:00,Lab Result,Urea Nitrogen| Blood,57.0,mg/dL,labevents
+14954759,22021594,2145-09-12 02:24:00,Lab Result,Glucose| Blood,65.0,mg/dL,labevents
+14954759,22021594,2145-09-12 02:24:00,Lab Result,Red Blood Cells| Blood,2.36,m/uL,labevents
+14954759,22021594,2145-09-12 02:24:00,Lab Result,Bicarbonate| Blood,15.0,mEq/L,labevents
+14954759,22021594,2145-09-12 02:24:00,Lab Result,Platelet Count| Blood,330.0,K/uL,labevents
+14954759,22021594,2145-09-12 02:24:00,Lab Result,Hematocrit| Blood,23.0,%,labevents
+14954759,22021594,2145-09-12 02:24:00,Lab Result,Anion Gap| Blood,15.0,mEq/L,labevents
+14954759,22021594,2145-09-12 02:24:00,Lab Result,RDW| Blood,19.7,%,labevents
+14954759,22021594,2145-09-12 02:24:00,Lab Result,MCHC| Blood,32.8,%,labevents
+14954759,22021594,2145-09-12 02:24:00,Lab Result,MCV| Blood,98.0,fL,labevents
+14954759,22021594,2145-09-12 02:24:00,Lab Result,Hemoglobin| Blood,7.5,g/dL,labevents
+14954759,22021594,2145-09-12 02:24:00,Lab Result,MCH| Blood,32.0,pg,labevents
+14954759,22021594,2145-09-12 03:00:00,Output,Foley,0.0,ml,outputevents
+14954759,22021594,2145-09-12 04:28:00,DateTime Obs,Arterial Line Dressing Change,2145-09-09 15:56:00,Date and Time,datetimeevents
+14954759,22021594,2145-09-12 04:28:00,DateTime Obs,Arterial line Insertion Date,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-12 04:28:00,DateTime Obs,Arterial line Tubing Change,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-12 05:00:00,Output,Foley,3.0,ml,outputevents
+14954759,22021594,2145-09-12 06:28:00,DateTime Obs,Indwelling (PortaCath) Dressing Change,2145-09-09 14:00:00,Date and Time,datetimeevents
+14954759,22021594,2145-09-12 06:28:00,DateTime Obs,Indwelling Port (PortaCath) Cap Change,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-12 06:28:00,DateTime Obs,Indwelling Port (PortaCath) Insertion Date,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-12 06:28:00,DateTime Obs,Indwelling (PortaCath) Port #1 Date Accessed,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-12 06:28:00,DateTime Obs,Indwelling Port (PortaCath)Tubing Change,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-12 07:00:00,Pharmacy,Albumin 25% (12.5g / 50mL),,NaN,pharmacy
+14954759,22021594,2145-09-12 07:00:00,Prescription,Albumin 25% (12.5g / 50mL),12.5,g,prescriptions
+14954759,22021594,2145-09-12 07:30:00,Input,Acetaminophen-IV,1000.0,mg,inputevents
+14954759,22021594,2145-09-12 08:00:00,Output,Foley,15.0,ml,outputevents
+14954759,22021594,2145-09-12 08:00:00,Pharmacy,Insulin,,NaN,pharmacy
+14954759,22021594,2145-09-12 08:00:00,Prescription,Insulin,10,UNIT,prescriptions
+14954759,22021594,2145-09-12 08:00:00,Pharmacy,Acetaminophen,,NaN,pharmacy
+14954759,22021594,2145-09-12 08:00:00,Prescription,Acetaminophen,650,mg,prescriptions
+14954759,22021594,2145-09-12 08:15:00,Input,Hydromorphone (Dilaudid),0.2500000118743628,mg,inputevents
+14954759,22021594,2145-09-12 09:00:00,Prescription,Dextrose 50%,25,gm,prescriptions
+14954759,22021594,2145-09-12 09:00:00,Pharmacy,Sodium Polystyrene Sulfonate,,NaN,pharmacy
+14954759,22021594,2145-09-12 09:00:00,Prescription,Sodium Polystyrene Sulfonate,30,gm,prescriptions
+14954759,22021594,2145-09-12 09:00:00,Pharmacy,Dextrose 50%,,NaN,pharmacy
+14954759,22021594,2145-09-12 09:30:00,Input,Kilojoule,419.00000239932535,kJ,ingredientevents
+14954759,22021594,2145-09-12 09:30:00,Input,Kilogram calory,100.0,Kcal,ingredientevents
+14954759,22021594,2145-09-12 09:30:00,Input,Glucose (ingr),25000.001907348636,mg,ingredientevents
+14954759,22021594,2145-09-12 09:30:00,Input,Carbohydrates,25000.001907348636,mg,ingredientevents
+14954759,22021594,2145-09-12 09:30:00,Input,Insulin - Regular,10.0,units,inputevents
+14954759,22021594,2145-09-12 09:30:00,Input,Dextrose 50%,50.0,ml,inputevents
+14954759,22021594,2145-09-12 09:30:00,Input,Water,50.0,ml,ingredientevents
+14954759,22021594,2145-09-12 10:00:00,Output,Foley,0.0,ml,outputevents
+14954759,22021594,2145-09-12 10:44:08,Transfer,transfer Trauma SICU (TSICU),NaN,NaN,transfers
+14954759,22021594,2145-09-12 11:56:00,Input,Hydromorphone (Dilaudid),0.2500000118743628,mg,inputevents
+14954759,22021594,2145-09-12 12:00:00,Prescription,sevelamer CARBONATE,800,mg,prescriptions
+14954759,22021594,2145-09-12 12:00:00,Pharmacy,sevelamer CARBONATE,,NaN,pharmacy
+14954759,22021594,2145-09-12 12:00:00,Output,Foley,10.0,ml,outputevents
+14954759,22021594,2145-09-12 12:15:00,Input,Acetaminophen-IV,1000.0,mg,inputevents
+14954759,22021594,2145-09-12 12:55:00,Lab Result,Anion Gap| Blood,18.0,mEq/L,labevents
+14954759,22021594,2145-09-12 12:55:00,Lab Result,Platelet Count| Blood,393.0,K/uL,labevents
+14954759,22021594,2145-09-12 12:55:00,Lab Result,Potassium| Blood,5.3,mEq/L,labevents
+14954759,22021594,2145-09-12 12:55:00,Lab Result,Phosphate| Blood,8.6,mg/dL,labevents
+14954759,22021594,2145-09-12 12:55:00,Lab Result,Magnesium| Blood,2.3,mg/dL,labevents
+14954759,22021594,2145-09-12 12:55:00,Lab Result,Glucose| Blood,50.0,mg/dL,labevents
+14954759,22021594,2145-09-12 12:55:00,Lab Result,Creatinine| Blood,6.1,mg/dL,labevents
+14954759,22021594,2145-09-12 12:55:00,Lab Result,Chloride| Blood,102.0,mEq/L,labevents
+14954759,22021594,2145-09-12 12:55:00,Lab Result,"Calcium, Total| Blood",7.6,mg/dL,labevents
+14954759,22021594,2145-09-12 12:55:00,Lab Result,Bicarbonate| Blood,15.0,mEq/L,labevents
+14954759,22021594,2145-09-12 12:55:00,Lab Result,White Blood Cells| Blood,19.9,K/uL,labevents
+14954759,22021594,2145-09-12 12:55:00,Lab Result,Red Blood Cells| Blood,2.27,m/uL,labevents
+14954759,22021594,2145-09-12 12:55:00,Lab Result,RDW| Blood,20.8,%,labevents
+14954759,22021594,2145-09-12 12:55:00,Lab Result,MCV| Blood,100.0,fL,labevents
+14954759,22021594,2145-09-12 12:55:00,Lab Result,MCHC| Blood,31.6,%,labevents
+14954759,22021594,2145-09-12 12:55:00,Lab Result,MCH| Blood,31.5,pg,labevents
+14954759,22021594,2145-09-12 12:55:00,Lab Result,Hemoglobin| Blood,7.2,g/dL,labevents
+14954759,22021594,2145-09-12 12:55:00,Lab Result,Hematocrit| Blood,22.6,%,labevents
+14954759,22021594,2145-09-12 12:55:00,Lab Result,Sodium| Blood,130.0,mEq/L,labevents
+14954759,22021594,2145-09-12 12:55:00,Lab Result,Urea Nitrogen| Blood,61.0,mg/dL,labevents
+14954759,22021594,2145-09-12 13:00:00,Prescription,Acetaminophen IV,1000,mg,prescriptions
+14954759,22021594,2145-09-12 13:00:00,Pharmacy,Acetaminophen IV,,NaN,pharmacy
+14954759,22021594,2145-09-12 13:38:00,Input,Hydromorphone (Dilaudid),0.2500000118743628,mg,inputevents
+14954759,22021594,2145-09-12 13:51:00,DateTime Obs,Arterial line Tubing Change,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-12 13:51:00,DateTime Obs,Arterial line Insertion Date,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-12 13:51:00,DateTime Obs,Arterial Line Dressing Change,2145-09-09 15:56:00,Date and Time,datetimeevents
+14954759,22021594,2145-09-12 13:52:00,DateTime Obs,16 Gauge Insertion Date,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-12 13:52:00,DateTime Obs,18 Gauge Insertion Date,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-12 14:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+14954759,22021594,2145-09-12 14:00:00,Prescription,HYDROmorphone,20,mg,prescriptions
+14954759,22021594,2145-09-12 14:00:00,Prescription,0.9% Sodium Chloride,100,mL,prescriptions
+14954759,22021594,2145-09-12 14:00:00,Output,Foley,0.0,ml,outputevents
+14954759,22021594,2145-09-12 16:00:00,Output,Foley,0.0,ml,outputevents
+14954759,22021594,2145-09-12 19:00:00,Prescription,HYDROmorphone (Dilaudid),20,mg,prescriptions
+14954759,22021594,2145-09-12 19:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+14954759,22021594,2145-09-12 20:00:00,DateTime Obs,Indwelling Port (PortaCath) Cap Change,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-12 20:00:00,DateTime Obs,Arterial Line Dressing Change,2145-09-09 15:56:00,Date and Time,datetimeevents
+14954759,22021594,2145-09-12 20:00:00,DateTime Obs,Indwelling Port (PortaCath) Insertion Date,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-12 20:00:00,DateTime Obs,Indwelling Port (PortaCath)Tubing Change,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-12 20:00:00,DateTime Obs,16 Gauge Insertion Date,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-12 20:00:00,DateTime Obs,Arterial line Insertion Date,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-12 20:00:00,DateTime Obs,Indwelling (PortaCath) Port #1 Date Accessed,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-12 20:00:00,DateTime Obs,Indwelling (PortaCath) Dressing Change,2145-09-09 14:00:00,Date and Time,datetimeevents
+14954759,22021594,2145-09-12 20:00:00,Output,Foley,10.0,ml,outputevents
+14954759,22021594,2145-09-12 20:00:00,DateTime Obs,18 Gauge Insertion Date,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-12 20:00:00,DateTime Obs,Arterial line Tubing Change,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-12 22:00:00,Output,Foley,0.0,ml,outputevents
+14954759,22021594,2145-09-12 23:00:00,Pharmacy,Acetaminophen IV,,NaN,pharmacy
+14954759,22021594,2145-09-12 23:00:00,Input,Acetaminophen-IV,1000.0,mg,inputevents
+14954759,22021594,2145-09-12 23:00:00,Prescription,Acetaminophen IV,1000,mg,prescriptions
+14954759,22021594,2145-09-13 01:00:00,Output,Foley,0.0,ml,outputevents
+14954759,22021594,2145-09-13 05:00:00,Output,Foley,10.0,ml,outputevents
+14954759,22021594,2145-09-13 05:02:00,Lab Result,Red Blood Cells| Blood,2.19,m/uL,labevents
+14954759,22021594,2145-09-13 05:02:00,Lab Result,RDW| Blood,20.4,%,labevents
+14954759,22021594,2145-09-13 05:02:00,Lab Result,Sodium| Blood,126.0,mEq/L,labevents
+14954759,22021594,2145-09-13 05:02:00,Lab Result,Chloride| Blood,100.0,mEq/L,labevents
+14954759,22021594,2145-09-13 05:02:00,Lab Result,Urea Nitrogen| Blood,67.0,mg/dL,labevents
+14954759,22021594,2145-09-13 05:02:00,Lab Result,Anion Gap| Blood,19.0,mEq/L,labevents
+14954759,22021594,2145-09-13 05:02:00,Lab Result,White Blood Cells| Blood,22.3,K/uL,labevents
+14954759,22021594,2145-09-13 05:02:00,Lab Result,Hematocrit| Blood,22.0,%,labevents
+14954759,22021594,2145-09-13 05:02:00,Lab Result,Hemoglobin| Blood,7.2,g/dL,labevents
+14954759,22021594,2145-09-13 05:02:00,Lab Result,Bicarbonate| Blood,13.0,mEq/L,labevents
+14954759,22021594,2145-09-13 05:02:00,Lab Result,MCH| Blood,33.0,pg,labevents
+14954759,22021594,2145-09-13 05:02:00,Lab Result,Creatinine| Blood,6.5,mg/dL,labevents
+14954759,22021594,2145-09-13 05:02:00,Lab Result,MCV| Blood,100.0,fL,labevents
+14954759,22021594,2145-09-13 05:02:00,Lab Result,Glucose| Blood,79.0,mg/dL,labevents
+14954759,22021594,2145-09-13 05:02:00,Lab Result,Magnesium| Blood,2.5,mg/dL,labevents
+14954759,22021594,2145-09-13 05:02:00,Lab Result,Phosphate| Blood,9.4,mg/dL,labevents
+14954759,22021594,2145-09-13 05:02:00,Lab Result,Potassium| Blood,6.0,mEq/L,labevents
+14954759,22021594,2145-09-13 05:02:00,Lab Result,Platelet Count| Blood,374.0,K/uL,labevents
+14954759,22021594,2145-09-13 05:02:00,Lab Result,MCHC| Blood,32.9,%,labevents
+14954759,22021594,2145-09-13 05:02:00,Lab Result,"Calcium, Total| Blood",8.1,mg/dL,labevents
+14954759,22021594,2145-09-13 05:20:00,Input,Acetaminophen-IV,1000.0,mg,inputevents
+14954759,22021594,2145-09-13 07:53:00,DateTime Obs,Indwelling Port (PortaCath) Insertion Date,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-13 07:53:00,DateTime Obs,18 Gauge Insertion Date,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-13 07:53:00,DateTime Obs,Indwelling (PortaCath) Dressing Change,2145-09-09 14:00:00,Date and Time,datetimeevents
+14954759,22021594,2145-09-13 07:53:00,DateTime Obs,Indwelling (PortaCath) Port #1 Date Accessed,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-13 07:53:00,DateTime Obs,16 Gauge Insertion Date,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-13 07:53:00,DateTime Obs,Indwelling Port (PortaCath)Tubing Change,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-13 07:53:00,DateTime Obs,Indwelling Port (PortaCath) Cap Change,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-13 08:00:00,DateTime Obs,Arterial line Insertion Date,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-13 08:00:00,DateTime Obs,Arterial Line Dressing Change,2145-09-09 15:56:00,Date and Time,datetimeevents
+14954759,22021594,2145-09-13 08:00:00,Pharmacy,Heparin,,NaN,pharmacy
+14954759,22021594,2145-09-13 08:00:00,Output,Foley,4.0,ml,outputevents
+14954759,22021594,2145-09-13 08:00:00,Prescription,Heparin,5000,UNIT,prescriptions
+14954759,22021594,2145-09-13 08:00:00,DateTime Obs,Arterial line Tubing Change,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-13 09:48:00,Input,Water,3.1583334980532527,ml,ingredientevents
+14954759,22021594,2145-09-13 09:48:00,Input,NaCl 0.9%,3.1583334980532527,ml,inputevents
+14954759,22021594,2145-09-13 09:48:00,Input,Hydromorphone (Dilaudid),3.15833336844662,mg,inputevents
+14954759,22021594,2145-09-13 09:48:00,Input,Hydromorphone (Dilaudid),0.5000000237487257,mg,inputevents
+14954759,22021594,2145-09-13 09:48:00,Input,IVF ingredient,3.1583334980532527,ml,ingredientevents
+14954759,22021594,2145-09-13 10:00:00,DateTime Obs,18 Gauge Insertion Date,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-13 10:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+14954759,22021594,2145-09-13 10:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+14954759,22021594,2145-09-13 10:00:00,Prescription,HYDROmorphone (Dilaudid),0.25-0.5,mg,prescriptions
+14954759,22021594,2145-09-13 10:00:00,Prescription,HYDROmorphone,20,mg,prescriptions
+14954759,22021594,2145-09-13 10:00:00,Prescription,0.9% Sodium Chloride,100,mL,prescriptions
+14954759,22021594,2145-09-13 11:16:00,Input,Acetaminophen-IV,1000.0,mg,inputevents
+14954759,22021594,2145-09-13 12:00:00,DateTime Obs,Indwelling Port (PortaCath) Insertion Date,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-13 12:00:00,DateTime Obs,Indwelling Port (PortaCath) Cap Change,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-13 12:00:00,DateTime Obs,Indwelling (PortaCath) Port #1 Date Accessed,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-13 12:00:00,DateTime Obs,Indwelling Port (PortaCath)Tubing Change,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-13 12:00:00,DateTime Obs,Indwelling (PortaCath) Dressing Change,2145-09-09 14:00:00,Date and Time,datetimeevents
+14954759,22021594,2145-09-13 12:18:00,DateTime Obs,Arterial Line Dressing Change,2145-09-09 15:56:00,Date and Time,datetimeevents
+14954759,22021594,2145-09-13 12:18:00,DateTime Obs,Arterial line Insertion Date,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-13 12:18:00,DateTime Obs,Arterial line Tubing Change,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-13 12:18:00,DateTime Obs,16 Gauge Insertion Date,2145-09-09 00:00:00,Date,datetimeevents
+14954759,22021594,2145-09-13 13:00:00,Prescription,0.9% Sodium Chloride,100,mL,prescriptions
+14954759,22021594,2145-09-13 13:00:00,Pharmacy,Lorazepam,,NaN,pharmacy
+14954759,22021594,2145-09-13 13:00:00,Prescription,HYDROmorphone (Dilaudid),0.5-1,mg,prescriptions
+14954759,22021594,2145-09-13 13:00:00,Prescription,Lorazepam,0.25-0.5,mg,prescriptions
+14954759,22021594,2145-09-13 13:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+14954759,22021594,2145-09-13 13:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+14954759,22021594,2145-09-13 13:00:00,Prescription,HYDROmorphone,20,mg,prescriptions
+14954759,22021594,2145-09-13 13:00:00,Output,Foley,2.0,ml,outputevents
+14954759,22021594,2145-09-13 16:00:00,Prescription,Scopolamine Patch,1,PTCH,prescriptions
+14954759,22021594,2145-09-13 16:00:00,Pharmacy,Scopolamine Patch,,NaN,pharmacy
+14954759,22021594,2145-09-13 19:30:06,Transfer,discharge,NaN,NaN,transfers
+14954759,22021594,2145-09-13 20:00:00,Prescription,Lidocaine 5% Patch,1,PTCH,prescriptions
+14954759,22021594,2145-09-13 20:00:00,Pharmacy,Lidocaine 5% Patch,,NaN,pharmacy
+14954759,22021594,2145-09-14 00:00:00,Prescription,HYDROmorphone (Dilaudid),20,mg,prescriptions
+14954759,22021594,2145-09-14 00:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy

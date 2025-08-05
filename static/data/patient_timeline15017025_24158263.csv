@@ -1,0 +1,343 @@
+subject_id,hadm_id,event_time,event_type,description,value,unit,source_table
+15017025,24158263,2137-05-10 10:00:00,Prescription,Paroxetine,20,mg,prescriptions
+15017025,24158263,2137-05-10 10:00:00,Prescription,Nephrocaps,1,CAP,prescriptions
+15017025,24158263,2137-05-10 10:00:00,Prescription,Simvastatin,20,mg,prescriptions
+15017025,24158263,2137-05-10 10:00:00,Pharmacy,Nephrocaps,,NaN,pharmacy
+15017025,24158263,2137-05-10 10:00:00,Pharmacy,Paroxetine,,NaN,pharmacy
+15017025,24158263,2137-05-10 10:00:00,Pharmacy,Simvastatin,,NaN,pharmacy
+15017025,24158263,2137-05-10 17:00:00,Pharmacy,sevelamer HYDROCHLORIDE,,NaN,pharmacy
+15017025,24158263,2137-05-10 17:00:00,Prescription,sevelamer HYDROCHLORIDE,800,mg,prescriptions
+15017025,24158263,2137-05-10 17:52:00,Transfer,ED Emergency Department,NaN,NaN,transfers
+15017025,24158263,2137-05-10 20:00:00,Pharmacy,Carvedilol,,NaN,pharmacy
+15017025,24158263,2137-05-10 20:00:00,Prescription,Carvedilol,25,mg,prescriptions
+15017025,24158263,2137-05-10 20:00:00,Pharmacy,Phenytoin Infatab,,NaN,pharmacy
+15017025,24158263,2137-05-10 20:00:00,Prescription,Phenytoin Infatab,100,mg,prescriptions
+15017025,24158263,2137-05-10 20:00:00,Prescription,Omeprazole,40,mg,prescriptions
+15017025,24158263,2137-05-10 20:00:00,Pharmacy,Docusate Sodium (Liquid),,NaN,pharmacy
+15017025,24158263,2137-05-10 20:00:00,Prescription,HydrALAzine,50,mg,prescriptions
+15017025,24158263,2137-05-10 20:00:00,Pharmacy,Omeprazole,,NaN,pharmacy
+15017025,24158263,2137-05-10 20:00:00,Prescription,Docusate Sodium (Liquid),100,mg,prescriptions
+15017025,24158263,2137-05-10 20:00:00,Pharmacy,HydrALAzine,,NaN,pharmacy
+15017025,24158263,2137-05-10 22:36:00,Admission,EW EMER.,NaN,NaN,admissions
+15017025,24158263,2137-05-10 22:36:36,Transfer,admit Surgical Intensive Care Unit (SICU),NaN,NaN,transfers
+15017025,24158263,2137-05-10 22:36:36,Service,NSURG,NaN,NaN,services
+15017025,24158263,2137-05-10 23:00:00,Pharmacy,Acetaminophen,,NaN,pharmacy
+15017025,24158263,2137-05-10 23:00:00,Prescription,Ondansetron,4,mg,prescriptions
+15017025,24158263,2137-05-10 23:00:00,Pharmacy,Phenytoin Sodium (IV),,NaN,pharmacy
+15017025,24158263,2137-05-10 23:00:00,Prescription,Influenza Virus Vaccine,0.5,mL,prescriptions
+15017025,24158263,2137-05-10 23:00:00,Pharmacy,Bisacodyl,,NaN,pharmacy
+15017025,24158263,2137-05-10 23:00:00,Pharmacy,Bisacodyl,,NaN,pharmacy
+15017025,24158263,2137-05-10 23:00:00,Prescription,Bisacodyl,10,mg,prescriptions
+15017025,24158263,2137-05-10 23:00:00,Prescription,Phenytoin Sodium,1000,mg,prescriptions
+15017025,24158263,2137-05-10 23:00:00,Pharmacy,Senna,,NaN,pharmacy
+15017025,24158263,2137-05-10 23:00:00,Prescription,0.9% Sodium Chloride,250,mL,prescriptions
+15017025,24158263,2137-05-10 23:00:00,Pharmacy,Pneumococcal Vac Polyvalent,,NaN,pharmacy
+15017025,24158263,2137-05-10 23:00:00,Pharmacy,Influenza Virus Vaccine,,NaN,pharmacy
+15017025,24158263,2137-05-10 23:00:00,Prescription,Acetaminophen,325-650,mg,prescriptions
+15017025,24158263,2137-05-10 23:00:00,Prescription,Senna,1,TAB,prescriptions
+15017025,24158263,2137-05-10 23:00:00,Pharmacy,Oxycodone-Acetaminophen,,NaN,pharmacy
+15017025,24158263,2137-05-10 23:00:00,Prescription,Oxycodone-Acetaminophen,1,TAB,prescriptions
+15017025,24158263,2137-05-10 23:00:00,Pharmacy,Ondansetron,,NaN,pharmacy
+15017025,24158263,2137-05-10 23:00:00,Prescription,Pneumococcal Vac Polyvalent,0.5,mL,prescriptions
+15017025,24158263,2137-05-10 23:00:00,Prescription,Bisacodyl,10,mg,prescriptions
+15017025,24158263,2137-05-10 23:45:47,Transfer,transfer Trauma SICU (TSICU),NaN,NaN,transfers
+15017025,24158263,2137-05-10 23:46:05,Service,TRAUM,NaN,NaN,services
+15017025,24158263,2137-05-11 00:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+15017025,24158263,2137-05-11 00:00:00,Prescription,HYDROmorphone (Dilaudid),0.25,mg,prescriptions
+15017025,24158263,2137-05-11 00:35:00,Lab Result,Red Top Hold| Blood,,,labevents
+15017025,24158263,2137-05-11 00:35:00,Lab Result,Hematocrit| Blood,28.5,%,labevents
+15017025,24158263,2137-05-11 00:35:00,Lab Result,Troponin T| Blood,0.02,ng/mL,labevents
+15017025,24158263,2137-05-11 00:35:00,Lab Result,Green Top Hold (plasma)| Blood,,,labevents
+15017025,24158263,2137-05-11 01:00:00,Pharmacy,,,NaN,pharmacy
+15017025,24158263,2137-05-11 01:00:00,Prescription,0.9% Sodium Chloride,1000,mL,prescriptions
+15017025,24158263,2137-05-11 01:46:00,Output,Foley,200.0,ml,outputevents
+15017025,24158263,2137-05-11 01:47:00,Procedure,18 Gauge,1595.0,min,procedureevents
+15017025,24158263,2137-05-11 01:47:00,Procedure,22 Gauge,1813.0,min,procedureevents
+15017025,24158263,2137-05-11 01:47:00,Procedure,18 Gauge,177.0,min,procedureevents
+15017025,24158263,2137-05-11 01:47:00,Procedure,18 Gauge,177.0,min,procedureevents
+15017025,24158263,2137-05-11 01:47:00,DateTime Obs,18 Gauge Insertion Date,2137-05-11 01:47:00,Date,datetimeevents
+15017025,24158263,2137-05-11 01:47:00,Procedure,18 Gauge,1595.0,min,procedureevents
+15017025,24158263,2137-05-11 01:47:00,Procedure,22 Gauge,1813.0,min,procedureevents
+15017025,24158263,2137-05-11 01:47:00,DateTime Obs,22 Gauge Insertion Date,2137-05-11 01:47:00,Date,datetimeevents
+15017025,24158263,2137-05-11 02:00:00,Input,IVF ingredient,520.0000154972076,ml,ingredientevents
+15017025,24158263,2137-05-11 02:00:00,Output,Foley,30.0,ml,outputevents
+15017025,24158263,2137-05-11 02:00:00,Input,Water,520.0000154972076,ml,ingredientevents
+15017025,24158263,2137-05-11 02:00:00,Input,NaCl 0.9%,520.0000154972076,ml,inputevents
+15017025,24158263,2137-05-11 02:18:00,Input,Dilantin,1000.0,mg,inputevents
+15017025,24158263,2137-05-11 02:20:00,DateTime Obs,Last dialysis,2137-05-08 00:00:00,Date,datetimeevents
+15017025,24158263,2137-05-11 03:50:00,Lab Result,Chloride| Blood,93.0,mEq/L,labevents
+15017025,24158263,2137-05-11 03:50:00,Lab Result,PT| Blood,14.2,sec,labevents
+15017025,24158263,2137-05-11 03:50:00,Lab Result,INR(PT)| Blood,1.2,,labevents
+15017025,24158263,2137-05-11 03:50:00,Lab Result,Anion Gap| Blood,17.0,mEq/L,labevents
+15017025,24158263,2137-05-11 03:50:00,Lab Result,Bicarbonate| Blood,28.0,mEq/L,labevents
+15017025,24158263,2137-05-11 03:50:00,Lab Result,"Calcium, Total| Blood",7.9,mg/dL,labevents
+15017025,24158263,2137-05-11 03:50:00,Lab Result,PTT| Blood,24.9,sec,labevents
+15017025,24158263,2137-05-11 03:50:00,Lab Result,Creatinine| Blood,8.2,mg/dL,labevents
+15017025,24158263,2137-05-11 03:50:00,Lab Result,Glucose| Blood,172.0,mg/dL,labevents
+15017025,24158263,2137-05-11 03:50:00,Lab Result,Magnesium| Blood,1.9,mg/dL,labevents
+15017025,24158263,2137-05-11 03:50:00,Lab Result,Phosphate| Blood,5.4,mg/dL,labevents
+15017025,24158263,2137-05-11 03:50:00,Lab Result,Potassium| Blood,4.4,mEq/L,labevents
+15017025,24158263,2137-05-11 03:50:00,Lab Result,Hematocrit| Blood,27.7,%,labevents
+15017025,24158263,2137-05-11 03:50:00,Lab Result,Sodium| Blood,134.0,mEq/L,labevents
+15017025,24158263,2137-05-11 03:50:00,Lab Result,Urea Nitrogen| Blood,78.0,mg/dL,labevents
+15017025,24158263,2137-05-11 04:00:00,Input,Water,499.9999809265137,ml,ingredientevents
+15017025,24158263,2137-05-11 04:00:00,Input,IVF ingredient,499.9999809265137,ml,ingredientevents
+15017025,24158263,2137-05-11 04:00:00,Input,NaCl 0.9%,499.9999809265137,ml,inputevents
+15017025,24158263,2137-05-11 04:43:00,Input,IVF ingredient,499.9999809265137,ml,ingredientevents
+15017025,24158263,2137-05-11 04:43:00,Input,NaCl 0.9%,499.9999809265137,ml,inputevents
+15017025,24158263,2137-05-11 04:43:00,Input,Water,499.9999809265137,ml,ingredientevents
+15017025,24158263,2137-05-11 05:00:00,Prescription,0.9% Sodium Chloride,500,mL,prescriptions
+15017025,24158263,2137-05-11 05:00:00,Pharmacy,,,NaN,pharmacy
+15017025,24158263,2137-05-11 06:23:00,Output,Foley,20.0,ml,outputevents
+15017025,24158263,2137-05-11 07:00:00,Pharmacy,Glucagon,,NaN,pharmacy
+15017025,24158263,2137-05-11 07:00:00,Prescription,Dextrose 50%,12.5,gm,prescriptions
+15017025,24158263,2137-05-11 07:00:00,Prescription,Insulin,0,UNIT,prescriptions
+15017025,24158263,2137-05-11 07:00:00,Pharmacy,Insulin,,NaN,pharmacy
+15017025,24158263,2137-05-11 07:00:00,Prescription,Glucagon,1,mg,prescriptions
+15017025,24158263,2137-05-11 07:00:00,Pharmacy,Dextrose 50%,,NaN,pharmacy
+15017025,24158263,2137-05-11 07:37:00,Lab Result,Hematocrit| Blood,27.0,%,labevents
+15017025,24158263,2137-05-11 07:45:00,Procedure,Family updated by RN,1.0,,procedureevents
+15017025,24158263,2137-05-11 07:45:00,Procedure,Family updated by RN,1.0,,procedureevents
+15017025,24158263,2137-05-11 07:49:00,DateTime Obs,18 Gauge Insertion Date,2137-05-11 00:00:00,Date,datetimeevents
+15017025,24158263,2137-05-11 07:49:00,DateTime Obs,22 Gauge Insertion Date,2137-05-11 00:00:00,Date,datetimeevents
+15017025,24158263,2137-05-11 08:00:00,Pharmacy,Magnesium Oxide,,NaN,pharmacy
+15017025,24158263,2137-05-11 08:00:00,Output,Foley,30.0,ml,outputevents
+15017025,24158263,2137-05-11 08:00:00,Prescription,Magnesium Oxide,400,mg,prescriptions
+15017025,24158263,2137-05-11 08:43:00,Input,Insulin - Regular,4.0,units,inputevents
+15017025,24158263,2137-05-11 08:45:00,Procedure,Family updated by MD,1.0,,procedureevents
+15017025,24158263,2137-05-11 08:45:00,Procedure,Family updated by MD,1.0,,procedureevents
+15017025,24158263,2137-05-11 09:29:00,Procedure,Interventional Radiology,1.0,,procedureevents
+15017025,24158263,2137-05-11 09:29:00,Procedure,Interventional Radiology,1.0,,procedureevents
+15017025,24158263,2137-05-11 10:28:00,Input,IVF ingredient,300.0,ml,ingredientevents
+15017025,24158263,2137-05-11 10:28:00,Input,OR Intake_ingr,300.0,ml,ingredientevents
+15017025,24158263,2137-05-11 10:28:00,Input,OR Crystalloid Intake,300.0,ml,inputevents
+15017025,24158263,2137-05-11 10:28:00,Input,Water,300.0,ml,ingredientevents
+15017025,24158263,2137-05-11 11:00:00,Prescription,0.9% Sodium Chloride,50,mL,prescriptions
+15017025,24158263,2137-05-11 11:00:00,Pharmacy,Sodium Chloride 0.9%  Flush,,NaN,pharmacy
+15017025,24158263,2137-05-11 11:00:00,Pharmacy,Desmopressin Acetate,,NaN,pharmacy
+15017025,24158263,2137-05-11 11:00:00,Prescription,Desmopressin Acetate,25,mcg,prescriptions
+15017025,24158263,2137-05-11 11:00:00,Prescription,Sodium Chloride 0.9%  Flush,3,mL,prescriptions
+15017025,24158263,2137-05-11 11:40:00,Procedure,Hemodialysis,210.0,min,procedureevents
+15017025,24158263,2137-05-11 11:40:00,Input,PO Intake,60.0,ml,inputevents
+15017025,24158263,2137-05-11 11:40:00,Input,Oral/Gastric Ingredient,60.0,ml,ingredientevents
+15017025,24158263,2137-05-11 11:40:00,Lab Result,RDW| Blood,18.4,%,labevents
+15017025,24158263,2137-05-11 11:40:00,Input,Water,60.0,ml,ingredientevents
+15017025,24158263,2137-05-11 11:40:00,Lab Result,White Blood Cells| Blood,5.6,K/uL,labevents
+15017025,24158263,2137-05-11 11:40:00,Lab Result,Red Blood Cells| Blood,2.69,m/uL,labevents
+15017025,24158263,2137-05-11 11:40:00,Procedure,Hemodialysis,210.0,min,procedureevents
+15017025,24158263,2137-05-11 11:40:00,Lab Result,MCV| Blood,97.0,fL,labevents
+15017025,24158263,2137-05-11 11:40:00,Lab Result,MCHC| Blood,34.3,%,labevents
+15017025,24158263,2137-05-11 11:40:00,Lab Result,Platelet Count| Blood,204.0,K/uL,labevents
+15017025,24158263,2137-05-11 11:40:00,Lab Result,Hematocrit| Blood,26.1,%,labevents
+15017025,24158263,2137-05-11 11:40:00,Lab Result,MCH| Blood,33.3,pg,labevents
+15017025,24158263,2137-05-11 11:40:00,Lab Result,Hemoglobin| Blood,9.0,g/dL,labevents
+15017025,24158263,2137-05-11 12:00:00,Output,Foley,20.0,ml,outputevents
+15017025,24158263,2137-05-11 12:00:00,DateTime Obs,18 Gauge Insertion Date,2137-05-11 00:00:00,Date,datetimeevents
+15017025,24158263,2137-05-11 12:00:00,DateTime Obs,22 Gauge Insertion Date,2137-05-11 00:00:00,Date,datetimeevents
+15017025,24158263,2137-05-11 12:01:00,Procedure,Family updated by RN,1.0,,procedureevents
+15017025,24158263,2137-05-11 12:01:00,Procedure,Family updated by RN,1.0,,procedureevents
+15017025,24158263,2137-05-11 12:24:00,Procedure,Transthoracic Echo,1.0,,procedureevents
+15017025,24158263,2137-05-11 12:24:00,Procedure,Transthoracic Echo,1.0,,procedureevents
+15017025,24158263,2137-05-11 13:20:00,Procedure,C-Spine Clearance,1.0,,procedureevents
+15017025,24158263,2137-05-11 13:20:00,Procedure,C-Spine Clearance,1.0,,procedureevents
+15017025,24158263,2137-05-11 14:28:00,Input,Insulin - Regular,2.0,units,inputevents
+15017025,24158263,2137-05-11 15:00:00,Pharmacy,Insulin,,NaN,pharmacy
+15017025,24158263,2137-05-11 15:00:00,Prescription,Insulin,0,UNIT,prescriptions
+15017025,24158263,2137-05-11 15:15:00,Lab Result,Hematocrit| Blood,30.4,%,labevents
+15017025,24158263,2137-05-11 16:00:00,Output,Foley,25.0,ml,outputevents
+15017025,24158263,2137-05-11 16:40:00,DateTime Obs,18 Gauge Insertion Date,2137-05-11 00:00:00,Date,datetimeevents
+15017025,24158263,2137-05-11 16:40:00,DateTime Obs,22 Gauge Insertion Date,2137-05-11 00:00:00,Date,datetimeevents
+15017025,24158263,2137-05-11 17:00:00,Input,PO Intake,60.0,ml,inputevents
+15017025,24158263,2137-05-11 17:00:00,Input,Oral/Gastric Ingredient,60.0,ml,ingredientevents
+15017025,24158263,2137-05-11 17:00:00,Input,Water,60.0,ml,ingredientevents
+15017025,24158263,2137-05-11 20:42:00,Input,Water,200.0,ml,ingredientevents
+15017025,24158263,2137-05-11 20:42:00,Input,Oral/Gastric Ingredient,200.0,ml,ingredientevents
+15017025,24158263,2137-05-11 20:42:00,Input,PO Intake,200.0,ml,inputevents
+15017025,24158263,2137-05-11 20:45:00,Input,Insulin - Regular,4.0,units,inputevents
+15017025,24158263,2137-05-11 20:50:00,DateTime Obs,18 Gauge Insertion Date,2137-05-11 00:00:00,Date,datetimeevents
+15017025,24158263,2137-05-11 20:50:00,DateTime Obs,22 Gauge Insertion Date,2137-05-11 00:00:00,Date,datetimeevents
+15017025,24158263,2137-05-11 20:50:00,DateTime Obs,Last dialysis,2137-05-08 00:00:00,Date,datetimeevents
+15017025,24158263,2137-05-11 21:08:00,Output,Foley,10.0,ml,outputevents
+15017025,24158263,2137-05-11 21:23:00,Lab Result,Hematocrit| Blood,25.9,%,labevents
+15017025,24158263,2137-05-12 00:09:00,Input,Oral/Gastric Ingredient,50.0,ml,ingredientevents
+15017025,24158263,2137-05-12 00:09:00,Input,Water,50.0,ml,ingredientevents
+15017025,24158263,2137-05-12 00:09:00,Input,PO Intake,50.0,ml,inputevents
+15017025,24158263,2137-05-12 02:13:00,Lab Result,Magnesium| Blood,1.9,mg/dL,labevents
+15017025,24158263,2137-05-12 02:13:00,Lab Result,Anion Gap| Blood,15.0,mEq/L,labevents
+15017025,24158263,2137-05-12 02:13:00,Lab Result,Bicarbonate| Blood,27.0,mEq/L,labevents
+15017025,24158263,2137-05-12 02:13:00,Lab Result,Hematocrit| Blood,25.2,%,labevents
+15017025,24158263,2137-05-12 02:13:00,Lab Result,Hemoglobin| Blood,8.7,g/dL,labevents
+15017025,24158263,2137-05-12 02:13:00,Lab Result,Albumin| Blood,3.3,g/dL,labevents
+15017025,24158263,2137-05-12 02:13:00,Lab Result,MCHC| Blood,34.5,%,labevents
+15017025,24158263,2137-05-12 02:13:00,Lab Result,"Calcium, Total| Blood",7.7,mg/dL,labevents
+15017025,24158263,2137-05-12 02:13:00,Lab Result,Glucose| Blood,124.0,mg/dL,labevents
+15017025,24158263,2137-05-12 02:13:00,Lab Result,Chloride| Blood,98.0,mEq/L,labevents
+15017025,24158263,2137-05-12 02:13:00,Lab Result,Creatinine| Blood,5.7,mg/dL,labevents
+15017025,24158263,2137-05-12 02:13:00,Lab Result,Phenytoin| Blood,4.8,ug/mL,labevents
+15017025,24158263,2137-05-12 02:13:00,Lab Result,MCH| Blood,33.6,pg,labevents
+15017025,24158263,2137-05-12 02:13:00,Lab Result,White Blood Cells| Blood,6.2,K/uL,labevents
+15017025,24158263,2137-05-12 02:13:00,Lab Result,MCV| Blood,98.0,fL,labevents
+15017025,24158263,2137-05-12 02:13:00,Lab Result,Potassium| Blood,4.3,mEq/L,labevents
+15017025,24158263,2137-05-12 02:13:00,Lab Result,Sodium| Blood,136.0,mEq/L,labevents
+15017025,24158263,2137-05-12 02:13:00,Lab Result,Urea Nitrogen| Blood,42.0,mg/dL,labevents
+15017025,24158263,2137-05-12 02:13:00,Lab Result,PTT| Blood,23.9,sec,labevents
+15017025,24158263,2137-05-12 02:13:00,Lab Result,INR(PT)| Blood,1.2,,labevents
+15017025,24158263,2137-05-12 02:13:00,Lab Result,PT| Blood,13.6,sec,labevents
+15017025,24158263,2137-05-12 02:13:00,Lab Result,Red Blood Cells| Blood,2.58,m/uL,labevents
+15017025,24158263,2137-05-12 02:13:00,Lab Result,Phosphate| Blood,4.9,mg/dL,labevents
+15017025,24158263,2137-05-12 02:13:00,Lab Result,Platelet Count| Blood,199.0,K/uL,labevents
+15017025,24158263,2137-05-12 02:13:00,Lab Result,RDW| Blood,18.4,%,labevents
+15017025,24158263,2137-05-12 04:00:00,Pharmacy,Lorazepam,,NaN,pharmacy
+15017025,24158263,2137-05-12 04:00:00,Prescription,Lorazepam,1-2,mg,prescriptions
+15017025,24158263,2137-05-12 04:22:00,Procedure,Chest X-Ray,1.0,,procedureevents
+15017025,24158263,2137-05-12 04:22:00,Procedure,Chest X-Ray,1.0,,procedureevents
+15017025,24158263,2137-05-12 08:03:00,Input,Insulin - Regular,4.0,units,inputevents
+15017025,24158263,2137-05-12 08:03:00,Input,Water,160.0,ml,ingredientevents
+15017025,24158263,2137-05-12 08:03:00,Input,PO Intake,160.0,ml,inputevents
+15017025,24158263,2137-05-12 08:03:00,Input,Omeprazole (Prilosec),1.0,dose,inputevents
+15017025,24158263,2137-05-12 08:03:00,Input,Oral/Gastric Ingredient,160.0,ml,ingredientevents
+15017025,24158263,2137-05-12 08:40:00,Procedure,20 Gauge,716.0,min,procedureevents
+15017025,24158263,2137-05-12 08:40:00,DateTime Obs,20 Gauge Insertion Date,2137-05-12 09:59:00,Date,datetimeevents
+15017025,24158263,2137-05-12 08:40:00,Procedure,20 Gauge,716.0,min,procedureevents
+15017025,24158263,2137-05-12 10:46:00,Input,Water,160.0,ml,ingredientevents
+15017025,24158263,2137-05-12 10:46:00,Input,Oral/Gastric Ingredient,160.0,ml,ingredientevents
+15017025,24158263,2137-05-12 10:46:00,Input,PO Intake,160.0,ml,inputevents
+15017025,24158263,2137-05-12 11:42:00,Procedure,CT scan,1.0,,procedureevents
+15017025,24158263,2137-05-12 11:42:00,Procedure,CT scan,1.0,,procedureevents
+15017025,24158263,2137-05-12 12:00:00,Pharmacy,OxycoDONE (Immediate Release) ,,NaN,pharmacy
+15017025,24158263,2137-05-12 12:00:00,Prescription,OxycoDONE (Immediate Release) ,5,mg,prescriptions
+15017025,24158263,2137-05-12 12:00:00,Pharmacy,Acetaminophen,,NaN,pharmacy
+15017025,24158263,2137-05-12 12:00:00,Pharmacy,Insulin,,NaN,pharmacy
+15017025,24158263,2137-05-12 12:00:00,Prescription,Insulin,0,UNIT,prescriptions
+15017025,24158263,2137-05-12 12:00:00,Prescription,Acetaminophen,650,mg,prescriptions
+15017025,24158263,2137-05-12 13:00:00,Prescription,0.9% Sodium Chloride,250,mL,prescriptions
+15017025,24158263,2137-05-12 13:00:00,Prescription,Phenytoin Sodium,500,mg,prescriptions
+15017025,24158263,2137-05-12 13:00:00,Pharmacy,Phenytoin Sodium (IV),,NaN,pharmacy
+15017025,24158263,2137-05-12 13:39:00,Procedure,EEG,1.0,,procedureevents
+15017025,24158263,2137-05-12 13:39:00,Input,PO Intake,120.0,ml,inputevents
+15017025,24158263,2137-05-12 13:39:00,Input,Water,120.0,ml,ingredientevents
+15017025,24158263,2137-05-12 13:39:00,Input,Oral/Gastric Ingredient,120.0,ml,ingredientevents
+15017025,24158263,2137-05-12 13:39:00,Procedure,EEG,1.0,,procedureevents
+15017025,24158263,2137-05-12 13:44:00,DateTime Obs,20 Gauge Insertion Date,2137-05-12 00:00:00,Date,datetimeevents
+15017025,24158263,2137-05-12 14:00:00,Prescription,Insulin,0,UNIT,prescriptions
+15017025,24158263,2137-05-12 14:00:00,Pharmacy,Insulin,,NaN,pharmacy
+15017025,24158263,2137-05-12 15:01:00,Input,Insulin - Regular,2.0,units,inputevents
+15017025,24158263,2137-05-12 15:18:00,Input,Water,120.0,ml,ingredientevents
+15017025,24158263,2137-05-12 15:18:00,Input,Dilantin,500.0,mg,inputevents
+15017025,24158263,2137-05-12 15:18:00,Input,PO Intake,120.0,ml,inputevents
+15017025,24158263,2137-05-12 15:18:00,Input,Oral/Gastric Ingredient,120.0,ml,ingredientevents
+15017025,24158263,2137-05-12 15:19:00,DateTime Obs,20 Gauge Insertion Date,2137-05-12 00:00:00,Date,datetimeevents
+15017025,24158263,2137-05-12 16:11:00,Procedure,Family updated by RN,1.0,,procedureevents
+15017025,24158263,2137-05-12 16:11:00,Procedure,Family updated by RN,1.0,,procedureevents
+15017025,24158263,2137-05-12 16:18:00,DateTime Obs,20 Gauge Insertion Date,2137-05-12 00:00:00,Date,datetimeevents
+15017025,24158263,2137-05-12 17:50:00,Input,Oral/Gastric Ingredient,120.0,ml,ingredientevents
+15017025,24158263,2137-05-12 17:50:00,Input,Water,120.0,ml,ingredientevents
+15017025,24158263,2137-05-12 17:50:00,Input,PO Intake,120.0,ml,inputevents
+15017025,24158263,2137-05-12 18:40:00,Input,Water,120.0,ml,ingredientevents
+15017025,24158263,2137-05-12 18:40:00,Input,PO Intake,120.0,ml,inputevents
+15017025,24158263,2137-05-12 18:40:00,Input,Oral/Gastric Ingredient,120.0,ml,ingredientevents
+15017025,24158263,2137-05-12 20:00:00,Prescription,Docusate Sodium,100,mg,prescriptions
+15017025,24158263,2137-05-12 20:00:00,Pharmacy,Docusate Sodium,,NaN,pharmacy
+15017025,24158263,2137-05-12 20:07:00,Input,Hydromorphone (Dilaudid),0.2500000118743628,mg,inputevents
+15017025,24158263,2137-05-12 20:17:00,Input,PO Intake,120.0,ml,inputevents
+15017025,24158263,2137-05-12 20:17:00,Input,Water,120.0,ml,ingredientevents
+15017025,24158263,2137-05-12 20:17:00,Input,Oral/Gastric Ingredient,120.0,ml,ingredientevents
+15017025,24158263,2137-05-12 20:36:01,Transfer,transfer Med/Surg/Trauma,NaN,NaN,transfers
+15017025,24158263,2137-05-13 05:20:00,Lab Result,Hematocrit| Blood,24.1,%,labevents
+15017025,24158263,2137-05-13 09:10:00,Lab Result,Hematocrit| Blood,23.7,%,labevents
+15017025,24158263,2137-05-13 18:00:00,Lab Result,Hematocrit| Blood,28.1,%,labevents
+15017025,24158263,2137-05-13 20:00:00,Prescription,Carvedilol,25,mg,prescriptions
+15017025,24158263,2137-05-13 20:00:00,Prescription,HydrALAzine,50,mg,prescriptions
+15017025,24158263,2137-05-13 20:00:00,Pharmacy,HydrALAzine,,NaN,pharmacy
+15017025,24158263,2137-05-13 20:00:00,Pharmacy,Carvedilol,,NaN,pharmacy
+15017025,24158263,2137-05-14 05:05:00,Lab Result,Anion Gap| Blood,16.0,mEq/L,labevents
+15017025,24158263,2137-05-14 05:05:00,Lab Result,"Calcium, Total| Blood",7.8,mg/dL,labevents
+15017025,24158263,2137-05-14 05:05:00,Lab Result,Urea Nitrogen| Blood,30.0,mg/dL,labevents
+15017025,24158263,2137-05-14 05:05:00,Lab Result,Sodium| Blood,135.0,mEq/L,labevents
+15017025,24158263,2137-05-14 05:05:00,Lab Result,Potassium| Blood,4.3,mEq/L,labevents
+15017025,24158263,2137-05-14 05:05:00,Lab Result,Phosphate| Blood,2.1,mg/dL,labevents
+15017025,24158263,2137-05-14 05:05:00,Lab Result,Phenytoin| Blood,5.7,ug/mL,labevents
+15017025,24158263,2137-05-14 05:05:00,Lab Result,Magnesium| Blood,1.8,mg/dL,labevents
+15017025,24158263,2137-05-14 05:05:00,Lab Result,Glucose| Blood,115.0,mg/dL,labevents
+15017025,24158263,2137-05-14 05:05:00,Lab Result,Creatinine| Blood,5.3,mg/dL,labevents
+15017025,24158263,2137-05-14 05:05:00,Lab Result,Chloride| Blood,95.0,mEq/L,labevents
+15017025,24158263,2137-05-14 05:05:00,Lab Result,Bicarbonate| Blood,28.0,mEq/L,labevents
+15017025,24158263,2137-05-14 05:05:00,Lab Result,Albumin| Blood,3.2,g/dL,labevents
+15017025,24158263,2137-05-14 05:05:00,Lab Result,Red Blood Cells| Blood,2.65,m/uL,labevents
+15017025,24158263,2137-05-14 05:05:00,Lab Result,RDW| Blood,18.6,%,labevents
+15017025,24158263,2137-05-14 05:05:00,Lab Result,White Blood Cells| Blood,5.5,K/uL,labevents
+15017025,24158263,2137-05-14 05:05:00,Lab Result,MCV| Blood,95.0,fL,labevents
+15017025,24158263,2137-05-14 05:05:00,Lab Result,MCHC| Blood,34.3,%,labevents
+15017025,24158263,2137-05-14 05:05:00,Lab Result,MCH| Blood,32.5,pg,labevents
+15017025,24158263,2137-05-14 05:05:00,Lab Result,Platelet Count| Blood,188.0,K/uL,labevents
+15017025,24158263,2137-05-14 05:05:00,Lab Result,Hemoglobin| Blood,8.6,g/dL,labevents
+15017025,24158263,2137-05-14 05:05:00,Lab Result,Hematocrit| Blood,25.1,%,labevents
+15017025,24158263,2137-05-14 12:00:00,Prescription,LeVETiracetam,250,mg,prescriptions
+15017025,24158263,2137-05-14 12:00:00,Pharmacy,LeVETiracetam,,NaN,pharmacy
+15017025,24158263,2137-05-14 13:00:00,Prescription,Magnesium Sulfate,2,gm,prescriptions
+15017025,24158263,2137-05-14 13:00:00,Prescription,Bag,50,mL,prescriptions
+15017025,24158263,2137-05-14 13:00:00,Pharmacy,Magnesium Sulfate,,NaN,pharmacy
+15017025,24158263,2137-05-14 14:00:00,Pharmacy,Phenytoin Infatab,,NaN,pharmacy
+15017025,24158263,2137-05-14 14:00:00,Prescription,Phenytoin Infatab,100,mg,prescriptions
+15017025,24158263,2137-05-15 00:33:00,Lab Result,Urine Appearance| Urine,,,labevents
+15017025,24158263,2137-05-15 00:33:00,Lab Result,Nitrite| Urine,,,labevents
+15017025,24158263,2137-05-15 00:33:00,Lab Result,Specific Gravity| Urine,1.015, ,labevents
+15017025,24158263,2137-05-15 00:33:00,Lab Result,Protein| Urine,75.0,mg/dL,labevents
+15017025,24158263,2137-05-15 00:33:00,Lab Result,Leukocytes| Urine,,,labevents
+15017025,24158263,2137-05-15 00:33:00,Lab Result,pH| Urine,9.0,units,labevents
+15017025,24158263,2137-05-15 00:33:00,Lab Result,Glucose| Urine,,mg/dL,labevents
+15017025,24158263,2137-05-15 00:33:00,Lab Result,Blood| Urine,,,labevents
+15017025,24158263,2137-05-15 00:33:00,Lab Result,Bilirubin| Urine,,mg/dL,labevents
+15017025,24158263,2137-05-15 00:33:00,Lab Result,Urine Color| Urine,,,labevents
+15017025,24158263,2137-05-15 00:33:00,Lab Result,Ketone| Urine,,mg/dL,labevents
+15017025,24158263,2137-05-15 00:33:00,Lab Result,Urobilinogen| Urine,,mg/dL,labevents
+15017025,24158263,2137-05-15 01:18:45,Transfer,transfer Med/Surg/Trauma,NaN,NaN,transfers
+15017025,24158263,2137-05-15 07:30:00,Lab Result,Bicarbonate| Blood,24.0,mEq/L,labevents
+15017025,24158263,2137-05-15 07:30:00,Lab Result,Anion Gap| Blood,18.0,mEq/L,labevents
+15017025,24158263,2137-05-15 07:30:00,Lab Result,White Blood Cells| Blood,4.7,K/uL,labevents
+15017025,24158263,2137-05-15 07:30:00,Lab Result,Red Blood Cells| Blood,2.44,m/uL,labevents
+15017025,24158263,2137-05-15 07:30:00,Lab Result,RDW| Blood,18.3,%,labevents
+15017025,24158263,2137-05-15 07:30:00,Lab Result,MCV| Blood,96.0,fL,labevents
+15017025,24158263,2137-05-15 07:30:00,Lab Result,MCHC| Blood,35.0,%,labevents
+15017025,24158263,2137-05-15 07:30:00,Lab Result,MCH| Blood,33.7,pg,labevents
+15017025,24158263,2137-05-15 07:30:00,Lab Result,Hemoglobin| Blood,8.2,g/dL,labevents
+15017025,24158263,2137-05-15 07:30:00,Lab Result,Hematocrit| Blood,23.5,%,labevents
+15017025,24158263,2137-05-15 07:30:00,Lab Result,Platelet Count| Blood,228.0,K/uL,labevents
+15017025,24158263,2137-05-15 07:30:00,Lab Result,Sodium| Blood,133.0,mEq/L,labevents
+15017025,24158263,2137-05-15 07:30:00,Lab Result,Potassium| Blood,4.3,mEq/L,labevents
+15017025,24158263,2137-05-15 07:30:00,Lab Result,Phosphate| Blood,2.7,mg/dL,labevents
+15017025,24158263,2137-05-15 07:30:00,Lab Result,Magnesium| Blood,2.1,mg/dL,labevents
+15017025,24158263,2137-05-15 07:30:00,Lab Result,Glucose| Blood,149.0,mg/dL,labevents
+15017025,24158263,2137-05-15 07:30:00,Lab Result,"Calcium, Total| Blood",7.9,mg/dL,labevents
+15017025,24158263,2137-05-15 07:30:00,Lab Result,Creatinine| Blood,7.7,mg/dL,labevents
+15017025,24158263,2137-05-15 07:30:00,Lab Result,Chloride| Blood,95.0,mEq/L,labevents
+15017025,24158263,2137-05-15 07:30:00,Lab Result,Urea Nitrogen| Blood,49.0,mg/dL,labevents
+15017025,24158263,2137-05-15 08:00:00,Prescription,Phenytoin (Suspension),100,mg,prescriptions
+15017025,24158263,2137-05-15 08:00:00,Pharmacy,Phenytoin (Suspension),,NaN,pharmacy
+15017025,24158263,2137-05-15 10:00:00,Prescription,LeVETiracetam,500,mg,prescriptions
+15017025,24158263,2137-05-15 10:00:00,Pharmacy,LeVETiracetam,,NaN,pharmacy
+15017025,24158263,2137-05-16 08:00:00,Prescription,Phenytoin (Suspension),100,mg,prescriptions
+15017025,24158263,2137-05-16 08:00:00,Pharmacy,Heparin,,NaN,pharmacy
+15017025,24158263,2137-05-16 08:00:00,Prescription,Heparin,5000,UNIT,prescriptions
+15017025,24158263,2137-05-16 08:00:00,Pharmacy,Phenytoin (Suspension),,NaN,pharmacy
+15017025,24158263,2137-05-16 09:20:00,Lab Result,Magnesium| Blood,1.9,mg/dL,labevents
+15017025,24158263,2137-05-16 09:20:00,Lab Result,Glucose| Blood,164.0,mg/dL,labevents
+15017025,24158263,2137-05-16 09:20:00,Lab Result,Creatinine| Blood,5.5,mg/dL,labevents
+15017025,24158263,2137-05-16 09:20:00,Lab Result,Chloride| Blood,98.0,mEq/L,labevents
+15017025,24158263,2137-05-16 09:20:00,Lab Result,Potassium| Blood,3.8,mEq/L,labevents
+15017025,24158263,2137-05-16 09:20:00,Lab Result,Phosphate| Blood,2.2,mg/dL,labevents
+15017025,24158263,2137-05-16 09:20:00,Lab Result,MCV| Blood,97.0,fL,labevents
+15017025,24158263,2137-05-16 09:20:00,Lab Result,Bicarbonate| Blood,26.0,mEq/L,labevents
+15017025,24158263,2137-05-16 09:20:00,Lab Result,Anion Gap| Blood,18.0,mEq/L,labevents
+15017025,24158263,2137-05-16 09:20:00,Lab Result,White Blood Cells| Blood,4.5,K/uL,labevents
+15017025,24158263,2137-05-16 09:20:00,Lab Result,Red Blood Cells| Blood,2.55,m/uL,labevents
+15017025,24158263,2137-05-16 09:20:00,Lab Result,RDW| Blood,18.2,%,labevents
+15017025,24158263,2137-05-16 09:20:00,Lab Result,Platelet Count| Blood,267.0,K/uL,labevents
+15017025,24158263,2137-05-16 09:20:00,Lab Result,MCHC| Blood,34.4,%,labevents
+15017025,24158263,2137-05-16 09:20:00,Lab Result,MCH| Blood,33.4,pg,labevents
+15017025,24158263,2137-05-16 09:20:00,Lab Result,Hemoglobin| Blood,8.5,g/dL,labevents
+15017025,24158263,2137-05-16 09:20:00,Lab Result,Hematocrit| Blood,24.7,%,labevents
+15017025,24158263,2137-05-16 09:20:00,Lab Result,Urea Nitrogen| Blood,35.0,mg/dL,labevents
+15017025,24158263,2137-05-16 09:20:00,Lab Result,"Calcium, Total| Blood",8.3,mg/dL,labevents
+15017025,24158263,2137-05-16 09:20:00,Lab Result,Sodium| Blood,138.0,mEq/L,labevents
+15017025,24158263,2137-05-16 14:43:40,Transfer,discharge,NaN,NaN,transfers

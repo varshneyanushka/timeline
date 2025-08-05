@@ -1,0 +1,1312 @@
+subject_id,hadm_id,event_time,event_type,description,value,unit,source_table
+14990717,23770584.0,2143-06-08 00:00:00,Pharmacy,Heparin,,NaN,pharmacy
+14990717,23770584.0,2143-06-08 00:00:00,Prescription,Heparin,5000,UNIT,prescriptions
+14990717,23770584.0,2143-06-08 00:32:25,Transfer,admit Discharge Lounge,NaN,NaN,transfers
+14990717,23770584.0,2143-06-08 00:32:25,Service,SURG,NaN,NaN,services
+14990717,23770584.0,2143-06-08 11:15:00,Admission,SURGICAL SAME DAY ADMISSION,NaN,NaN,admissions
+14990717,23770584.0,2143-06-08 16:54:44,Transfer,transfer PACU,NaN,NaN,transfers
+14990717,23770584.0,2143-06-08 17:02:57,Transfer,transfer Med/Surg,NaN,NaN,transfers
+14990717,23770584.0,2143-06-08 18:00:00,Pharmacy,,,NaN,pharmacy
+14990717,23770584.0,2143-06-08 18:00:00,Prescription,Soln,100,mL,prescriptions
+14990717,23770584.0,2143-06-08 18:00:00,Prescription,Acetaminophen IV,1000,mg,prescriptions
+14990717,23770584.0,2143-06-08 18:00:00,Prescription,OxycoDONE-Acetaminophen Elixir,5-10,mL,prescriptions
+14990717,23770584.0,2143-06-08 18:00:00,Pharmacy,Ondansetron,,NaN,pharmacy
+14990717,23770584.0,2143-06-08 18:00:00,Prescription,Prochlorperazine,10,mg,prescriptions
+14990717,23770584.0,2143-06-08 18:00:00,Pharmacy,OxycoDONE-Acetaminophen Elixir,,NaN,pharmacy
+14990717,23770584.0,2143-06-08 18:00:00,Pharmacy,Prochlorperazine,,NaN,pharmacy
+14990717,23770584.0,2143-06-08 18:00:00,Pharmacy,Influenza Virus Vaccine,,NaN,pharmacy
+14990717,23770584.0,2143-06-08 18:00:00,Prescription,Morphine Sulfate,2-4,mg,prescriptions
+14990717,23770584.0,2143-06-08 18:00:00,Prescription,Ondansetron,8,mg,prescriptions
+14990717,23770584.0,2143-06-08 18:00:00,Prescription,Lactated Ringers,1000,mL,prescriptions
+14990717,23770584.0,2143-06-08 18:00:00,Pharmacy,Morphine Sulfate,,NaN,pharmacy
+14990717,23770584.0,2143-06-08 18:00:00,Pharmacy,Famotidine,,NaN,pharmacy
+14990717,23770584.0,2143-06-08 18:00:00,Pharmacy,Sodium Chloride 0.9%  Flush,,NaN,pharmacy
+14990717,23770584.0,2143-06-08 18:00:00,Prescription,Sodium Chloride 0.9%  Flush,3,mL,prescriptions
+14990717,23770584.0,2143-06-08 18:00:00,Prescription,CefazoLIN,2,g,prescriptions
+14990717,23770584.0,2143-06-08 18:00:00,Prescription,0.9% Sodium Chloride,100,mL,prescriptions
+14990717,23770584.0,2143-06-08 18:00:00,Pharmacy,Acetaminophen IV,,NaN,pharmacy
+14990717,23770584.0,2143-06-08 18:00:00,Prescription,Famotidine,20,mg,prescriptions
+14990717,23770584.0,2143-06-08 18:00:00,Pharmacy,CefazoLIN,,NaN,pharmacy
+14990717,23770584.0,2143-06-08 18:00:00,Prescription,Influenza Virus Vaccine,0.5,mL,prescriptions
+14990717,23770584.0,2143-06-08 18:00:00,Prescription,Iso-Osmotic Sodium Chloride,50,mL,prescriptions
+14990717,23770584.0,2143-06-09 00:00:00,Prescription,DiphenhydrAMINE,25,mg,prescriptions
+14990717,23770584.0,2143-06-09 00:00:00,Pharmacy,DiphenhydrAMINE,,NaN,pharmacy
+14990717,23770584.0,2143-06-09 06:00:00,Prescription,Ondansetron,2,mg,prescriptions
+14990717,23770584.0,2143-06-09 06:00:00,Pharmacy,Ondansetron,,NaN,pharmacy
+14990717,23770584.0,2143-06-09 08:00:00,Prescription,0.9% Sodium Chloride,1000,mL,prescriptions
+14990717,23770584.0,2143-06-09 08:00:00,Pharmacy,,,NaN,pharmacy
+14990717,23770584.0,2143-06-09 10:00:00,Pharmacy,Paroxetine,,NaN,pharmacy
+14990717,23770584.0,2143-06-09 10:00:00,Prescription,Paroxetine,10,mg,prescriptions
+14990717,23770584.0,2143-06-09 10:00:00,Pharmacy,Aripiprazole,,NaN,pharmacy
+14990717,23770584.0,2143-06-09 10:00:00,Prescription,Aripiprazole,15,mg,prescriptions
+14990717,23770584.0,2143-06-09 12:00:00,Pharmacy,Lorazepam,,NaN,pharmacy
+14990717,23770584.0,2143-06-09 12:00:00,Prescription,Lorazepam,2,mg,prescriptions
+14990717,23770584.0,2143-06-09 22:00:00,Pharmacy,Perphenazine,,NaN,pharmacy
+14990717,23770584.0,2143-06-09 22:00:00,Prescription,Perphenazine,16,mg,prescriptions
+14990717,23770584.0,2143-06-10 00:00:00,Prescription,DiphenhydrAMINE,50,mg,prescriptions
+14990717,23770584.0,2143-06-10 00:00:00,Pharmacy,DiphenhydrAMINE,,NaN,pharmacy
+14990717,23770584.0,2143-06-10 04:00:00,Pharmacy,,,NaN,pharmacy
+14990717,23770584.0,2143-06-10 04:00:00,Prescription,Lactated Ringers,1000,mL,prescriptions
+14990717,23770584.0,2143-06-10 08:50:00,Lab Result,Magnesium| Blood,2.6,mg/dL,labevents
+14990717,23770584.0,2143-06-10 08:50:00,Lab Result,Estimated GFR (MDRD equation)| Blood,,,labevents
+14990717,23770584.0,2143-06-10 08:50:00,Lab Result,Glucose| Blood,136.0,mg/dL,labevents
+14990717,23770584.0,2143-06-10 08:50:00,Lab Result,Phosphate| Blood,2.5,mg/dL,labevents
+14990717,23770584.0,2143-06-10 08:50:00,Lab Result,Urea Nitrogen| Blood,15.0,mg/dL,labevents
+14990717,23770584.0,2143-06-10 08:50:00,Lab Result,Sodium| Blood,167.0,mEq/L,labevents
+14990717,23770584.0,2143-06-10 08:50:00,Lab Result,"Calcium, Total| Blood",10.7,mg/dL,labevents
+14990717,23770584.0,2143-06-10 08:50:00,Lab Result,Bicarbonate| Blood,27.0,mEq/L,labevents
+14990717,23770584.0,2143-06-10 08:50:00,Lab Result,Anion Gap| Blood,15.0,mEq/L,labevents
+14990717,23770584.0,2143-06-10 08:50:00,Lab Result,Creatinine| Blood,1.9,mg/dL,labevents
+14990717,23770584.0,2143-06-10 08:50:00,Lab Result,Potassium| Blood,3.7,mEq/L,labevents
+14990717,23770584.0,2143-06-10 08:50:00,Lab Result,Chloride| Blood,129.0,mEq/L,labevents
+14990717,23770584.0,2143-06-10 10:00:00,Prescription,Levothyroxine Sodium,88,mcg,prescriptions
+14990717,23770584.0,2143-06-10 10:00:00,Pharmacy,Levothyroxine Sodium,,NaN,pharmacy
+14990717,23770584.0,2143-06-10 10:00:00,Pharmacy,Amiloride HCl,,NaN,pharmacy
+14990717,23770584.0,2143-06-10 10:00:00,Prescription,Amiloride HCl,5,mg,prescriptions
+14990717,23770584.0,2143-06-10 10:50:00,Lab Result,Urea Nitrogen| Blood,15.0,mg/dL,labevents
+14990717,23770584.0,2143-06-10 10:50:00,Lab Result,Thyroxine (T4)| Blood,13.1,ug/dL,labevents
+14990717,23770584.0,2143-06-10 10:50:00,Lab Result,Thyroid Stimulating Hormone| Blood,0.71,uIU/mL,labevents
+14990717,23770584.0,2143-06-10 10:50:00,Lab Result,Sodium| Blood,167.0,mEq/L,labevents
+14990717,23770584.0,2143-06-10 10:50:00,Lab Result,Potassium| Blood,4.5,mEq/L,labevents
+14990717,23770584.0,2143-06-10 10:50:00,Lab Result,Phosphate| Blood,2.7,mg/dL,labevents
+14990717,23770584.0,2143-06-10 10:50:00,Lab Result,Anion Gap| Blood,17.0,mEq/L,labevents
+14990717,23770584.0,2143-06-10 10:50:00,Lab Result,Magnesium| Blood,2.6,mg/dL,labevents
+14990717,23770584.0,2143-06-10 10:50:00,Lab Result,Glucose| Blood,100.0,mg/dL,labevents
+14990717,23770584.0,2143-06-10 10:50:00,Lab Result,Creatinine| Blood,1.9,mg/dL,labevents
+14990717,23770584.0,2143-06-10 10:50:00,Lab Result,Chloride| Blood,132.0,mEq/L,labevents
+14990717,23770584.0,2143-06-10 10:50:00,Lab Result,"Calcium, Total| Blood",10.3,mg/dL,labevents
+14990717,23770584.0,2143-06-10 10:50:00,Lab Result,Bicarbonate| Blood,23.0,mEq/L,labevents
+14990717,23770584.0,2143-06-10 10:50:00,Lab Result,"Osmolality, Measured| Blood",346.0,mOsm/kg,labevents
+14990717,23770584.0,2143-06-10 12:00:00,Prescription,5% Dextrose,1000,mL,prescriptions
+14990717,23770584.0,2143-06-10 12:00:00,Pharmacy,,,NaN,pharmacy
+14990717,23770584.0,2143-06-10 12:52:00,Lab Result,"Sodium, Urine| Urine",57.0,mEq/L,labevents
+14990717,23770584.0,2143-06-10 12:52:00,Lab Result,"Potassium, Urine| Urine",24.0,mEq/L,labevents
+14990717,23770584.0,2143-06-10 12:52:00,Lab Result,"Phosphate, Urine| Urine",13.0,mg/dL,labevents
+14990717,23770584.0,2143-06-10 12:52:00,Lab Result,"Osmolality, Urine| Urine",250.0,mOsm/kg,labevents
+14990717,23770584.0,2143-06-10 12:52:00,Lab Result,"Creatinine, Urine| Urine",61.0,mg/dL,labevents
+14990717,23770584.0,2143-06-10 12:52:00,Lab Result,Length of Urine Collection| Urine,,,labevents
+14990717,23770584.0,2143-06-10 12:52:00,Lab Result,"Chloride, Urine| Urine",56.0,mEq/L,labevents
+14990717,23770584.0,2143-06-10 12:52:00,Lab Result,"Calcium, Urine| Urine",1.3,mg/dL,labevents
+14990717,23770584.0,2143-06-10 12:52:00,Lab Result,"Bicarbonate, Urine| Urine",,mEq/L,labevents
+14990717,23770584.0,2143-06-10 12:52:00,Lab Result,"Magnesium, Urine| Urine",2.1,mg/dL,labevents
+14990717,23770584.0,2143-06-10 13:00:00,Prescription,5% Dextrose,1000,mL,prescriptions
+14990717,23770584.0,2143-06-10 13:00:00,Pharmacy,,,NaN,pharmacy
+14990717,23770584.0,2143-06-10 13:38:29,Transfer,transfer Trauma SICU (TSICU),NaN,NaN,transfers
+14990717,23770584.0,2143-06-10 13:46:00,DateTime Obs,22 Gauge Insertion Date,2143-06-10 13:46:00,Date,datetimeevents
+14990717,23770584.0,2143-06-10 13:46:00,Procedure,22 Gauge,1351.0,min,procedureevents
+14990717,23770584.0,2143-06-10 13:46:00,Procedure,22 Gauge,1351.0,min,procedureevents
+14990717,23770584.0,2143-06-10 13:49:00,Input,IVF ingredient,236.66666102409363,ml,ingredientevents
+14990717,23770584.0,2143-06-10 13:49:00,Input,Dextrose 5%,236.66666102409363,ml,inputevents
+14990717,23770584.0,2143-06-10 13:49:00,Input,Water,236.66666102409363,ml,ingredientevents
+14990717,23770584.0,2143-06-10 13:49:00,Input,Calories,40.23333305120468,Kcal,ingredientevents
+14990717,23770584.0,2143-06-10 14:00:00,Prescription,Sodium Chloride 0.9%  Flush,3,mL,prescriptions
+14990717,23770584.0,2143-06-10 14:00:00,Pharmacy,,,NaN,pharmacy
+14990717,23770584.0,2143-06-10 14:00:00,Pharmacy,Sodium Chloride 0.9%  Flush,,NaN,pharmacy
+14990717,23770584.0,2143-06-10 14:00:00,Prescription,5% Dextrose,1000,mL,prescriptions
+14990717,23770584.0,2143-06-10 15:00:00,Input,PO Intake,200.0,ml,inputevents
+14990717,23770584.0,2143-06-10 15:00:00,Input,Water,200.0,ml,ingredientevents
+14990717,23770584.0,2143-06-10 15:00:00,Input,Oral/Gastric Ingredient,200.0,ml,ingredientevents
+14990717,23770584.0,2143-06-10 16:00:00,Input,Calories,59.49999958276749,Kcal,ingredientevents
+14990717,23770584.0,2143-06-10 16:00:00,Pharmacy,Calcium Gluconate,,NaN,pharmacy
+14990717,23770584.0,2143-06-10 16:00:00,Prescription,Bag,100,mL,prescriptions
+14990717,23770584.0,2143-06-10 16:00:00,Pharmacy,Insulin,,NaN,pharmacy
+14990717,23770584.0,2143-06-10 16:00:00,Prescription,5% Dextrose,1000,mL,prescriptions
+14990717,23770584.0,2143-06-10 16:00:00,Prescription,Calcium Gluconate,4,g,prescriptions
+14990717,23770584.0,2143-06-10 16:00:00,Prescription,0.9% Sodium Chloride,2,BAG,prescriptions
+14990717,23770584.0,2143-06-10 16:00:00,Prescription,Calcium Gluconate,2-4,g,prescriptions
+14990717,23770584.0,2143-06-10 16:00:00,Prescription,0.9% Sodium Chloride,1-2,BAG,prescriptions
+14990717,23770584.0,2143-06-10 16:00:00,Prescription,Glucagon,1,mg,prescriptions
+14990717,23770584.0,2143-06-10 16:00:00,Pharmacy,Magnesium Sulfate,,NaN,pharmacy
+14990717,23770584.0,2143-06-10 16:00:00,Prescription,Calcium Gluconate,2,g,prescriptions
+14990717,23770584.0,2143-06-10 16:00:00,Prescription,0.9% Sodium Chloride,1,BAG,prescriptions
+14990717,23770584.0,2143-06-10 16:00:00,Input,PO Intake,50.0,ml,inputevents
+14990717,23770584.0,2143-06-10 16:00:00,Prescription,Insulin,0,UNIT,prescriptions
+14990717,23770584.0,2143-06-10 16:00:00,Prescription,Magnesium Sulfate,2-4,gm,prescriptions
+14990717,23770584.0,2143-06-10 16:00:00,Prescription,Bag,50-100,mL,prescriptions
+14990717,23770584.0,2143-06-10 16:00:00,Input,Dextrose 5%,349.99999165534973,ml,inputevents
+14990717,23770584.0,2143-06-10 16:00:00,Prescription,Magnesium Sulfate,2,gm,prescriptions
+14990717,23770584.0,2143-06-10 16:00:00,Prescription,Bag,50,mL,prescriptions
+14990717,23770584.0,2143-06-10 16:00:00,Prescription,Dextrose 50%,12.5,gm,prescriptions
+14990717,23770584.0,2143-06-10 16:00:00,Input,Water,50.0,ml,ingredientevents
+14990717,23770584.0,2143-06-10 16:00:00,Prescription,Magnesium Sulfate,4,gm,prescriptions
+14990717,23770584.0,2143-06-10 16:00:00,Pharmacy,Calcium Gluconate,,NaN,pharmacy
+14990717,23770584.0,2143-06-10 16:00:00,Pharmacy,Magnesium Sulfate,,NaN,pharmacy
+14990717,23770584.0,2143-06-10 16:00:00,Pharmacy,Calcium Gluconate,,NaN,pharmacy
+14990717,23770584.0,2143-06-10 16:00:00,Pharmacy,Glucagon,,NaN,pharmacy
+14990717,23770584.0,2143-06-10 16:00:00,Input,Water,349.99999165534973,ml,ingredientevents
+14990717,23770584.0,2143-06-10 16:00:00,Input,IVF ingredient,349.99999165534973,ml,ingredientevents
+14990717,23770584.0,2143-06-10 16:00:00,Pharmacy,Magnesium Sulfate,,NaN,pharmacy
+14990717,23770584.0,2143-06-10 16:00:00,Input,Oral/Gastric Ingredient,50.0,ml,ingredientevents
+14990717,23770584.0,2143-06-10 16:00:00,Pharmacy,Dextrose 50%,,NaN,pharmacy
+14990717,23770584.0,2143-06-10 16:00:00,Pharmacy,,,NaN,pharmacy
+14990717,23770584.0,2143-06-10 16:02:00,Lab Result,MCH| Blood,25.8,pg,labevents
+14990717,23770584.0,2143-06-10 16:02:00,Lab Result,MCHC| Blood,30.9,%,labevents
+14990717,23770584.0,2143-06-10 16:02:00,Lab Result,MCV| Blood,84.0,fL,labevents
+14990717,23770584.0,2143-06-10 16:02:00,Lab Result,Platelet Count| Blood,272.0,K/uL,labevents
+14990717,23770584.0,2143-06-10 16:02:00,Lab Result,Chloride| Blood,128.0,mEq/L,labevents
+14990717,23770584.0,2143-06-10 16:02:00,Lab Result,Red Blood Cells| Blood,3.82,m/uL,labevents
+14990717,23770584.0,2143-06-10 16:02:00,Lab Result,Hemoglobin| Blood,9.9,g/dL,labevents
+14990717,23770584.0,2143-06-10 16:02:00,Lab Result,Hematocrit| Blood,31.9,%,labevents
+14990717,23770584.0,2143-06-10 16:02:00,Lab Result,Sodium| Blood,164.0,mEq/L,labevents
+14990717,23770584.0,2143-06-10 16:02:00,Lab Result,White Blood Cells| Blood,7.9,K/uL,labevents
+14990717,23770584.0,2143-06-10 16:02:00,Lab Result,Potassium| Blood,3.6,mEq/L,labevents
+14990717,23770584.0,2143-06-10 16:02:00,Lab Result,RDW| Blood,16.0,%,labevents
+14990717,23770584.0,2143-06-10 16:15:00,Input,Water,50.0,ml,ingredientevents
+14990717,23770584.0,2143-06-10 16:15:00,Input,PO Intake,50.0,ml,inputevents
+14990717,23770584.0,2143-06-10 16:15:00,Input,Oral/Gastric Ingredient,50.0,ml,ingredientevents
+14990717,23770584.0,2143-06-10 16:30:00,Input,Water,50.0,ml,ingredientevents
+14990717,23770584.0,2143-06-10 16:30:00,Input,Oral/Gastric Ingredient,50.0,ml,ingredientevents
+14990717,23770584.0,2143-06-10 16:30:00,Input,PO Intake,50.0,ml,inputevents
+14990717,23770584.0,2143-06-10 16:43:00,Input,Haloperidol (Haldol),5.000000353902578,mg,inputevents
+14990717,23770584.0,2143-06-10 16:44:00,Input,Lorazepam (Ativan),2.0000000949949026,mg,inputevents
+14990717,23770584.0,2143-06-10 17:00:00,Pharmacy,,,NaN,pharmacy
+14990717,23770584.0,2143-06-10 17:00:00,Pharmacy,Lorazepam,,NaN,pharmacy
+14990717,23770584.0,2143-06-10 17:00:00,Prescription,Lorazepam,2,mg,prescriptions
+14990717,23770584.0,2143-06-10 17:00:00,Prescription,Haloperidol,5,mg,prescriptions
+14990717,23770584.0,2143-06-10 17:00:00,Prescription,5% Dextrose,1000,mL,prescriptions
+14990717,23770584.0,2143-06-10 17:00:00,Pharmacy,Haloperidol,,NaN,pharmacy
+14990717,23770584.0,2143-06-10 17:05:00,Input,Lorazepam (Ativan),1.0000000474974513,mg,inputevents
+14990717,23770584.0,2143-06-10 17:18:00,DateTime Obs,Arterial line Cap Change,2143-06-10 17:18:00,Date,datetimeevents
+14990717,23770584.0,2143-06-10 17:18:00,DateTime Obs,Arterial Line Dressing Change,2143-06-10 17:18:00,Date and Time,datetimeevents
+14990717,23770584.0,2143-06-10 17:18:00,DateTime Obs,Arterial line Insertion Date,2143-06-10 17:18:00,Date,datetimeevents
+14990717,23770584.0,2143-06-10 17:18:00,DateTime Obs,Arterial line Tubing Change,2143-06-10 17:18:00,Date,datetimeevents
+14990717,23770584.0,2143-06-10 17:18:00,Procedure,Arterial Line,1036.0,min,procedureevents
+14990717,23770584.0,2143-06-10 17:18:00,Procedure,Arterial Line,1036.0,min,procedureevents
+14990717,23770584.0,2143-06-10 17:31:00,Lab Result,"Sodium, Whole Blood| Blood",163.0,mEq/L,labevents
+14990717,23770584.0,2143-06-10 17:45:00,Input,Oral/Gastric Ingredient,50.0,ml,ingredientevents
+14990717,23770584.0,2143-06-10 17:45:00,Input,Water,50.0,ml,ingredientevents
+14990717,23770584.0,2143-06-10 17:45:00,Input,Dextrose 5%,413.3333194255829,ml,inputevents
+14990717,23770584.0,2143-06-10 17:45:00,Input,PO Intake,50.0,ml,inputevents
+14990717,23770584.0,2143-06-10 17:45:00,Input,PO Intake,50.0,ml,inputevents
+14990717,23770584.0,2143-06-10 17:45:00,Input,Oral/Gastric Ingredient,50.0,ml,ingredientevents
+14990717,23770584.0,2143-06-10 17:45:00,Input,Water,413.3333194255829,ml,ingredientevents
+14990717,23770584.0,2143-06-10 17:45:00,Input,Water,50.0,ml,ingredientevents
+14990717,23770584.0,2143-06-10 17:45:00,Input,Calories,70.26666685938835,Kcal,ingredientevents
+14990717,23770584.0,2143-06-10 17:45:00,Input,IVF ingredient,413.3333194255829,ml,ingredientevents
+14990717,23770584.0,2143-06-10 17:55:00,Output,Void,800.0,ml,outputevents
+14990717,23770584.0,2143-06-10 18:00:00,Pharmacy,Lorazepam,,NaN,pharmacy
+14990717,23770584.0,2143-06-10 18:00:00,Prescription,Lorazepam,1,mg,prescriptions
+14990717,23770584.0,2143-06-10 18:00:00,Pharmacy,,,NaN,pharmacy
+14990717,23770584.0,2143-06-10 18:00:00,Prescription,5% Dextrose,1000,mL,prescriptions
+14990717,23770584.0,2143-06-10 18:11:00,Input,Oral/Gastric Ingredient,100.0,ml,ingredientevents
+14990717,23770584.0,2143-06-10 18:11:00,Input,PO Intake,100.0,ml,inputevents
+14990717,23770584.0,2143-06-10 18:11:00,Input,Water,100.0,ml,ingredientevents
+14990717,23770584.0,2143-06-10 18:30:00,Input,Oral/Gastric Ingredient,50.0,ml,ingredientevents
+14990717,23770584.0,2143-06-10 18:30:00,Input,Water,50.0,ml,ingredientevents
+14990717,23770584.0,2143-06-10 18:30:00,Input,PO Intake,50.0,ml,inputevents
+14990717,23770584.0,2143-06-10 19:15:00,Input,Lorazepam (Ativan),2.0000000949949026,mg,inputevents
+14990717,23770584.0,2143-06-10 19:15:00,Input,Haloperidol (Haldol),5.000000353902578,mg,inputevents
+14990717,23770584.0,2143-06-10 19:50:00,Input,Lorazepam (Ativan),1.0000000474974513,mg,inputevents
+14990717,23770584.0,2143-06-10 20:00:00,Prescription,Haloperidol,5,mg,prescriptions
+14990717,23770584.0,2143-06-10 20:00:00,Prescription,Propranolol,80,mg,prescriptions
+14990717,23770584.0,2143-06-10 20:00:00,Pharmacy,Lorazepam,,NaN,pharmacy
+14990717,23770584.0,2143-06-10 20:00:00,Pharmacy,Haloperidol,,NaN,pharmacy
+14990717,23770584.0,2143-06-10 20:00:00,Pharmacy,Omeprazole,,NaN,pharmacy
+14990717,23770584.0,2143-06-10 20:00:00,Input,PO Intake,100.0,ml,inputevents
+14990717,23770584.0,2143-06-10 20:00:00,Pharmacy,Propranolol,,NaN,pharmacy
+14990717,23770584.0,2143-06-10 20:00:00,Input,Oral/Gastric Ingredient,100.0,ml,ingredientevents
+14990717,23770584.0,2143-06-10 20:00:00,Input,Water,100.0,ml,ingredientevents
+14990717,23770584.0,2143-06-10 20:00:00,Prescription,Lorazepam,1,mg,prescriptions
+14990717,23770584.0,2143-06-10 20:00:00,Prescription,Omeprazole,40,mg,prescriptions
+14990717,23770584.0,2143-06-10 20:36:00,Lab Result,"Sodium, Whole Blood| Blood",159.0,mEq/L,labevents
+14990717,23770584.0,2143-06-10 20:50:00,DateTime Obs,22 Gauge Insertion Date,2143-06-10 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-10 20:50:00,DateTime Obs,Arterial line Tubing Change,2143-06-10 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-10 20:50:00,DateTime Obs,Arterial line Insertion Date,2143-06-10 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-10 20:50:00,DateTime Obs,Arterial Line Dressing Change,2143-06-10 17:18:00,Date and Time,datetimeevents
+14990717,23770584.0,2143-06-10 20:50:00,DateTime Obs,Arterial line Cap Change,2143-06-10 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-10 21:00:00,Prescription,Lorazepam,2,mg,prescriptions
+14990717,23770584.0,2143-06-10 21:00:00,Pharmacy,Lorazepam,,NaN,pharmacy
+14990717,23770584.0,2143-06-10 21:24:00,Input,Midazolam (Versed),2.0000000949949026,mg,inputevents
+14990717,23770584.0,2143-06-10 22:00:00,Pharmacy,Zolpidem Tartrate,,NaN,pharmacy
+14990717,23770584.0,2143-06-10 22:00:00,Prescription,Zolpidem Tartrate,10,mg,prescriptions
+14990717,23770584.0,2143-06-10 22:00:00,Input,Oral/Gastric Ingredient,100.0,ml,ingredientevents
+14990717,23770584.0,2143-06-10 22:00:00,Prescription,Perphenazine,32,mg,prescriptions
+14990717,23770584.0,2143-06-10 22:00:00,Input,PO Intake,100.0,ml,inputevents
+14990717,23770584.0,2143-06-10 22:00:00,Pharmacy,Perphenazine,,NaN,pharmacy
+14990717,23770584.0,2143-06-10 22:00:00,Input,Water,100.0,ml,ingredientevents
+14990717,23770584.0,2143-06-10 22:30:00,Output,Void,500.0,ml,outputevents
+14990717,23770584.0,2143-06-10 23:11:00,Output,Foley,620.0,ml,outputevents
+14990717,23770584.0,2143-06-10 23:32:00,Lab Result,"Sodium, Whole Blood| Blood",163.0,mEq/L,labevents
+14990717,23770584.0,2143-06-11 00:00:00,Procedure,20 Gauge,3840.0,min,procedureevents
+14990717,23770584.0,2143-06-11 00:00:00,Input,Dextrose 5%,238.33332765102384,ml,inputevents
+14990717,23770584.0,2143-06-11 00:00:00,Input,IVF ingredient,238.33332765102384,ml,ingredientevents
+14990717,23770584.0,2143-06-11 00:00:00,Procedure,20 Gauge,3840.0,min,procedureevents
+14990717,23770584.0,2143-06-11 00:00:00,Input,Calories,40.51666638255119,Kcal,ingredientevents
+14990717,23770584.0,2143-06-11 00:00:00,Input,Water,238.33332765102384,ml,ingredientevents
+14990717,23770584.0,2143-06-11 00:00:00,Output,Foley,140.0,ml,outputevents
+14990717,23770584.0,2143-06-11 00:00:00,DateTime Obs,20 Gauge Insertion Date,2143-06-11 05:55:00,Date,datetimeevents
+14990717,23770584.0,2143-06-11 00:10:00,DateTime Obs,Arterial line Cap Change,2143-06-10 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-11 00:10:00,DateTime Obs,Arterial Line Dressing Change,2143-06-10 17:18:00,Date and Time,datetimeevents
+14990717,23770584.0,2143-06-11 00:10:00,DateTime Obs,Arterial line Insertion Date,2143-06-10 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-11 00:10:00,DateTime Obs,Arterial line Tubing Change,2143-06-10 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-11 00:10:00,DateTime Obs,22 Gauge Insertion Date,2143-06-10 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-11 01:00:00,Prescription,5% Dextrose,1000,mL,prescriptions
+14990717,23770584.0,2143-06-11 01:00:00,Pharmacy,,,NaN,pharmacy
+14990717,23770584.0,2143-06-11 01:25:00,Lab Result,Creatinine| Blood,2.1,mg/dL,labevents
+14990717,23770584.0,2143-06-11 01:25:00,Lab Result,Glucose| Blood,128.0,mg/dL,labevents
+14990717,23770584.0,2143-06-11 01:25:00,Lab Result,Magnesium| Blood,2.4,mg/dL,labevents
+14990717,23770584.0,2143-06-11 01:25:00,Lab Result,Phosphate| Blood,1.6,mg/dL,labevents
+14990717,23770584.0,2143-06-11 01:25:00,Lab Result,Potassium| Blood,3.9,mEq/L,labevents
+14990717,23770584.0,2143-06-11 01:25:00,Lab Result,Sodium| Blood,168.0,mEq/L,labevents
+14990717,23770584.0,2143-06-11 01:25:00,Lab Result,Urea Nitrogen| Blood,15.0,mg/dL,labevents
+14990717,23770584.0,2143-06-11 01:25:00,Lab Result,Anion Gap| Blood,15.0,mEq/L,labevents
+14990717,23770584.0,2143-06-11 01:25:00,Lab Result,Green Top Hold (plasma)| Blood,,,labevents
+14990717,23770584.0,2143-06-11 01:25:00,Lab Result,Chloride| Blood,131.0,mEq/L,labevents
+14990717,23770584.0,2143-06-11 01:25:00,Lab Result,"Calcium, Total| Blood",10.4,mg/dL,labevents
+14990717,23770584.0,2143-06-11 01:25:00,Lab Result,EDTA Hold| Blood,,,labevents
+14990717,23770584.0,2143-06-11 01:25:00,Lab Result,Bicarbonate| Blood,26.0,mEq/L,labevents
+14990717,23770584.0,2143-06-11 02:00:00,Output,Foley,190.0,ml,outputevents
+14990717,23770584.0,2143-06-11 02:22:00,Lab Result,MCV| Blood,85.0,fL,labevents
+14990717,23770584.0,2143-06-11 02:22:00,Lab Result,Red Blood Cells| Blood,3.72,m/uL,labevents
+14990717,23770584.0,2143-06-11 02:22:00,Lab Result,White Blood Cells| Blood,7.1,K/uL,labevents
+14990717,23770584.0,2143-06-11 02:22:00,Lab Result,MCHC| Blood,30.7,%,labevents
+14990717,23770584.0,2143-06-11 02:22:00,Lab Result,RDW| Blood,16.4,%,labevents
+14990717,23770584.0,2143-06-11 02:22:00,Lab Result,MCH| Blood,26.2,pg,labevents
+14990717,23770584.0,2143-06-11 02:22:00,Lab Result,Hemoglobin| Blood,9.8,g/dL,labevents
+14990717,23770584.0,2143-06-11 02:22:00,Lab Result,Hematocrit| Blood,31.7,%,labevents
+14990717,23770584.0,2143-06-11 02:22:00,Lab Result,Platelet Count| Blood,243.0,K/uL,labevents
+14990717,23770584.0,2143-06-11 02:23:00,Input,Water,187.07601737976077,ml,ingredientevents
+14990717,23770584.0,2143-06-11 02:23:00,Input,Dextrose 5%,187.07601737976077,ml,inputevents
+14990717,23770584.0,2143-06-11 02:23:00,Input,IVF ingredient,187.07601737976077,ml,ingredientevents
+14990717,23770584.0,2143-06-11 02:23:00,Input,Calories,31.802924156188965,Kcal,ingredientevents
+14990717,23770584.0,2143-06-11 03:00:00,Output,Foley,280.0,ml,outputevents
+14990717,23770584.0,2143-06-11 03:19:00,Input,IVF ingredient,250.000006377697,ml,ingredientevents
+14990717,23770584.0,2143-06-11 03:19:00,Input,Water,250.000006377697,ml,ingredientevents
+14990717,23770584.0,2143-06-11 03:19:00,Input,NaCl 0.9%,250.000006377697,ml,inputevents
+14990717,23770584.0,2143-06-11 03:19:00,Input,K Phos,15.000000144937076,mmol,inputevents
+14990717,23770584.0,2143-06-11 04:00:00,Prescription,Potassium Phosphate,15,mmol,prescriptions
+14990717,23770584.0,2143-06-11 04:00:00,Output,Foley,120.0,ml,outputevents
+14990717,23770584.0,2143-06-11 04:00:00,Prescription,5% Dextrose,250,mL,prescriptions
+14990717,23770584.0,2143-06-11 04:00:00,Pharmacy,Potassium Phosphate,,NaN,pharmacy
+14990717,23770584.0,2143-06-11 04:50:00,Lab Result,"Sodium, Whole Blood| Blood",163.0,mEq/L,labevents
+14990717,23770584.0,2143-06-11 06:00:00,Input,Water,566.6910123825073,ml,ingredientevents
+14990717,23770584.0,2143-06-11 06:00:00,Input,Dextrose 5%,566.6910123825073,ml,inputevents
+14990717,23770584.0,2143-06-11 06:00:00,Input,PO Intake,100.0,ml,inputevents
+14990717,23770584.0,2143-06-11 06:00:00,Output,Foley,160.0,ml,outputevents
+14990717,23770584.0,2143-06-11 06:00:00,Input,Water,100.0,ml,ingredientevents
+14990717,23770584.0,2143-06-11 06:00:00,Input,IVF ingredient,566.6910123825073,ml,ingredientevents
+14990717,23770584.0,2143-06-11 06:00:00,Input,Calories,96.33747696876526,Kcal,ingredientevents
+14990717,23770584.0,2143-06-11 06:00:00,Input,Oral/Gastric Ingredient,100.0,ml,ingredientevents
+14990717,23770584.0,2143-06-11 07:16:00,Output,Foley,240.0,ml,outputevents
+14990717,23770584.0,2143-06-11 07:16:00,Input,Oral/Gastric Ingredient,240.0,ml,ingredientevents
+14990717,23770584.0,2143-06-11 07:16:00,Input,Water,240.0,ml,ingredientevents
+14990717,23770584.0,2143-06-11 07:16:00,Input,PO Intake,240.0,ml,inputevents
+14990717,23770584.0,2143-06-11 08:10:00,DateTime Obs,22 Gauge Insertion Date,2143-06-10 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-11 08:10:00,DateTime Obs,20 Gauge Insertion Date,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-11 08:10:00,DateTime Obs,Arterial line Cap Change,2143-06-10 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-11 08:10:00,DateTime Obs,Arterial Line Dressing Change,2143-06-10 17:18:00,Date and Time,datetimeevents
+14990717,23770584.0,2143-06-11 08:10:00,DateTime Obs,Arterial line Insertion Date,2143-06-10 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-11 08:10:00,DateTime Obs,Arterial line Tubing Change,2143-06-10 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-11 08:50:00,Input,Calories,84.61849462985992,Kcal,ingredientevents
+14990717,23770584.0,2143-06-11 08:50:00,Input,Dextrose 5%,497.7558319568634,ml,inputevents
+14990717,23770584.0,2143-06-11 08:50:00,Input,Water,497.7558319568634,ml,ingredientevents
+14990717,23770584.0,2143-06-11 08:50:00,Input,IVF ingredient,497.7558319568634,ml,ingredientevents
+14990717,23770584.0,2143-06-11 09:00:00,Pharmacy,,,NaN,pharmacy
+14990717,23770584.0,2143-06-11 09:00:00,Prescription,5% Dextrose,1000,mL,prescriptions
+14990717,23770584.0,2143-06-11 09:00:00,Output,Foley,100.0,ml,outputevents
+14990717,23770584.0,2143-06-11 09:27:00,Lab Result,Chloride| Blood,122.0,mEq/L,labevents
+14990717,23770584.0,2143-06-11 09:27:00,Lab Result,Sodium| Blood,159.0,mEq/L,labevents
+14990717,23770584.0,2143-06-11 09:48:00,Lab Result,Anion Gap| Blood,14.0,mEq/L,labevents
+14990717,23770584.0,2143-06-11 09:48:00,Lab Result,Bicarbonate| Blood,26.0,mEq/L,labevents
+14990717,23770584.0,2143-06-11 09:48:00,Lab Result,"Calcium, Total| Blood",9.8,mg/dL,labevents
+14990717,23770584.0,2143-06-11 09:48:00,Lab Result,Chloride| Blood,123.0,mEq/L,labevents
+14990717,23770584.0,2143-06-11 09:48:00,Lab Result,Creatinine| Blood,2.0,mg/dL,labevents
+14990717,23770584.0,2143-06-11 09:48:00,Lab Result,Glucose| Blood,139.0,mg/dL,labevents
+14990717,23770584.0,2143-06-11 09:48:00,Lab Result,Magnesium| Blood,2.3,mg/dL,labevents
+14990717,23770584.0,2143-06-11 09:48:00,Lab Result,Phosphate| Blood,3.3,mg/dL,labevents
+14990717,23770584.0,2143-06-11 09:48:00,Lab Result,Potassium| Blood,3.9,mEq/L,labevents
+14990717,23770584.0,2143-06-11 09:48:00,Lab Result,Sodium| Blood,159.0,mEq/L,labevents
+14990717,23770584.0,2143-06-11 09:48:00,Lab Result,Urea Nitrogen| Blood,15.0,mg/dL,labevents
+14990717,23770584.0,2143-06-11 10:35:00,Procedure,Arterial Line,1325.0,min,procedureevents
+14990717,23770584.0,2143-06-11 10:35:00,DateTime Obs,Arterial line Insertion Date,2143-06-11 10:35:00,Date,datetimeevents
+14990717,23770584.0,2143-06-11 10:35:00,DateTime Obs,Arterial line Tubing Change,2143-06-10 10:35:00,Date,datetimeevents
+14990717,23770584.0,2143-06-11 10:35:00,Procedure,Arterial Line,1325.0,min,procedureevents
+14990717,23770584.0,2143-06-11 10:35:00,DateTime Obs,Arterial line Cap Change,2143-06-10 10:35:00,Date,datetimeevents
+14990717,23770584.0,2143-06-11 10:35:00,DateTime Obs,Arterial Line Dressing Change,2143-06-11 10:35:00,Date and Time,datetimeevents
+14990717,23770584.0,2143-06-11 10:37:00,Input,PO Intake,800.0,ml,inputevents
+14990717,23770584.0,2143-06-11 10:37:00,Input,Water,800.0,ml,ingredientevents
+14990717,23770584.0,2143-06-11 10:37:00,Input,Oral/Gastric Ingredient,800.0,ml,ingredientevents
+14990717,23770584.0,2143-06-11 11:00:00,Input,PO Intake,800.0,ml,inputevents
+14990717,23770584.0,2143-06-11 11:00:00,Pharmacy,Sodium Chloride 0.9%  Flush,,NaN,pharmacy
+14990717,23770584.0,2143-06-11 11:00:00,Input,Oral/Gastric Ingredient,800.0,ml,ingredientevents
+14990717,23770584.0,2143-06-11 11:00:00,Pharmacy,,,NaN,pharmacy
+14990717,23770584.0,2143-06-11 11:00:00,Prescription,Sodium Chloride 0.9%  Flush,10,mL,prescriptions
+14990717,23770584.0,2143-06-11 11:00:00,Input,Water,800.0,ml,ingredientevents
+14990717,23770584.0,2143-06-11 11:00:00,Prescription,5% Dextrose,1000,mL,prescriptions
+14990717,23770584.0,2143-06-11 11:00:00,Output,Foley,400.0,ml,outputevents
+14990717,23770584.0,2143-06-11 11:19:00,Input,Dextrose 5%,501.67222023010254,ml,inputevents
+14990717,23770584.0,2143-06-11 11:19:00,Input,Water,501.67222023010254,ml,ingredientevents
+14990717,23770584.0,2143-06-11 11:19:00,Input,Calories,85.28428673744202,Kcal,ingredientevents
+14990717,23770584.0,2143-06-11 11:19:00,Input,IVF ingredient,501.67222023010254,ml,ingredientevents
+14990717,23770584.0,2143-06-11 12:00:00,Output,Foley,120.0,ml,outputevents
+14990717,23770584.0,2143-06-11 12:05:00,Lab Result,Potassium| Blood,3.5,mEq/L,labevents
+14990717,23770584.0,2143-06-11 12:05:00,Lab Result,Chloride| Blood,120.0,mEq/L,labevents
+14990717,23770584.0,2143-06-11 12:05:00,Lab Result,Sodium| Blood,156.0,mEq/L,labevents
+14990717,23770584.0,2143-06-11 12:14:00,Input,Oral/Gastric Ingredient,120.0,ml,ingredientevents
+14990717,23770584.0,2143-06-11 12:14:00,Input,Water,120.0,ml,ingredientevents
+14990717,23770584.0,2143-06-11 12:14:00,Input,PO Intake,120.0,ml,inputevents
+14990717,23770584.0,2143-06-11 13:13:00,Output,Foley,110.0,ml,outputevents
+14990717,23770584.0,2143-06-11 13:14:00,Input,Oral/Gastric Ingredient,100.0,ml,ingredientevents
+14990717,23770584.0,2143-06-11 13:14:00,Input,Water,100.0,ml,ingredientevents
+14990717,23770584.0,2143-06-11 13:14:00,Input,PO Intake,100.0,ml,inputevents
+14990717,23770584.0,2143-06-11 14:01:00,Output,Foley,200.0,ml,outputevents
+14990717,23770584.0,2143-06-11 14:03:00,Input,PO Intake,700.0,ml,inputevents
+14990717,23770584.0,2143-06-11 14:03:00,Input,Water,700.0,ml,ingredientevents
+14990717,23770584.0,2143-06-11 14:03:00,Input,Oral/Gastric Ingredient,700.0,ml,ingredientevents
+14990717,23770584.0,2143-06-11 14:10:00,Lab Result,Chloride| Blood,120.0,mEq/L,labevents
+14990717,23770584.0,2143-06-11 14:10:00,Lab Result,Sodium| Blood,154.0,mEq/L,labevents
+14990717,23770584.0,2143-06-11 14:10:00,Lab Result,Potassium| Blood,3.9,mEq/L,labevents
+14990717,23770584.0,2143-06-11 16:06:00,Procedure,PICC Line,4092.0,min,procedureevents
+14990717,23770584.0,2143-06-11 16:06:00,Procedure,PICC Line,4092.0,min,procedureevents
+14990717,23770584.0,2143-06-11 16:06:00,DateTime Obs,PICC Line Insertion Date,2143-06-11 16:06:00,Date,datetimeevents
+14990717,23770584.0,2143-06-11 16:06:00,DateTime Obs,PICC Line Cap Change,2143-06-11 16:06:00,Date,datetimeevents
+14990717,23770584.0,2143-06-11 16:06:00,DateTime Obs,PICC Line Dressing Change,2143-06-11 16:06:00,Date and Time,datetimeevents
+14990717,23770584.0,2143-06-11 16:12:00,Lab Result,"Sodium, Whole Blood| Blood",154.0,mEq/L,labevents
+14990717,23770584.0,2143-06-11 16:15:00,Input,Oral/Gastric Ingredient,120.0,ml,ingredientevents
+14990717,23770584.0,2143-06-11 16:15:00,Input,Water,120.0,ml,ingredientevents
+14990717,23770584.0,2143-06-11 16:15:00,Input,PO Intake,120.0,ml,inputevents
+14990717,23770584.0,2143-06-11 17:00:00,Prescription,Potassium Chloride (Powder),20,mEq,prescriptions
+14990717,23770584.0,2143-06-11 17:00:00,Pharmacy,Potassium Chloride (Powder),,NaN,pharmacy
+14990717,23770584.0,2143-06-11 17:13:00,Input,Oral/Gastric Ingredient,540.0,ml,ingredientevents
+14990717,23770584.0,2143-06-11 17:13:00,Input,Water,540.0,ml,ingredientevents
+14990717,23770584.0,2143-06-11 17:13:00,Input,PO Intake,540.0,ml,inputevents
+14990717,23770584.0,2143-06-11 18:15:00,Output,Foley,1400.0,ml,outputevents
+14990717,23770584.0,2143-06-11 18:40:00,Lab Result,"Sodium, Whole Blood| Blood",154.0,mEq/L,labevents
+14990717,23770584.0,2143-06-11 18:44:00,Input,PO Intake,400.0,ml,inputevents
+14990717,23770584.0,2143-06-11 18:44:00,Input,Water,400.0,ml,ingredientevents
+14990717,23770584.0,2143-06-11 18:44:00,Input,Oral/Gastric Ingredient,400.0,ml,ingredientevents
+14990717,23770584.0,2143-06-11 20:07:00,Output,Foley,350.0,ml,outputevents
+14990717,23770584.0,2143-06-11 20:48:00,Lab Result,"Sodium, Whole Blood| Blood",153.0,mEq/L,labevents
+14990717,23770584.0,2143-06-11 21:28:00,Output,Foley,260.0,ml,outputevents
+14990717,23770584.0,2143-06-11 21:44:00,DateTime Obs,Arterial line Tubing Change,2143-06-10 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-11 21:44:00,DateTime Obs,Arterial line Insertion Date,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-11 21:44:00,DateTime Obs,Arterial Line Dressing Change,2143-06-11 10:35:00,Date and Time,datetimeevents
+14990717,23770584.0,2143-06-11 21:44:00,DateTime Obs,Arterial line Cap Change,2143-06-10 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-11 21:45:00,DateTime Obs,20 Gauge Insertion Date,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-11 21:45:00,DateTime Obs,PICC Line Cap Change,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-11 21:45:00,DateTime Obs,PICC Line Insertion Date,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-11 21:45:00,DateTime Obs,PICC Line Dressing Change,2143-06-11 20:15:00,Date and Time,datetimeevents
+14990717,23770584.0,2143-06-11 22:00:00,Output,Foley,250.0,ml,outputevents
+14990717,23770584.0,2143-06-11 22:10:00,Lab Result,Chloride| Blood,116.0,mEq/L,labevents
+14990717,23770584.0,2143-06-11 22:10:00,Lab Result,Sodium| Blood,152.0,mEq/L,labevents
+14990717,23770584.0,2143-06-11 22:10:00,Lab Result,Potassium| Blood,3.5,mEq/L,labevents
+14990717,23770584.0,2143-06-11 23:00:00,Output,Foley,240.0,ml,outputevents
+14990717,23770584.0,2143-06-12 00:00:00,Output,Foley,245.0,ml,outputevents
+14990717,23770584.0,2143-06-12 00:31:00,Lab Result,White Blood Cells| Blood,7.1,K/uL,labevents
+14990717,23770584.0,2143-06-12 00:31:00,Lab Result,Red Blood Cells| Blood,3.52,m/uL,labevents
+14990717,23770584.0,2143-06-12 00:31:00,Lab Result,Creatinine| Blood,1.7,mg/dL,labevents
+14990717,23770584.0,2143-06-12 00:31:00,Lab Result,"Calcium, Total| Blood",9.6,mg/dL,labevents
+14990717,23770584.0,2143-06-12 00:31:00,Lab Result,Chloride| Blood,119.0,mEq/L,labevents
+14990717,23770584.0,2143-06-12 00:31:00,Lab Result,RDW| Blood,16.0,%,labevents
+14990717,23770584.0,2143-06-12 00:31:00,Lab Result,Glucose| Blood,102.0,mg/dL,labevents
+14990717,23770584.0,2143-06-12 00:31:00,Lab Result,Magnesium| Blood,2.1,mg/dL,labevents
+14990717,23770584.0,2143-06-12 00:31:00,Lab Result,Phosphate| Blood,4.1,mg/dL,labevents
+14990717,23770584.0,2143-06-12 00:31:00,Lab Result,Potassium| Blood,4.1,mEq/L,labevents
+14990717,23770584.0,2143-06-12 00:31:00,Lab Result,Sodium| Blood,155.0,mEq/L,labevents
+14990717,23770584.0,2143-06-12 00:31:00,Lab Result,Urea Nitrogen| Blood,15.0,mg/dL,labevents
+14990717,23770584.0,2143-06-12 00:31:00,Lab Result,Bicarbonate| Blood,23.0,mEq/L,labevents
+14990717,23770584.0,2143-06-12 00:31:00,Lab Result,Platelet Count| Blood,221.0,K/uL,labevents
+14990717,23770584.0,2143-06-12 00:31:00,Lab Result,Anion Gap| Blood,17.0,mEq/L,labevents
+14990717,23770584.0,2143-06-12 00:31:00,Lab Result,MCHC| Blood,31.6,%,labevents
+14990717,23770584.0,2143-06-12 00:31:00,Lab Result,MCH| Blood,26.6,pg,labevents
+14990717,23770584.0,2143-06-12 00:31:00,Lab Result,Hemoglobin| Blood,9.4,g/dL,labevents
+14990717,23770584.0,2143-06-12 00:31:00,Lab Result,Hematocrit| Blood,29.6,%,labevents
+14990717,23770584.0,2143-06-12 00:31:00,Lab Result,MCV| Blood,84.0,fL,labevents
+14990717,23770584.0,2143-06-12 00:48:00,DateTime Obs,PICC Line Cap Change,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-12 00:48:00,DateTime Obs,PICC Line Insertion Date,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-12 00:48:00,DateTime Obs,PICC Line Dressing Change,2143-06-11 20:15:00,Date and Time,datetimeevents
+14990717,23770584.0,2143-06-12 00:48:00,DateTime Obs,Arterial line Cap Change,2143-06-10 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-12 00:48:00,DateTime Obs,Arterial Line Dressing Change,2143-06-11 10:35:00,Date and Time,datetimeevents
+14990717,23770584.0,2143-06-12 00:48:00,DateTime Obs,Arterial line Insertion Date,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-12 00:48:00,DateTime Obs,Arterial line Tubing Change,2143-06-10 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-12 00:48:00,DateTime Obs,20 Gauge Insertion Date,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-12 01:00:00,Output,Foley,180.0,ml,outputevents
+14990717,23770584.0,2143-06-12 02:00:00,Output,Foley,380.0,ml,outputevents
+14990717,23770584.0,2143-06-12 02:26:00,Input,Oral/Gastric Ingredient,400.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 02:26:00,Input,Water,400.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 02:26:00,Input,PO Intake,400.0,ml,inputevents
+14990717,23770584.0,2143-06-12 03:00:00,Output,Foley,360.0,ml,outputevents
+14990717,23770584.0,2143-06-12 04:00:00,DateTime Obs,Arterial Line Dressing Change,2143-06-11 10:35:00,Date and Time,datetimeevents
+14990717,23770584.0,2143-06-12 04:00:00,DateTime Obs,Arterial line Cap Change,2143-06-10 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-12 04:00:00,Output,Foley,400.0,ml,outputevents
+14990717,23770584.0,2143-06-12 04:00:00,DateTime Obs,Arterial line Tubing Change,2143-06-10 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-12 04:00:00,DateTime Obs,Arterial line Insertion Date,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-12 04:01:00,DateTime Obs,PICC Line Cap Change,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-12 04:01:00,DateTime Obs,PICC Line Insertion Date,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-12 04:01:00,DateTime Obs,PICC Line Dressing Change,2143-06-11 20:15:00,Date and Time,datetimeevents
+14990717,23770584.0,2143-06-12 04:44:00,Lab Result,Sodium| Blood,158.0,mEq/L,labevents
+14990717,23770584.0,2143-06-12 04:44:00,Lab Result,Potassium| Blood,4.0,mEq/L,labevents
+14990717,23770584.0,2143-06-12 04:44:00,Lab Result,Chloride| Blood,121.0,mEq/L,labevents
+14990717,23770584.0,2143-06-12 04:57:00,Input,PO Intake,100.0,ml,inputevents
+14990717,23770584.0,2143-06-12 04:57:00,Input,Oral/Gastric Ingredient,100.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 04:57:00,Input,Water,100.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 05:03:00,Input,PO Intake,300.0,ml,inputevents
+14990717,23770584.0,2143-06-12 05:03:00,Input,Oral/Gastric Ingredient,300.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 05:03:00,Input,Water,300.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 05:13:00,Output,Foley,200.0,ml,outputevents
+14990717,23770584.0,2143-06-12 05:35:00,Input,PO Intake,240.0,ml,inputevents
+14990717,23770584.0,2143-06-12 05:35:00,Input,Oral/Gastric Ingredient,240.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 05:35:00,Input,Water,240.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 06:00:00,Output,Foley,280.0,ml,outputevents
+14990717,23770584.0,2143-06-12 06:00:00,Pharmacy,,,NaN,pharmacy
+14990717,23770584.0,2143-06-12 06:00:00,Prescription,5% Dextrose,500,mL,prescriptions
+14990717,23770584.0,2143-06-12 06:03:00,Input,Dextrose 5%,233.33332777023315,ml,inputevents
+14990717,23770584.0,2143-06-12 06:03:00,Input,Water,233.33332777023315,ml,ingredientevents
+14990717,23770584.0,2143-06-12 06:03:00,Input,Calories,39.66666638851166,Kcal,ingredientevents
+14990717,23770584.0,2143-06-12 06:03:00,Input,IVF ingredient,233.33332777023315,ml,ingredientevents
+14990717,23770584.0,2143-06-12 07:00:00,Output,Foley,120.0,ml,outputevents
+14990717,23770584.0,2143-06-12 07:58:00,Lab Result,"Calcium, Total| Blood",10.1,mg/dL,labevents
+14990717,23770584.0,2143-06-12 07:58:00,Lab Result,Potassium| Blood,4.4,mEq/L,labevents
+14990717,23770584.0,2143-06-12 07:58:00,Lab Result,Sodium| Blood,159.0,mEq/L,labevents
+14990717,23770584.0,2143-06-12 07:58:00,Lab Result,Urea Nitrogen| Blood,17.0,mg/dL,labevents
+14990717,23770584.0,2143-06-12 07:58:00,Lab Result,Phosphate| Blood,3.1,mg/dL,labevents
+14990717,23770584.0,2143-06-12 07:58:00,Lab Result,Magnesium| Blood,2.3,mg/dL,labevents
+14990717,23770584.0,2143-06-12 07:58:00,Lab Result,Glucose| Blood,147.0,mg/dL,labevents
+14990717,23770584.0,2143-06-12 07:58:00,Lab Result,Creatinine| Blood,1.8,mg/dL,labevents
+14990717,23770584.0,2143-06-12 07:58:00,Lab Result,Chloride| Blood,122.0,mEq/L,labevents
+14990717,23770584.0,2143-06-12 07:58:00,Lab Result,Bicarbonate| Blood,28.0,mEq/L,labevents
+14990717,23770584.0,2143-06-12 07:58:00,Lab Result,Anion Gap| Blood,13.0,mEq/L,labevents
+14990717,23770584.0,2143-06-12 08:00:00,Output,Foley,180.0,ml,outputevents
+14990717,23770584.0,2143-06-12 08:11:00,Input,Oral/Gastric Ingredient,300.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 08:11:00,Input,Water,300.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 08:11:00,Input,PO Intake,300.0,ml,inputevents
+14990717,23770584.0,2143-06-12 08:14:00,Input,Insulin - Regular,2.0,units,inputevents
+14990717,23770584.0,2143-06-12 08:23:00,Input,Dextrose 5%,122.4999970793724,ml,inputevents
+14990717,23770584.0,2143-06-12 08:23:00,Procedure,Family updated by MD,1.0,,procedureevents
+14990717,23770584.0,2143-06-12 08:23:00,Procedure,Family updated by MD,1.0,,procedureevents
+14990717,23770584.0,2143-06-12 08:23:00,Input,IVF ingredient,122.4999970793724,ml,ingredientevents
+14990717,23770584.0,2143-06-12 08:23:00,Input,Water,122.4999970793724,ml,ingredientevents
+14990717,23770584.0,2143-06-12 08:23:00,Input,Calories,20.82499985396862,Kcal,ingredientevents
+14990717,23770584.0,2143-06-12 08:32:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+14990717,23770584.0,2143-06-12 08:34:00,DateTime Obs,Arterial Line Dressing Change,2143-06-11 10:35:00,Date and Time,datetimeevents
+14990717,23770584.0,2143-06-12 08:34:00,DateTime Obs,Arterial line Insertion Date,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-12 08:34:00,DateTime Obs,Arterial line Tubing Change,2143-06-10 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-12 08:34:00,DateTime Obs,Arterial line Cap Change,2143-06-10 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-12 08:35:00,DateTime Obs,PICC Line Dressing Change,2143-06-11 20:15:00,Date and Time,datetimeevents
+14990717,23770584.0,2143-06-12 08:35:00,DateTime Obs,PICC Line Tubing Change,2143-06-12 08:35:00,Date,datetimeevents
+14990717,23770584.0,2143-06-12 08:35:00,DateTime Obs,20 Gauge Insertion Date,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-12 08:35:00,DateTime Obs,PICC Line Insertion Date,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-12 08:35:00,DateTime Obs,PICC Line Cap Change,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-12 08:38:00,Input,PO Intake,100.0,ml,inputevents
+14990717,23770584.0,2143-06-12 08:38:00,Input,Water,100.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 08:38:00,Input,Oral/Gastric Ingredient,100.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 09:00:00,Prescription,5% Dextrose,500,mL,prescriptions
+14990717,23770584.0,2143-06-12 09:00:00,Output,Foley,250.0,ml,outputevents
+14990717,23770584.0,2143-06-12 09:00:00,Pharmacy,,,NaN,pharmacy
+14990717,23770584.0,2143-06-12 09:33:00,Input,PO Intake,100.0,ml,inputevents
+14990717,23770584.0,2143-06-12 09:33:00,Input,Water,100.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 09:33:00,Input,Oral/Gastric Ingredient,100.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 09:53:00,Input,Water,240.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 09:53:00,Input,PO Intake,240.0,ml,inputevents
+14990717,23770584.0,2143-06-12 09:53:00,Input,Oral/Gastric Ingredient,240.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 10:00:00,Output,Foley,160.0,ml,outputevents
+14990717,23770584.0,2143-06-12 10:32:00,Input,Water,100.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 10:32:00,Input,Oral/Gastric Ingredient,100.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 10:32:00,Input,PO Intake,100.0,ml,inputevents
+14990717,23770584.0,2143-06-12 10:47:00,Input,Oral/Gastric Ingredient,120.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 10:47:00,Input,PO Intake,120.0,ml,inputevents
+14990717,23770584.0,2143-06-12 10:47:00,Input,Water,120.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 10:49:00,Input,Oral/Gastric Ingredient,100.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 10:49:00,Input,Water,240.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 10:49:00,Input,Water,100.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 10:49:00,Input,PO Intake,100.0,ml,inputevents
+14990717,23770584.0,2143-06-12 10:49:00,Input,PO Intake,240.0,ml,inputevents
+14990717,23770584.0,2143-06-12 10:49:00,Input,Oral/Gastric Ingredient,240.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 10:50:00,Input,Dextrose 5%,144.16700792312622,ml,inputevents
+14990717,23770584.0,2143-06-12 10:50:00,Input,Water,144.16700792312622,ml,ingredientevents
+14990717,23770584.0,2143-06-12 10:50:00,Input,Calories,24.50839054584503,Kcal,ingredientevents
+14990717,23770584.0,2143-06-12 10:50:00,Input,IVF ingredient,144.16700792312622,ml,ingredientevents
+14990717,23770584.0,2143-06-12 11:00:00,Prescription,5% Dextrose,500,mL,prescriptions
+14990717,23770584.0,2143-06-12 11:00:00,Pharmacy,,,NaN,pharmacy
+14990717,23770584.0,2143-06-12 11:00:00,Lab Result,"Potassium, Urine| Urine",25.0,mEq/L,labevents
+14990717,23770584.0,2143-06-12 11:00:00,Lab Result,"Chloride, Urine| Urine",24.0,mEq/L,labevents
+14990717,23770584.0,2143-06-12 11:00:00,Lab Result,"Creatinine, Urine| Urine",83.0,mg/dL,labevents
+14990717,23770584.0,2143-06-12 11:00:00,Output,Foley,90.0,ml,outputevents
+14990717,23770584.0,2143-06-12 11:00:00,Lab Result,Length of Urine Collection| Urine,,,labevents
+14990717,23770584.0,2143-06-12 11:00:00,Lab Result,"Osmolality, Urine| Urine",238.0,mOsm/kg,labevents
+14990717,23770584.0,2143-06-12 11:00:00,Lab Result,"Sodium, Urine| Urine",26.0,mEq/L,labevents
+14990717,23770584.0,2143-06-12 11:17:00,Input,PO Intake,240.0,ml,inputevents
+14990717,23770584.0,2143-06-12 11:17:00,Input,Water,240.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 11:17:00,Input,Oral/Gastric Ingredient,240.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 11:33:00,Input,PO Intake,100.0,ml,inputevents
+14990717,23770584.0,2143-06-12 11:33:00,Input,Oral/Gastric Ingredient,100.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 11:33:00,Input,Water,100.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 11:54:00,DateTime Obs,20 Gauge Insertion Date,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-12 11:54:00,DateTime Obs,PICC Line Tubing Change,2143-06-12 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-12 11:54:00,DateTime Obs,PICC Line Insertion Date,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-12 11:54:00,DateTime Obs,PICC Line Dressing Change,2143-06-12 11:45:00,Date and Time,datetimeevents
+14990717,23770584.0,2143-06-12 11:54:00,DateTime Obs,PICC Line Cap Change,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-12 12:00:00,Output,Foley,220.0,ml,outputevents
+14990717,23770584.0,2143-06-12 12:14:00,Input,Calories,33.34273311495781,Kcal,ingredientevents
+14990717,23770584.0,2143-06-12 12:14:00,Input,IVF ingredient,196.13371682167053,ml,ingredientevents
+14990717,23770584.0,2143-06-12 12:14:00,Input,Dextrose 5%,196.13371682167053,ml,inputevents
+14990717,23770584.0,2143-06-12 12:14:00,Input,Water,196.13371682167053,ml,ingredientevents
+14990717,23770584.0,2143-06-12 12:28:00,Lab Result,Sodium| Blood,154.0,mEq/L,labevents
+14990717,23770584.0,2143-06-12 12:28:00,Lab Result,Potassium| Blood,4.5,mEq/L,labevents
+14990717,23770584.0,2143-06-12 12:28:00,Lab Result,Glucose| Blood,95.0,mg/dL,labevents
+14990717,23770584.0,2143-06-12 12:28:00,Lab Result,Creatinine| Blood,1.8,mg/dL,labevents
+14990717,23770584.0,2143-06-12 12:28:00,Lab Result,Chloride| Blood,117.0,mEq/L,labevents
+14990717,23770584.0,2143-06-12 12:28:00,Lab Result,Anion Gap| Blood,16.0,mEq/L,labevents
+14990717,23770584.0,2143-06-12 12:28:00,Lab Result,Bicarbonate| Blood,26.0,mEq/L,labevents
+14990717,23770584.0,2143-06-12 12:28:00,Lab Result,Urea Nitrogen| Blood,19.0,mg/dL,labevents
+14990717,23770584.0,2143-06-12 12:33:00,Input,Oral/Gastric Ingredient,240.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 12:33:00,Input,PO Intake,240.0,ml,inputevents
+14990717,23770584.0,2143-06-12 12:33:00,Input,Water,240.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 12:45:00,Input,PO Intake,180.0,ml,inputevents
+14990717,23770584.0,2143-06-12 12:45:00,Input,Water,180.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 12:45:00,Input,Oral/Gastric Ingredient,180.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 13:00:00,Output,Foley,220.0,ml,outputevents
+14990717,23770584.0,2143-06-12 13:10:00,Output,Stool,200.0,ml,outputevents
+14990717,23770584.0,2143-06-12 14:00:00,Output,Foley,560.0,ml,outputevents
+14990717,23770584.0,2143-06-12 14:11:00,Input,Water,100.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 14:11:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+14990717,23770584.0,2143-06-12 14:11:00,Input,PO Intake,100.0,ml,inputevents
+14990717,23770584.0,2143-06-12 14:11:00,Input,Oral/Gastric Ingredient,100.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 14:22:00,Input,Water,180.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 14:22:00,Input,Oral/Gastric Ingredient,180.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 14:22:00,Input,PO Intake,180.0,ml,inputevents
+14990717,23770584.0,2143-06-12 15:00:00,Output,Foley,360.0,ml,outputevents
+14990717,23770584.0,2143-06-12 15:05:00,Input,PO Intake,100.0,ml,inputevents
+14990717,23770584.0,2143-06-12 15:05:00,Input,Water,100.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 15:05:00,Input,Oral/Gastric Ingredient,100.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 15:35:00,Input,PO Intake,240.0,ml,inputevents
+14990717,23770584.0,2143-06-12 15:35:00,Input,Oral/Gastric Ingredient,240.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 15:35:00,Input,Water,240.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 16:00:00,Output,Foley,260.0,ml,outputevents
+14990717,23770584.0,2143-06-12 16:15:00,Lab Result,Bicarbonate| Blood,25.0,mEq/L,labevents
+14990717,23770584.0,2143-06-12 16:15:00,Lab Result,Chloride| Blood,113.0,mEq/L,labevents
+14990717,23770584.0,2143-06-12 16:15:00,Lab Result,Creatinine| Blood,1.6,mg/dL,labevents
+14990717,23770584.0,2143-06-12 16:15:00,Lab Result,Glucose| Blood,101.0,mg/dL,labevents
+14990717,23770584.0,2143-06-12 16:15:00,Lab Result,Urea Nitrogen| Blood,18.0,mg/dL,labevents
+14990717,23770584.0,2143-06-12 16:15:00,Lab Result,Sodium| Blood,149.0,mEq/L,labevents
+14990717,23770584.0,2143-06-12 16:15:00,Lab Result,Anion Gap| Blood,15.0,mEq/L,labevents
+14990717,23770584.0,2143-06-12 16:15:00,Lab Result,Potassium| Blood,4.0,mEq/L,labevents
+14990717,23770584.0,2143-06-12 16:20:00,Input,Water,240.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 16:20:00,Input,Oral/Gastric Ingredient,120.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 16:20:00,Input,Oral/Gastric Ingredient,240.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 16:20:00,Input,Water,120.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 16:20:00,Input,PO Intake,120.0,ml,inputevents
+14990717,23770584.0,2143-06-12 16:20:00,Input,PO Intake,240.0,ml,inputevents
+14990717,23770584.0,2143-06-12 16:22:00,DateTime Obs,PICC Line Dressing Change,2143-06-12 11:45:00,Date and Time,datetimeevents
+14990717,23770584.0,2143-06-12 16:22:00,DateTime Obs,PICC Line Tubing Change,2143-06-12 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-12 16:22:00,DateTime Obs,PICC Line Insertion Date,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-12 16:22:00,DateTime Obs,PICC Line Cap Change,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-12 16:23:00,DateTime Obs,20 Gauge Insertion Date,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-12 16:52:00,Input,Oral/Gastric Ingredient,100.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 16:52:00,Input,PO Intake,100.0,ml,inputevents
+14990717,23770584.0,2143-06-12 16:52:00,Input,Water,100.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 17:00:00,Output,Stool,150.0,ml,outputevents
+14990717,23770584.0,2143-06-12 17:00:00,Output,Foley,180.0,ml,outputevents
+14990717,23770584.0,2143-06-12 17:20:00,Input,Water,360.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 17:20:00,Input,Oral/Gastric Ingredient,360.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 17:20:00,Input,PO Intake,360.0,ml,inputevents
+14990717,23770584.0,2143-06-12 18:00:00,Output,Foley,260.0,ml,outputevents
+14990717,23770584.0,2143-06-12 18:15:00,Input,Oral/Gastric Ingredient,280.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 18:15:00,Input,PO Intake,280.0,ml,inputevents
+14990717,23770584.0,2143-06-12 18:15:00,Input,Water,280.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 18:30:00,Input,Oral/Gastric Ingredient,240.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 18:30:00,Input,Water,240.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 18:30:00,Input,PO Intake,240.0,ml,inputevents
+14990717,23770584.0,2143-06-12 19:00:00,Output,Foley,310.0,ml,outputevents
+14990717,23770584.0,2143-06-12 20:00:00,Input,PO Intake,180.0,ml,inputevents
+14990717,23770584.0,2143-06-12 20:00:00,Output,Foley,340.0,ml,outputevents
+14990717,23770584.0,2143-06-12 20:00:00,Input,Oral/Gastric Ingredient,180.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 20:00:00,Input,Water,180.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 20:25:00,Lab Result,Urea Nitrogen| Blood,19.0,mg/dL,labevents
+14990717,23770584.0,2143-06-12 20:25:00,Lab Result,Anion Gap| Blood,14.0,mEq/L,labevents
+14990717,23770584.0,2143-06-12 20:25:00,Lab Result,Magnesium| Blood,2.2,mg/dL,labevents
+14990717,23770584.0,2143-06-12 20:25:00,Lab Result,Phosphate| Blood,3.9,mg/dL,labevents
+14990717,23770584.0,2143-06-12 20:25:00,Lab Result,Chloride| Blood,114.0,mEq/L,labevents
+14990717,23770584.0,2143-06-12 20:25:00,Lab Result,Creatinine| Blood,1.6,mg/dL,labevents
+14990717,23770584.0,2143-06-12 20:25:00,Lab Result,Potassium| Blood,4.2,mEq/L,labevents
+14990717,23770584.0,2143-06-12 20:25:00,Lab Result,Bicarbonate| Blood,26.0,mEq/L,labevents
+14990717,23770584.0,2143-06-12 20:25:00,Lab Result,"Calcium, Total| Blood",9.7,mg/dL,labevents
+14990717,23770584.0,2143-06-12 20:25:00,Lab Result,Sodium| Blood,150.0,mEq/L,labevents
+14990717,23770584.0,2143-06-12 20:25:00,Lab Result,Glucose| Blood,105.0,mg/dL,labevents
+14990717,23770584.0,2143-06-12 20:30:00,Input,Water,180.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 20:30:00,Input,PO Intake,180.0,ml,inputevents
+14990717,23770584.0,2143-06-12 20:30:00,Input,Oral/Gastric Ingredient,180.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 20:30:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+14990717,23770584.0,2143-06-12 20:48:00,DateTime Obs,20 Gauge Insertion Date,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-12 20:48:00,DateTime Obs,PICC Line Cap Change,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-12 20:48:00,DateTime Obs,PICC Line Insertion Date,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-12 20:48:00,DateTime Obs,PICC Line Dressing Change,2143-06-12 11:45:00,Date and Time,datetimeevents
+14990717,23770584.0,2143-06-12 20:48:00,DateTime Obs,PICC Line Tubing Change,2143-06-12 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-12 21:00:00,Output,Foley,380.0,ml,outputevents
+14990717,23770584.0,2143-06-12 21:10:00,Input,Water,180.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 21:10:00,Input,Oral/Gastric Ingredient,180.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 21:10:00,Input,PO Intake,180.0,ml,inputevents
+14990717,23770584.0,2143-06-12 21:45:00,Input,Oral/Gastric Ingredient,180.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 21:45:00,Input,PO Intake,180.0,ml,inputevents
+14990717,23770584.0,2143-06-12 21:45:00,Input,Water,180.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 22:00:00,Output,Foley,380.0,ml,outputevents
+14990717,23770584.0,2143-06-12 22:05:00,Input,Water,180.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 22:05:00,Input,Oral/Gastric Ingredient,180.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 22:05:00,Input,PO Intake,180.0,ml,inputevents
+14990717,23770584.0,2143-06-12 22:19:00,Input,PO Intake,180.0,ml,inputevents
+14990717,23770584.0,2143-06-12 22:19:00,Input,Water,180.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 22:19:00,Input,Oral/Gastric Ingredient,180.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 22:20:00,Input,PO Intake,220.0,ml,inputevents
+14990717,23770584.0,2143-06-12 22:20:00,Input,Water,220.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 22:20:00,Input,Oral/Gastric Ingredient,220.0,ml,ingredientevents
+14990717,23770584.0,2143-06-12 23:00:00,Output,Foley,200.0,ml,outputevents
+14990717,23770584.0,2143-06-13 00:00:00,Output,Foley,380.0,ml,outputevents
+14990717,23770584.0,2143-06-13 00:24:00,Input,Oral/Gastric Ingredient,180.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 00:24:00,Input,PO Intake,180.0,ml,inputevents
+14990717,23770584.0,2143-06-13 00:24:00,Input,Water,180.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 00:29:00,Lab Result,"Sodium, Whole Blood| Blood",148.0,mEq/L,labevents
+14990717,23770584.0,2143-06-13 00:30:00,Input,Oral/Gastric Ingredient,360.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 00:30:00,Input,PO Intake,360.0,ml,inputevents
+14990717,23770584.0,2143-06-13 00:30:00,Input,Water,360.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 00:31:00,DateTime Obs,PICC Line Dressing Change,2143-06-12 11:45:00,Date and Time,datetimeevents
+14990717,23770584.0,2143-06-13 00:31:00,DateTime Obs,PICC Line Tubing Change,2143-06-12 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-13 00:31:00,DateTime Obs,20 Gauge Insertion Date,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-13 00:31:00,DateTime Obs,PICC Line Insertion Date,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-13 00:31:00,DateTime Obs,PICC Line Cap Change,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-13 01:00:00,Output,Foley,450.0,ml,outputevents
+14990717,23770584.0,2143-06-13 01:24:00,Input,Water,360.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 01:24:00,Input,PO Intake,360.0,ml,inputevents
+14990717,23770584.0,2143-06-13 01:24:00,Input,Oral/Gastric Ingredient,360.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 01:40:00,Input,PO Intake,180.0,ml,inputevents
+14990717,23770584.0,2143-06-13 01:40:00,Input,Water,180.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 01:40:00,Input,Oral/Gastric Ingredient,180.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 02:00:00,Output,Foley,760.0,ml,outputevents
+14990717,23770584.0,2143-06-13 02:30:00,Input,PO Intake,360.0,ml,inputevents
+14990717,23770584.0,2143-06-13 02:30:00,Input,Oral/Gastric Ingredient,360.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 02:30:00,Input,Water,360.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 03:00:00,Output,Foley,450.0,ml,outputevents
+14990717,23770584.0,2143-06-13 04:00:00,Output,Foley,380.0,ml,outputevents
+14990717,23770584.0,2143-06-13 04:04:00,Lab Result,Chloride| Blood,112.0,mEq/L,labevents
+14990717,23770584.0,2143-06-13 04:04:00,Lab Result,Sodium| Blood,149.0,mEq/L,labevents
+14990717,23770584.0,2143-06-13 04:04:00,Lab Result,Potassium| Blood,3.9,mEq/L,labevents
+14990717,23770584.0,2143-06-13 04:04:00,Lab Result,MCHC| Blood,30.5,%,labevents
+14990717,23770584.0,2143-06-13 04:04:00,Lab Result,Phosphate| Blood,3.9,mg/dL,labevents
+14990717,23770584.0,2143-06-13 04:04:00,Lab Result,Hemoglobin| Blood,9.2,g/dL,labevents
+14990717,23770584.0,2143-06-13 04:04:00,Lab Result,MCH| Blood,25.4,pg,labevents
+14990717,23770584.0,2143-06-13 04:04:00,Lab Result,"Calcium, Total| Blood",9.9,mg/dL,labevents
+14990717,23770584.0,2143-06-13 04:04:00,Lab Result,MCV| Blood,83.0,fL,labevents
+14990717,23770584.0,2143-06-13 04:04:00,Lab Result,Hematocrit| Blood,30.3,%,labevents
+14990717,23770584.0,2143-06-13 04:04:00,Lab Result,Red Blood Cells| Blood,3.64,m/uL,labevents
+14990717,23770584.0,2143-06-13 04:04:00,Lab Result,Urea Nitrogen| Blood,19.0,mg/dL,labevents
+14990717,23770584.0,2143-06-13 04:04:00,Lab Result,Platelet Count| Blood,208.0,K/uL,labevents
+14990717,23770584.0,2143-06-13 04:04:00,Lab Result,Bicarbonate| Blood,26.0,mEq/L,labevents
+14990717,23770584.0,2143-06-13 04:04:00,Lab Result,RDW| Blood,15.6,%,labevents
+14990717,23770584.0,2143-06-13 04:04:00,Lab Result,Anion Gap| Blood,15.0,mEq/L,labevents
+14990717,23770584.0,2143-06-13 04:04:00,Lab Result,Creatinine| Blood,1.6,mg/dL,labevents
+14990717,23770584.0,2143-06-13 04:04:00,Lab Result,Glucose| Blood,102.0,mg/dL,labevents
+14990717,23770584.0,2143-06-13 04:04:00,Lab Result,Magnesium| Blood,2.2,mg/dL,labevents
+14990717,23770584.0,2143-06-13 04:04:00,Lab Result,White Blood Cells| Blood,6.9,K/uL,labevents
+14990717,23770584.0,2143-06-13 05:00:00,Output,Foley,360.0,ml,outputevents
+14990717,23770584.0,2143-06-13 05:41:00,Input,PO Intake,200.0,ml,inputevents
+14990717,23770584.0,2143-06-13 05:41:00,Input,Water,200.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 05:41:00,Input,Oral/Gastric Ingredient,200.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 06:00:00,Output,Foley,140.0,ml,outputevents
+14990717,23770584.0,2143-06-13 06:21:00,Input,Oral/Gastric Ingredient,360.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 06:21:00,Input,Water,360.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 06:21:00,Input,PO Intake,360.0,ml,inputevents
+14990717,23770584.0,2143-06-13 07:00:00,Output,Foley,160.0,ml,outputevents
+14990717,23770584.0,2143-06-13 07:04:00,Input,Oral/Gastric Ingredient,360.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 07:04:00,Input,Water,360.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 07:04:00,Input,PO Intake,360.0,ml,inputevents
+14990717,23770584.0,2143-06-13 08:00:00,Output,Foley,200.0,ml,outputevents
+14990717,23770584.0,2143-06-13 08:48:00,Input,Water,150.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 08:48:00,Input,PO Intake,150.0,ml,inputevents
+14990717,23770584.0,2143-06-13 08:48:00,Input,Oral/Gastric Ingredient,150.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 08:49:00,Input,Omeprazole (Prilosec),1.0,dose,inputevents
+14990717,23770584.0,2143-06-13 08:49:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+14990717,23770584.0,2143-06-13 08:59:00,Input,Water,120.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 08:59:00,Input,PO Intake,120.0,ml,inputevents
+14990717,23770584.0,2143-06-13 08:59:00,Input,Oral/Gastric Ingredient,120.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 09:00:00,Output,Foley,200.0,ml,outputevents
+14990717,23770584.0,2143-06-13 09:08:00,Lab Result,Specimen Type| Blood,,,labevents
+14990717,23770584.0,2143-06-13 09:08:00,Lab Result,"Sodium, Whole Blood| Blood",145.0,mEq/L,labevents
+14990717,23770584.0,2143-06-13 09:54:00,Input,Oral/Gastric Ingredient,700.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 09:54:00,Input,Water,700.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 09:54:00,Input,PO Intake,700.0,ml,inputevents
+14990717,23770584.0,2143-06-13 10:00:00,Procedure,Family updated by RN,1.0,,procedureevents
+14990717,23770584.0,2143-06-13 10:00:00,Output,Foley,260.0,ml,outputevents
+14990717,23770584.0,2143-06-13 10:00:00,Procedure,Family updated by RN,1.0,,procedureevents
+14990717,23770584.0,2143-06-13 10:20:00,Input,PO Intake,400.0,ml,inputevents
+14990717,23770584.0,2143-06-13 10:20:00,Input,Water,400.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 10:20:00,Input,Oral/Gastric Ingredient,400.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 10:30:00,Output,Stool,180.0,ml,outputevents
+14990717,23770584.0,2143-06-13 10:30:00,Output,Foley,190.0,ml,outputevents
+14990717,23770584.0,2143-06-13 11:00:00,Output,Foley,80.0,ml,outputevents
+14990717,23770584.0,2143-06-13 12:00:00,DateTime Obs,PICC Line Cap Change,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-13 12:00:00,DateTime Obs,PICC Line Insertion Date,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-13 12:00:00,DateTime Obs,PICC Line Dressing Change,2143-06-12 11:45:00,Date and Time,datetimeevents
+14990717,23770584.0,2143-06-13 12:00:00,DateTime Obs,PICC Line Tubing Change,2143-06-12 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-13 12:00:00,DateTime Obs,20 Gauge Insertion Date,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-13 12:15:00,Input,Water,240.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 12:15:00,Input,PO Intake,240.0,ml,inputevents
+14990717,23770584.0,2143-06-13 12:15:00,Input,Oral/Gastric Ingredient,240.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 12:20:00,Output,Foley,320.0,ml,outputevents
+14990717,23770584.0,2143-06-13 12:32:00,Lab Result,"Sodium, Whole Blood| Blood",146.0,mEq/L,labevents
+14990717,23770584.0,2143-06-13 13:30:00,Input,Water,200.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 13:30:00,Input,Oral/Gastric Ingredient,200.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 13:30:00,Input,PO Intake,200.0,ml,inputevents
+14990717,23770584.0,2143-06-13 14:00:00,Input,PO Intake,800.0,ml,inputevents
+14990717,23770584.0,2143-06-13 14:00:00,Input,Oral/Gastric Ingredient,800.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 14:00:00,Input,Water,800.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 14:00:00,Procedure,Family updated by RN,1.0,,procedureevents
+14990717,23770584.0,2143-06-13 14:00:00,Procedure,Family updated by RN,1.0,,procedureevents
+14990717,23770584.0,2143-06-13 14:20:00,Output,Foley,900.0,ml,outputevents
+14990717,23770584.0,2143-06-13 14:57:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+14990717,23770584.0,2143-06-13 15:00:00,Output,Foley,360.0,ml,outputevents
+14990717,23770584.0,2143-06-13 16:29:00,Output,Foley,800.0,ml,outputevents
+14990717,23770584.0,2143-06-13 16:30:00,Input,PO Intake,800.0,ml,inputevents
+14990717,23770584.0,2143-06-13 16:30:00,Input,Oral/Gastric Ingredient,800.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 16:30:00,Input,Water,800.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 16:38:00,Lab Result,"Sodium, Whole Blood| Blood",143.0,mEq/L,labevents
+14990717,23770584.0,2143-06-13 16:38:00,Lab Result,"Potassium, Whole Blood| Blood",4.4,mEq/L,labevents
+14990717,23770584.0,2143-06-13 18:00:00,Input,Water,800.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 18:00:00,Input,Oral/Gastric Ingredient,800.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 18:00:00,Input,PO Intake,800.0,ml,inputevents
+14990717,23770584.0,2143-06-13 19:24:00,Output,Foley,850.0,ml,outputevents
+14990717,23770584.0,2143-06-13 20:00:00,DateTime Obs,PICC Line Tubing Change,2143-06-12 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-13 20:00:00,Output,Foley,400.0,ml,outputevents
+14990717,23770584.0,2143-06-13 20:00:00,DateTime Obs,PICC Line Cap Change,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-13 20:00:00,DateTime Obs,PICC Line Insertion Date,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-13 20:00:00,DateTime Obs,PICC Line Dressing Change,2143-06-12 11:45:00,Date and Time,datetimeevents
+14990717,23770584.0,2143-06-13 20:35:00,Input,PO Intake,140.0,ml,inputevents
+14990717,23770584.0,2143-06-13 20:35:00,Input,Water,140.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 20:35:00,Input,Oral/Gastric Ingredient,140.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 20:36:00,Lab Result,"Sodium, Whole Blood| Blood",144.0,mEq/L,labevents
+14990717,23770584.0,2143-06-13 20:46:00,Input,Water,600.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 20:46:00,Input,PO Intake,600.0,ml,inputevents
+14990717,23770584.0,2143-06-13 20:46:00,Input,Oral/Gastric Ingredient,600.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 21:00:00,Output,Foley,500.0,ml,outputevents
+14990717,23770584.0,2143-06-13 22:00:00,Output,Foley,160.0,ml,outputevents
+14990717,23770584.0,2143-06-13 22:28:00,Input,Water,400.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 22:28:00,Input,PO Intake,400.0,ml,inputevents
+14990717,23770584.0,2143-06-13 22:28:00,Input,Oral/Gastric Ingredient,400.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 23:00:00,Output,Foley,500.0,ml,outputevents
+14990717,23770584.0,2143-06-13 23:19:00,Input,Water,360.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 23:19:00,Input,Oral/Gastric Ingredient,360.0,ml,ingredientevents
+14990717,23770584.0,2143-06-13 23:19:00,Input,PO Intake,360.0,ml,inputevents
+14990717,23770584.0,2143-06-14 00:00:00,Output,Foley,300.0,ml,outputevents
+14990717,23770584.0,2143-06-14 00:21:00,DateTime Obs,PICC Line Insertion Date,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-14 00:21:00,DateTime Obs,PICC Line Dressing Change,2143-06-12 11:45:00,Date and Time,datetimeevents
+14990717,23770584.0,2143-06-14 00:21:00,DateTime Obs,PICC Line Cap Change,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-14 00:21:00,DateTime Obs,PICC Line Tubing Change,2143-06-12 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-14 01:00:00,Output,Foley,140.0,ml,outputevents
+14990717,23770584.0,2143-06-14 02:00:00,Output,Foley,200.0,ml,outputevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,MCH| Blood,25.4,pg,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,"Calcium, Total| Blood",9.6,mg/dL,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,Bilirubin| Urine,,mg/dL,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,Glucose| Blood,100.0,mg/dL,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,Creatinine| Blood,1.4,mg/dL,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,Magnesium| Blood,2.2,mg/dL,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,Chloride| Blood,107.0,mEq/L,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,Bicarbonate| Blood,23.0,mEq/L,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,"Urea Nitrogen, Urine| Urine",118.0,mg/dL,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,White Blood Cells| Blood,6.9,K/uL,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,Red Blood Cells| Blood,3.66,m/uL,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,Protein| Urine,,mg/dL,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,Platelet Count| Blood,215.0,K/uL,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,MCV| Blood,83.0,fL,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,MCHC| Blood,30.9,%,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,Ketone| Urine,,mg/dL,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,Leukocytes| Urine,,,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,Nitrite| Urine,,,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,Anion Gap| Blood,17.0,mEq/L,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,RDW| Blood,15.7,%,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,pH| Urine,6.0,units,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,Glucose| Urine,,mg/dL,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,"Sodium, Urine| Urine",23.0,mEq/L,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,"Potassium, Urine| Urine",4.0,mEq/L,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,"Osmolality, Urine| Urine",105.0,mOsm/kg,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,Length of Urine Collection| Urine,,,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,"Creatinine, Urine| Urine",15.0,mg/dL,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,"Chloride, Urine| Urine",21.0,mEq/L,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,Urea Nitrogen| Blood,21.0,mg/dL,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,Sodium| Blood,143.0,mEq/L,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,Phosphate| Blood,3.2,mg/dL,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,"Osmolality, Measured| Blood",304.0,mOsm/kg,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,Hemoglobin| Blood,9.3,g/dL,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,Potassium| Blood,4.0,mEq/L,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,Urobilinogen| Urine,,mg/dL,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,Blood| Urine,,,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,Urine Color| Urine,,,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,Urine Appearance| Urine,,,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,Specific Gravity| Urine,1.002, ,labevents
+14990717,23770584.0,2143-06-14 02:05:00,Lab Result,Hematocrit| Blood,30.1,%,labevents
+14990717,23770584.0,2143-06-14 03:00:00,Output,Foley,340.0,ml,outputevents
+14990717,23770584.0,2143-06-14 03:50:00,Input,Oral/Gastric Ingredient,800.0,ml,ingredientevents
+14990717,23770584.0,2143-06-14 03:50:00,Input,PO Intake,800.0,ml,inputevents
+14990717,23770584.0,2143-06-14 03:50:00,Input,Water,800.0,ml,ingredientevents
+14990717,23770584.0,2143-06-14 04:00:00,Output,Foley,180.0,ml,outputevents
+14990717,23770584.0,2143-06-14 04:07:00,DateTime Obs,PICC Line Tubing Change,2143-06-12 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-14 04:07:00,DateTime Obs,PICC Line Insertion Date,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-14 04:07:00,DateTime Obs,PICC Line Dressing Change,2143-06-12 11:45:00,Date and Time,datetimeevents
+14990717,23770584.0,2143-06-14 04:07:00,DateTime Obs,PICC Line Cap Change,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-14 05:00:00,Output,Foley,530.0,ml,outputevents
+14990717,23770584.0,2143-06-14 05:32:00,Input,Water,800.0,ml,ingredientevents
+14990717,23770584.0,2143-06-14 05:32:00,Input,Oral/Gastric Ingredient,800.0,ml,ingredientevents
+14990717,23770584.0,2143-06-14 05:32:00,Input,PO Intake,800.0,ml,inputevents
+14990717,23770584.0,2143-06-14 06:00:00,Output,Foley,300.0,ml,outputevents
+14990717,23770584.0,2143-06-14 06:33:00,Lab Result,"Sodium, Whole Blood| Blood",144.0,mEq/L,labevents
+14990717,23770584.0,2143-06-14 08:00:00,Input,PO Intake,200.0,ml,inputevents
+14990717,23770584.0,2143-06-14 08:00:00,Input,Water,200.0,ml,ingredientevents
+14990717,23770584.0,2143-06-14 08:00:00,Input,Oral/Gastric Ingredient,200.0,ml,ingredientevents
+14990717,23770584.0,2143-06-14 08:00:00,DateTime Obs,PICC Line Dressing Change,2143-06-12 11:45:00,Date and Time,datetimeevents
+14990717,23770584.0,2143-06-14 08:00:00,DateTime Obs,PICC Line Insertion Date,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-14 08:00:00,DateTime Obs,PICC Line Cap Change,2143-06-11 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-14 08:00:00,DateTime Obs,PICC Line Tubing Change,2143-06-12 00:00:00,Date,datetimeevents
+14990717,23770584.0,2143-06-14 08:00:00,Input,Omeprazole (Prilosec),1.0,dose,inputevents
+14990717,23770584.0,2143-06-14 08:05:00,Input,Heparin Sodium (Prophylaxis),1.0,dose,inputevents
+14990717,23770584.0,2143-06-14 08:14:00,Output,Foley,380.0,ml,outputevents
+14990717,23770584.0,2143-06-14 09:00:00,Output,Foley,110.0,ml,outputevents
+14990717,23770584.0,2143-06-14 09:21:00,Input,PO Intake,440.0,ml,inputevents
+14990717,23770584.0,2143-06-14 09:21:00,Input,Water,440.0,ml,ingredientevents
+14990717,23770584.0,2143-06-14 09:21:00,Input,Oral/Gastric Ingredient,440.0,ml,ingredientevents
+14990717,23770584.0,2143-06-14 10:00:00,Prescription,Lansoprazole Oral Disintegrating Tab,30,mg,prescriptions
+14990717,23770584.0,2143-06-14 10:00:00,Pharmacy,Lansoprazole Oral Disintegrating Tab,,NaN,pharmacy
+14990717,23770584.0,2143-06-14 10:30:00,Input,PO Intake,240.0,ml,inputevents
+14990717,23770584.0,2143-06-14 10:30:00,Input,Oral/Gastric Ingredient,240.0,ml,ingredientevents
+14990717,23770584.0,2143-06-14 10:30:00,Input,Water,240.0,ml,ingredientevents
+14990717,23770584.0,2143-06-14 11:00:00,Input,PO Intake,360.0,ml,inputevents
+14990717,23770584.0,2143-06-14 11:00:00,Input,Oral/Gastric Ingredient,360.0,ml,ingredientevents
+14990717,23770584.0,2143-06-14 11:00:00,Input,Water,360.0,ml,ingredientevents
+14990717,23770584.0,2143-06-14 11:58:00,Lab Result,"Sodium, Whole Blood| Blood",144.0,mEq/L,labevents
+14990717,23770584.0,2143-06-14 11:58:00,Lab Result,Specimen Type| Blood,,,labevents
+14990717,23770584.0,2143-06-14 12:00:00,Input,Oral/Gastric Ingredient,180.0,ml,ingredientevents
+14990717,23770584.0,2143-06-14 12:00:00,Input,PO Intake,180.0,ml,inputevents
+14990717,23770584.0,2143-06-14 12:00:00,Input,Water,180.0,ml,ingredientevents
+14990717,23770584.0,2143-06-14 12:18:06,Transfer,transfer Med/Surg,NaN,NaN,transfers
+14990717,23770584.0,2143-06-14 13:00:00,Prescription,Sodium Chloride 0.9%  Flush,3,mL,prescriptions
+14990717,23770584.0,2143-06-14 13:00:00,Pharmacy,Sodium Chloride 0.9%  Flush,,NaN,pharmacy
+14990717,23770584.0,2143-06-14 16:05:00,Lab Result,Potassium| Blood,3.9,mEq/L,labevents
+14990717,23770584.0,2143-06-14 16:05:00,Lab Result,Sodium| Blood,139.0,mEq/L,labevents
+14990717,23770584.0,2143-06-14 16:05:00,Lab Result,Chloride| Blood,103.0,mEq/L,labevents
+14990717,23770584.0,2143-06-14 20:39:00,Lab Result,Chloride| Blood,105.0,mEq/L,labevents
+14990717,23770584.0,2143-06-14 20:39:00,Lab Result,Sodium| Blood,141.0,mEq/L,labevents
+14990717,23770584.0,2143-06-14 20:39:00,Lab Result,Potassium| Blood,3.7,mEq/L,labevents
+14990717,23770584.0,2143-06-15 06:27:00,Lab Result,Anion Gap| Blood,16.0,mEq/L,labevents
+14990717,23770584.0,2143-06-15 06:27:00,Lab Result,Glucose| Blood,90.0,mg/dL,labevents
+14990717,23770584.0,2143-06-15 06:27:00,Lab Result,Creatinine| Blood,1.5,mg/dL,labevents
+14990717,23770584.0,2143-06-15 06:27:00,Lab Result,Chloride| Blood,108.0,mEq/L,labevents
+14990717,23770584.0,2143-06-15 06:27:00,Lab Result,"Calcium, Total| Blood",9.8,mg/dL,labevents
+14990717,23770584.0,2143-06-15 06:27:00,Lab Result,Bicarbonate| Blood,26.0,mEq/L,labevents
+14990717,23770584.0,2143-06-15 06:27:00,Lab Result,MCHC| Blood,32.0,%,labevents
+14990717,23770584.0,2143-06-15 06:27:00,Lab Result,Red Blood Cells| Blood,3.76,m/uL,labevents
+14990717,23770584.0,2143-06-15 06:27:00,Lab Result,RDW| Blood,15.8,%,labevents
+14990717,23770584.0,2143-06-15 06:27:00,Lab Result,Platelet Count| Blood,209.0,K/uL,labevents
+14990717,23770584.0,2143-06-15 06:27:00,Lab Result,MCV| Blood,82.0,fL,labevents
+14990717,23770584.0,2143-06-15 06:27:00,Lab Result,MCH| Blood,26.3,pg,labevents
+14990717,23770584.0,2143-06-15 06:27:00,Lab Result,Hemoglobin| Blood,9.9,g/dL,labevents
+14990717,23770584.0,2143-06-15 06:27:00,Lab Result,Hematocrit| Blood,30.9,%,labevents
+14990717,23770584.0,2143-06-15 06:27:00,Lab Result,White Blood Cells| Blood,7.0,K/uL,labevents
+14990717,23770584.0,2143-06-15 06:27:00,Lab Result,Magnesium| Blood,2.2,mg/dL,labevents
+14990717,23770584.0,2143-06-15 06:27:00,Lab Result,Sodium| Blood,146.0,mEq/L,labevents
+14990717,23770584.0,2143-06-15 06:27:00,Lab Result,Potassium| Blood,3.7,mEq/L,labevents
+14990717,23770584.0,2143-06-15 06:27:00,Lab Result,Urea Nitrogen| Blood,24.0,mg/dL,labevents
+14990717,23770584.0,2143-06-15 06:27:00,Lab Result,Phosphate| Blood,3.8,mg/dL,labevents
+14990717,23770584.0,2143-06-15 10:09:00,Lab Result,White Blood Cells| Blood,8.4,K/uL,labevents
+14990717,23770584.0,2143-06-15 10:09:00,Lab Result,Red Blood Cells| Blood,3.77,m/uL,labevents
+14990717,23770584.0,2143-06-15 10:09:00,Lab Result,RDW| Blood,16.0,%,labevents
+14990717,23770584.0,2143-06-15 10:09:00,Lab Result,Platelet Count| Blood,207.0,K/uL,labevents
+14990717,23770584.0,2143-06-15 10:09:00,Lab Result,MCV| Blood,82.0,fL,labevents
+14990717,23770584.0,2143-06-15 10:09:00,Lab Result,MCHC| Blood,31.5,%,labevents
+14990717,23770584.0,2143-06-15 10:09:00,Lab Result,MCH| Blood,25.7,pg,labevents
+14990717,23770584.0,2143-06-15 10:09:00,Lab Result,Hemoglobin| Blood,9.7,g/dL,labevents
+14990717,23770584.0,2143-06-15 10:09:00,Lab Result,Hematocrit| Blood,30.8,%,labevents
+14990717,23770584.0,2143-06-15 10:09:00,Lab Result,Urea Nitrogen| Blood,22.0,mg/dL,labevents
+14990717,23770584.0,2143-06-15 10:09:00,Lab Result,Potassium| Blood,4.1,mEq/L,labevents
+14990717,23770584.0,2143-06-15 10:09:00,Lab Result,Phosphate| Blood,3.3,mg/dL,labevents
+14990717,23770584.0,2143-06-15 10:09:00,Lab Result,Magnesium| Blood,2.2,mg/dL,labevents
+14990717,23770584.0,2143-06-15 10:09:00,Lab Result,Creatinine| Blood,1.5,mg/dL,labevents
+14990717,23770584.0,2143-06-15 10:09:00,Lab Result,Chloride| Blood,106.0,mEq/L,labevents
+14990717,23770584.0,2143-06-15 10:09:00,Lab Result,"Calcium, Total| Blood",9.7,mg/dL,labevents
+14990717,23770584.0,2143-06-15 10:09:00,Lab Result,Bicarbonate| Blood,27.0,mEq/L,labevents
+14990717,23770584.0,2143-06-15 10:09:00,Lab Result,Anion Gap| Blood,14.0,mEq/L,labevents
+14990717,23770584.0,2143-06-15 10:09:00,Lab Result,Sodium| Blood,143.0,mEq/L,labevents
+14990717,23770584.0,2143-06-15 10:09:00,Lab Result,Glucose| Blood,124.0,mg/dL,labevents
+14990717,23770584.0,2143-06-15 15:50:40,Transfer,discharge,NaN,NaN,transfers
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,PO,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail
+14990717,,,Medication Route,,NaN,NaN,emar_detail

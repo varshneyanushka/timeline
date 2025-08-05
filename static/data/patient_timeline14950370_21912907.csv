@@ -1,0 +1,1805 @@
+subject_id,hadm_id,event_time,event_type,description,value,unit,source_table
+14950370,21912907,2187-03-12 05:03:00,Transfer,ED Emergency Department,NaN,NaN,transfers
+14950370,21912907,2187-03-12 08:24:00,Admission,EW EMER.,NaN,NaN,admissions
+14950370,21912907,2187-03-12 08:24:35,Transfer,admit Trauma SICU (TSICU),NaN,NaN,transfers
+14950370,21912907,2187-03-12 08:24:35,Service,ENT,NaN,NaN,services
+14950370,21912907,2187-03-12 10:00:00,Procedure,OR Received,1.0,,procedureevents
+14950370,21912907,2187-03-12 10:00:00,Procedure,OR Received,1.0,,procedureevents
+14950370,21912907,2187-03-12 10:09:00,Procedure,18 Gauge,1999.0,min,procedureevents
+14950370,21912907,2187-03-12 10:09:00,Procedure,18 Gauge,1999.0,min,procedureevents
+14950370,21912907,2187-03-12 10:09:00,DateTime Obs,18 Gauge Insertion Date,2187-03-12 10:10:00,Date,datetimeevents
+14950370,21912907,2187-03-12 10:52:00,DateTime Obs,Last menses,2187-03-04 10:52:00,Date,datetimeevents
+14950370,21912907,2187-03-12 11:09:00,Input,Water,991.6999799013138,ml,ingredientevents
+14950370,21912907,2187-03-12 11:09:00,Input,LR,991.6999799013138,ml,inputevents
+14950370,21912907,2187-03-12 11:09:00,Input,IVF ingredient,991.6999799013138,ml,ingredientevents
+14950370,21912907,2187-03-12 11:10:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-12 11:10:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-12 11:10:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-12 11:11:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-12 11:11:00,Medication Admin,,NaN,NaN,emar
+14950370,21912907,2187-03-12 11:11:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-12 11:13:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-12 11:13:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-12 11:13:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-12 12:00:00,Pharmacy,,,NaN,pharmacy
+14950370,21912907,2187-03-12 12:00:00,Pharmacy,Magnesium Sulfate Replacement (Critical Care and Oncology),,NaN,pharmacy
+14950370,21912907,2187-03-12 12:00:00,Pharmacy,Potassium Chloride Replacement (Critical Care and Oncology),,NaN,pharmacy
+14950370,21912907,2187-03-12 12:00:00,Prescription,0.9% Sodium Chloride,1,BAG,prescriptions
+14950370,21912907,2187-03-12 12:00:00,Prescription,Calcium Gluconate,2,g,prescriptions
+14950370,21912907,2187-03-12 12:00:00,Pharmacy,Potassium Chloride Replacement (Critical Care and Oncology),,NaN,pharmacy
+14950370,21912907,2187-03-12 12:00:00,Pharmacy,Calcium Gluconate sliding scale (Critical Care-Ionized calcium),,NaN,pharmacy
+14950370,21912907,2187-03-12 12:00:00,Prescription,OxycoDONE Liquid,5-10,mg,prescriptions
+14950370,21912907,2187-03-12 12:00:00,Pharmacy,Sodium Chloride 0.9%  Flush,,NaN,pharmacy
+14950370,21912907,2187-03-12 12:00:00,Prescription,Acetaminophen,650,mg,prescriptions
+14950370,21912907,2187-03-12 12:00:00,Pharmacy,Calcium Gluconate sliding scale (Critical Care-Ionized calcium),,NaN,pharmacy
+14950370,21912907,2187-03-12 12:00:00,Pharmacy,Calcium Gluconate sliding scale (Critical Care-Ionized calcium),,NaN,pharmacy
+14950370,21912907,2187-03-12 12:00:00,Pharmacy,OxycoDONE Liquid,,NaN,pharmacy
+14950370,21912907,2187-03-12 12:00:00,Pharmacy,Potassium Chloride Replacement (Critical Care and Oncology),,NaN,pharmacy
+14950370,21912907,2187-03-12 12:00:00,Pharmacy,Acetaminophen,,NaN,pharmacy
+14950370,21912907,2187-03-12 12:00:00,Pharmacy,Acetaminophen,,NaN,pharmacy
+14950370,21912907,2187-03-12 12:00:00,Prescription,0.9% Sodium Chloride,2,BAG,prescriptions
+14950370,21912907,2187-03-12 12:00:00,Prescription,Calcium Gluconate,4,g,prescriptions
+14950370,21912907,2187-03-12 12:00:00,Prescription,Potassium Chloride,40,mEq,prescriptions
+14950370,21912907,2187-03-12 12:00:00,Pharmacy,Potassium Chloride Replacement (Critical Care and Oncology),,NaN,pharmacy
+14950370,21912907,2187-03-12 12:00:00,Pharmacy,Magnesium Sulfate Replacement (Critical Care and Oncology),,NaN,pharmacy
+14950370,21912907,2187-03-12 12:00:00,Prescription,SW,400,mL,prescriptions
+14950370,21912907,2187-03-12 12:00:00,Pharmacy,Magnesium Sulfate Replacement (Critical Care and Oncology),,NaN,pharmacy
+14950370,21912907,2187-03-12 12:00:00,Prescription,Bag,1,BAG,prescriptions
+14950370,21912907,2187-03-12 12:00:00,Prescription,SW,200,mL,prescriptions
+14950370,21912907,2187-03-12 12:00:00,DateTime Obs,18 Gauge Insertion Date,2187-03-12 00:00:00,Date,datetimeevents
+14950370,21912907,2187-03-12 12:00:00,Prescription,Magnesium Sulfate,2,gm,prescriptions
+14950370,21912907,2187-03-12 12:00:00,Prescription,Acetaminophen,650,mg,prescriptions
+14950370,21912907,2187-03-12 12:00:00,Prescription,0.9% Sodium Chloride,1,BAG,prescriptions
+14950370,21912907,2187-03-12 12:00:00,Prescription,Calcium Gluconate,2,g,prescriptions
+14950370,21912907,2187-03-12 12:00:00,Prescription,Lactated Ringers,1000,mL,prescriptions
+14950370,21912907,2187-03-12 12:00:00,Prescription,Sodium Chloride 0.9%  Flush,3,mL,prescriptions
+14950370,21912907,2187-03-12 12:00:00,Prescription,SW,600,mL,prescriptions
+14950370,21912907,2187-03-12 12:00:00,Prescription,Potassium Chloride,20,mEq,prescriptions
+14950370,21912907,2187-03-12 12:00:00,Prescription,Potassium Chloride,60,mEq,prescriptions
+14950370,21912907,2187-03-12 12:00:00,Prescription,Bag,1,BAG,prescriptions
+14950370,21912907,2187-03-12 12:00:00,Prescription,Magnesium Sulfate,4,gm,prescriptions
+14950370,21912907,2187-03-12 12:00:00,Prescription,Magnesium Sulfate,2,gm,prescriptions
+14950370,21912907,2187-03-12 12:00:00,Prescription,SW,600,mL,prescriptions
+14950370,21912907,2187-03-12 12:00:00,Prescription,Bag,2,BAG,prescriptions
+14950370,21912907,2187-03-12 12:00:00,Prescription,Potassium Chloride,60,mEq,prescriptions
+14950370,21912907,2187-03-12 12:17:00,Output,Void,400.0,ml,outputevents
+14950370,21912907,2187-03-12 13:00:00,Pharmacy,Insulin,,NaN,pharmacy
+14950370,21912907,2187-03-12 13:00:00,Pharmacy,Dextrose 50%,,NaN,pharmacy
+14950370,21912907,2187-03-12 13:00:00,Prescription,Insulin,0,UNIT,prescriptions
+14950370,21912907,2187-03-12 13:00:00,Prescription,Glucagon,1,mg,prescriptions
+14950370,21912907,2187-03-12 13:00:00,Prescription,Dextrose 50%,12.5,gm,prescriptions
+14950370,21912907,2187-03-12 13:00:00,Pharmacy,Glucagon,,NaN,pharmacy
+14950370,21912907,2187-03-12 13:00:00,Pharmacy,Glucose Gel,,NaN,pharmacy
+14950370,21912907,2187-03-12 13:00:00,Prescription,Glucose Gel,15,g,prescriptions
+14950370,21912907,2187-03-12 13:07:00,Lab Result,Macrocytes| Blood,,,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,MCH| Blood,29.3,pg,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,MCHC| Blood,32.2,g/dL,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,Microcytes| Blood,,,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,Metamyelocytes| Blood,2.0,%,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,Urea Nitrogen| Blood,9.0,mg/dL,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,Sodium| Blood,136.0,mEq/L,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,MCV| Blood,91.0,fL,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,Monocytes| Blood,7.0,%,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,Neutrophils| Blood,84.0,%,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,Phosphate| Blood,2.9,mg/dL,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,Anion Gap| Blood,11.0,mEq/L,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,RDW-SD| Blood,43.2,fL,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,Absolute Neutrophil Count| Blood,13.27,K/uL,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,Absolute Monocyte Count| Blood,1.11,K/uL,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,Absolute Eosinophil Count| Blood,0.0,K/uL,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,Absolute Basophil Count| Blood,0.0,K/uL,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,Lymphocytes| Blood,7.0,%,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,Bicarbonate| Blood,26.0,mEq/L,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,"Calcium, Total| Blood",8.5,mg/dL,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,Creatinine| Blood,0.5,mg/dL,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,Red Blood Cells| Blood,3.89,m/uL,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,RDW| Blood,13.0,%,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,Polychromasia| Blood,,,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,Glucose| Blood,210.0,mg/dL,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,Poikilocytosis| Blood,,,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,Platelet Smear| Blood,,,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,Platelet Count| Blood,342.0,K/uL,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,H| Blood,31.0,,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,I| Blood,1.0,,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,Magnesium| Blood,1.8,mg/dL,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,Myelocytes| Blood,0.0,%,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,Potassium| Blood,3.8,mEq/L,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,White Blood Cells| Blood,15.8,K/uL,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,Chloride| Blood,99.0,mEq/L,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,Hemoglobin| Blood,11.4,g/dL,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,Hematocrit| Blood,35.4,%,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,Eosinophils| Blood,0.0,%,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,Basophils| Blood,0.0,%,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,Bands| Blood,0.0,%,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,Atypical Lymphocytes| Blood,0.0,%,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,Hypochromia| Blood,,,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,Anisocytosis| Blood,,,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,L| Blood,4.0,,labevents
+14950370,21912907,2187-03-12 13:07:00,Lab Result,Absolute Lymphocyte Count| Blood,1.11,K/uL,labevents
+14950370,21912907,2187-03-12 14:00:00,Prescription,Piperacillin-Tazobactam,4.5,g,prescriptions
+14950370,21912907,2187-03-12 14:00:00,Prescription,Iso-Osmotic Dextrose,100,mL,prescriptions
+14950370,21912907,2187-03-12 14:00:00,Pharmacy,Piperacillin-Tazobactam,,NaN,pharmacy
+14950370,21912907,2187-03-12 14:35:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-12 14:35:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-12 14:35:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-12 16:00:00,Prescription,Vancomycin,1500,mg,prescriptions
+14950370,21912907,2187-03-12 16:00:00,Prescription,0.9% Sodium Chloride,500,mL,prescriptions
+14950370,21912907,2187-03-12 16:00:00,Pharmacy,Vancomycin,,NaN,pharmacy
+14950370,21912907,2187-03-12 16:21:00,Input,IVF ingredient,100.0,ml,ingredientevents
+14950370,21912907,2187-03-12 16:21:00,Input,Water,100.0,ml,ingredientevents
+14950370,21912907,2187-03-12 16:21:00,Input,Piperacillin,1.0,dose,inputevents
+14950370,21912907,2187-03-12 16:21:00,Input,Calories,17.0,Kcal,ingredientevents
+14950370,21912907,2187-03-12 16:21:00,Input,Dextrose 5%,100.0,ml,inputevents
+14950370,21912907,2187-03-12 16:22:00,Medication Admin,Vancomycin,NaN,NaN,emar
+14950370,21912907,2187-03-12 16:22:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-12 16:22:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-12 16:22:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-12 16:22:00,Medication Admin,Piperacillin-Tazobactam,NaN,NaN,emar
+14950370,21912907,2187-03-12 16:22:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-12 17:36:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-12 17:36:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-12 17:36:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-12 17:40:00,Input,Dextrose 5%,500.0,ml,inputevents
+14950370,21912907,2187-03-12 17:40:00,Input,Vancomycin,1.0,dose,inputevents
+14950370,21912907,2187-03-12 17:40:00,Input,Water,500.0,ml,ingredientevents
+14950370,21912907,2187-03-12 17:40:00,Input,IVF ingredient,500.0,ml,ingredientevents
+14950370,21912907,2187-03-12 17:40:00,Input,Calories,85.0,Kcal,ingredientevents
+14950370,21912907,2187-03-12 18:23:00,Input,Water,100.0,ml,ingredientevents
+14950370,21912907,2187-03-12 18:23:00,Input,Oral/Gastric Ingredient,100.0,ml,ingredientevents
+14950370,21912907,2187-03-12 18:23:00,Input,PO Intake,100.0,ml,inputevents
+14950370,21912907,2187-03-12 18:39:00,Input,Insulin - Regular,2.0,units,inputevents
+14950370,21912907,2187-03-12 18:41:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-12 18:41:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-12 18:41:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-12 19:54:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-12 19:54:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-12 19:54:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-12 19:54:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-12 19:54:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-12 19:54:00,Medication Admin,,NaN,NaN,emar
+14950370,21912907,2187-03-12 19:55:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-12 19:55:00,Medication Admin,Heparin,NaN,NaN,emar
+14950370,21912907,2187-03-12 19:55:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-12 19:56:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-12 19:56:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-12 19:56:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-12 19:56:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-12 20:00:00,Pharmacy,Heparin,,NaN,pharmacy
+14950370,21912907,2187-03-12 20:00:00,DateTime Obs,18 Gauge Insertion Date,2187-03-12 00:00:00,Date,datetimeevents
+14950370,21912907,2187-03-12 20:00:00,Prescription,Heparin,5000,UNIT,prescriptions
+14950370,21912907,2187-03-12 20:15:00,Input,Water,60.0,ml,ingredientevents
+14950370,21912907,2187-03-12 20:15:00,Input,PO Intake,60.0,ml,inputevents
+14950370,21912907,2187-03-12 20:15:00,Input,Oral/Gastric Ingredient,60.0,ml,ingredientevents
+14950370,21912907,2187-03-12 21:04:00,Input,Water,994.9999762773514,ml,ingredientevents
+14950370,21912907,2187-03-12 21:04:00,Input,LR,994.9999762773514,ml,inputevents
+14950370,21912907,2187-03-12 21:04:00,Input,IVF ingredient,994.9999762773514,ml,ingredientevents
+14950370,21912907,2187-03-12 22:00:00,Prescription,Insulin,55,UNIT,prescriptions
+14950370,21912907,2187-03-12 22:00:00,Pharmacy,Calcium Gluconate sliding scale (Critical Care-Ionized calcium),,NaN,pharmacy
+14950370,21912907,2187-03-12 22:00:00,Pharmacy,Insulin,,NaN,pharmacy
+14950370,21912907,2187-03-12 22:00:00,Pharmacy,Calcium Gluconate sliding scale (Critical Care-Ionized calcium),,NaN,pharmacy
+14950370,21912907,2187-03-12 22:00:00,Prescription,Calcium Gluconate,2,g,prescriptions
+14950370,21912907,2187-03-12 22:00:00,Pharmacy,Calcium Gluconate sliding scale (Critical Care-Ionized calcium),,NaN,pharmacy
+14950370,21912907,2187-03-12 22:00:00,Prescription,NS (Mini Bag Plus),200,mL,prescriptions
+14950370,21912907,2187-03-12 22:00:00,Prescription,Calcium Gluconate,2,g,prescriptions
+14950370,21912907,2187-03-12 22:00:00,Prescription,Calcium Gluconate,4,g,prescriptions
+14950370,21912907,2187-03-12 22:00:00,Prescription,NS (Mini Bag Plus),100,mL,prescriptions
+14950370,21912907,2187-03-12 22:00:00,Prescription,NS (Mini Bag Plus),100,mL,prescriptions
+14950370,21912907,2187-03-12 22:30:00,Output,Void,1100.0,ml,outputevents
+14950370,21912907,2187-03-12 23:00:00,Input,Dextrose 5%,100.0,ml,inputevents
+14950370,21912907,2187-03-12 23:00:00,Input,Piperacillin,1.0,dose,inputevents
+14950370,21912907,2187-03-12 23:00:00,Input,Water,100.0,ml,ingredientevents
+14950370,21912907,2187-03-12 23:00:00,Input,Calories,17.0,Kcal,ingredientevents
+14950370,21912907,2187-03-12 23:00:00,Input,IVF ingredient,100.0,ml,ingredientevents
+14950370,21912907,2187-03-12 23:13:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-12 23:13:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-12 23:13:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-12 23:13:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-12 23:13:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-12 23:13:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-12 23:13:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-12 23:13:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-12 23:13:00,Medication Admin,Piperacillin-Tazobactam,NaN,NaN,emar
+14950370,21912907,2187-03-12 23:21:00,Input,Oral/Gastric Ingredient,60.0,ml,ingredientevents
+14950370,21912907,2187-03-12 23:21:00,Input,Water,60.0,ml,ingredientevents
+14950370,21912907,2187-03-12 23:21:00,Input,PO Intake,60.0,ml,inputevents
+14950370,21912907,2187-03-13 00:00:00,DateTime Obs,18 Gauge Insertion Date,2187-03-12 00:00:00,Date,datetimeevents
+14950370,21912907,2187-03-13 00:12:00,Medication Admin,,NaN,NaN,emar
+14950370,21912907,2187-03-13 00:12:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 00:12:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 00:13:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-13 00:13:00,Medication Admin,Vancomycin,NaN,NaN,emar
+14950370,21912907,2187-03-13 00:13:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 00:13:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 00:13:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 00:13:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 00:20:00,Input,Vancomycin,1.0,dose,inputevents
+14950370,21912907,2187-03-13 00:20:00,Input,Water,500.0,ml,ingredientevents
+14950370,21912907,2187-03-13 00:20:00,Input,Calories,85.0,Kcal,ingredientevents
+14950370,21912907,2187-03-13 00:20:00,Input,IVF ingredient,500.0,ml,ingredientevents
+14950370,21912907,2187-03-13 00:20:00,Input,Dextrose 5%,500.0,ml,inputevents
+14950370,21912907,2187-03-13 02:37:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 02:37:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 02:37:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 02:37:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-13 02:45:00,Input,PO Intake,60.0,ml,inputevents
+14950370,21912907,2187-03-13 02:45:00,Input,Oral/Gastric Ingredient,60.0,ml,ingredientevents
+14950370,21912907,2187-03-13 02:45:00,Input,Water,60.0,ml,ingredientevents
+14950370,21912907,2187-03-13 03:31:00,Lab Result,L| Blood,3.0,,labevents
+14950370,21912907,2187-03-13 03:31:00,Lab Result,Urea Nitrogen| Blood,8.0,mg/dL,labevents
+14950370,21912907,2187-03-13 03:31:00,Lab Result,Anion Gap| Blood,10.0,mEq/L,labevents
+14950370,21912907,2187-03-13 03:31:00,Lab Result,RDW-SD| Blood,41.8,fL,labevents
+14950370,21912907,2187-03-13 03:31:00,Lab Result,White Blood Cells| Blood,10.2,K/uL,labevents
+14950370,21912907,2187-03-13 03:31:00,Lab Result,Red Blood Cells| Blood,3.67,m/uL,labevents
+14950370,21912907,2187-03-13 03:31:00,Lab Result,RDW| Blood,12.6,%,labevents
+14950370,21912907,2187-03-13 03:31:00,Lab Result,Platelet Count| Blood,342.0,K/uL,labevents
+14950370,21912907,2187-03-13 03:31:00,Lab Result,MCV| Blood,91.0,fL,labevents
+14950370,21912907,2187-03-13 03:31:00,Lab Result,MCHC| Blood,31.6,g/dL,labevents
+14950370,21912907,2187-03-13 03:31:00,Lab Result,MCH| Blood,28.9,pg,labevents
+14950370,21912907,2187-03-13 03:31:00,Lab Result,Hemoglobin| Blood,10.6,g/dL,labevents
+14950370,21912907,2187-03-13 03:31:00,Lab Result,Bicarbonate| Blood,27.0,mEq/L,labevents
+14950370,21912907,2187-03-13 03:31:00,Lab Result,"Calcium, Total| Blood",8.4,mg/dL,labevents
+14950370,21912907,2187-03-13 03:31:00,Lab Result,Creatinine| Blood,0.4,mg/dL,labevents
+14950370,21912907,2187-03-13 03:31:00,Lab Result,Glucose| Blood,153.0,mg/dL,labevents
+14950370,21912907,2187-03-13 03:31:00,Lab Result,H| Blood,3.0,,labevents
+14950370,21912907,2187-03-13 03:31:00,Lab Result,Hematocrit| Blood,33.5,%,labevents
+14950370,21912907,2187-03-13 03:31:00,Lab Result,I| Blood,1.0,,labevents
+14950370,21912907,2187-03-13 03:31:00,Lab Result,Magnesium| Blood,1.9,mg/dL,labevents
+14950370,21912907,2187-03-13 03:31:00,Lab Result,Phosphate| Blood,2.4,mg/dL,labevents
+14950370,21912907,2187-03-13 03:31:00,Lab Result,Potassium| Blood,3.9,mEq/L,labevents
+14950370,21912907,2187-03-13 03:31:00,Lab Result,Sodium| Blood,138.0,mEq/L,labevents
+14950370,21912907,2187-03-13 03:31:00,Lab Result,Chloride| Blood,101.0,mEq/L,labevents
+14950370,21912907,2187-03-13 04:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 04:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-13 04:00:00,DateTime Obs,18 Gauge Insertion Date,2187-03-12 00:00:00,Date,datetimeevents
+14950370,21912907,2187-03-13 04:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 05:00:00,Input,Water,49.999998807907104,ml,ingredientevents
+14950370,21912907,2187-03-13 05:00:00,Input,NaCl 0.9%,49.999998807907104,ml,inputevents
+14950370,21912907,2187-03-13 05:00:00,Input,IVF ingredient,49.999998807907104,ml,ingredientevents
+14950370,21912907,2187-03-13 05:00:00,Input,Magnesium Sulfate,2.0000001043081284,grams,inputevents
+14950370,21912907,2187-03-13 05:05:00,Medication Admin,Magnesium Sulfate Replacement (Critical Care and Oncology),NaN,NaN,emar
+14950370,21912907,2187-03-13 05:05:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 05:05:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 05:08:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 05:08:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-13 05:08:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 05:10:00,Input,Water,60.0,ml,ingredientevents
+14950370,21912907,2187-03-13 05:10:00,Input,Oral/Gastric Ingredient,60.0,ml,ingredientevents
+14950370,21912907,2187-03-13 05:10:00,Input,PO Intake,60.0,ml,inputevents
+14950370,21912907,2187-03-13 07:00:00,Input,Insulin - Humalog,0.0,units,inputevents
+14950370,21912907,2187-03-13 07:00:00,Output,Void,1200.0,ml,outputevents
+14950370,21912907,2187-03-13 07:01:00,Input,IVF ingredient,13.333333015441896,ml,ingredientevents
+14950370,21912907,2187-03-13 07:01:00,Input,Water,13.333333015441896,ml,ingredientevents
+14950370,21912907,2187-03-13 07:01:00,Input,LR,13.333333015441896,ml,inputevents
+14950370,21912907,2187-03-13 07:05:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-13 07:05:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 07:05:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 07:05:00,Medication Admin,,NaN,NaN,emar
+14950370,21912907,2187-03-13 07:05:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 07:05:00,Medication Admin,Piperacillin-Tazobactam,NaN,NaN,emar
+14950370,21912907,2187-03-13 07:05:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 07:05:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 07:08:00,Input,Water,100.0,ml,ingredientevents
+14950370,21912907,2187-03-13 07:08:00,Input,Piperacillin,1.0,dose,inputevents
+14950370,21912907,2187-03-13 07:08:00,Input,Dextrose 5%,100.0,ml,inputevents
+14950370,21912907,2187-03-13 07:08:00,Input,IVF ingredient,100.0,ml,ingredientevents
+14950370,21912907,2187-03-13 07:08:00,Input,Calories,17.0,Kcal,ingredientevents
+14950370,21912907,2187-03-13 07:44:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 07:44:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 07:44:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 07:44:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 07:44:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 07:44:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 07:44:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 07:44:00,Medication Admin,Heparin,NaN,NaN,emar
+14950370,21912907,2187-03-13 07:44:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-13 07:44:00,Medication Admin,Vancomycin,NaN,NaN,emar
+14950370,21912907,2187-03-13 07:51:00,Input,Oral/Gastric Ingredient,60.0,ml,ingredientevents
+14950370,21912907,2187-03-13 07:51:00,Input,PO Intake,60.0,ml,inputevents
+14950370,21912907,2187-03-13 07:51:00,Input,Vancomycin,1.0,dose,inputevents
+14950370,21912907,2187-03-13 07:51:00,Input,Water,60.0,ml,ingredientevents
+14950370,21912907,2187-03-13 07:51:00,Input,Dextrose 5%,500.0,ml,inputevents
+14950370,21912907,2187-03-13 07:51:00,Input,IVF ingredient,500.0,ml,ingredientevents
+14950370,21912907,2187-03-13 07:51:00,Input,Water,500.0,ml,ingredientevents
+14950370,21912907,2187-03-13 07:51:00,Input,Calories,85.0,Kcal,ingredientevents
+14950370,21912907,2187-03-13 08:00:00,DateTime Obs,18 Gauge Insertion Date,2187-03-12 00:00:00,Date,datetimeevents
+14950370,21912907,2187-03-13 09:00:00,Input,Oral/Gastric Ingredient,240.0,ml,ingredientevents
+14950370,21912907,2187-03-13 09:00:00,Input,Water,240.0,ml,ingredientevents
+14950370,21912907,2187-03-13 09:00:00,Input,PO Intake,240.0,ml,inputevents
+14950370,21912907,2187-03-13 09:15:00,Input,IVF ingredient,128.33333027362823,ml,ingredientevents
+14950370,21912907,2187-03-13 09:15:00,Input,Water,128.33333027362823,ml,ingredientevents
+14950370,21912907,2187-03-13 09:15:00,Input,LR,128.33333027362823,ml,inputevents
+14950370,21912907,2187-03-13 10:00:00,Input,Water,180.0,ml,ingredientevents
+14950370,21912907,2187-03-13 10:00:00,Input,Oral/Gastric Ingredient,180.0,ml,ingredientevents
+14950370,21912907,2187-03-13 10:00:00,Input,PO Intake,180.0,ml,inputevents
+14950370,21912907,2187-03-13 10:33:00,Medication Admin,,NaN,NaN,emar
+14950370,21912907,2187-03-13 10:33:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 10:33:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 11:44:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 11:44:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 11:44:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 11:44:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-13 11:46:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 11:46:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-13 11:46:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 11:52:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 11:52:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 11:52:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-13 12:00:00,Input,Insulin - Humalog,4.0,units,inputevents
+14950370,21912907,2187-03-13 12:00:00,Input,PO Intake,60.0,ml,inputevents
+14950370,21912907,2187-03-13 12:00:00,Input,Water,60.0,ml,ingredientevents
+14950370,21912907,2187-03-13 12:00:00,Input,Oral/Gastric Ingredient,60.0,ml,ingredientevents
+14950370,21912907,2187-03-13 12:00:00,DateTime Obs,18 Gauge Insertion Date,2187-03-12 00:00:00,Date,datetimeevents
+14950370,21912907,2187-03-13 12:21:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 12:21:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 12:21:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-13 15:05:00,Lab Result,H| Blood,60.0,,labevents
+14950370,21912907,2187-03-13 15:05:00,Lab Result,I| Blood,1.0,,labevents
+14950370,21912907,2187-03-13 15:05:00,Lab Result,Vancomycin| Blood,12.0,ug/mL,labevents
+14950370,21912907,2187-03-13 15:05:00,Lab Result,L| Blood,14.0,,labevents
+14950370,21912907,2187-03-13 15:46:00,Medication Admin,Piperacillin-Tazobactam,NaN,NaN,emar
+14950370,21912907,2187-03-13 15:46:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-13 15:46:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 15:46:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 15:46:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 15:46:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 16:00:00,Input,Piperacillin,1.0,dose,inputevents
+14950370,21912907,2187-03-13 16:00:00,DateTime Obs,18 Gauge Insertion Date,2187-03-12 00:00:00,Date,datetimeevents
+14950370,21912907,2187-03-13 16:00:00,Input,Dextrose 5%,100.0,ml,inputevents
+14950370,21912907,2187-03-13 16:00:00,Input,IVF ingredient,100.0,ml,ingredientevents
+14950370,21912907,2187-03-13 16:00:00,Input,Calories,17.0,Kcal,ingredientevents
+14950370,21912907,2187-03-13 16:00:00,Input,Water,100.0,ml,ingredientevents
+14950370,21912907,2187-03-13 16:23:00,Input,PO Intake,240.0,ml,inputevents
+14950370,21912907,2187-03-13 16:23:00,Input,Oral/Gastric Ingredient,240.0,ml,ingredientevents
+14950370,21912907,2187-03-13 16:23:00,Input,Water,240.0,ml,ingredientevents
+14950370,21912907,2187-03-13 16:30:00,Input,PO Intake,160.0,ml,inputevents
+14950370,21912907,2187-03-13 16:30:00,Input,Oral/Gastric Ingredient,160.0,ml,ingredientevents
+14950370,21912907,2187-03-13 16:30:00,Input,Water,160.0,ml,ingredientevents
+14950370,21912907,2187-03-13 17:15:00,Input,Vancomycin,1.0,dose,inputevents
+14950370,21912907,2187-03-13 17:15:00,Input,IVF ingredient,500.0,ml,ingredientevents
+14950370,21912907,2187-03-13 17:15:00,Input,Calories,85.0,Kcal,ingredientevents
+14950370,21912907,2187-03-13 17:15:00,Input,Water,500.0,ml,ingredientevents
+14950370,21912907,2187-03-13 17:15:00,Input,Dextrose 5%,500.0,ml,inputevents
+14950370,21912907,2187-03-13 17:21:00,Medication Admin,Vancomycin,NaN,NaN,emar
+14950370,21912907,2187-03-13 17:21:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 17:21:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 18:28:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-13 18:28:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 18:28:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 18:28:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-13 18:28:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-13 18:28:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 18:28:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 18:28:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 18:28:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 18:36:00,Input,Insulin - Humalog,2.0,units,inputevents
+14950370,21912907,2187-03-13 18:36:00,Output,Void,1000.0,ml,outputevents
+14950370,21912907,2187-03-13 19:28:27,Transfer,transfer Medicine,NaN,NaN,transfers
+14950370,21912907,2187-03-13 20:00:00,Medication Admin,,NaN,NaN,emar
+14950370,21912907,2187-03-13 20:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 20:00:00,Pharmacy,,,NaN,pharmacy
+14950370,21912907,2187-03-13 20:00:00,Prescription,Lactated Ringers,1000,mL,prescriptions
+14950370,21912907,2187-03-13 20:04:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-13 20:04:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 20:04:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 20:04:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 20:04:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 20:04:00,Medication Admin,Heparin,NaN,NaN,emar
+14950370,21912907,2187-03-13 20:07:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 20:07:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 20:07:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-13 22:18:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 22:18:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-13 22:18:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-13 22:18:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 22:18:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 22:18:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 22:18:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 23:00:00,Prescription,Insulin,4,UNIT,prescriptions
+14950370,21912907,2187-03-13 23:00:00,Pharmacy,Insulin,,NaN,pharmacy
+14950370,21912907,2187-03-13 23:34:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 23:34:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 23:34:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 23:34:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-13 23:34:00,Medication Admin,Piperacillin-Tazobactam,NaN,NaN,emar
+14950370,21912907,2187-03-13 23:34:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-13 23:34:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 23:34:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-13 23:34:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 00:14:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 00:14:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-14 00:14:00,Medication Admin,Vancomycin,NaN,NaN,emar
+14950370,21912907,2187-03-14 00:14:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 00:14:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 00:14:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 02:31:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 02:31:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 02:31:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 02:31:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-14 02:31:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-14 02:31:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 02:31:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 02:45:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 02:45:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 02:45:00,Medication Admin,HYDROmorphone (Dilaudid),NaN,NaN,emar
+14950370,21912907,2187-03-14 03:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+14950370,21912907,2187-03-14 03:00:00,Prescription,HYDROmorphone (Dilaudid),0.5,mg,prescriptions
+14950370,21912907,2187-03-14 06:25:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 06:25:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 06:25:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-14 06:25:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-14 06:25:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 06:25:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 06:25:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 07:02:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 07:02:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-14 07:02:00,Medication Admin,Piperacillin-Tazobactam,NaN,NaN,emar
+14950370,21912907,2187-03-14 07:02:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 07:02:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 07:02:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 08:15:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 08:15:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 08:15:00,Medication Admin,Heparin,NaN,NaN,emar
+14950370,21912907,2187-03-14 08:15:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 08:15:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 08:15:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-14 08:15:00,Medication Admin,Vancomycin,NaN,NaN,emar
+14950370,21912907,2187-03-14 08:15:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 09:48:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 09:48:00,Medication Admin,HYDROmorphone (Dilaudid),NaN,NaN,emar
+14950370,21912907,2187-03-14 09:48:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 10:45:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-14 10:45:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 10:45:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 10:45:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 10:55:00,Lab Result,Chloride| Blood,102.0,mEq/L,labevents
+14950370,21912907,2187-03-14 10:55:00,Lab Result,H| Blood,10.0,,labevents
+14950370,21912907,2187-03-14 10:55:00,Lab Result,I| Blood,1.0,,labevents
+14950370,21912907,2187-03-14 10:55:00,Lab Result,Magnesium| Blood,2.1,mg/dL,labevents
+14950370,21912907,2187-03-14 10:55:00,Lab Result,Potassium| Blood,3.4,mEq/L,labevents
+14950370,21912907,2187-03-14 10:55:00,Lab Result,Sodium| Blood,140.0,mEq/L,labevents
+14950370,21912907,2187-03-14 10:55:00,Lab Result,RDW| Blood,12.6,%,labevents
+14950370,21912907,2187-03-14 10:55:00,Lab Result,Bicarbonate| Blood,26.0,mEq/L,labevents
+14950370,21912907,2187-03-14 10:55:00,Lab Result,Urea Nitrogen| Blood,7.0,mg/dL,labevents
+14950370,21912907,2187-03-14 10:55:00,Lab Result,L| Blood,6.0,,labevents
+14950370,21912907,2187-03-14 10:55:00,Lab Result,Platelet Count| Blood,326.0,K/uL,labevents
+14950370,21912907,2187-03-14 10:55:00,Lab Result,MCV| Blood,91.0,fL,labevents
+14950370,21912907,2187-03-14 10:55:00,Lab Result,MCHC| Blood,32.1,g/dL,labevents
+14950370,21912907,2187-03-14 10:55:00,Lab Result,MCH| Blood,29.3,pg,labevents
+14950370,21912907,2187-03-14 10:55:00,Lab Result,Hemoglobin| Blood,10.2,g/dL,labevents
+14950370,21912907,2187-03-14 10:55:00,Lab Result,Creatinine| Blood,0.7,mg/dL,labevents
+14950370,21912907,2187-03-14 10:55:00,Lab Result,White Blood Cells| Blood,10.0,K/uL,labevents
+14950370,21912907,2187-03-14 10:55:00,Lab Result,Hematocrit| Blood,31.8,%,labevents
+14950370,21912907,2187-03-14 10:55:00,Lab Result,RDW-SD| Blood,42.4,fL,labevents
+14950370,21912907,2187-03-14 10:55:00,Lab Result,Anion Gap| Blood,12.0,mEq/L,labevents
+14950370,21912907,2187-03-14 10:55:00,Lab Result,Glucose| Blood,156.0,mg/dL,labevents
+14950370,21912907,2187-03-14 10:55:00,Lab Result,Red Blood Cells| Blood,3.48,m/uL,labevents
+14950370,21912907,2187-03-14 11:58:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-14 11:58:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 11:58:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 11:58:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 11:58:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 11:58:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-14 13:45:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 13:45:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 13:45:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-14 14:28:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 14:28:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 14:28:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 14:28:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 14:28:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 14:28:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-14 14:28:00,Medication Admin,Potassium Chloride,NaN,NaN,emar
+14950370,21912907,2187-03-14 14:28:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 15:00:00,Prescription,Potassium Chloride,60,mEq,prescriptions
+14950370,21912907,2187-03-14 15:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 15:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-14 15:00:00,Pharmacy,OxycoDONE Liquid,,NaN,pharmacy
+14950370,21912907,2187-03-14 15:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+14950370,21912907,2187-03-14 15:00:00,Prescription,OxycoDONE Liquid,5,mg,prescriptions
+14950370,21912907,2187-03-14 15:39:00,Lab Result,Vancomycin| Blood,14.0,ug/mL,labevents
+14950370,21912907,2187-03-14 15:39:00,Lab Result,H| Blood,8.0,,labevents
+14950370,21912907,2187-03-14 15:39:00,Lab Result,I| Blood,1.0,,labevents
+14950370,21912907,2187-03-14 15:39:00,Lab Result,L| Blood,7.0,,labevents
+14950370,21912907,2187-03-14 16:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 16:00:00,Medication Admin,Vancomycin,NaN,NaN,emar
+14950370,21912907,2187-03-14 17:16:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 17:16:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 17:16:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 17:16:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 17:16:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 17:16:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 17:16:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 17:16:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 17:16:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 17:16:00,Medication Admin,Potassium Chloride,NaN,NaN,emar
+14950370,21912907,2187-03-14 17:16:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-14 17:16:00,Medication Admin,Piperacillin-Tazobactam,NaN,NaN,emar
+14950370,21912907,2187-03-14 17:21:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 17:21:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 17:21:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-14 18:00:00,Pharmacy,Vancomycin,,NaN,pharmacy
+14950370,21912907,2187-03-14 18:00:00,Prescription,Vancomycin,1250,mg,prescriptions
+14950370,21912907,2187-03-14 18:00:00,Prescription,0.9% Sodium Chloride,250,mL,prescriptions
+14950370,21912907,2187-03-14 18:47:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 18:47:00,Medication Admin,Vancomycin,NaN,NaN,emar
+14950370,21912907,2187-03-14 18:47:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 18:54:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 18:54:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 18:54:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-14 19:39:00,Medication Admin,Heparin,NaN,NaN,emar
+14950370,21912907,2187-03-14 19:39:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 19:39:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 19:39:00,Medication Admin,HYDROmorphone (Dilaudid),NaN,NaN,emar
+14950370,21912907,2187-03-14 19:39:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 19:39:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 19:52:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 19:52:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 19:52:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 19:52:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-14 22:08:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 22:08:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-14 22:30:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 22:30:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-14 22:30:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-15 00:52:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 00:52:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-15 00:52:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 00:52:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-15 00:52:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 00:52:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 00:52:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 00:52:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 00:52:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 00:52:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 00:52:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 00:52:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-15 00:52:00,Medication Admin,Piperacillin-Tazobactam,NaN,NaN,emar
+14950370,21912907,2187-03-15 01:33:00,Medication Admin,Vancomycin,NaN,NaN,emar
+14950370,21912907,2187-03-15 01:33:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 01:33:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 05:19:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 05:19:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 05:19:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 05:19:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 05:19:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 05:19:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-15 05:19:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-15 06:00:00,Lab Result,Magnesium| Blood,2.1,mg/dL,labevents
+14950370,21912907,2187-03-15 06:00:00,Lab Result,L| Blood,5.0,,labevents
+14950370,21912907,2187-03-15 06:00:00,Lab Result,Urea Nitrogen| Blood,5.0,mg/dL,labevents
+14950370,21912907,2187-03-15 06:00:00,Lab Result,Sodium| Blood,143.0,mEq/L,labevents
+14950370,21912907,2187-03-15 06:00:00,Lab Result,Potassium| Blood,3.6,mEq/L,labevents
+14950370,21912907,2187-03-15 06:00:00,Lab Result,I| Blood,1.0,,labevents
+14950370,21912907,2187-03-15 06:00:00,Lab Result,H| Blood,21.0,,labevents
+14950370,21912907,2187-03-15 06:00:00,Lab Result,Glucose| Blood,106.0,mg/dL,labevents
+14950370,21912907,2187-03-15 06:00:00,Lab Result,Hemoglobin| Blood,10.5,g/dL,labevents
+14950370,21912907,2187-03-15 06:00:00,Lab Result,RDW-SD| Blood,41.7,fL,labevents
+14950370,21912907,2187-03-15 06:00:00,Lab Result,MCH| Blood,29.3,pg,labevents
+14950370,21912907,2187-03-15 06:00:00,Lab Result,Creatinine| Blood,0.7,mg/dL,labevents
+14950370,21912907,2187-03-15 06:00:00,Lab Result,Bicarbonate| Blood,25.0,mEq/L,labevents
+14950370,21912907,2187-03-15 06:00:00,Lab Result,Anion Gap| Blood,15.0,mEq/L,labevents
+14950370,21912907,2187-03-15 06:00:00,Lab Result,MCHC| Blood,32.2,g/dL,labevents
+14950370,21912907,2187-03-15 06:00:00,Lab Result,MCV| Blood,91.0,fL,labevents
+14950370,21912907,2187-03-15 06:00:00,Lab Result,Platelet Count| Blood,336.0,K/uL,labevents
+14950370,21912907,2187-03-15 06:00:00,Lab Result,RDW| Blood,12.4,%,labevents
+14950370,21912907,2187-03-15 06:00:00,Lab Result,Red Blood Cells| Blood,3.58,m/uL,labevents
+14950370,21912907,2187-03-15 06:00:00,Lab Result,White Blood Cells| Blood,9.2,K/uL,labevents
+14950370,21912907,2187-03-15 06:00:00,Lab Result,Chloride| Blood,103.0,mEq/L,labevents
+14950370,21912907,2187-03-15 06:00:00,Lab Result,Hematocrit| Blood,32.6,%,labevents
+14950370,21912907,2187-03-15 06:37:00,Medication Admin,Vancomycin,NaN,NaN,emar
+14950370,21912907,2187-03-15 06:37:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 06:37:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 08:49:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 08:49:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 08:49:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 08:49:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-15 08:49:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 08:49:00,Medication Admin,Piperacillin-Tazobactam,NaN,NaN,emar
+14950370,21912907,2187-03-15 08:49:00,Medication Admin,Heparin,NaN,NaN,emar
+14950370,21912907,2187-03-15 08:49:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 08:49:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 09:00:00,Prescription,0.9% Sodium Chloride,250,mL,prescriptions
+14950370,21912907,2187-03-15 09:00:00,Prescription,Vancomycin,1250,mg,prescriptions
+14950370,21912907,2187-03-15 09:00:00,Prescription,Ampicillin-Sulbactam,3,g,prescriptions
+14950370,21912907,2187-03-15 09:00:00,Pharmacy,Ampicillin-Sulbactam,,NaN,pharmacy
+14950370,21912907,2187-03-15 09:00:00,Pharmacy,Vancomycin,,NaN,pharmacy
+14950370,21912907,2187-03-15 09:00:00,Prescription,0.9% Sodium Chloride (Mini Bag Plus),100,mL,prescriptions
+14950370,21912907,2187-03-15 09:12:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-15 09:12:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 11:00:00,Lab Result,I| Blood,1.0,,labevents
+14950370,21912907,2187-03-15 11:00:00,Lab Result,Vancomycin| Blood,25.0,ug/mL,labevents
+14950370,21912907,2187-03-15 11:00:00,Lab Result,L| Blood,5.0,,labevents
+14950370,21912907,2187-03-15 11:00:00,Lab Result,H| Blood,5.0,,labevents
+14950370,21912907,2187-03-15 11:39:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-15 11:39:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 11:39:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 11:39:00,Medication Admin,Ampicillin-Sulbactam,NaN,NaN,emar
+14950370,21912907,2187-03-15 11:39:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 11:39:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 13:00:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 13:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 13:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 13:00:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-15 14:02:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 14:02:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 14:02:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-15 14:02:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 14:02:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-15 14:02:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 15:10:00,Lab Result,L| Blood,2.0,,labevents
+14950370,21912907,2187-03-15 15:10:00,Lab Result,I| Blood,1.0,,labevents
+14950370,21912907,2187-03-15 15:10:00,Lab Result,H| Blood,13.0,,labevents
+14950370,21912907,2187-03-15 15:10:00,Lab Result,Vancomycin| Blood,15.0,ug/mL,labevents
+14950370,21912907,2187-03-15 15:33:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 15:33:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-15 15:33:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 15:53:00,Lab Result,I| Blood,1.0,,labevents
+14950370,21912907,2187-03-15 15:53:00,Lab Result,Vancomycin| Blood,15.0,ug/mL,labevents
+14950370,21912907,2187-03-15 15:53:00,Lab Result,L| Blood,8.0,,labevents
+14950370,21912907,2187-03-15 15:53:00,Lab Result,H| Blood,2.0,,labevents
+14950370,21912907,2187-03-15 16:00:00,Prescription,Vancomycin,1250,mg,prescriptions
+14950370,21912907,2187-03-15 16:00:00,Prescription,0.9% Sodium Chloride,250,mL,prescriptions
+14950370,21912907,2187-03-15 16:00:00,Prescription,Insulin,3,UNIT,prescriptions
+14950370,21912907,2187-03-15 16:00:00,Pharmacy,Vancomycin,,NaN,pharmacy
+14950370,21912907,2187-03-15 16:00:00,Pharmacy,Insulin,,NaN,pharmacy
+14950370,21912907,2187-03-15 18:25:00,Medication Admin,Ampicillin-Sulbactam,NaN,NaN,emar
+14950370,21912907,2187-03-15 18:25:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 18:25:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-15 18:25:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 18:25:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 18:25:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 18:49:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 18:49:00,Medication Admin,HYDROmorphone (Dilaudid),NaN,NaN,emar
+14950370,21912907,2187-03-15 18:49:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 19:00:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-15 19:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 19:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 20:51:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 20:51:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 20:51:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 20:51:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 20:51:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 20:51:00,Medication Admin,Heparin,NaN,NaN,emar
+14950370,21912907,2187-03-15 20:51:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 20:51:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 20:51:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-15 20:51:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-15 21:44:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-15 21:44:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 22:40:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-15 22:40:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-15 22:40:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 00:00:00,Pharmacy,Vancomycin,,NaN,pharmacy
+14950370,21912907,2187-03-16 00:00:00,Prescription,0.9% Sodium Chloride,250,mL,prescriptions
+14950370,21912907,2187-03-16 00:00:00,Prescription,Vancomycin,1250,mg,prescriptions
+14950370,21912907,2187-03-16 00:20:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-16 00:20:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 00:20:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 00:20:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-16 00:20:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 00:20:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 00:20:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 00:20:00,Medication Admin,Ampicillin-Sulbactam,NaN,NaN,emar
+14950370,21912907,2187-03-16 00:20:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 00:20:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 00:20:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-16 00:20:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 00:20:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 01:35:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 01:35:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 01:35:00,Medication Admin,Vancomycin,NaN,NaN,emar
+14950370,21912907,2187-03-16 05:47:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 05:47:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 05:47:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 05:47:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-16 05:47:00,Medication Admin,Ampicillin-Sulbactam,NaN,NaN,emar
+14950370,21912907,2187-03-16 05:47:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-16 05:47:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 05:47:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 05:47:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 05:47:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 06:00:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-16 06:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 06:37:00,Lab Result,RDW-SD| Blood,42.1,fL,labevents
+14950370,21912907,2187-03-16 06:37:00,Lab Result,I| Blood,0.0,,labevents
+14950370,21912907,2187-03-16 06:37:00,Lab Result,I| Blood,1.0,,labevents
+14950370,21912907,2187-03-16 06:37:00,Lab Result,H| Blood,1.0,,labevents
+14950370,21912907,2187-03-16 06:37:00,Lab Result,Creatine Kinase (CK)| Blood,23.0,IU/L,labevents
+14950370,21912907,2187-03-16 06:37:00,Lab Result,L| Blood,8.0,,labevents
+14950370,21912907,2187-03-16 06:37:00,Lab Result,Urea Nitrogen| Blood,5.0,mg/dL,labevents
+14950370,21912907,2187-03-16 06:37:00,Lab Result,Troponin T| Blood,,ng/mL,labevents
+14950370,21912907,2187-03-16 06:37:00,Lab Result,Sodium| Blood,143.0,mEq/L,labevents
+14950370,21912907,2187-03-16 06:37:00,Lab Result,Potassium| Blood,3.7,mEq/L,labevents
+14950370,21912907,2187-03-16 06:37:00,Lab Result,Magnesium| Blood,2.1,mg/dL,labevents
+14950370,21912907,2187-03-16 06:37:00,Lab Result,Hemoglobin| Blood,10.4,g/dL,labevents
+14950370,21912907,2187-03-16 06:37:00,Lab Result,H| Blood,0.0,,labevents
+14950370,21912907,2187-03-16 06:37:00,Lab Result,MCH| Blood,29.3,pg,labevents
+14950370,21912907,2187-03-16 06:37:00,Lab Result,L| Blood,7.0,,labevents
+14950370,21912907,2187-03-16 06:37:00,Lab Result,Creatinine| Blood,0.7,mg/dL,labevents
+14950370,21912907,2187-03-16 06:37:00,Lab Result,Glucose| Blood,138.0,mg/dL,labevents
+14950370,21912907,2187-03-16 06:37:00,Lab Result,Chloride| Blood,103.0,mEq/L,labevents
+14950370,21912907,2187-03-16 06:37:00,Lab Result,White Blood Cells| Blood,8.4,K/uL,labevents
+14950370,21912907,2187-03-16 06:37:00,Lab Result,Red Blood Cells| Blood,3.55,m/uL,labevents
+14950370,21912907,2187-03-16 06:37:00,Lab Result,MCHC| Blood,31.9,g/dL,labevents
+14950370,21912907,2187-03-16 06:37:00,Lab Result,Platelet Count| Blood,364.0,K/uL,labevents
+14950370,21912907,2187-03-16 06:37:00,Lab Result,RDW| Blood,12.5,%,labevents
+14950370,21912907,2187-03-16 06:37:00,Lab Result,MCV| Blood,92.0,fL,labevents
+14950370,21912907,2187-03-16 06:37:00,Lab Result,Anion Gap| Blood,16.0,mEq/L,labevents
+14950370,21912907,2187-03-16 06:37:00,Lab Result,Bicarbonate| Blood,24.0,mEq/L,labevents
+14950370,21912907,2187-03-16 06:37:00,Lab Result,Hematocrit| Blood,32.6,%,labevents
+14950370,21912907,2187-03-16 07:33:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 07:33:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 07:33:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 07:33:00,Medication Admin,Heparin,NaN,NaN,emar
+14950370,21912907,2187-03-16 07:33:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 07:33:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 07:33:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-16 07:33:00,Medication Admin,Vancomycin,NaN,NaN,emar
+14950370,21912907,2187-03-16 07:33:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 11:00:00,Prescription,Potassium Chloride,20,mEq,prescriptions
+14950370,21912907,2187-03-16 11:00:00,Pharmacy,Insulin,,NaN,pharmacy
+14950370,21912907,2187-03-16 11:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+14950370,21912907,2187-03-16 11:00:00,Pharmacy,Potassium Chloride,,NaN,pharmacy
+14950370,21912907,2187-03-16 11:00:00,Prescription,Insulin,0,UNIT,prescriptions
+14950370,21912907,2187-03-16 11:00:00,Prescription,Potassium Chloride,20,mEq,prescriptions
+14950370,21912907,2187-03-16 11:15:00,Lab Result,I| Blood,1.0,,labevents
+14950370,21912907,2187-03-16 11:15:00,Lab Result,Troponin T| Blood,,ng/mL,labevents
+14950370,21912907,2187-03-16 11:15:00,Lab Result,L| Blood,6.0,,labevents
+14950370,21912907,2187-03-16 11:15:00,Lab Result,H| Blood,0.0,,labevents
+14950370,21912907,2187-03-16 11:29:00,Medication Admin,Ampicillin-Sulbactam,NaN,NaN,emar
+14950370,21912907,2187-03-16 11:29:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 11:29:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-16 11:29:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 11:29:00,Medication Admin,Potassium Chloride,NaN,NaN,emar
+14950370,21912907,2187-03-16 11:29:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 11:29:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 11:29:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 11:29:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 11:29:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 11:29:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 11:29:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-16 11:29:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 11:29:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 13:12:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-16 13:12:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 13:12:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 16:29:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 16:29:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 16:29:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 16:29:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 16:29:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 16:29:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 16:29:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 16:29:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-16 16:29:00,Medication Admin,Vancomycin,NaN,NaN,emar
+14950370,21912907,2187-03-16 16:29:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-16 18:30:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-16 18:30:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 18:30:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 18:30:00,Medication Admin,Ampicillin-Sulbactam,NaN,NaN,emar
+14950370,21912907,2187-03-16 18:30:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 18:30:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 18:30:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 18:38:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 18:38:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-16 18:38:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 19:47:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 19:47:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 19:47:00,Medication Admin,Heparin,NaN,NaN,emar
+14950370,21912907,2187-03-16 22:00:00,Prescription,Insulin,55,UNIT,prescriptions
+14950370,21912907,2187-03-16 22:00:00,Pharmacy,Insulin,,NaN,pharmacy
+14950370,21912907,2187-03-16 22:30:00,Lab Result,I| Blood,0.0,,labevents
+14950370,21912907,2187-03-16 22:30:00,Lab Result,H| Blood,23.0,,labevents
+14950370,21912907,2187-03-16 22:30:00,Lab Result,L| Blood,10.0,,labevents
+14950370,21912907,2187-03-16 22:30:00,Lab Result,Vancomycin| Blood,22.4,ug/mL,labevents
+14950370,21912907,2187-03-16 22:33:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 22:33:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-16 22:37:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 22:37:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 22:37:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 22:37:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-16 22:45:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-16 22:45:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 22:45:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 23:07:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-16 23:07:00,Medication Admin,Ampicillin-Sulbactam,NaN,NaN,emar
+14950370,21912907,2187-03-16 23:07:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 23:07:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 23:07:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-16 23:07:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 23:07:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 23:07:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-16 23:07:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 00:00:00,Medication Admin,Vancomycin,NaN,NaN,emar
+14950370,21912907,2187-03-17 00:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 01:38:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 01:38:00,Medication Admin,Vancomycin,NaN,NaN,emar
+14950370,21912907,2187-03-17 01:38:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 05:41:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-17 05:41:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-17 05:41:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 05:41:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 05:41:00,Medication Admin,Ampicillin-Sulbactam,NaN,NaN,emar
+14950370,21912907,2187-03-17 05:41:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 05:41:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 05:41:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 05:41:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 05:41:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 05:43:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 05:43:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 05:43:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-17 06:30:00,Lab Result,H| Blood,6.0,,labevents
+14950370,21912907,2187-03-17 06:30:00,Lab Result,L| Blood,5.0,,labevents
+14950370,21912907,2187-03-17 06:30:00,Lab Result,Urea Nitrogen| Blood,5.0,mg/dL,labevents
+14950370,21912907,2187-03-17 06:30:00,Lab Result,MCV| Blood,95.0,fL,labevents
+14950370,21912907,2187-03-17 06:30:00,Lab Result,Potassium| Blood,3.8,mEq/L,labevents
+14950370,21912907,2187-03-17 06:30:00,Lab Result,Magnesium| Blood,2.1,mg/dL,labevents
+14950370,21912907,2187-03-17 06:30:00,Lab Result,I| Blood,1.0,,labevents
+14950370,21912907,2187-03-17 06:30:00,Lab Result,Glucose| Blood,118.0,mg/dL,labevents
+14950370,21912907,2187-03-17 06:30:00,Lab Result,Sodium| Blood,144.0,mEq/L,labevents
+14950370,21912907,2187-03-17 06:30:00,Lab Result,Chloride| Blood,103.0,mEq/L,labevents
+14950370,21912907,2187-03-17 06:30:00,Lab Result,Bicarbonate| Blood,24.0,mEq/L,labevents
+14950370,21912907,2187-03-17 06:30:00,Lab Result,Anion Gap| Blood,17.0,mEq/L,labevents
+14950370,21912907,2187-03-17 06:30:00,Lab Result,RDW-SD| Blood,43.7,fL,labevents
+14950370,21912907,2187-03-17 06:30:00,Lab Result,Red Blood Cells| Blood,3.49,m/uL,labevents
+14950370,21912907,2187-03-17 06:30:00,Lab Result,RDW| Blood,12.6,%,labevents
+14950370,21912907,2187-03-17 06:30:00,Lab Result,Hematocrit| Blood,33.2,%,labevents
+14950370,21912907,2187-03-17 06:30:00,Lab Result,Hemoglobin| Blood,10.3,g/dL,labevents
+14950370,21912907,2187-03-17 06:30:00,Lab Result,MCH| Blood,29.5,pg,labevents
+14950370,21912907,2187-03-17 06:30:00,Lab Result,MCHC| Blood,31.0,g/dL,labevents
+14950370,21912907,2187-03-17 06:30:00,Lab Result,Creatinine| Blood,0.7,mg/dL,labevents
+14950370,21912907,2187-03-17 06:30:00,Lab Result,White Blood Cells| Blood,7.6,K/uL,labevents
+14950370,21912907,2187-03-17 06:30:00,Lab Result,Platelet Count| Blood,327.0,K/uL,labevents
+14950370,21912907,2187-03-17 07:39:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 07:39:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 07:39:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 07:39:00,Medication Admin,Vancomycin,NaN,NaN,emar
+14950370,21912907,2187-03-17 07:39:00,Medication Admin,Heparin,NaN,NaN,emar
+14950370,21912907,2187-03-17 07:39:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 07:45:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-17 07:45:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 07:45:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 07:50:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-17 07:50:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 08:00:00,Prescription,Iso-Osmotic Dextrose,200,mL,prescriptions
+14950370,21912907,2187-03-17 08:00:00,Pharmacy,Vancomycin,,NaN,pharmacy
+14950370,21912907,2187-03-17 08:00:00,Prescription,Vancomycin,1000,mg,prescriptions
+14950370,21912907,2187-03-17 11:00:00,Prescription,Lidocaine 1% (For PICC/Midline Insertions),5,mL,prescriptions
+14950370,21912907,2187-03-17 11:00:00,Prescription,Heparin Flush (10 units/ml),2,mL,prescriptions
+14950370,21912907,2187-03-17 11:00:00,Prescription,Sodium Chloride 0.9%  Flush,20,mL,prescriptions
+14950370,21912907,2187-03-17 11:00:00,Pharmacy,Lidocaine 1% (For PICC/Midline Insertions),,NaN,pharmacy
+14950370,21912907,2187-03-17 11:00:00,Pharmacy,Heparin Flush (10 units/ml),,NaN,pharmacy
+14950370,21912907,2187-03-17 11:00:00,Pharmacy,Sodium Chloride 0.9%  Flush,,NaN,pharmacy
+14950370,21912907,2187-03-17 11:54:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 11:54:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 11:54:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 11:54:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 11:54:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-17 11:54:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-17 11:54:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 12:00:00,Medication Admin,Ampicillin-Sulbactam,NaN,NaN,emar
+14950370,21912907,2187-03-17 12:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 12:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 12:56:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-17 12:56:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 12:56:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 13:00:00,Prescription,LORazepam,0.5,mg,prescriptions
+14950370,21912907,2187-03-17 13:00:00,Pharmacy,LORazepam,,NaN,pharmacy
+14950370,21912907,2187-03-17 14:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-17 14:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 14:16:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 14:16:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 14:16:00,Medication Admin,Ampicillin-Sulbactam,NaN,NaN,emar
+14950370,21912907,2187-03-17 15:34:00,Medication Admin,Vancomycin,NaN,NaN,emar
+14950370,21912907,2187-03-17 15:34:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 15:34:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 16:54:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-17 16:54:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 18:23:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 18:23:00,Medication Admin,Ampicillin-Sulbactam,NaN,NaN,emar
+14950370,21912907,2187-03-17 18:23:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 18:32:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 18:32:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 18:32:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 18:32:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 18:32:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-17 18:32:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-17 19:35:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 19:35:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 19:35:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 19:35:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 19:35:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-17 19:35:00,Medication Admin,Heparin,NaN,NaN,emar
+14950370,21912907,2187-03-17 22:07:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-17 22:07:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-17 22:07:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-17 22:07:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 22:07:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 22:07:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 22:07:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 22:07:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 22:07:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 23:00:00,Lab Result,I| Blood,0.0,,labevents
+14950370,21912907,2187-03-17 23:00:00,Lab Result,Vancomycin| Blood,15.5,ug/mL,labevents
+14950370,21912907,2187-03-17 23:00:00,Lab Result,L| Blood,7.0,,labevents
+14950370,21912907,2187-03-17 23:00:00,Lab Result,H| Blood,25.0,,labevents
+14950370,21912907,2187-03-17 23:40:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-17 23:40:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 23:40:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 23:40:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 23:40:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 23:40:00,Medication Admin,Ampicillin-Sulbactam,NaN,NaN,emar
+14950370,21912907,2187-03-17 23:42:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-17 23:42:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-17 23:42:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 00:15:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 00:15:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 00:15:00,Medication Admin,Vancomycin,NaN,NaN,emar
+14950370,21912907,2187-03-18 05:35:00,Lab Result,Urea Nitrogen| Blood,7.0,mg/dL,labevents
+14950370,21912907,2187-03-18 05:35:00,Lab Result,I| Blood,1.0,,labevents
+14950370,21912907,2187-03-18 05:35:00,Lab Result,Magnesium| Blood,2.2,mg/dL,labevents
+14950370,21912907,2187-03-18 05:35:00,Lab Result,Potassium| Blood,4.2,mEq/L,labevents
+14950370,21912907,2187-03-18 05:35:00,Lab Result,Sodium| Blood,143.0,mEq/L,labevents
+14950370,21912907,2187-03-18 05:35:00,Lab Result,L| Blood,9.0,,labevents
+14950370,21912907,2187-03-18 05:35:00,Lab Result,MCHC| Blood,31.8,g/dL,labevents
+14950370,21912907,2187-03-18 05:35:00,Lab Result,Hemoglobin| Blood,11.6,g/dL,labevents
+14950370,21912907,2187-03-18 05:35:00,Lab Result,MCH| Blood,29.5,pg,labevents
+14950370,21912907,2187-03-18 05:35:00,Lab Result,H| Blood,19.0,,labevents
+14950370,21912907,2187-03-18 05:35:00,Lab Result,MCV| Blood,93.0,fL,labevents
+14950370,21912907,2187-03-18 05:35:00,Lab Result,Platelet Count| Blood,434.0,K/uL,labevents
+14950370,21912907,2187-03-18 05:35:00,Lab Result,RDW| Blood,12.6,%,labevents
+14950370,21912907,2187-03-18 05:35:00,Lab Result,Red Blood Cells| Blood,3.93,m/uL,labevents
+14950370,21912907,2187-03-18 05:35:00,Lab Result,White Blood Cells| Blood,9.6,K/uL,labevents
+14950370,21912907,2187-03-18 05:35:00,Lab Result,RDW-SD| Blood,43.3,fL,labevents
+14950370,21912907,2187-03-18 05:35:00,Lab Result,Hematocrit| Blood,36.5,%,labevents
+14950370,21912907,2187-03-18 05:35:00,Lab Result,Glucose| Blood,85.0,mg/dL,labevents
+14950370,21912907,2187-03-18 05:35:00,Lab Result,Creatinine| Blood,0.7,mg/dL,labevents
+14950370,21912907,2187-03-18 05:35:00,Lab Result,Chloride| Blood,102.0,mEq/L,labevents
+14950370,21912907,2187-03-18 05:35:00,Lab Result,Bicarbonate| Blood,24.0,mEq/L,labevents
+14950370,21912907,2187-03-18 05:35:00,Lab Result,Anion Gap| Blood,17.0,mEq/L,labevents
+14950370,21912907,2187-03-18 06:00:00,Pharmacy,,,NaN,pharmacy
+14950370,21912907,2187-03-18 06:00:00,Prescription,Lactated Ringers,1000,mL,prescriptions
+14950370,21912907,2187-03-18 06:00:00,Medication Admin,,NaN,NaN,emar
+14950370,21912907,2187-03-18 06:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 06:01:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-18 06:01:00,Medication Admin,Ampicillin-Sulbactam,NaN,NaN,emar
+14950370,21912907,2187-03-18 06:01:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 06:01:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 06:01:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 06:01:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 07:47:00,Medication Admin,Vancomycin,NaN,NaN,emar
+14950370,21912907,2187-03-18 07:47:00,Medication Admin,Heparin,NaN,NaN,emar
+14950370,21912907,2187-03-18 07:47:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 07:47:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 07:47:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 07:47:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 07:52:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 07:52:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 07:52:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-18 07:54:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 07:54:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 07:54:00,Medication Admin,,NaN,NaN,emar
+14950370,21912907,2187-03-18 09:47:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-18 09:47:00,Medication Admin,Lidocaine 1% (For PICC/Midline Insertions),NaN,NaN,emar
+14950370,21912907,2187-03-18 09:47:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 09:47:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 09:47:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 09:47:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 09:47:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 09:48:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 09:48:00,Medication Admin,Heparin Flush (10 units/ml),NaN,NaN,emar
+14950370,21912907,2187-03-18 09:57:00,Medication Admin,Heparin Flush (10 units/ml),NaN,NaN,emar
+14950370,21912907,2187-03-18 09:57:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 10:24:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 10:24:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-18 11:31:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-18 11:31:00,Medication Admin,Ampicillin-Sulbactam,NaN,NaN,emar
+14950370,21912907,2187-03-18 11:31:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 11:31:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 11:31:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 11:31:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 11:31:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 11:31:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 11:31:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-18 11:31:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 13:01:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-18 13:01:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 13:01:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 13:02:00,Medication Admin,,NaN,NaN,emar
+14950370,21912907,2187-03-18 13:02:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 13:02:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 16:24:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 16:24:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-18 16:24:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 16:24:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 16:24:00,Medication Admin,Vancomycin,NaN,NaN,emar
+14950370,21912907,2187-03-18 16:24:00,Medication Admin,,NaN,NaN,emar
+14950370,21912907,2187-03-18 16:24:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 16:24:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 16:24:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 18:35:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 18:35:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 18:35:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-18 18:35:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 18:35:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 18:35:00,Medication Admin,Ampicillin-Sulbactam,NaN,NaN,emar
+14950370,21912907,2187-03-18 18:35:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 18:35:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 18:35:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 18:35:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-18 18:40:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-18 18:40:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 18:40:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 18:40:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 20:32:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 20:32:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 20:32:00,Medication Admin,LORazepam,NaN,NaN,emar
+14950370,21912907,2187-03-18 21:00:00,Prescription,LORazepam,0.5,mg,prescriptions
+14950370,21912907,2187-03-18 21:00:00,Pharmacy,LORazepam,,NaN,pharmacy
+14950370,21912907,2187-03-18 21:23:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 21:23:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-18 21:30:00,Medication Admin,Heparin,NaN,NaN,emar
+14950370,21912907,2187-03-18 21:30:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-18 21:30:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 21:30:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 21:30:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 21:30:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 22:28:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 22:28:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-18 22:28:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 22:28:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 22:38:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 22:38:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 22:38:00,Medication Admin,HYDROmorphone (Dilaudid),NaN,NaN,emar
+14950370,21912907,2187-03-18 22:50:00,Lab Result,L| Blood,7.0,,labevents
+14950370,21912907,2187-03-18 22:50:00,Lab Result,H| Blood,0.0,,labevents
+14950370,21912907,2187-03-18 22:50:00,Lab Result,Creatine Kinase (CK)| Blood,19.0,IU/L,labevents
+14950370,21912907,2187-03-18 22:50:00,Lab Result,"Creatine Kinase, MB Isoenzyme| Blood",,ng/mL,labevents
+14950370,21912907,2187-03-18 22:50:00,Lab Result,H| Blood,9.0,,labevents
+14950370,21912907,2187-03-18 22:50:00,Lab Result,I| Blood,1.0,,labevents
+14950370,21912907,2187-03-18 22:50:00,Lab Result,Troponin T| Blood,,ng/mL,labevents
+14950370,21912907,2187-03-18 22:50:00,Lab Result,L| Blood,5.0,,labevents
+14950370,21912907,2187-03-18 22:50:00,Lab Result,I| Blood,1.0,,labevents
+14950370,21912907,2187-03-18 22:50:00,Lab Result,Vancomycin| Blood,19.0,ug/mL,labevents
+14950370,21912907,2187-03-18 23:48:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-18 23:48:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-18 23:48:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 00:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-19 00:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 00:38:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 00:38:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 00:38:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 00:38:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 00:38:00,Medication Admin,Vancomycin,NaN,NaN,emar
+14950370,21912907,2187-03-19 00:38:00,Medication Admin,,NaN,NaN,emar
+14950370,21912907,2187-03-19 01:42:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 01:42:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 01:42:00,Medication Admin,Ampicillin-Sulbactam,NaN,NaN,emar
+14950370,21912907,2187-03-19 05:09:00,Lab Result,RDW-SD| Blood,41.6,fL,labevents
+14950370,21912907,2187-03-19 05:09:00,Lab Result,Magnesium| Blood,2.2,mg/dL,labevents
+14950370,21912907,2187-03-19 05:09:00,Lab Result,Sodium| Blood,143.0,mEq/L,labevents
+14950370,21912907,2187-03-19 05:09:00,Lab Result,H| Blood,2.0,,labevents
+14950370,21912907,2187-03-19 05:09:00,Lab Result,I| Blood,1.0,,labevents
+14950370,21912907,2187-03-19 05:09:00,Lab Result,"Creatine Kinase, MB Isoenzyme| Blood",,ng/mL,labevents
+14950370,21912907,2187-03-19 05:09:00,Lab Result,Creatine Kinase (CK)| Blood,19.0,IU/L,labevents
+14950370,21912907,2187-03-19 05:09:00,Lab Result,Potassium| Blood,3.6,mEq/L,labevents
+14950370,21912907,2187-03-19 05:09:00,Lab Result,Chloride| Blood,103.0,mEq/L,labevents
+14950370,21912907,2187-03-19 05:09:00,Lab Result,Bicarbonate| Blood,27.0,mEq/L,labevents
+14950370,21912907,2187-03-19 05:09:00,Lab Result,Anion Gap| Blood,13.0,mEq/L,labevents
+14950370,21912907,2187-03-19 05:09:00,Lab Result,Urea Nitrogen| Blood,6.0,mg/dL,labevents
+14950370,21912907,2187-03-19 05:09:00,Lab Result,Glucose| Blood,71.0,mg/dL,labevents
+14950370,21912907,2187-03-19 05:09:00,Lab Result,Creatinine| Blood,0.7,mg/dL,labevents
+14950370,21912907,2187-03-19 05:09:00,Lab Result,Hematocrit| Blood,32.3,%,labevents
+14950370,21912907,2187-03-19 05:09:00,Lab Result,Hemoglobin| Blood,10.4,g/dL,labevents
+14950370,21912907,2187-03-19 05:09:00,Lab Result,MCH| Blood,29.3,pg,labevents
+14950370,21912907,2187-03-19 05:09:00,Lab Result,MCHC| Blood,32.2,g/dL,labevents
+14950370,21912907,2187-03-19 05:09:00,Lab Result,MCV| Blood,91.0,fL,labevents
+14950370,21912907,2187-03-19 05:09:00,Lab Result,Platelet Count| Blood,408.0,K/uL,labevents
+14950370,21912907,2187-03-19 05:09:00,Lab Result,RDW| Blood,12.5,%,labevents
+14950370,21912907,2187-03-19 05:09:00,Lab Result,Red Blood Cells| Blood,3.55,m/uL,labevents
+14950370,21912907,2187-03-19 05:09:00,Lab Result,White Blood Cells| Blood,10.0,K/uL,labevents
+14950370,21912907,2187-03-19 05:09:00,Lab Result,L| Blood,4.0,,labevents
+14950370,21912907,2187-03-19 05:19:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 05:19:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 05:19:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 05:19:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-19 05:19:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 05:19:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 05:19:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 05:19:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-19 05:19:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-19 05:19:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 05:19:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 06:29:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 06:29:00,Medication Admin,Ampicillin-Sulbactam,NaN,NaN,emar
+14950370,21912907,2187-03-19 06:29:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 08:00:00,Pharmacy,Sodium Chloride 0.9%  Flush,,NaN,pharmacy
+14950370,21912907,2187-03-19 08:00:00,Prescription,Sodium Chloride 0.9%  Flush,10-20,mL,prescriptions
+14950370,21912907,2187-03-19 08:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-19 08:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 08:13:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 08:13:00,Medication Admin,Heparin,NaN,NaN,emar
+14950370,21912907,2187-03-19 08:13:00,Medication Admin,Vancomycin,NaN,NaN,emar
+14950370,21912907,2187-03-19 08:13:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-19 08:13:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 08:13:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 08:13:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 08:13:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 08:15:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 08:15:00,Medication Admin,,NaN,NaN,emar
+14950370,21912907,2187-03-19 08:15:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 09:36:10,Service,MED,NaN,NaN,services
+14950370,21912907,2187-03-19 10:24:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 10:24:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 10:24:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 10:24:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-19 11:47:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 11:47:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 11:47:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 11:47:00,Medication Admin,Ampicillin-Sulbactam,NaN,NaN,emar
+14950370,21912907,2187-03-19 11:47:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-19 11:47:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 11:52:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 11:52:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-19 14:25:00,Lab Result,"Creatine Kinase, MB Isoenzyme| Blood",,ng/mL,labevents
+14950370,21912907,2187-03-19 14:25:00,Lab Result,L| Blood,7.0,,labevents
+14950370,21912907,2187-03-19 14:25:00,Lab Result,Troponin T| Blood,,ng/mL,labevents
+14950370,21912907,2187-03-19 14:25:00,Lab Result,I| Blood,1.0,,labevents
+14950370,21912907,2187-03-19 14:25:00,Lab Result,Creatine Kinase (CK)| Blood,17.0,IU/L,labevents
+14950370,21912907,2187-03-19 14:25:00,Lab Result,H| Blood,3.0,,labevents
+14950370,21912907,2187-03-19 16:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-19 16:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 16:06:00,Medication Admin,Vancomycin,NaN,NaN,emar
+14950370,21912907,2187-03-19 16:06:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 16:06:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 16:09:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 16:09:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 16:09:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-19 17:29:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 17:29:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 17:29:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-19 17:38:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-19 17:38:00,Medication Admin,Ampicillin-Sulbactam,NaN,NaN,emar
+14950370,21912907,2187-03-19 17:38:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 17:38:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 17:38:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 17:38:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 18:20:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-19 18:20:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 18:20:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 19:33:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 19:33:00,Medication Admin,Heparin,NaN,NaN,emar
+14950370,21912907,2187-03-19 19:33:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 22:41:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-19 22:41:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-19 22:41:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 22:41:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 22:41:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 22:41:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 23:27:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 23:27:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-19 23:27:00,Medication Admin,,NaN,NaN,emar
+14950370,21912907,2187-03-19 23:27:00,Medication Admin,Ampicillin-Sulbactam,NaN,NaN,emar
+14950370,21912907,2187-03-19 23:27:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 23:27:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 23:27:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-19 23:27:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 23:27:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-19 23:27:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 23:27:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 23:27:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 23:27:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 23:27:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 23:27:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-19 23:27:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 00:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 00:00:00,Pharmacy,,,NaN,pharmacy
+14950370,21912907,2187-03-20 00:00:00,Prescription,D5 1/2NS,1000,mL,prescriptions
+14950370,21912907,2187-03-20 00:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-20 00:46:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 00:46:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 00:46:00,Medication Admin,Vancomycin,NaN,NaN,emar
+14950370,21912907,2187-03-20 06:08:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 06:08:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 06:08:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 06:08:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 06:08:00,Medication Admin,Ampicillin-Sulbactam,NaN,NaN,emar
+14950370,21912907,2187-03-20 06:08:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-20 06:08:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 06:08:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 06:08:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 06:08:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-20 06:10:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 06:10:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 06:10:00,Medication Admin,,NaN,NaN,emar
+14950370,21912907,2187-03-20 06:30:00,Lab Result,Anion Gap| Blood,14.0,mEq/L,labevents
+14950370,21912907,2187-03-20 06:30:00,Lab Result,RDW-SD| Blood,41.1,fL,labevents
+14950370,21912907,2187-03-20 06:30:00,Lab Result,Sodium| Blood,142.0,mEq/L,labevents
+14950370,21912907,2187-03-20 06:30:00,Lab Result,L| Blood,5.0,,labevents
+14950370,21912907,2187-03-20 06:30:00,Lab Result,Hematocrit| Blood,30.0,%,labevents
+14950370,21912907,2187-03-20 06:30:00,Lab Result,Hemoglobin| Blood,9.8,g/dL,labevents
+14950370,21912907,2187-03-20 06:30:00,Lab Result,MCH| Blood,29.4,pg,labevents
+14950370,21912907,2187-03-20 06:30:00,Lab Result,MCHC| Blood,32.7,g/dL,labevents
+14950370,21912907,2187-03-20 06:30:00,Lab Result,MCV| Blood,90.0,fL,labevents
+14950370,21912907,2187-03-20 06:30:00,Lab Result,Platelet Count| Blood,364.0,K/uL,labevents
+14950370,21912907,2187-03-20 06:30:00,Lab Result,RDW| Blood,12.5,%,labevents
+14950370,21912907,2187-03-20 06:30:00,Lab Result,Red Blood Cells| Blood,3.33,m/uL,labevents
+14950370,21912907,2187-03-20 06:30:00,Lab Result,White Blood Cells| Blood,8.0,K/uL,labevents
+14950370,21912907,2187-03-20 06:30:00,Lab Result,Potassium| Blood,3.4,mEq/L,labevents
+14950370,21912907,2187-03-20 06:30:00,Lab Result,Urea Nitrogen| Blood,6.0,mg/dL,labevents
+14950370,21912907,2187-03-20 06:30:00,Lab Result,Alkaline Phosphatase| Blood,84.0,IU/L,labevents
+14950370,21912907,2187-03-20 06:30:00,Lab Result,Phosphate| Blood,3.8,mg/dL,labevents
+14950370,21912907,2187-03-20 06:30:00,Lab Result,Magnesium| Blood,2.0,mg/dL,labevents
+14950370,21912907,2187-03-20 06:30:00,Lab Result,I| Blood,1.0,,labevents
+14950370,21912907,2187-03-20 06:30:00,Lab Result,H| Blood,3.0,,labevents
+14950370,21912907,2187-03-20 06:30:00,Lab Result,Glucose| Blood,114.0,mg/dL,labevents
+14950370,21912907,2187-03-20 06:30:00,Lab Result,Estimated GFR (MDRD equation)| Blood,,,labevents
+14950370,21912907,2187-03-20 06:30:00,Lab Result,Creatinine| Blood,0.7,mg/dL,labevents
+14950370,21912907,2187-03-20 06:30:00,Lab Result,Chloride| Blood,102.0,mEq/L,labevents
+14950370,21912907,2187-03-20 06:30:00,Lab Result,"Calcium, Total| Blood",8.5,mg/dL,labevents
+14950370,21912907,2187-03-20 06:30:00,Lab Result,C-Reactive Protein| Blood,63.1,mg/L,labevents
+14950370,21912907,2187-03-20 06:30:00,Lab Result,"Bilirubin, Total| Blood",0.4,mg/dL,labevents
+14950370,21912907,2187-03-20 06:30:00,Lab Result,Bicarbonate| Blood,26.0,mEq/L,labevents
+14950370,21912907,2187-03-20 06:30:00,Lab Result,Asparate Aminotransferase (AST)| Blood,8.0,IU/L,labevents
+14950370,21912907,2187-03-20 06:30:00,Lab Result,Alanine Aminotransferase (ALT)| Blood,10.0,IU/L,labevents
+14950370,21912907,2187-03-20 08:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 08:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-20 08:47:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-20 08:47:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 08:48:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 08:48:00,Medication Admin,Heparin,NaN,NaN,emar
+14950370,21912907,2187-03-20 08:48:00,Medication Admin,Vancomycin,NaN,NaN,emar
+14950370,21912907,2187-03-20 08:48:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 08:48:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 08:48:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 12:00:00,Pharmacy,,,NaN,pharmacy
+14950370,21912907,2187-03-20 12:00:00,Prescription,Potassium Chl 40 mEq / 1000 mL D5 1/2 NS,1000,mL,prescriptions
+14950370,21912907,2187-03-20 12:56:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 12:56:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-20 12:57:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-20 12:57:00,Medication Admin,Ampicillin-Sulbactam,NaN,NaN,emar
+14950370,21912907,2187-03-20 12:57:00,Medication Admin,,NaN,NaN,emar
+14950370,21912907,2187-03-20 12:57:00,Medication Admin,,NaN,NaN,emar
+14950370,21912907,2187-03-20 12:57:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 12:57:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 12:57:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 12:57:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 12:57:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 12:57:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 12:57:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 12:57:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 13:22:00,Lab Result,Length of Urine Collection| Urine,,,labevents
+14950370,21912907,2187-03-20 13:22:00,Lab Result,"HCG, Urine, Qualitative| Urine",,,labevents
+14950370,21912907,2187-03-20 13:28:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 13:28:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 13:28:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 13:28:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-20 16:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 16:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-20 17:31:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 17:31:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 17:31:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-20 17:31:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 17:31:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 17:31:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 17:31:00,Medication Admin,Vancomycin,NaN,NaN,emar
+14950370,21912907,2187-03-20 17:31:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-20 18:35:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-20 18:35:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 18:35:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 18:35:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 19:40:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 19:40:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 19:40:00,Medication Admin,Heparin,NaN,NaN,emar
+14950370,21912907,2187-03-20 21:30:00,Lab Result,H| Blood,4.0,,labevents
+14950370,21912907,2187-03-20 21:30:00,Lab Result,I| Blood,1.0,,labevents
+14950370,21912907,2187-03-20 21:30:00,Lab Result,Vancomycin| Blood,23.0,ug/mL,labevents
+14950370,21912907,2187-03-20 21:30:00,Lab Result,L| Blood,4.0,,labevents
+14950370,21912907,2187-03-20 22:11:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 22:11:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 22:11:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 22:11:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 22:11:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 22:11:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-20 22:11:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-20 22:11:00,Medication Admin,,NaN,NaN,emar
+14950370,21912907,2187-03-20 22:11:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 22:38:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 22:38:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 22:38:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 22:38:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-20 23:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 23:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-20 23:23:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 23:23:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 23:23:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 23:23:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 23:23:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-20 23:23:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-20 23:23:00,Medication Admin,Vancomycin,NaN,NaN,emar
+14950370,21912907,2187-03-21 00:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 00:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-21 06:07:00,Lab Result,H| Blood,1.0,,labevents
+14950370,21912907,2187-03-21 06:07:00,Lab Result,I| Blood,1.0,,labevents
+14950370,21912907,2187-03-21 06:07:00,Lab Result,Vancomycin| Blood,20.0,ug/mL,labevents
+14950370,21912907,2187-03-21 06:07:00,Lab Result,L| Blood,6.0,,labevents
+14950370,21912907,2187-03-21 06:09:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 06:09:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 06:09:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 06:09:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 06:09:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 06:09:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 06:09:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 06:09:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-21 06:09:00,Medication Admin,,NaN,NaN,emar
+14950370,21912907,2187-03-21 06:09:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-21 06:09:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 06:10:00,Lab Result,eAG| Blood,278.0,mg/dL,labevents
+14950370,21912907,2187-03-21 06:10:00,Lab Result,% Hemoglobin A1c| Blood,11.3,%,labevents
+14950370,21912907,2187-03-21 06:10:00,Lab Result,Urea Nitrogen| Blood,5.0,mg/dL,labevents
+14950370,21912907,2187-03-21 06:10:00,Lab Result,Sodium| Blood,143.0,mEq/L,labevents
+14950370,21912907,2187-03-21 06:10:00,Lab Result,Potassium| Blood,3.9,mEq/L,labevents
+14950370,21912907,2187-03-21 06:10:00,Lab Result,Phosphate| Blood,3.8,mg/dL,labevents
+14950370,21912907,2187-03-21 06:10:00,Lab Result,Magnesium| Blood,2.2,mg/dL,labevents
+14950370,21912907,2187-03-21 06:10:00,Lab Result,L| Blood,3.0,,labevents
+14950370,21912907,2187-03-21 06:10:00,Lab Result,Hemoglobin| Blood,9.8,g/dL,labevents
+14950370,21912907,2187-03-21 06:10:00,Lab Result,I| Blood,1.0,,labevents
+14950370,21912907,2187-03-21 06:10:00,Lab Result,Anion Gap| Blood,16.0,mEq/L,labevents
+14950370,21912907,2187-03-21 06:10:00,Lab Result,Bicarbonate| Blood,24.0,mEq/L,labevents
+14950370,21912907,2187-03-21 06:10:00,Lab Result,"Calcium, Total| Blood",8.9,mg/dL,labevents
+14950370,21912907,2187-03-21 06:10:00,Lab Result,Chloride| Blood,103.0,mEq/L,labevents
+14950370,21912907,2187-03-21 06:10:00,Lab Result,Creatinine| Blood,0.7,mg/dL,labevents
+14950370,21912907,2187-03-21 06:10:00,Lab Result,Glucose| Blood,81.0,mg/dL,labevents
+14950370,21912907,2187-03-21 06:10:00,Lab Result,Hematocrit| Blood,30.7,%,labevents
+14950370,21912907,2187-03-21 06:10:00,Lab Result,H| Blood,3.0,,labevents
+14950370,21912907,2187-03-21 06:10:00,Lab Result,White Blood Cells| Blood,6.5,K/uL,labevents
+14950370,21912907,2187-03-21 06:10:00,Lab Result,Red Blood Cells| Blood,3.41,m/uL,labevents
+14950370,21912907,2187-03-21 06:10:00,Lab Result,RDW| Blood,12.5,%,labevents
+14950370,21912907,2187-03-21 06:10:00,Lab Result,Platelet Count| Blood,354.0,K/uL,labevents
+14950370,21912907,2187-03-21 06:10:00,Lab Result,MCV| Blood,90.0,fL,labevents
+14950370,21912907,2187-03-21 06:10:00,Lab Result,MCHC| Blood,31.9,g/dL,labevents
+14950370,21912907,2187-03-21 06:10:00,Lab Result,MCH| Blood,28.7,pg,labevents
+14950370,21912907,2187-03-21 06:10:00,Lab Result,RDW-SD| Blood,41.3,fL,labevents
+14950370,21912907,2187-03-21 07:58:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-21 07:58:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 08:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-21 08:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 08:55:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 08:55:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 08:55:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 08:55:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 08:55:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 08:55:00,Medication Admin,Vancomycin,NaN,NaN,emar
+14950370,21912907,2187-03-21 08:55:00,Medication Admin,,NaN,NaN,emar
+14950370,21912907,2187-03-21 08:55:00,Medication Admin,Heparin,NaN,NaN,emar
+14950370,21912907,2187-03-21 08:55:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 12:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 12:00:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-21 14:31:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-21 14:31:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 14:34:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 14:34:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 14:34:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 14:34:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 14:34:00,Medication Admin,Dextrose 50%,NaN,NaN,emar
+14950370,21912907,2187-03-21 14:34:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-21 15:22:00,Lab Result,L| Blood,10.0,,labevents
+14950370,21912907,2187-03-21 15:22:00,Lab Result,H| Blood,7.0,,labevents
+14950370,21912907,2187-03-21 15:22:00,Lab Result,I| Blood,1.0,,labevents
+14950370,21912907,2187-03-21 15:22:00,Lab Result,Triglycerides| Blood,177.0,mg/dL,labevents
+14950370,21912907,2187-03-21 15:28:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 15:28:00,Medication Admin,Vancomycin,NaN,NaN,emar
+14950370,21912907,2187-03-21 15:28:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 16:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-21 16:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 17:16:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 17:16:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-21 17:16:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 17:17:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 17:17:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-21 17:24:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 17:24:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-21 17:24:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 17:24:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 18:00:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-21 18:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 20:18:00,Medication Admin,Heparin,NaN,NaN,emar
+14950370,21912907,2187-03-21 20:18:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 20:18:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 21:21:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 21:21:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 21:21:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-21 21:21:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 22:02:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-21 22:02:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 22:20:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 22:20:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-21 22:20:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 23:19:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 23:19:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 23:19:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 23:19:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 23:19:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 23:19:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 23:19:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-21 23:19:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-21 23:19:00,Medication Admin,Vancomycin,NaN,NaN,emar
+14950370,21912907,2187-03-21 23:19:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-22 00:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-22 00:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 03:06:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 03:06:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 03:06:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-22 03:06:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 06:02:00,Lab Result,Creatinine| Blood,0.7,mg/dL,labevents
+14950370,21912907,2187-03-22 06:02:00,Lab Result,Bicarbonate| Blood,26.0,mEq/L,labevents
+14950370,21912907,2187-03-22 06:02:00,Lab Result,EDTA Hold| Blood,,,labevents
+14950370,21912907,2187-03-22 06:02:00,Lab Result,Red Top Hold| Blood,,,labevents
+14950370,21912907,2187-03-22 06:02:00,Lab Result,RDW-SD| Blood,41.1,fL,labevents
+14950370,21912907,2187-03-22 06:02:00,Lab Result,White Blood Cells| Blood,6.3,K/uL,labevents
+14950370,21912907,2187-03-22 06:02:00,Lab Result,Red Blood Cells| Blood,3.49,m/uL,labevents
+14950370,21912907,2187-03-22 06:02:00,Lab Result,RDW| Blood,12.5,%,labevents
+14950370,21912907,2187-03-22 06:02:00,Lab Result,Platelet Count| Blood,356.0,K/uL,labevents
+14950370,21912907,2187-03-22 06:02:00,Lab Result,MCV| Blood,91.0,fL,labevents
+14950370,21912907,2187-03-22 06:02:00,Lab Result,MCHC| Blood,32.6,g/dL,labevents
+14950370,21912907,2187-03-22 06:02:00,Lab Result,MCH| Blood,29.5,pg,labevents
+14950370,21912907,2187-03-22 06:02:00,Lab Result,Hemoglobin| Blood,10.3,g/dL,labevents
+14950370,21912907,2187-03-22 06:02:00,Lab Result,Hematocrit| Blood,31.6,%,labevents
+14950370,21912907,2187-03-22 06:02:00,Lab Result,L| Blood,6.0,,labevents
+14950370,21912907,2187-03-22 06:02:00,Lab Result,Urea Nitrogen| Blood,6.0,mg/dL,labevents
+14950370,21912907,2187-03-22 06:02:00,Lab Result,Sodium| Blood,144.0,mEq/L,labevents
+14950370,21912907,2187-03-22 06:02:00,Lab Result,Potassium| Blood,3.9,mEq/L,labevents
+14950370,21912907,2187-03-22 06:02:00,Lab Result,Phosphate| Blood,4.2,mg/dL,labevents
+14950370,21912907,2187-03-22 06:02:00,Lab Result,I| Blood,1.0,,labevents
+14950370,21912907,2187-03-22 06:02:00,Lab Result,H| Blood,2.0,,labevents
+14950370,21912907,2187-03-22 06:02:00,Lab Result,Glucose| Blood,78.0,mg/dL,labevents
+14950370,21912907,2187-03-22 06:02:00,Lab Result,Chloride| Blood,105.0,mEq/L,labevents
+14950370,21912907,2187-03-22 06:02:00,Lab Result,Anion Gap| Blood,13.0,mEq/L,labevents
+14950370,21912907,2187-03-22 06:02:00,Lab Result,Magnesium| Blood,2.2,mg/dL,labevents
+14950370,21912907,2187-03-22 06:02:00,Lab Result,"Calcium, Total| Blood",9.2,mg/dL,labevents
+14950370,21912907,2187-03-22 06:07:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 06:07:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-22 06:07:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-22 06:07:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 06:07:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 06:07:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 06:07:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 06:07:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 08:47:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-22 08:47:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 08:50:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 08:50:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 08:50:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 08:50:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 08:50:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 08:50:00,Medication Admin,Vancomycin,NaN,NaN,emar
+14950370,21912907,2187-03-22 08:50:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 08:50:00,Medication Admin,Heparin,NaN,NaN,emar
+14950370,21912907,2187-03-22 08:50:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-22 11:12:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 11:12:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 11:12:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-22 11:16:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 11:16:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 11:16:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-22 12:04:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-22 12:04:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-22 12:04:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 12:04:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 12:04:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 12:04:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 12:04:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 15:46:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 15:46:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 15:46:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 15:46:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 15:46:00,Medication Admin,Vancomycin,NaN,NaN,emar
+14950370,21912907,2187-03-22 15:46:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-22 17:40:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 17:40:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 17:40:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 17:40:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 17:40:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-22 17:40:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-22 19:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 19:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-22 19:24:00,Medication Admin,Heparin,NaN,NaN,emar
+14950370,21912907,2187-03-22 19:24:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 19:24:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 21:36:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 21:36:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 21:36:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 21:36:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 21:36:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 21:36:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 21:36:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-22 21:36:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-22 21:36:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-22 23:40:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-22 23:40:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 23:40:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 23:40:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 23:40:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 23:40:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 23:40:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 23:40:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-22 23:40:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-22 23:40:00,Medication Admin,Vancomycin,NaN,NaN,emar
+14950370,21912907,2187-03-23 03:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-23 03:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-23 05:14:00,Lab Result,L| Blood,6.0,,labevents
+14950370,21912907,2187-03-23 05:14:00,Lab Result,White Blood Cells| Blood,5.0,K/uL,labevents
+14950370,21912907,2187-03-23 05:14:00,Lab Result,Urea Nitrogen| Blood,9.0,mg/dL,labevents
+14950370,21912907,2187-03-23 05:14:00,Lab Result,Sodium| Blood,143.0,mEq/L,labevents
+14950370,21912907,2187-03-23 05:14:00,Lab Result,Phosphate| Blood,3.6,mg/dL,labevents
+14950370,21912907,2187-03-23 05:14:00,Lab Result,Magnesium| Blood,2.1,mg/dL,labevents
+14950370,21912907,2187-03-23 05:14:00,Lab Result,I| Blood,1.0,,labevents
+14950370,21912907,2187-03-23 05:14:00,Lab Result,H| Blood,3.0,,labevents
+14950370,21912907,2187-03-23 05:14:00,Lab Result,Glucose| Blood,74.0,mg/dL,labevents
+14950370,21912907,2187-03-23 05:14:00,Lab Result,Creatinine| Blood,0.7,mg/dL,labevents
+14950370,21912907,2187-03-23 05:14:00,Lab Result,Chloride| Blood,105.0,mEq/L,labevents
+14950370,21912907,2187-03-23 05:14:00,Lab Result,"Calcium, Total| Blood",8.8,mg/dL,labevents
+14950370,21912907,2187-03-23 05:14:00,Lab Result,Bicarbonate| Blood,25.0,mEq/L,labevents
+14950370,21912907,2187-03-23 05:14:00,Lab Result,Anion Gap| Blood,13.0,mEq/L,labevents
+14950370,21912907,2187-03-23 05:14:00,Lab Result,Hemoglobin| Blood,10.2,g/dL,labevents
+14950370,21912907,2187-03-23 05:14:00,Lab Result,MCH| Blood,29.0,pg,labevents
+14950370,21912907,2187-03-23 05:14:00,Lab Result,MCHC| Blood,32.4,g/dL,labevents
+14950370,21912907,2187-03-23 05:14:00,Lab Result,MCV| Blood,90.0,fL,labevents
+14950370,21912907,2187-03-23 05:14:00,Lab Result,Platelet Count| Blood,325.0,K/uL,labevents
+14950370,21912907,2187-03-23 05:14:00,Lab Result,RDW| Blood,12.3,%,labevents
+14950370,21912907,2187-03-23 05:14:00,Lab Result,Red Blood Cells| Blood,3.52,m/uL,labevents
+14950370,21912907,2187-03-23 05:14:00,Lab Result,Hematocrit| Blood,31.5,%,labevents
+14950370,21912907,2187-03-23 05:14:00,Lab Result,RDW-SD| Blood,40.3,fL,labevents
+14950370,21912907,2187-03-23 05:14:00,Lab Result,Potassium| Blood,4.1,mEq/L,labevents
+14950370,21912907,2187-03-23 05:19:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-23 05:19:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-23 05:19:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-23 05:19:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-23 05:19:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-23 05:19:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-23 05:19:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-23 05:19:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-23 08:08:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-23 08:08:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-23 08:12:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-23 08:12:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-23 08:12:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-23 08:12:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-23 08:12:00,Medication Admin,Vancomycin,NaN,NaN,emar
+14950370,21912907,2187-03-23 08:12:00,Medication Admin,Heparin,NaN,NaN,emar
+14950370,21912907,2187-03-23 11:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-23 11:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-23 12:19:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-23 12:19:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-23 12:19:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-23 12:19:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-23 12:19:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-23 12:19:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-23 16:00:00,Prescription,0.9% Sodium Chloride,50,mL,prescriptions
+14950370,21912907,2187-03-23 16:00:00,Pharmacy,Daptomycin,,NaN,pharmacy
+14950370,21912907,2187-03-23 16:00:00,Prescription,Daptomycin,450,mg,prescriptions
+14950370,21912907,2187-03-23 17:22:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-23 17:22:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-23 19:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-23 19:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-23 20:18:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-23 20:18:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-23 20:18:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-23 20:18:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-23 20:18:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-23 20:18:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-23 20:18:00,Medication Admin,Heparin,NaN,NaN,emar
+14950370,21912907,2187-03-23 20:24:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-23 20:24:00,Medication Admin,Daptomycin,NaN,NaN,emar
+14950370,21912907,2187-03-23 20:24:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-23 20:24:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-23 20:24:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-23 20:24:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-23 22:03:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-23 22:03:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-23 22:03:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-23 22:03:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-23 22:03:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-23 22:03:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-23 23:37:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-23 23:37:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-23 23:37:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-23 23:37:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-24 03:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-24 03:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-24 05:12:00,Lab Result,Bicarbonate| Blood,25.0,mEq/L,labevents
+14950370,21912907,2187-03-24 05:12:00,Lab Result,Creatinine| Blood,0.7,mg/dL,labevents
+14950370,21912907,2187-03-24 05:12:00,Lab Result,Magnesium| Blood,2.1,mg/dL,labevents
+14950370,21912907,2187-03-24 05:12:00,Lab Result,Hematocrit| Blood,31.1,%,labevents
+14950370,21912907,2187-03-24 05:12:00,Lab Result,Hemoglobin| Blood,10.0,g/dL,labevents
+14950370,21912907,2187-03-24 05:12:00,Lab Result,"Calcium, Total| Blood",9.0,mg/dL,labevents
+14950370,21912907,2187-03-24 05:12:00,Lab Result,MCH| Blood,28.8,pg,labevents
+14950370,21912907,2187-03-24 05:12:00,Lab Result,MCV| Blood,90.0,fL,labevents
+14950370,21912907,2187-03-24 05:12:00,Lab Result,Platelet Count| Blood,295.0,K/uL,labevents
+14950370,21912907,2187-03-24 05:12:00,Lab Result,RDW| Blood,12.5,%,labevents
+14950370,21912907,2187-03-24 05:12:00,Lab Result,Red Blood Cells| Blood,3.47,m/uL,labevents
+14950370,21912907,2187-03-24 05:12:00,Lab Result,White Blood Cells| Blood,4.3,K/uL,labevents
+14950370,21912907,2187-03-24 05:12:00,Lab Result,RDW-SD| Blood,40.8,fL,labevents
+14950370,21912907,2187-03-24 05:12:00,Lab Result,Anion Gap| Blood,16.0,mEq/L,labevents
+14950370,21912907,2187-03-24 05:12:00,Lab Result,Glucose| Blood,101.0,mg/dL,labevents
+14950370,21912907,2187-03-24 05:12:00,Lab Result,MCHC| Blood,32.2,g/dL,labevents
+14950370,21912907,2187-03-24 05:12:00,Lab Result,Chloride| Blood,103.0,mEq/L,labevents
+14950370,21912907,2187-03-24 05:12:00,Lab Result,I| Blood,0.0,,labevents
+14950370,21912907,2187-03-24 05:12:00,Lab Result,Potassium| Blood,3.7,mEq/L,labevents
+14950370,21912907,2187-03-24 05:12:00,Lab Result,H| Blood,12.0,,labevents
+14950370,21912907,2187-03-24 05:12:00,Lab Result,Phosphate| Blood,4.0,mg/dL,labevents
+14950370,21912907,2187-03-24 05:12:00,Lab Result,L| Blood,5.0,,labevents
+14950370,21912907,2187-03-24 05:12:00,Lab Result,Urea Nitrogen| Blood,8.0,mg/dL,labevents
+14950370,21912907,2187-03-24 05:12:00,Lab Result,Sodium| Blood,144.0,mEq/L,labevents
+14950370,21912907,2187-03-24 05:22:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-24 05:22:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-24 05:22:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-24 05:22:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-24 07:41:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-24 07:41:00,Medication Admin,Heparin,NaN,NaN,emar
+14950370,21912907,2187-03-24 07:41:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-24 07:44:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-24 07:44:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-24 11:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-24 11:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-24 12:08:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-24 12:08:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-24 12:10:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-24 12:10:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-24 12:10:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-24 12:10:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-24 17:50:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-24 17:50:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-24 17:57:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-24 17:57:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-24 17:57:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-24 17:57:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-24 19:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-24 19:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-24 20:23:00,Medication Admin,Daptomycin,NaN,NaN,emar
+14950370,21912907,2187-03-24 20:23:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-24 20:23:00,Medication Admin,Heparin,NaN,NaN,emar
+14950370,21912907,2187-03-24 20:23:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-24 20:23:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-24 20:23:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-24 20:23:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-24 20:23:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-24 20:23:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-24 22:05:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-24 22:05:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-24 22:05:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-24 22:05:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-24 22:05:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-24 22:05:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-25 00:00:00,Prescription,Lactated Ringers,1000,mL,prescriptions
+14950370,21912907,2187-03-25 00:00:00,Pharmacy,,,NaN,pharmacy
+14950370,21912907,2187-03-25 01:21:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 01:21:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 01:21:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 01:21:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 01:21:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 01:21:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 01:21:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-25 01:21:00,Medication Admin,,NaN,NaN,emar
+14950370,21912907,2187-03-25 01:21:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-25 01:21:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 03:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 03:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-25 05:55:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-25 05:55:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 05:55:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 05:55:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 07:30:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-25 07:30:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 07:49:00,Medication Admin,Dextrose 50%,NaN,NaN,emar
+14950370,21912907,2187-03-25 07:49:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 07:49:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 09:46:00,Medication Admin,Heparin,NaN,NaN,emar
+14950370,21912907,2187-03-25 09:46:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 09:46:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 09:50:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-25 09:50:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 09:50:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 09:52:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 09:52:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 09:52:00,Medication Admin,,NaN,NaN,emar
+14950370,21912907,2187-03-25 11:38:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 11:38:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-25 12:02:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 12:02:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 12:02:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 12:02:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-25 17:09:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 17:09:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 17:09:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 17:09:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-25 17:44:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-25 17:44:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 18:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 18:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-25 19:39:00,Medication Admin,Daptomycin,NaN,NaN,emar
+14950370,21912907,2187-03-25 19:39:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 19:39:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 19:39:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 19:39:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 19:39:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 19:39:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-25 19:39:00,Medication Admin,Heparin,NaN,NaN,emar
+14950370,21912907,2187-03-25 19:39:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 22:20:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-25 22:20:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-25 22:20:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 22:20:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 22:20:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-25 22:20:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-26 00:27:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-26 00:27:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-26 00:27:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-26 00:27:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-26 02:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-26 02:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-26 05:38:00,Lab Result,PTT| Blood,31.5,sec,labevents
+14950370,21912907,2187-03-26 05:38:00,Lab Result,PT| Blood,13.0,sec,labevents
+14950370,21912907,2187-03-26 05:38:00,Lab Result,INR(PT)| Blood,1.2,,labevents
+14950370,21912907,2187-03-26 05:38:00,Lab Result,L| Blood,6.0,,labevents
+14950370,21912907,2187-03-26 05:38:00,Lab Result,Urea Nitrogen| Blood,10.0,mg/dL,labevents
+14950370,21912907,2187-03-26 05:38:00,Lab Result,Sodium| Blood,146.0,mEq/L,labevents
+14950370,21912907,2187-03-26 05:38:00,Lab Result,Potassium| Blood,4.2,mEq/L,labevents
+14950370,21912907,2187-03-26 05:38:00,Lab Result,Magnesium| Blood,2.1,mg/dL,labevents
+14950370,21912907,2187-03-26 05:38:00,Lab Result,I| Blood,1.0,,labevents
+14950370,21912907,2187-03-26 05:38:00,Lab Result,H| Blood,3.0,,labevents
+14950370,21912907,2187-03-26 05:38:00,Lab Result,Glucose| Blood,72.0,mg/dL,labevents
+14950370,21912907,2187-03-26 05:38:00,Lab Result,Creatinine| Blood,0.6,mg/dL,labevents
+14950370,21912907,2187-03-26 05:38:00,Lab Result,Creatine Kinase (CK)| Blood,23.0,IU/L,labevents
+14950370,21912907,2187-03-26 05:38:00,Lab Result,Chloride| Blood,106.0,mEq/L,labevents
+14950370,21912907,2187-03-26 05:38:00,Lab Result,"Calcium, Total| Blood",9.3,mg/dL,labevents
+14950370,21912907,2187-03-26 05:38:00,Lab Result,Bicarbonate| Blood,27.0,mEq/L,labevents
+14950370,21912907,2187-03-26 05:38:00,Lab Result,Anion Gap| Blood,13.0,mEq/L,labevents
+14950370,21912907,2187-03-26 05:38:00,Lab Result,Hematocrit| Blood,31.4,%,labevents
+14950370,21912907,2187-03-26 05:38:00,Lab Result,Hemoglobin| Blood,9.9,g/dL,labevents
+14950370,21912907,2187-03-26 05:38:00,Lab Result,Phosphate| Blood,4.4,mg/dL,labevents
+14950370,21912907,2187-03-26 05:38:00,Lab Result,MCHC| Blood,31.5,g/dL,labevents
+14950370,21912907,2187-03-26 05:38:00,Lab Result,MCV| Blood,91.0,fL,labevents
+14950370,21912907,2187-03-26 05:38:00,Lab Result,Platelet Count| Blood,309.0,K/uL,labevents
+14950370,21912907,2187-03-26 05:38:00,Lab Result,RDW| Blood,12.6,%,labevents
+14950370,21912907,2187-03-26 05:38:00,Lab Result,Red Blood Cells| Blood,3.46,m/uL,labevents
+14950370,21912907,2187-03-26 05:38:00,Lab Result,White Blood Cells| Blood,4.9,K/uL,labevents
+14950370,21912907,2187-03-26 05:38:00,Lab Result,RDW-SD| Blood,41.1,fL,labevents
+14950370,21912907,2187-03-26 05:38:00,Lab Result,MCH| Blood,28.6,pg,labevents
+14950370,21912907,2187-03-26 05:43:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-26 05:43:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-26 05:43:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-26 05:43:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-26 06:00:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-26 06:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-26 06:59:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-26 06:59:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-26 06:59:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-26 06:59:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-26 07:36:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-26 07:36:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-26 07:36:00,Medication Admin,Heparin,NaN,NaN,emar
+14950370,21912907,2187-03-26 07:39:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-26 07:39:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-26 10:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-26 10:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-26 11:27:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-26 11:27:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-26 11:27:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-26 11:27:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-26 11:33:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-26 11:33:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-26 11:33:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-26 15:57:00,Medication Admin,Daptomycin,NaN,NaN,emar
+14950370,21912907,2187-03-26 15:57:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-26 15:57:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-26 18:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-26 18:00:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-26 18:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+14950370,21912907,2187-03-26 18:00:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+14950370,21912907,2187-03-26 18:22:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-26 18:22:00,Medication Admin,Insulin,NaN,NaN,emar
+14950370,21912907,2187-03-26 20:17:00,Medication Route,,NaN,NaN,emar_detail
+14950370,21912907,2187-03-26 20:17:00,Medication Admin,OxycoDONE Liquid,NaN,NaN,emar
+14950370,21912907,2187-03-26 20:17:00,Medication Route,PO,NaN,NaN,emar_detail
+14950370,21912907,2187-03-26 20:20:41,Transfer,discharge,NaN,NaN,transfers

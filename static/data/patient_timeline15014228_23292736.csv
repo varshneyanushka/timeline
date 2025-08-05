@@ -1,0 +1,758 @@
+subject_id,hadm_id,event_time,event_type,description,value,unit,source_table
+15014228,23292736,2122-08-28 04:36:00,Admission,SURGICAL SAME DAY ADMISSION,NaN,NaN,admissions
+15014228,23292736,2122-08-28 04:36:39,Transfer,admit Discharge Lounge,NaN,NaN,transfers
+15014228,23292736,2122-08-28 04:36:39,Service,GYN,NaN,NaN,services
+15014228,23292736,2122-08-28 16:18:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+15014228,23292736,2122-08-28 16:18:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-28 16:18:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-28 16:18:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-28 16:18:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-28 16:18:00,Medication Admin,Pregabalin,NaN,NaN,emar
+15014228,23292736,2122-08-28 16:22:00,Medication Admin,Heparin,NaN,NaN,emar
+15014228,23292736,2122-08-28 16:22:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-28 16:22:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-28 17:20:00,Lab Result,RDW| Blood,24.4,%,labevents
+15014228,23292736,2122-08-28 17:20:00,Lab Result,Red Blood Cells| Blood,5.24,m/uL,labevents
+15014228,23292736,2122-08-28 17:20:00,Lab Result,White Blood Cells| Blood,5.4,K/uL,labevents
+15014228,23292736,2122-08-28 17:20:00,Lab Result,RDW-SD| Blood,46.2,fL,labevents
+15014228,23292736,2122-08-28 17:20:00,Lab Result,MCV| Blood,58.0,fL,labevents
+15014228,23292736,2122-08-28 17:20:00,Lab Result,MCHC| Blood,28.5,g/dL,labevents
+15014228,23292736,2122-08-28 17:20:00,Lab Result,MCH| Blood,16.6,pg,labevents
+15014228,23292736,2122-08-28 17:20:00,Lab Result,Hemoglobin| Blood,8.7,g/dL,labevents
+15014228,23292736,2122-08-28 17:20:00,Lab Result,Platelet Count| Blood,398.0,K/uL,labevents
+15014228,23292736,2122-08-28 17:20:00,Lab Result,Hematocrit| Blood,30.5,%,labevents
+15014228,23292736,2122-08-28 18:26:00,Lab Result,Ventilator| Blood,,,labevents
+15014228,23292736,2122-08-28 18:26:00,Lab Result,Ventilation Rate| Blood,,,labevents
+15014228,23292736,2122-08-28 18:26:00,Lab Result,Tidal Volume| Blood,450.0,,labevents
+15014228,23292736,2122-08-28 18:26:00,Lab Result,"Sodium, Whole Blood| Blood",137.0,mEq/L,labevents
+15014228,23292736,2122-08-28 18:26:00,Lab Result,Temperature| Blood,36.6,,labevents
+15014228,23292736,2122-08-28 18:26:00,Lab Result,pO2| Blood,202.0,mm Hg,labevents
+15014228,23292736,2122-08-28 18:26:00,Lab Result,pH| Blood,7.54,units,labevents
+15014228,23292736,2122-08-28 18:26:00,Lab Result,pCO2| Blood,22.0,mm Hg,labevents
+15014228,23292736,2122-08-28 18:26:00,Lab Result,Oxygen| Blood,50.0,%,labevents
+15014228,23292736,2122-08-28 18:26:00,Lab Result,Lactate| Blood,1.8,mmol/L,labevents
+15014228,23292736,2122-08-28 18:26:00,Lab Result,Intubated| Blood,,,labevents
+15014228,23292736,2122-08-28 18:26:00,Lab Result,Base Excess| Blood,-1.0,mEq/L,labevents
+15014228,23292736,2122-08-28 18:26:00,Lab Result,"Potassium, Whole Blood| Blood",3.7,mEq/L,labevents
+15014228,23292736,2122-08-28 18:26:00,Lab Result,Calculated Total CO2| Blood,19.0,mEq/L,labevents
+15014228,23292736,2122-08-28 18:26:00,Lab Result,Free Calcium| Blood,1.07,mmol/L,labevents
+15014228,23292736,2122-08-28 18:26:00,Lab Result,"Chloride, Whole Blood| Blood",107.0,mEq/L,labevents
+15014228,23292736,2122-08-28 20:07:00,Lab Result,MCHC| Blood,,g/dL,labevents
+15014228,23292736,2122-08-28 20:07:00,Lab Result,MCV| Blood,,fL,labevents
+15014228,23292736,2122-08-28 20:07:00,Lab Result,RDW| Blood,,%,labevents
+15014228,23292736,2122-08-28 20:07:00,Lab Result,White Blood Cells| Blood,,K/uL,labevents
+15014228,23292736,2122-08-28 20:07:00,Lab Result,RDW-SD| Blood,,fL,labevents
+15014228,23292736,2122-08-28 20:07:00,Lab Result,MCH| Blood,,pg,labevents
+15014228,23292736,2122-08-28 20:07:00,Lab Result,Platelet Count| Blood,,K/uL,labevents
+15014228,23292736,2122-08-28 20:07:00,Lab Result,Hemoglobin| Blood,,g/dL,labevents
+15014228,23292736,2122-08-28 20:07:00,Lab Result,Creatinine| Blood,1.0,mg/dL,labevents
+15014228,23292736,2122-08-28 20:07:00,Lab Result,Urea Nitrogen| Blood,9.0,mg/dL,labevents
+15014228,23292736,2122-08-28 20:07:00,Lab Result,Anion Gap| Blood,15.0,mEq/L,labevents
+15014228,23292736,2122-08-28 20:07:00,Lab Result,Bicarbonate| Blood,20.0,mEq/L,labevents
+15014228,23292736,2122-08-28 20:07:00,Lab Result,"Calcium, Total| Blood",8.1,mg/dL,labevents
+15014228,23292736,2122-08-28 20:07:00,Lab Result,Hematocrit| Blood,,%,labevents
+15014228,23292736,2122-08-28 20:07:00,Lab Result,Estimated GFR (MDRD equation)| Blood,,,labevents
+15014228,23292736,2122-08-28 20:07:00,Lab Result,Chloride| Blood,106.0,mEq/L,labevents
+15014228,23292736,2122-08-28 20:07:00,Lab Result,Magnesium| Blood,2.0,mg/dL,labevents
+15014228,23292736,2122-08-28 20:07:00,Lab Result,Phosphate| Blood,3.6,mg/dL,labevents
+15014228,23292736,2122-08-28 20:07:00,Lab Result,Potassium| Blood,3.6,mEq/L,labevents
+15014228,23292736,2122-08-28 20:07:00,Lab Result,Sodium| Blood,137.0,mEq/L,labevents
+15014228,23292736,2122-08-28 20:07:00,Lab Result,Glucose| Blood,108.0,mg/dL,labevents
+15014228,23292736,2122-08-28 20:07:00,Lab Result,Red Blood Cells| Blood,,m/uL,labevents
+15014228,23292736,2122-08-28 20:13:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-28 20:13:00,Medication Admin,HYDROmorphone (Dilaudid),NaN,NaN,emar
+15014228,23292736,2122-08-28 20:13:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-28 20:18:00,Medication Admin,,NaN,NaN,emar
+15014228,23292736,2122-08-28 20:18:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-28 20:18:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-28 20:36:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-28 20:36:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-28 20:36:00,Medication Admin,HYDROmorphone (Dilaudid),NaN,NaN,emar
+15014228,23292736,2122-08-28 20:59:00,Medication Admin,Ketorolac,NaN,NaN,emar
+15014228,23292736,2122-08-28 20:59:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-28 20:59:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-28 21:05:00,Lab Result,Hematocrit| Blood,27.4,%,labevents
+15014228,23292736,2122-08-28 21:05:00,Lab Result,Hemoglobin| Blood,7.6,g/dL,labevents
+15014228,23292736,2122-08-28 21:05:00,Lab Result,MCH| Blood,16.6,pg,labevents
+15014228,23292736,2122-08-28 21:05:00,Lab Result,MCHC| Blood,27.7,g/dL,labevents
+15014228,23292736,2122-08-28 21:05:00,Lab Result,RDW| Blood,23.9,%,labevents
+15014228,23292736,2122-08-28 21:05:00,Lab Result,Platelet Count| Blood,368.0,K/uL,labevents
+15014228,23292736,2122-08-28 21:05:00,Lab Result,Red Blood Cells| Blood,4.58,m/uL,labevents
+15014228,23292736,2122-08-28 21:05:00,Lab Result,White Blood Cells| Blood,16.3,K/uL,labevents
+15014228,23292736,2122-08-28 21:05:00,Lab Result,RDW-SD| Blood,47.3,fL,labevents
+15014228,23292736,2122-08-28 21:05:00,Lab Result,MCV| Blood,60.0,fL,labevents
+15014228,23292736,2122-08-28 21:55:00,Medication Admin,HYDROmorphone (Dilaudid),NaN,NaN,emar
+15014228,23292736,2122-08-28 21:55:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-28 21:55:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-28 22:07:37,Transfer,transfer PACU,NaN,NaN,transfers
+15014228,23292736,2122-08-28 22:48:20,Transfer,transfer Med/Surg/GYN,NaN,NaN,transfers
+15014228,23292736,2122-08-28 23:00:00,Pharmacy,DiphenhydrAMINE,,NaN,pharmacy
+15014228,23292736,2122-08-28 23:00:00,Prescription,Sodium Chloride 0.9%  Flush,3,mL,prescriptions
+15014228,23292736,2122-08-28 23:00:00,Prescription,Acetaminophen,500-1000,mg,prescriptions
+15014228,23292736,2122-08-28 23:00:00,Prescription,DiphenhydrAMINE,25,mg,prescriptions
+15014228,23292736,2122-08-28 23:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+15014228,23292736,2122-08-28 23:00:00,Pharmacy,Ondansetron,,NaN,pharmacy
+15014228,23292736,2122-08-28 23:00:00,Prescription,Ketorolac,30,mg,prescriptions
+15014228,23292736,2122-08-28 23:00:00,Prescription,Enoxaparin Sodium,40,mg,prescriptions
+15014228,23292736,2122-08-28 23:00:00,Pharmacy,Ketorolac,,NaN,pharmacy
+15014228,23292736,2122-08-28 23:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+15014228,23292736,2122-08-28 23:00:00,Prescription,Ondansetron,4,mg,prescriptions
+15014228,23292736,2122-08-28 23:00:00,Prescription,Lactated Ringers,1000,mL,prescriptions
+15014228,23292736,2122-08-28 23:00:00,Prescription,OxycoDONE (Immediate Release) ,5-10,mg,prescriptions
+15014228,23292736,2122-08-28 23:00:00,Pharmacy,Sodium Chloride 0.9%  Flush,,NaN,pharmacy
+15014228,23292736,2122-08-28 23:00:00,Pharmacy,OxycoDONE (Immediate Release) ,,NaN,pharmacy
+15014228,23292736,2122-08-28 23:00:00,Pharmacy,,,NaN,pharmacy
+15014228,23292736,2122-08-28 23:00:00,Pharmacy,Enoxaparin Sodium,,NaN,pharmacy
+15014228,23292736,2122-08-28 23:00:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-28 23:00:00,Pharmacy,Acetaminophen,,NaN,pharmacy
+15014228,23292736,2122-08-28 23:00:00,Prescription,HYDROmorphone (Dilaudid),20,mg,prescriptions
+15014228,23292736,2122-08-28 23:33:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-28 23:33:00,Medication Admin,Enoxaparin Sodium,NaN,NaN,emar
+15014228,23292736,2122-08-28 23:33:00,Medication Admin,,NaN,NaN,emar
+15014228,23292736,2122-08-28 23:33:00,Medication Admin,HYDROmorphone (Dilaudid),NaN,NaN,emar
+15014228,23292736,2122-08-28 23:33:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-28 23:33:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-28 23:33:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-28 23:33:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-28 23:33:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 02:48:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 02:48:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 02:48:00,Medication Admin,HYDROmorphone (Dilaudid),NaN,NaN,emar
+15014228,23292736,2122-08-29 02:49:00,Medication Admin,,NaN,NaN,emar
+15014228,23292736,2122-08-29 02:49:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 02:49:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 05:41:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 05:41:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 05:41:00,Medication Admin,HYDROmorphone (Dilaudid),NaN,NaN,emar
+15014228,23292736,2122-08-29 07:00:00,Lab Result,Magnesium| Blood,1.8,mg/dL,labevents
+15014228,23292736,2122-08-29 07:00:00,Lab Result,Glucose| Blood,101.0,mg/dL,labevents
+15014228,23292736,2122-08-29 07:00:00,Lab Result,Creatinine| Blood,0.9,mg/dL,labevents
+15014228,23292736,2122-08-29 07:00:00,Lab Result,"Calcium, Total| Blood",8.2,mg/dL,labevents
+15014228,23292736,2122-08-29 07:00:00,Lab Result,Bicarbonate| Blood,20.0,mEq/L,labevents
+15014228,23292736,2122-08-29 07:00:00,Lab Result,Anion Gap| Blood,13.0,mEq/L,labevents
+15014228,23292736,2122-08-29 07:00:00,Lab Result,RDW-SD| Blood,47.4,fL,labevents
+15014228,23292736,2122-08-29 07:00:00,Lab Result,White Blood Cells| Blood,16.5,K/uL,labevents
+15014228,23292736,2122-08-29 07:00:00,Lab Result,Platelet Count| Blood,347.0,K/uL,labevents
+15014228,23292736,2122-08-29 07:00:00,Lab Result,RDW| Blood,23.9,%,labevents
+15014228,23292736,2122-08-29 07:00:00,Lab Result,MCV| Blood,59.0,fL,labevents
+15014228,23292736,2122-08-29 07:00:00,Lab Result,MCHC| Blood,27.7,g/dL,labevents
+15014228,23292736,2122-08-29 07:00:00,Lab Result,MCH| Blood,16.4,pg,labevents
+15014228,23292736,2122-08-29 07:00:00,Lab Result,Hemoglobin| Blood,6.9,g/dL,labevents
+15014228,23292736,2122-08-29 07:00:00,Lab Result,Hematocrit| Blood,24.9,%,labevents
+15014228,23292736,2122-08-29 07:00:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 07:00:00,Lab Result,Phosphate| Blood,4.6,mg/dL,labevents
+15014228,23292736,2122-08-29 07:00:00,Lab Result,Red Blood Cells| Blood,4.2,m/uL,labevents
+15014228,23292736,2122-08-29 07:00:00,Lab Result,Potassium| Blood,4.9,mEq/L,labevents
+15014228,23292736,2122-08-29 07:00:00,Lab Result,Chloride| Blood,106.0,mEq/L,labevents
+15014228,23292736,2122-08-29 07:00:00,Lab Result,Urea Nitrogen| Blood,10.0,mg/dL,labevents
+15014228,23292736,2122-08-29 07:00:00,Lab Result,Sodium| Blood,134.0,mEq/L,labevents
+15014228,23292736,2122-08-29 07:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+15014228,23292736,2122-08-29 08:00:00,Pharmacy,Docusate Sodium,,NaN,pharmacy
+15014228,23292736,2122-08-29 08:00:00,Prescription,Docusate Sodium,100,mg,prescriptions
+15014228,23292736,2122-08-29 08:07:00,Medication Admin,HYDROmorphone (Dilaudid),NaN,NaN,emar
+15014228,23292736,2122-08-29 08:07:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 08:07:00,Medication Route,PO,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 08:07:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 08:07:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 08:07:00,Medication Admin,Docusate Sodium,NaN,NaN,emar
+15014228,23292736,2122-08-29 10:06:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 10:06:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 10:06:00,Medication Admin,HYDROmorphone (Dilaudid),NaN,NaN,emar
+15014228,23292736,2122-08-29 10:06:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 10:06:00,Medication Admin,,NaN,NaN,emar
+15014228,23292736,2122-08-29 10:06:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 11:46:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 11:46:00,Medication Admin,Enoxaparin Sodium,NaN,NaN,emar
+15014228,23292736,2122-08-29 11:46:00,Medication Admin,HYDROmorphone (Dilaudid),NaN,NaN,emar
+15014228,23292736,2122-08-29 11:46:00,Medication Admin,Magnesium Sulfate,NaN,NaN,emar
+15014228,23292736,2122-08-29 11:46:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 11:46:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 11:46:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 11:46:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 11:46:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 12:00:00,Prescription,Magnesium Sulfate,2,gm,prescriptions
+15014228,23292736,2122-08-29 12:00:00,Prescription,Bag,1,BAG,prescriptions
+15014228,23292736,2122-08-29 12:00:00,Pharmacy,Magnesium Sulfate,,NaN,pharmacy
+15014228,23292736,2122-08-29 13:00:00,Pharmacy,Ibuprofen,,NaN,pharmacy
+15014228,23292736,2122-08-29 13:00:00,Prescription,Ibuprofen,600,mg,prescriptions
+15014228,23292736,2122-08-29 14:04:00,Medication Admin,HYDROmorphone (Dilaudid),NaN,NaN,emar
+15014228,23292736,2122-08-29 14:04:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 14:04:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 14:46:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 14:46:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 14:46:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 14:46:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 14:46:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 14:46:00,Medication Route,PO,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 14:46:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 14:46:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 14:46:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 14:46:00,Medication Admin,,NaN,NaN,emar
+15014228,23292736,2122-08-29 14:46:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+15014228,23292736,2122-08-29 14:46:00,Medication Admin,OxycoDONE (Immediate Release) ,NaN,NaN,emar
+15014228,23292736,2122-08-29 14:46:00,Medication Admin,HYDROmorphone (Dilaudid),NaN,NaN,emar
+15014228,23292736,2122-08-29 17:36:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 17:36:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 17:36:00,Medication Admin,Ibuprofen,NaN,NaN,emar
+15014228,23292736,2122-08-29 19:36:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 19:36:00,Medication Admin,Docusate Sodium,NaN,NaN,emar
+15014228,23292736,2122-08-29 19:36:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+15014228,23292736,2122-08-29 19:36:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+15014228,23292736,2122-08-29 19:36:00,Medication Route,PO,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 19:36:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 19:36:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 19:36:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 19:36:00,Medication Route,PO,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 19:36:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 23:25:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-29 23:25:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+15014228,23292736,2122-08-29 23:25:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-30 05:30:00,Lab Result,"Calcium, Total| Blood",7.4,mg/dL,labevents
+15014228,23292736,2122-08-30 05:30:00,Lab Result,Potassium| Blood,4.6,mEq/L,labevents
+15014228,23292736,2122-08-30 05:30:00,Lab Result,Sodium| Blood,128.0,mEq/L,labevents
+15014228,23292736,2122-08-30 05:30:00,Lab Result,Urea Nitrogen| Blood,8.0,mg/dL,labevents
+15014228,23292736,2122-08-30 05:30:00,Lab Result,White Blood Cells| Blood,,K/uL,labevents
+15014228,23292736,2122-08-30 05:30:00,Lab Result,Chloride| Blood,96.0,mEq/L,labevents
+15014228,23292736,2122-08-30 05:30:00,Lab Result,Anion Gap| Blood,16.0,mEq/L,labevents
+15014228,23292736,2122-08-30 05:30:00,Lab Result,Creatinine| Blood,0.8,mg/dL,labevents
+15014228,23292736,2122-08-30 05:30:00,Lab Result,Magnesium| Blood,1.9,mg/dL,labevents
+15014228,23292736,2122-08-30 05:30:00,Lab Result,Bicarbonate| Blood,21.0,mEq/L,labevents
+15014228,23292736,2122-08-30 05:30:00,Lab Result,Phosphate| Blood,3.2,mg/dL,labevents
+15014228,23292736,2122-08-30 05:30:00,Lab Result,Glucose| Blood,124.0,mg/dL,labevents
+15014228,23292736,2122-08-30 07:46:00,Medication Route,PO,NaN,NaN,emar_detail
+15014228,23292736,2122-08-30 07:46:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-30 07:46:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+15014228,23292736,2122-08-30 07:46:00,Medication Admin,Docusate Sodium,NaN,NaN,emar
+15014228,23292736,2122-08-30 07:46:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+15014228,23292736,2122-08-30 07:46:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-30 07:46:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-30 07:46:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-30 07:46:00,Medication Route,PO,NaN,NaN,emar_detail
+15014228,23292736,2122-08-30 07:46:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-30 11:00:00,Pharmacy,Magnesium Oxide,,NaN,pharmacy
+15014228,23292736,2122-08-30 11:00:00,Prescription,Magnesium Oxide,400,mg,prescriptions
+15014228,23292736,2122-08-30 11:03:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-30 11:03:00,Medication Route,PO,NaN,NaN,emar_detail
+15014228,23292736,2122-08-30 11:03:00,Medication Admin,Magnesium Oxide,NaN,NaN,emar
+15014228,23292736,2122-08-30 11:15:00,Lab Result,Hemoglobin| Blood,4.0,g/dL,labevents
+15014228,23292736,2122-08-30 11:15:00,Lab Result,Red Blood Cells| Blood,2.41,m/uL,labevents
+15014228,23292736,2122-08-30 11:15:00,Lab Result,White Blood Cells| Blood,19.0,K/uL,labevents
+15014228,23292736,2122-08-30 11:15:00,Lab Result,RDW-SD| Blood,46.5,fL,labevents
+15014228,23292736,2122-08-30 11:15:00,Lab Result,Anion Gap| Blood,17.0,mEq/L,labevents
+15014228,23292736,2122-08-30 11:15:00,Lab Result,Hematocrit| Blood,13.7,%,labevents
+15014228,23292736,2122-08-30 11:15:00,Lab Result,RDW| Blood,23.4,%,labevents
+15014228,23292736,2122-08-30 11:15:00,Lab Result,Bicarbonate| Blood,20.0,mEq/L,labevents
+15014228,23292736,2122-08-30 11:15:00,Lab Result,Chloride| Blood,95.0,mEq/L,labevents
+15014228,23292736,2122-08-30 11:15:00,Lab Result,Creatinine| Blood,0.9,mg/dL,labevents
+15014228,23292736,2122-08-30 11:15:00,Lab Result,Glucose| Blood,141.0,mg/dL,labevents
+15014228,23292736,2122-08-30 11:15:00,Lab Result,Magnesium| Blood,2.1,mg/dL,labevents
+15014228,23292736,2122-08-30 11:15:00,Lab Result,Phosphate| Blood,2.1,mg/dL,labevents
+15014228,23292736,2122-08-30 11:15:00,Lab Result,Potassium| Blood,4.1,mEq/L,labevents
+15014228,23292736,2122-08-30 11:15:00,Lab Result,"Calcium, Total| Blood",7.9,mg/dL,labevents
+15014228,23292736,2122-08-30 11:15:00,Lab Result,Platelet Count| Blood,340.0,K/uL,labevents
+15014228,23292736,2122-08-30 11:15:00,Lab Result,Sodium| Blood,128.0,mEq/L,labevents
+15014228,23292736,2122-08-30 11:15:00,Lab Result,Urea Nitrogen| Blood,7.0,mg/dL,labevents
+15014228,23292736,2122-08-30 11:15:00,Lab Result,MCV| Blood,57.0,fL,labevents
+15014228,23292736,2122-08-30 11:15:00,Lab Result,MCHC| Blood,29.2,g/dL,labevents
+15014228,23292736,2122-08-30 11:15:00,Lab Result,MCH| Blood,16.6,pg,labevents
+15014228,23292736,2122-08-30 12:30:00,Lab Result,Absolute Neutrophil Count| Blood,15.23,K/uL,labevents
+15014228,23292736,2122-08-30 12:30:00,Lab Result,Immature Granulocytes| Blood,0.8,%,labevents
+15014228,23292736,2122-08-30 12:30:00,Lab Result,RDW-SD| Blood,47.9,fL,labevents
+15014228,23292736,2122-08-30 12:30:00,Lab Result,Potassium| Blood,4.2,mEq/L,labevents
+15014228,23292736,2122-08-30 12:30:00,Lab Result,Absolute Monocyte Count| Blood,1.41,K/uL,labevents
+15014228,23292736,2122-08-30 12:30:00,Lab Result,Hemoglobin| Blood,3.5,g/dL,labevents
+15014228,23292736,2122-08-30 12:30:00,Lab Result,PTT| Blood,23.7,sec,labevents
+15014228,23292736,2122-08-30 12:30:00,Lab Result,Glucose| Blood,137.0,mg/dL,labevents
+15014228,23292736,2122-08-30 12:30:00,Lab Result,Creatinine| Blood,0.9,mg/dL,labevents
+15014228,23292736,2122-08-30 12:30:00,Lab Result,Anion Gap| Blood,16.0,mEq/L,labevents
+15014228,23292736,2122-08-30 12:30:00,Lab Result,Chloride| Blood,97.0,mEq/L,labevents
+15014228,23292736,2122-08-30 12:30:00,Lab Result,Sodium| Blood,129.0,mEq/L,labevents
+15014228,23292736,2122-08-30 12:30:00,Lab Result,Urea Nitrogen| Blood,7.0,mg/dL,labevents
+15014228,23292736,2122-08-30 12:30:00,Lab Result,PT| Blood,12.3,sec,labevents
+15014228,23292736,2122-08-30 12:30:00,Lab Result,Lymphocytes| Blood,6.3,%,labevents
+15014228,23292736,2122-08-30 12:30:00,Lab Result,INR(PT)| Blood,1.1,,labevents
+15014228,23292736,2122-08-30 12:30:00,Lab Result,Absolute Basophil Count| Blood,0.01,K/uL,labevents
+15014228,23292736,2122-08-30 12:30:00,Lab Result,MCH| Blood,16.4,pg,labevents
+15014228,23292736,2122-08-30 12:30:00,Lab Result,Hematocrit| Blood,12.4,%,labevents
+15014228,23292736,2122-08-30 12:30:00,Lab Result,MCHC| Blood,28.2,g/dL,labevents
+15014228,23292736,2122-08-30 12:30:00,Lab Result,Eosinophils| Blood,0.0,%,labevents
+15014228,23292736,2122-08-30 12:30:00,Lab Result,MCV| Blood,58.0,fL,labevents
+15014228,23292736,2122-08-30 12:30:00,Lab Result,Monocytes| Blood,7.9,%,labevents
+15014228,23292736,2122-08-30 12:30:00,Lab Result,Absolute Eosinophil Count| Blood,0.0,K/uL,labevents
+15014228,23292736,2122-08-30 12:30:00,Lab Result,White Blood Cells| Blood,17.9,K/uL,labevents
+15014228,23292736,2122-08-30 12:30:00,Lab Result,Bicarbonate| Blood,20.0,mEq/L,labevents
+15014228,23292736,2122-08-30 12:30:00,Lab Result,Red Blood Cells| Blood,2.14,m/uL,labevents
+15014228,23292736,2122-08-30 12:30:00,Lab Result,RDW| Blood,23.6,%,labevents
+15014228,23292736,2122-08-30 12:30:00,Lab Result,Absolute Lymphocyte Count| Blood,1.12,K/uL,labevents
+15014228,23292736,2122-08-30 12:30:00,Lab Result,Platelet Count| Blood,312.0,K/uL,labevents
+15014228,23292736,2122-08-30 12:30:00,Lab Result,Basophils| Blood,0.1,%,labevents
+15014228,23292736,2122-08-30 12:30:00,Lab Result,Neutrophils| Blood,84.9,%,labevents
+15014228,23292736,2122-08-30 12:48:59,Transfer,transfer Trauma SICU (TSICU),NaN,NaN,transfers
+15014228,23292736,2122-08-30 12:54:00,Lab Result,Carboxyhemoglobin| Blood,7.0,%,labevents
+15014228,23292736,2122-08-30 12:54:00,Lab Result,"Calculated Bicarbonate, Whole Blood| Blood",20.0,mEq/L,labevents
+15014228,23292736,2122-08-30 12:54:00,Lab Result,Methemoglobin| Blood,1.0,%,labevents
+15014228,23292736,2122-08-30 12:54:00,Lab Result,"Sodium, Whole Blood| Blood",128.0,mEq/L,labevents
+15014228,23292736,2122-08-30 12:54:00,Lab Result,"Potassium, Whole Blood| Blood",4.1,mEq/L,labevents
+15014228,23292736,2122-08-30 12:54:00,Lab Result,Oxygen Saturation| Blood,91.0,%,labevents
+15014228,23292736,2122-08-30 12:54:00,Lab Result,Lactate| Blood,3.3,mmol/L,labevents
+15014228,23292736,2122-08-30 12:54:00,Lab Result,Hemoglobin| Blood,4.0,g/dL,labevents
+15014228,23292736,2122-08-30 12:54:00,Lab Result,"Hematocrit, Calculated| Blood",12.0,%,labevents
+15014228,23292736,2122-08-30 12:54:00,Lab Result,Glucose| Blood,134.0,mg/dL,labevents
+15014228,23292736,2122-08-30 12:54:00,Lab Result,"Chloride, Whole Blood| Blood",103.0,mEq/L,labevents
+15014228,23292736,2122-08-30 12:54:00,Lab Result,Specimen Type| Blood,,,labevents
+15014228,23292736,2122-08-30 13:00:00,Input,Water,375.0,ml,ingredientevents
+15014228,23292736,2122-08-30 13:00:00,Input,Blood Ingredient,375.0,ml,ingredientevents
+15014228,23292736,2122-08-30 13:00:00,Input,Packed Red Blood Cells,375.0,ml,inputevents
+15014228,23292736,2122-08-30 13:00:00,Procedure,16 Gauge,0.1229166666666666,day,procedureevents
+15014228,23292736,2122-08-30 13:00:00,DateTime Obs,16 Gauge Insertion Date,2122-08-30 14:26:00,Date,datetimeevents
+15014228,23292736,2122-08-30 13:00:00,Procedure,16 Gauge,0.1229166666666666,day,procedureevents
+15014228,23292736,2122-08-30 13:20:00,Input,Packed Red Blood Cells,375.0,ml,inputevents
+15014228,23292736,2122-08-30 13:20:00,Input,Water,375.0,ml,ingredientevents
+15014228,23292736,2122-08-30 13:20:00,Input,Blood Ingredient,375.0,ml,ingredientevents
+15014228,23292736,2122-08-30 13:30:00,Input,Blood Ingredient,300.0,ml,ingredientevents
+15014228,23292736,2122-08-30 13:30:00,Input,Fresh Frozen Plasma,300.0,ml,inputevents
+15014228,23292736,2122-08-30 13:30:00,Input,Water,300.0,ml,ingredientevents
+15014228,23292736,2122-08-30 13:43:00,Lab Result,White Blood Cells| Blood,14.2,K/uL,labevents
+15014228,23292736,2122-08-30 13:43:00,Lab Result,Absolute Basophil Count| Blood,0.01,K/uL,labevents
+15014228,23292736,2122-08-30 13:43:00,Lab Result,Absolute Eosinophil Count| Blood,0.0,K/uL,labevents
+15014228,23292736,2122-08-30 13:43:00,Lab Result,Absolute Monocyte Count| Blood,0.93,K/uL,labevents
+15014228,23292736,2122-08-30 13:43:00,Lab Result,Absolute Neutrophil Count| Blood,12.42,K/uL,labevents
+15014228,23292736,2122-08-30 13:43:00,Lab Result,Immature Granulocytes| Blood,0.9,%,labevents
+15014228,23292736,2122-08-30 13:43:00,Lab Result,Magnesium| Blood,2.0,mg/dL,labevents
+15014228,23292736,2122-08-30 13:43:00,Lab Result,INR(PT)| Blood,1.1,,labevents
+15014228,23292736,2122-08-30 13:43:00,Lab Result,PT| Blood,12.2,sec,labevents
+15014228,23292736,2122-08-30 13:43:00,Lab Result,PTT| Blood,24.2,sec,labevents
+15014228,23292736,2122-08-30 13:43:00,Lab Result,Glucose| Blood,142.0,mg/dL,labevents
+15014228,23292736,2122-08-30 13:43:00,Lab Result,Creatinine| Blood,0.7,mg/dL,labevents
+15014228,23292736,2122-08-30 13:43:00,Lab Result,Chloride| Blood,99.0,mEq/L,labevents
+15014228,23292736,2122-08-30 13:43:00,Lab Result,Anion Gap| Blood,15.0,mEq/L,labevents
+15014228,23292736,2122-08-30 13:43:00,Lab Result,RDW-SD| Blood,60.2,fL,labevents
+15014228,23292736,2122-08-30 13:43:00,Lab Result,Red Blood Cells| Blood,3.17,m/uL,labevents
+15014228,23292736,2122-08-30 13:43:00,Lab Result,RDW| Blood,25.2,%,labevents
+15014228,23292736,2122-08-30 13:43:00,Lab Result,Platelet Count| Blood,215.0,K/uL,labevents
+15014228,23292736,2122-08-30 13:43:00,Lab Result,Phosphate| Blood,2.9,mg/dL,labevents
+15014228,23292736,2122-08-30 13:43:00,Lab Result,Potassium| Blood,4.2,mEq/L,labevents
+15014228,23292736,2122-08-30 13:43:00,Lab Result,Sodium| Blood,131.0,mEq/L,labevents
+15014228,23292736,2122-08-30 13:43:00,Lab Result,Urea Nitrogen| Blood,8.0,mg/dL,labevents
+15014228,23292736,2122-08-30 13:43:00,Lab Result,Absolute Lymphocyte Count| Blood,0.67,K/uL,labevents
+15014228,23292736,2122-08-30 13:43:00,Lab Result,"Calcium, Total| Blood",7.7,mg/dL,labevents
+15014228,23292736,2122-08-30 13:43:00,Lab Result,Basophils| Blood,0.1,%,labevents
+15014228,23292736,2122-08-30 13:43:00,Lab Result,Eosinophils| Blood,0.0,%,labevents
+15014228,23292736,2122-08-30 13:43:00,Lab Result,Bicarbonate| Blood,21.0,mEq/L,labevents
+15014228,23292736,2122-08-30 13:43:00,Lab Result,Hemoglobin| Blood,6.8,g/dL,labevents
+15014228,23292736,2122-08-30 13:43:00,Lab Result,Lymphocytes| Blood,4.7,%,labevents
+15014228,23292736,2122-08-30 13:43:00,Lab Result,MCH| Blood,21.5,pg,labevents
+15014228,23292736,2122-08-30 13:43:00,Lab Result,MCHC| Blood,31.8,g/dL,labevents
+15014228,23292736,2122-08-30 13:43:00,Lab Result,MCV| Blood,68.0,fL,labevents
+15014228,23292736,2122-08-30 13:43:00,Lab Result,Monocytes| Blood,6.6,%,labevents
+15014228,23292736,2122-08-30 13:43:00,Lab Result,Neutrophils| Blood,87.7,%,labevents
+15014228,23292736,2122-08-30 13:43:00,Lab Result,Nucleated Red Cells| Blood,0.1,%,labevents
+15014228,23292736,2122-08-30 13:43:00,Lab Result,Hematocrit| Blood,21.4,%,labevents
+15014228,23292736,2122-08-30 13:55:00,Lab Result,Calculated Total CO2| Blood,22.0,mEq/L,labevents
+15014228,23292736,2122-08-30 13:55:00,Lab Result,pCO2| Blood,30.0,mm Hg,labevents
+15014228,23292736,2122-08-30 13:55:00,Lab Result,pH| Blood,7.47,units,labevents
+15014228,23292736,2122-08-30 13:55:00,Lab Result,pO2| Blood,154.0,mm Hg,labevents
+15014228,23292736,2122-08-30 13:55:00,Lab Result,Specimen Type| Blood,,,labevents
+15014228,23292736,2122-08-30 13:55:00,Lab Result,Base Excess| Blood,0.0,mEq/L,labevents
+15014228,23292736,2122-08-30 13:55:00,Lab Result,Lactate| Blood,2.4,mmol/L,labevents
+15014228,23292736,2122-08-30 14:19:00,Input,Fresh Frozen Plasma,300.0,ml,inputevents
+15014228,23292736,2122-08-30 14:19:00,Input,Water,300.0,ml,ingredientevents
+15014228,23292736,2122-08-30 14:19:00,Input,Blood Ingredient,300.0,ml,ingredientevents
+15014228,23292736,2122-08-30 14:20:00,Input,Platelets,318.0000114440918,ml,inputevents
+15014228,23292736,2122-08-30 14:20:00,Input,Water,318.0000114440918,ml,ingredientevents
+15014228,23292736,2122-08-30 14:20:00,Input,Blood Ingredient,318.0000114440918,ml,ingredientevents
+15014228,23292736,2122-08-30 14:21:00,Output,Foley,625.0,ml,outputevents
+15014228,23292736,2122-08-30 14:25:00,DateTime Obs,16 Gauge Insertion Date,2122-08-28 14:25:00,Date,datetimeevents
+15014228,23292736,2122-08-30 14:25:00,Procedure,16 Gauge,1.0840277777777778,day,procedureevents
+15014228,23292736,2122-08-30 14:25:00,Procedure,16 Gauge,1.0840277777777778,day,procedureevents
+15014228,23292736,2122-08-30 15:00:00,Prescription,Sodium Chloride 0.9%  Flush,3,mL,prescriptions
+15014228,23292736,2122-08-30 15:00:00,Output,Foley,800.0,ml,outputevents
+15014228,23292736,2122-08-30 15:00:00,Pharmacy,Sodium Chloride 0.9%  Flush,,NaN,pharmacy
+15014228,23292736,2122-08-30 15:00:00,Procedure,CT scan,1.0,,procedureevents
+15014228,23292736,2122-08-30 15:00:00,Pharmacy,HYDROmorphone (Dilaudid),,NaN,pharmacy
+15014228,23292736,2122-08-30 15:00:00,Procedure,CT scan,1.0,,procedureevents
+15014228,23292736,2122-08-30 15:00:00,Prescription,Lactated Ringers,1000,mL,prescriptions
+15014228,23292736,2122-08-30 15:00:00,Pharmacy,,,NaN,pharmacy
+15014228,23292736,2122-08-30 15:00:00,Prescription,HYDROmorphone (Dilaudid),0.125-0.25,mg,prescriptions
+15014228,23292736,2122-08-30 15:57:00,DateTime Obs,16 Gauge Insertion Date,2122-08-30 00:00:00,Date,datetimeevents
+15014228,23292736,2122-08-30 16:00:00,Output,Foley,875.0,ml,outputevents
+15014228,23292736,2122-08-30 16:08:00,DateTime Obs,Arterial Line Dressing Change,2122-08-30 16:08:00,Date and Time,datetimeevents
+15014228,23292736,2122-08-30 16:08:00,Procedure,Arterial Line,0.7611111111111111,day,procedureevents
+15014228,23292736,2122-08-30 16:08:00,Procedure,Arterial Line,0.7611111111111111,day,procedureevents
+15014228,23292736,2122-08-30 16:08:00,DateTime Obs,Arterial line Tubing Change,2122-08-30 16:08:00,Date,datetimeevents
+15014228,23292736,2122-08-30 16:24:00,DateTime Obs,Last menses,2122-08-26 16:24:00,Date,datetimeevents
+15014228,23292736,2122-08-30 16:31:00,DateTime Obs,Last menses,2122-08-26 00:00:00,Date,datetimeevents
+15014228,23292736,2122-08-30 17:00:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-30 17:00:00,Output,Foley,275.0,ml,outputevents
+15014228,23292736,2122-08-30 17:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+15014228,23292736,2122-08-30 17:17:00,Medication Admin,,NaN,NaN,emar
+15014228,23292736,2122-08-30 17:17:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-30 17:17:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-30 17:19:00,Input,Water,285.4166557788849,ml,ingredientevents
+15014228,23292736,2122-08-30 17:19:00,Input,IVF ingredient,285.4166557788849,ml,ingredientevents
+15014228,23292736,2122-08-30 17:19:00,Input,LR,285.4166557788849,ml,inputevents
+15014228,23292736,2122-08-30 18:00:00,Output,Foley,325.0,ml,outputevents
+15014228,23292736,2122-08-30 18:08:00,Lab Result,MCHC| Blood,32.3,g/dL,labevents
+15014228,23292736,2122-08-30 18:08:00,Lab Result,PTT| Blood,24.7,sec,labevents
+15014228,23292736,2122-08-30 18:08:00,Lab Result,RDW| Blood,24.2,%,labevents
+15014228,23292736,2122-08-30 18:08:00,Lab Result,RDW-SD| Blood,56.4,fL,labevents
+15014228,23292736,2122-08-30 18:08:00,Lab Result,White Blood Cells| Blood,11.2,K/uL,labevents
+15014228,23292736,2122-08-30 18:08:00,Lab Result,Red Blood Cells| Blood,2.86,m/uL,labevents
+15014228,23292736,2122-08-30 18:08:00,Lab Result,Platelet Count| Blood,271.0,K/uL,labevents
+15014228,23292736,2122-08-30 18:08:00,Lab Result,MCV| Blood,66.0,fL,labevents
+15014228,23292736,2122-08-30 18:08:00,Lab Result,MCH| Blood,21.3,pg,labevents
+15014228,23292736,2122-08-30 18:08:00,Lab Result,INR(PT)| Blood,1.1,,labevents
+15014228,23292736,2122-08-30 18:08:00,Lab Result,PT| Blood,11.8,sec,labevents
+15014228,23292736,2122-08-30 18:08:00,Lab Result,Hemoglobin| Blood,6.1,g/dL,labevents
+15014228,23292736,2122-08-30 18:08:00,Lab Result,Hematocrit| Blood,18.9,%,labevents
+15014228,23292736,2122-08-30 19:00:00,Procedure,Foley Catheter,1287.0,min,procedureevents
+15014228,23292736,2122-08-30 19:00:00,Output,Foley,250.0,ml,outputevents
+15014228,23292736,2122-08-30 19:00:00,Procedure,Foley Catheter,1287.0,min,procedureevents
+15014228,23292736,2122-08-30 19:36:00,Input,Water,256.51709604263306,ml,ingredientevents
+15014228,23292736,2122-08-30 19:36:00,Input,IVF ingredient,256.51709604263306,ml,ingredientevents
+15014228,23292736,2122-08-30 19:36:00,Input,LR,256.51709604263306,ml,inputevents
+15014228,23292736,2122-08-30 20:00:00,Prescription,Lactated Ringers,1000,mL,prescriptions
+15014228,23292736,2122-08-30 20:00:00,Pharmacy,Acetaminophen IV,,NaN,pharmacy
+15014228,23292736,2122-08-30 20:00:00,Pharmacy,,,NaN,pharmacy
+15014228,23292736,2122-08-30 20:00:00,Output,Foley,30.0,ml,outputevents
+15014228,23292736,2122-08-30 20:00:00,Prescription,Acetaminophen IV,1000,mg,prescriptions
+15014228,23292736,2122-08-30 20:08:00,DateTime Obs,Arterial line Tubing Change,2122-08-30 00:00:00,Date,datetimeevents
+15014228,23292736,2122-08-30 20:08:00,DateTime Obs,Arterial line Insertion Date,2122-08-30 20:08:00,Date,datetimeevents
+15014228,23292736,2122-08-30 20:08:00,DateTime Obs,Arterial Line Dressing Change,2122-08-30 20:08:00,Date and Time,datetimeevents
+15014228,23292736,2122-08-30 20:09:00,DateTime Obs,16 Gauge Insertion Date,2122-08-30 00:00:00,Date,datetimeevents
+15014228,23292736,2122-08-30 20:10:00,DateTime Obs,Foley Cath Insertion Date,2122-08-30 20:10:00,Date,datetimeevents
+15014228,23292736,2122-08-30 20:12:00,Procedure,18 Gauge,1215.0,min,procedureevents
+15014228,23292736,2122-08-30 20:12:00,DateTime Obs,18 Gauge Insertion Date,2122-08-30 20:13:00,Date,datetimeevents
+15014228,23292736,2122-08-30 20:12:00,Procedure,18 Gauge,1215.0,min,procedureevents
+15014228,23292736,2122-08-30 20:36:00,Input,Blood Ingredient,350.0000095367432,ml,ingredientevents
+15014228,23292736,2122-08-30 20:36:00,Input,Packed Red Blood Cells,350.0000095367432,ml,inputevents
+15014228,23292736,2122-08-30 20:36:00,Input,Water,350.0000095367432,ml,ingredientevents
+15014228,23292736,2122-08-30 21:00:00,Output,Foley,30.0,ml,outputevents
+15014228,23292736,2122-08-30 21:45:00,Input,Blood Ingredient,350.0000095367432,ml,ingredientevents
+15014228,23292736,2122-08-30 21:45:00,Input,Packed Red Blood Cells,350.0000095367432,ml,inputevents
+15014228,23292736,2122-08-30 21:45:00,Input,Water,350.0000095367432,ml,ingredientevents
+15014228,23292736,2122-08-30 22:00:00,Output,Foley,60.0,ml,outputevents
+15014228,23292736,2122-08-30 22:07:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-30 22:07:00,Medication Admin,,NaN,NaN,emar
+15014228,23292736,2122-08-30 22:07:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-30 22:10:00,Input,LR,443.7660305500031,ml,inputevents
+15014228,23292736,2122-08-30 22:10:00,Input,IVF ingredient,443.7660305500031,ml,ingredientevents
+15014228,23292736,2122-08-30 22:10:00,Input,Water,443.7660305500031,ml,ingredientevents
+15014228,23292736,2122-08-30 23:00:00,Prescription,SW,400,mL,prescriptions
+15014228,23292736,2122-08-30 23:00:00,Prescription,Magnesium Sulfate,4,gm,prescriptions
+15014228,23292736,2122-08-30 23:00:00,Prescription,Bag,2,BAG,prescriptions
+15014228,23292736,2122-08-30 23:00:00,Prescription,Bag,1,BAG,prescriptions
+15014228,23292736,2122-08-30 23:00:00,Prescription,SW,600,mL,prescriptions
+15014228,23292736,2122-08-30 23:00:00,Prescription,Potassium Chloride,80,mEq,prescriptions
+15014228,23292736,2122-08-30 23:00:00,Prescription,SW,800,mL,prescriptions
+15014228,23292736,2122-08-30 23:00:00,Prescription,Lactated Ringers,1000,mL,prescriptions
+15014228,23292736,2122-08-30 23:00:00,Prescription,Magnesium Sulfate,2,gm,prescriptions
+15014228,23292736,2122-08-30 23:00:00,Prescription,Potassium Chloride,60,mEq,prescriptions
+15014228,23292736,2122-08-30 23:00:00,Prescription,Potassium Chloride,40,mEq,prescriptions
+15014228,23292736,2122-08-30 23:00:00,Prescription,Magnesium Sulfate,4,gm,prescriptions
+15014228,23292736,2122-08-30 23:00:00,Prescription,Bag,2,BAG,prescriptions
+15014228,23292736,2122-08-30 23:00:00,Pharmacy,,,NaN,pharmacy
+15014228,23292736,2122-08-30 23:00:00,Pharmacy,Potassium Chloride Replacement (Critical Care and Oncology),,NaN,pharmacy
+15014228,23292736,2122-08-30 23:00:00,Output,Foley,35.0,ml,outputevents
+15014228,23292736,2122-08-30 23:00:00,Pharmacy,Potassium Chloride Replacement (Critical Care and Oncology),,NaN,pharmacy
+15014228,23292736,2122-08-30 23:00:00,Pharmacy,Magnesium Sulfate Replacement (Critical Care and Oncology),,NaN,pharmacy
+15014228,23292736,2122-08-30 23:00:00,Pharmacy,Magnesium Sulfate Replacement (Critical Care and Oncology),,NaN,pharmacy
+15014228,23292736,2122-08-30 23:00:00,Pharmacy,Potassium Chloride Replacement (Critical Care and Oncology),,NaN,pharmacy
+15014228,23292736,2122-08-30 23:00:00,Pharmacy,Magnesium Sulfate Replacement (Critical Care and Oncology),,NaN,pharmacy
+15014228,23292736,2122-08-30 23:53:00,Lab Result,PT| Blood,10.5,sec,labevents
+15014228,23292736,2122-08-30 23:53:00,Lab Result,Urea Nitrogen| Blood,7.0,mg/dL,labevents
+15014228,23292736,2122-08-30 23:53:00,Lab Result,Sodium| Blood,138.0,mEq/L,labevents
+15014228,23292736,2122-08-30 23:53:00,Lab Result,Phosphate| Blood,2.6,mg/dL,labevents
+15014228,23292736,2122-08-30 23:53:00,Lab Result,Magnesium| Blood,2.2,mg/dL,labevents
+15014228,23292736,2122-08-30 23:53:00,Lab Result,Glucose| Blood,98.0,mg/dL,labevents
+15014228,23292736,2122-08-30 23:53:00,Lab Result,Creatinine| Blood,0.8,mg/dL,labevents
+15014228,23292736,2122-08-30 23:53:00,Lab Result,Chloride| Blood,106.0,mEq/L,labevents
+15014228,23292736,2122-08-30 23:53:00,Lab Result,Hematocrit| Blood,28.1,%,labevents
+15014228,23292736,2122-08-30 23:53:00,Lab Result,Bicarbonate| Blood,27.0,mEq/L,labevents
+15014228,23292736,2122-08-30 23:53:00,Lab Result,Anion Gap| Blood,9.0,mEq/L,labevents
+15014228,23292736,2122-08-30 23:53:00,Lab Result,PTT| Blood,18.6,sec,labevents
+15014228,23292736,2122-08-30 23:53:00,Lab Result,"Fibrinogen, Functional| Blood",313.0,mg/dL,labevents
+15014228,23292736,2122-08-30 23:53:00,Lab Result,INR(PT)| Blood,1.0,,labevents
+15014228,23292736,2122-08-30 23:53:00,Lab Result,"Calcium, Total| Blood",8.1,mg/dL,labevents
+15014228,23292736,2122-08-30 23:53:00,Lab Result,Potassium| Blood,3.9,mEq/L,labevents
+15014228,23292736,2122-08-30 23:53:00,Lab Result,MCH| Blood,23.8,pg,labevents
+15014228,23292736,2122-08-30 23:53:00,Lab Result,MCHC| Blood,33.1,g/dL,labevents
+15014228,23292736,2122-08-30 23:53:00,Lab Result,MCV| Blood,72.0,fL,labevents
+15014228,23292736,2122-08-30 23:53:00,Lab Result,Platelet Count| Blood,212.0,K/uL,labevents
+15014228,23292736,2122-08-30 23:53:00,Lab Result,RDW| Blood,23.6,%,labevents
+15014228,23292736,2122-08-30 23:53:00,Lab Result,Red Blood Cells| Blood,3.91,m/uL,labevents
+15014228,23292736,2122-08-30 23:53:00,Lab Result,White Blood Cells| Blood,10.0,K/uL,labevents
+15014228,23292736,2122-08-30 23:53:00,Lab Result,RDW-SD| Blood,60.3,fL,labevents
+15014228,23292736,2122-08-30 23:53:00,Lab Result,Hemoglobin| Blood,9.3,g/dL,labevents
+15014228,23292736,2122-08-31 00:00:00,Output,Foley,25.0,ml,outputevents
+15014228,23292736,2122-08-31 00:07:00,Lab Result,Lactate| Blood,0.9,mmol/L,labevents
+15014228,23292736,2122-08-31 00:25:00,DateTime Obs,16 Gauge Insertion Date,2122-08-30 00:00:00,Date,datetimeevents
+15014228,23292736,2122-08-31 00:25:00,DateTime Obs,18 Gauge Insertion Date,2122-08-30 00:00:00,Date,datetimeevents
+15014228,23292736,2122-08-31 00:25:00,DateTime Obs,Arterial line Tubing Change,2122-08-30 00:00:00,Date,datetimeevents
+15014228,23292736,2122-08-31 00:25:00,DateTime Obs,Arterial line Insertion Date,2122-08-30 00:00:00,Date,datetimeevents
+15014228,23292736,2122-08-31 00:25:00,DateTime Obs,Arterial Line Dressing Change,2122-08-30 20:08:00,Date and Time,datetimeevents
+15014228,23292736,2122-08-31 00:26:00,DateTime Obs,Foley Cath Insertion Date,2122-08-30 00:00:00,Date,datetimeevents
+15014228,23292736,2122-08-31 01:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+15014228,23292736,2122-08-31 01:00:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-31 01:00:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-31 01:00:00,Output,Foley,30.0,ml,outputevents
+15014228,23292736,2122-08-31 01:43:00,Input,Water,1000.0000247955322,ml,ingredientevents
+15014228,23292736,2122-08-31 01:43:00,Input,LR,1000.0000247955322,ml,inputevents
+15014228,23292736,2122-08-31 01:43:00,Input,IVF ingredient,1000.0000247955322,ml,ingredientevents
+15014228,23292736,2122-08-31 02:00:00,Output,Foley,24.0,ml,outputevents
+15014228,23292736,2122-08-31 02:11:00,Medication Admin,Calcium Gluconate,NaN,NaN,emar
+15014228,23292736,2122-08-31 02:11:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-31 02:11:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-31 02:15:00,Input,Piggyback,99.9999976158142,ml,inputevents
+15014228,23292736,2122-08-31 02:15:00,Input,Calcium (ingr),0.0180000006366753,mg,ingredientevents
+15014228,23292736,2122-08-31 02:15:00,Input,Water,99.9999976158142,ml,ingredientevents
+15014228,23292736,2122-08-31 02:15:00,Input,Calcium Gluconate,2.0000001043081284,grams,inputevents
+15014228,23292736,2122-08-31 02:15:00,Input,IVF ingredient,99.9999976158142,ml,ingredientevents
+15014228,23292736,2122-08-31 02:59:00,Medication Admin,Acetaminophen IV,NaN,NaN,emar
+15014228,23292736,2122-08-31 02:59:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-31 02:59:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-31 03:00:00,Pharmacy,Calcium Gluconate,,NaN,pharmacy
+15014228,23292736,2122-08-31 03:00:00,Prescription,0.9% Sodium Chloride,1,BAG,prescriptions
+15014228,23292736,2122-08-31 03:00:00,Prescription,0.9% Sodium Chloride,2,BAG,prescriptions
+15014228,23292736,2122-08-31 03:00:00,Prescription,Calcium Gluconate,4,g,prescriptions
+15014228,23292736,2122-08-31 03:00:00,Output,Foley,20.0,ml,outputevents
+15014228,23292736,2122-08-31 03:00:00,Pharmacy,Calcium Gluconate sliding scale (Critical Care-Ionized calcium),,NaN,pharmacy
+15014228,23292736,2122-08-31 03:00:00,Prescription,Calcium Gluconate,2,g,prescriptions
+15014228,23292736,2122-08-31 03:00:00,Pharmacy,Calcium Gluconate sliding scale (Critical Care-Ionized calcium),,NaN,pharmacy
+15014228,23292736,2122-08-31 03:00:00,Prescription,0.9% Sodium Chloride,1,BAG,prescriptions
+15014228,23292736,2122-08-31 03:00:00,Prescription,Calcium Gluconate,2,g,prescriptions
+15014228,23292736,2122-08-31 03:00:00,Pharmacy,Calcium Gluconate sliding scale (Critical Care-Ionized calcium),,NaN,pharmacy
+15014228,23292736,2122-08-31 03:00:00,Prescription,Calcium Gluconate,4,g,prescriptions
+15014228,23292736,2122-08-31 03:00:00,Prescription,0.9% Sodium Chloride,2,BAG,prescriptions
+15014228,23292736,2122-08-31 03:02:00,Input,Acetaminophen-IV,1000.0,mg,inputevents
+15014228,23292736,2122-08-31 03:46:00,Lab Result,Hematocrit| Blood,29.1,%,labevents
+15014228,23292736,2122-08-31 04:00:00,Output,Foley,25.0,ml,outputevents
+15014228,23292736,2122-08-31 04:00:00,DateTime Obs,Arterial Line Dressing Change,2122-08-30 20:08:00,Date and Time,datetimeevents
+15014228,23292736,2122-08-31 04:00:00,DateTime Obs,Arterial line Tubing Change,2122-08-30 00:00:00,Date,datetimeevents
+15014228,23292736,2122-08-31 04:00:00,DateTime Obs,18 Gauge Insertion Date,2122-08-30 00:00:00,Date,datetimeevents
+15014228,23292736,2122-08-31 04:00:00,DateTime Obs,Arterial line Insertion Date,2122-08-30 00:00:00,Date,datetimeevents
+15014228,23292736,2122-08-31 04:00:00,DateTime Obs,16 Gauge Insertion Date,2122-08-30 00:00:00,Date,datetimeevents
+15014228,23292736,2122-08-31 04:00:00,DateTime Obs,Foley Cath Insertion Date,2122-08-30 00:00:00,Date,datetimeevents
+15014228,23292736,2122-08-31 05:00:00,Output,Foley,15.0,ml,outputevents
+15014228,23292736,2122-08-31 05:04:00,DateTime Obs,Foley Cath Insertion Date,2122-08-30 00:00:00,Date,datetimeevents
+15014228,23292736,2122-08-31 06:00:00,Output,Foley,20.0,ml,outputevents
+15014228,23292736,2122-08-31 06:01:00,Medication Admin,,NaN,NaN,emar
+15014228,23292736,2122-08-31 06:01:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-31 06:01:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-31 06:04:00,Input,Water,500.0,ml,ingredientevents
+15014228,23292736,2122-08-31 06:04:00,Input,LR,500.0,ml,inputevents
+15014228,23292736,2122-08-31 06:04:00,Input,IVF ingredient,500.0,ml,ingredientevents
+15014228,23292736,2122-08-31 07:00:00,Pharmacy,,,NaN,pharmacy
+15014228,23292736,2122-08-31 07:00:00,Output,Foley,15.0,ml,outputevents
+15014228,23292736,2122-08-31 07:00:00,Prescription,Lactated Ringers,1000,mL,prescriptions
+15014228,23292736,2122-08-31 08:00:00,DateTime Obs,Foley Cath Insertion Date,2122-08-30 00:00:00,Date,datetimeevents
+15014228,23292736,2122-08-31 08:00:00,DateTime Obs,16 Gauge Insertion Date,2122-08-30 00:00:00,Date,datetimeevents
+15014228,23292736,2122-08-31 08:00:00,DateTime Obs,Arterial Line Dressing Change,2122-08-30 20:08:00,Date and Time,datetimeevents
+15014228,23292736,2122-08-31 08:00:00,DateTime Obs,Arterial line Insertion Date,2122-08-30 00:00:00,Date,datetimeevents
+15014228,23292736,2122-08-31 08:00:00,DateTime Obs,Arterial line Tubing Change,2122-08-30 00:00:00,Date,datetimeevents
+15014228,23292736,2122-08-31 09:00:00,Output,Foley,35.0,ml,outputevents
+15014228,23292736,2122-08-31 09:00:00,Pharmacy,Glucose Gel,,NaN,pharmacy
+15014228,23292736,2122-08-31 09:00:00,Pharmacy,Glucagon,,NaN,pharmacy
+15014228,23292736,2122-08-31 09:00:00,Prescription,Dextrose 50%,12.5,gm,prescriptions
+15014228,23292736,2122-08-31 09:00:00,Prescription,Lactated Ringers,1000,mL,prescriptions
+15014228,23292736,2122-08-31 09:00:00,Pharmacy,Insulin,,NaN,pharmacy
+15014228,23292736,2122-08-31 09:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+15014228,23292736,2122-08-31 09:00:00,Prescription,Glucose Gel,15,g,prescriptions
+15014228,23292736,2122-08-31 09:00:00,Prescription,Insulin,0,UNIT,prescriptions
+15014228,23292736,2122-08-31 09:00:00,Prescription,Glucagon,1,mg,prescriptions
+15014228,23292736,2122-08-31 09:00:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-31 09:00:00,Pharmacy,Dextrose 50%,,NaN,pharmacy
+15014228,23292736,2122-08-31 09:00:00,Pharmacy,,,NaN,pharmacy
+15014228,23292736,2122-08-31 09:30:00,Medication Admin,,NaN,NaN,emar
+15014228,23292736,2122-08-31 09:30:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-31 09:30:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-31 09:42:00,Input,LR,27.06754994392395,ml,inputevents
+15014228,23292736,2122-08-31 09:42:00,Input,Water,27.06754994392395,ml,ingredientevents
+15014228,23292736,2122-08-31 09:42:00,Input,IVF ingredient,27.06754994392395,ml,ingredientevents
+15014228,23292736,2122-08-31 09:55:00,Input,LR,521.1101762056351,ml,inputevents
+15014228,23292736,2122-08-31 09:55:00,Input,Water,521.1101762056351,ml,ingredientevents
+15014228,23292736,2122-08-31 09:55:00,Input,IVF ingredient,521.1101762056351,ml,ingredientevents
+15014228,23292736,2122-08-31 10:00:00,Output,Foley,20.0,ml,outputevents
+15014228,23292736,2122-08-31 11:00:00,Output,Foley,20.0,ml,outputevents
+15014228,23292736,2122-08-31 11:25:00,Lab Result,Hematocrit| Blood,31.2,%,labevents
+15014228,23292736,2122-08-31 11:46:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-31 11:46:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-31 11:46:00,Medication Admin,Acetaminophen IV,NaN,NaN,emar
+15014228,23292736,2122-08-31 11:47:00,Input,Acetaminophen-IV,1000.0,mg,inputevents
+15014228,23292736,2122-08-31 12:00:00,DateTime Obs,18 Gauge Insertion Date,2122-08-30 00:00:00,Date,datetimeevents
+15014228,23292736,2122-08-31 12:00:00,DateTime Obs,16 Gauge Insertion Date,2122-08-30 00:00:00,Date,datetimeevents
+15014228,23292736,2122-08-31 12:00:00,Output,Foley,20.0,ml,outputevents
+15014228,23292736,2122-08-31 12:00:00,DateTime Obs,Foley Cath Insertion Date,2122-08-30 00:00:00,Date,datetimeevents
+15014228,23292736,2122-08-31 12:00:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-31 12:00:00,Medication Admin,Insulin,NaN,NaN,emar
+15014228,23292736,2122-08-31 13:00:00,Output,Foley,15.0,ml,outputevents
+15014228,23292736,2122-08-31 14:00:00,Output,Foley,25.0,ml,outputevents
+15014228,23292736,2122-08-31 15:00:00,Output,Foley,20.0,ml,outputevents
+15014228,23292736,2122-08-31 16:00:00,DateTime Obs,Foley Cath Insertion Date,2122-08-30 00:00:00,Date,datetimeevents
+15014228,23292736,2122-08-31 16:00:00,DateTime Obs,16 Gauge Insertion Date,2122-08-30 00:00:00,Date,datetimeevents
+15014228,23292736,2122-08-31 16:00:00,Output,Foley,75.0,ml,outputevents
+15014228,23292736,2122-08-31 16:07:00,DateTime Obs,18 Gauge Insertion Date,2122-08-30 00:00:00,Date,datetimeevents
+15014228,23292736,2122-08-31 16:27:13,Transfer,transfer Med/Surg/GYN,NaN,NaN,transfers
+15014228,23292736,2122-08-31 17:00:00,Prescription,Sodium Chloride 0.9%  Flush,3,mL,prescriptions
+15014228,23292736,2122-08-31 17:00:00,Prescription,Lactated Ringers,1000,mL,prescriptions
+15014228,23292736,2122-08-31 17:00:00,Pharmacy,,,NaN,pharmacy
+15014228,23292736,2122-08-31 17:00:00,Pharmacy,Sodium Chloride 0.9%  Flush,,NaN,pharmacy
+15014228,23292736,2122-08-31 17:38:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-31 17:38:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-31 17:38:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-31 17:38:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-31 17:38:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+15014228,23292736,2122-08-31 17:38:00,Medication Admin,,NaN,NaN,emar
+15014228,23292736,2122-08-31 18:00:00,Pharmacy,Acetaminophen,,NaN,pharmacy
+15014228,23292736,2122-08-31 18:00:00,Prescription,OxyCODONE (Immediate Release),5-10,mg,prescriptions
+15014228,23292736,2122-08-31 18:00:00,Prescription,Acetaminophen,500-1000,mg,prescriptions
+15014228,23292736,2122-08-31 18:00:00,Pharmacy,OxyCODONE (Immediate Release),,NaN,pharmacy
+15014228,23292736,2122-08-31 19:20:00,Lab Result,Red Blood Cells| Blood,4.37,m/uL,labevents
+15014228,23292736,2122-08-31 19:20:00,Lab Result,INR(PT)| Blood,1.0,,labevents
+15014228,23292736,2122-08-31 19:20:00,Lab Result,RDW| Blood,23.7,%,labevents
+15014228,23292736,2122-08-31 19:20:00,Lab Result,White Blood Cells| Blood,9.6,K/uL,labevents
+15014228,23292736,2122-08-31 19:20:00,Lab Result,RDW-SD| Blood,61.5,fL,labevents
+15014228,23292736,2122-08-31 19:20:00,Lab Result,Hemoglobin| Blood,10.3,g/dL,labevents
+15014228,23292736,2122-08-31 19:20:00,Lab Result,Hematocrit| Blood,32.0,%,labevents
+15014228,23292736,2122-08-31 19:20:00,Lab Result,PTT| Blood,28.9,sec,labevents
+15014228,23292736,2122-08-31 19:20:00,Lab Result,PT| Blood,10.5,sec,labevents
+15014228,23292736,2122-08-31 19:20:00,Lab Result,Platelet Count| Blood,216.0,K/uL,labevents
+15014228,23292736,2122-08-31 19:20:00,Lab Result,MCV| Blood,73.0,fL,labevents
+15014228,23292736,2122-08-31 19:20:00,Lab Result,"Fibrinogen, Functional| Blood",385.0,mg/dL,labevents
+15014228,23292736,2122-08-31 19:20:00,Lab Result,MCH| Blood,23.6,pg,labevents
+15014228,23292736,2122-08-31 19:20:00,Lab Result,MCHC| Blood,32.2,g/dL,labevents
+15014228,23292736,2122-08-31 19:54:00,Medication Admin,Docusate Sodium,NaN,NaN,emar
+15014228,23292736,2122-08-31 19:54:00,Medication Admin,Heparin,NaN,NaN,emar
+15014228,23292736,2122-08-31 19:54:00,Medication Admin,Acetaminophen,NaN,NaN,emar
+15014228,23292736,2122-08-31 19:54:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-31 19:54:00,Medication Route,PO,NaN,NaN,emar_detail
+15014228,23292736,2122-08-31 19:54:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-31 19:54:00,Medication Route,PO,NaN,NaN,emar_detail
+15014228,23292736,2122-08-31 19:54:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-31 19:54:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-31 19:54:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-31 19:58:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-31 19:58:00,Medication Admin,,NaN,NaN,emar
+15014228,23292736,2122-08-31 19:58:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-08-31 20:00:00,Pharmacy,Docusate Sodium,,NaN,pharmacy
+15014228,23292736,2122-08-31 20:00:00,Pharmacy,Heparin,,NaN,pharmacy
+15014228,23292736,2122-08-31 20:00:00,Prescription,Docusate Sodium,100,mg,prescriptions
+15014228,23292736,2122-08-31 20:00:00,Prescription,Heparin,5000,UNIT,prescriptions
+15014228,23292736,2122-09-01 00:46:00,Medication Admin,,NaN,NaN,emar
+15014228,23292736,2122-09-01 00:46:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-09-01 00:46:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-09-01 02:00:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+15014228,23292736,2122-09-01 02:00:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-09-01 05:40:00,Lab Result,MCV| Blood,74.0,fL,labevents
+15014228,23292736,2122-09-01 05:40:00,Lab Result,Platelet Count| Blood,240.0,K/uL,labevents
+15014228,23292736,2122-09-01 05:40:00,Lab Result,Hemoglobin| Blood,10.0,g/dL,labevents
+15014228,23292736,2122-09-01 05:40:00,Lab Result,PTT| Blood,29.0,sec,labevents
+15014228,23292736,2122-09-01 05:40:00,Lab Result,INR(PT)| Blood,1.0,,labevents
+15014228,23292736,2122-09-01 05:40:00,Lab Result,"Fibrinogen, Functional| Blood",386.0,mg/dL,labevents
+15014228,23292736,2122-09-01 05:40:00,Lab Result,Urea Nitrogen| Blood,7.0,mg/dL,labevents
+15014228,23292736,2122-09-01 05:40:00,Lab Result,Sodium| Blood,137.0,mEq/L,labevents
+15014228,23292736,2122-09-01 05:40:00,Lab Result,Potassium| Blood,3.8,mEq/L,labevents
+15014228,23292736,2122-09-01 05:40:00,Lab Result,Phosphate| Blood,2.6,mg/dL,labevents
+15014228,23292736,2122-09-01 05:40:00,Lab Result,Magnesium| Blood,1.8,mg/dL,labevents
+15014228,23292736,2122-09-01 05:40:00,Lab Result,Glucose| Blood,76.0,mg/dL,labevents
+15014228,23292736,2122-09-01 05:40:00,Lab Result,Creatinine| Blood,0.7,mg/dL,labevents
+15014228,23292736,2122-09-01 05:40:00,Lab Result,Chloride| Blood,104.0,mEq/L,labevents
+15014228,23292736,2122-09-01 05:40:00,Lab Result,PT| Blood,10.7,sec,labevents
+15014228,23292736,2122-09-01 05:40:00,Lab Result,Hematocrit| Blood,31.2,%,labevents
+15014228,23292736,2122-09-01 05:40:00,Lab Result,"Calcium, Total| Blood",8.3,mg/dL,labevents
+15014228,23292736,2122-09-01 05:40:00,Lab Result,MCH| Blood,23.7,pg,labevents
+15014228,23292736,2122-09-01 05:40:00,Lab Result,RDW| Blood,24.1,%,labevents
+15014228,23292736,2122-09-01 05:40:00,Lab Result,Red Blood Cells| Blood,4.22,m/uL,labevents
+15014228,23292736,2122-09-01 05:40:00,Lab Result,White Blood Cells| Blood,9.9,K/uL,labevents
+15014228,23292736,2122-09-01 05:40:00,Lab Result,MCHC| Blood,32.1,g/dL,labevents
+15014228,23292736,2122-09-01 05:40:00,Lab Result,Anion Gap| Blood,17.0,mEq/L,labevents
+15014228,23292736,2122-09-01 05:40:00,Lab Result,Bicarbonate| Blood,20.0,mEq/L,labevents
+15014228,23292736,2122-09-01 05:40:00,Lab Result,RDW-SD| Blood,63.9,fL,labevents
+15014228,23292736,2122-09-01 07:48:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-09-01 07:48:00,Medication Route,PO,NaN,NaN,emar_detail
+15014228,23292736,2122-09-01 07:48:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-09-01 07:48:00,Medication Admin,Docusate Sodium,NaN,NaN,emar
+15014228,23292736,2122-09-01 07:48:00,Medication Admin,Heparin,NaN,NaN,emar
+15014228,23292736,2122-09-01 07:48:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-09-01 07:50:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-09-01 07:50:00,Medication Admin,,NaN,NaN,emar
+15014228,23292736,2122-09-01 07:50:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-09-01 09:00:00,Medication Admin,,NaN,NaN,emar
+15014228,23292736,2122-09-01 09:00:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-09-01 09:00:00,Pharmacy,Magnesium Oxide,,NaN,pharmacy
+15014228,23292736,2122-09-01 09:00:00,Prescription,Magnesium Oxide,400,mg,prescriptions
+15014228,23292736,2122-09-01 09:00:00,Pharmacy,Neutra-Phos,,NaN,pharmacy
+15014228,23292736,2122-09-01 09:00:00,Prescription,Neutra-Phos,2,PKT,prescriptions
+15014228,23292736,2122-09-01 09:00:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-09-01 09:50:00,Medication Route,PO,NaN,NaN,emar_detail
+15014228,23292736,2122-09-01 09:50:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-09-01 09:50:00,Medication Admin,Magnesium Oxide,NaN,NaN,emar
+15014228,23292736,2122-09-01 09:51:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-09-01 09:51:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-09-01 09:51:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+15014228,23292736,2122-09-01 09:54:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-09-01 09:54:00,Medication Admin,OxyCODONE (Immediate Release),NaN,NaN,emar
+15014228,23292736,2122-09-01 09:54:00,Medication Route,PO,NaN,NaN,emar_detail
+15014228,23292736,2122-09-01 09:55:00,Medication Admin,Neutra-Phos,NaN,NaN,emar
+15014228,23292736,2122-09-01 09:55:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-09-01 09:55:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-09-01 09:55:00,Medication Route,PO,NaN,NaN,emar_detail
+15014228,23292736,2122-09-01 11:00:00,Prescription,Furosemide,10,mg,prescriptions
+15014228,23292736,2122-09-01 11:00:00,Pharmacy,Furosemide,,NaN,pharmacy
+15014228,23292736,2122-09-01 11:20:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-09-01 11:20:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-09-01 11:20:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-09-01 11:20:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-09-01 11:20:00,Medication Admin,Furosemide,NaN,NaN,emar
+15014228,23292736,2122-09-01 11:20:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+15014228,23292736,2122-09-01 12:00:00,Prescription,OxyCODONE (Immediate Release),2.5-5,mg,prescriptions
+15014228,23292736,2122-09-01 12:00:00,Pharmacy,OxyCODONE (Immediate Release),,NaN,pharmacy
+15014228,23292736,2122-09-01 15:08:00,Medication Admin,OxyCODONE (Immediate Release),NaN,NaN,emar
+15014228,23292736,2122-09-01 15:08:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-09-01 15:08:00,Medication Route,PO,NaN,NaN,emar_detail
+15014228,23292736,2122-09-01 20:32:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-09-01 20:32:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+15014228,23292736,2122-09-01 20:32:00,Medication Admin,Heparin,NaN,NaN,emar
+15014228,23292736,2122-09-01 20:32:00,Medication Admin,Docusate Sodium,NaN,NaN,emar
+15014228,23292736,2122-09-01 20:32:00,Medication Route,PO,NaN,NaN,emar_detail
+15014228,23292736,2122-09-01 20:32:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-09-01 20:32:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-09-01 20:32:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-09-01 20:32:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-09-02 07:25:00,Lab Result,White Blood Cells| Blood,10.3,K/uL,labevents
+15014228,23292736,2122-09-02 07:25:00,Lab Result,Hemoglobin| Blood,10.3,g/dL,labevents
+15014228,23292736,2122-09-02 07:25:00,Lab Result,RDW-SD| Blood,64.8,fL,labevents
+15014228,23292736,2122-09-02 07:25:00,Lab Result,Bicarbonate| Blood,22.0,mEq/L,labevents
+15014228,23292736,2122-09-02 07:25:00,Lab Result,Hematocrit| Blood,32.4,%,labevents
+15014228,23292736,2122-09-02 07:25:00,Lab Result,Anion Gap| Blood,16.0,mEq/L,labevents
+15014228,23292736,2122-09-02 07:25:00,Lab Result,RDW| Blood,24.5,%,labevents
+15014228,23292736,2122-09-02 07:25:00,Lab Result,Urea Nitrogen| Blood,6.0,mg/dL,labevents
+15014228,23292736,2122-09-02 07:25:00,Lab Result,Sodium| Blood,138.0,mEq/L,labevents
+15014228,23292736,2122-09-02 07:25:00,Lab Result,Potassium| Blood,4.1,mEq/L,labevents
+15014228,23292736,2122-09-02 07:25:00,Lab Result,Phosphate| Blood,3.8,mg/dL,labevents
+15014228,23292736,2122-09-02 07:25:00,Lab Result,Red Blood Cells| Blood,4.35,m/uL,labevents
+15014228,23292736,2122-09-02 07:25:00,Lab Result,MCH| Blood,23.7,pg,labevents
+15014228,23292736,2122-09-02 07:25:00,Lab Result,Glucose| Blood,90.0,mg/dL,labevents
+15014228,23292736,2122-09-02 07:25:00,Lab Result,Creatinine| Blood,0.8,mg/dL,labevents
+15014228,23292736,2122-09-02 07:25:00,Lab Result,Chloride| Blood,104.0,mEq/L,labevents
+15014228,23292736,2122-09-02 07:25:00,Lab Result,Magnesium| Blood,1.7,mg/dL,labevents
+15014228,23292736,2122-09-02 07:25:00,Lab Result,MCHC| Blood,31.8,g/dL,labevents
+15014228,23292736,2122-09-02 07:25:00,Lab Result,Platelet Count| Blood,280.0,K/uL,labevents
+15014228,23292736,2122-09-02 07:25:00,Lab Result,MCV| Blood,75.0,fL,labevents
+15014228,23292736,2122-09-02 07:25:00,Lab Result,"Calcium, Total| Blood",8.4,mg/dL,labevents
+15014228,23292736,2122-09-02 07:54:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-09-02 07:54:00,Medication Admin,Docusate Sodium,NaN,NaN,emar
+15014228,23292736,2122-09-02 07:54:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-09-02 07:54:00,Medication Route,PO,NaN,NaN,emar_detail
+15014228,23292736,2122-09-02 07:54:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-09-02 07:54:00,Medication Admin,Heparin,NaN,NaN,emar
+15014228,23292736,2122-09-02 07:54:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-09-02 07:54:00,Medication Admin,Sodium Chloride 0.9%  Flush,NaN,NaN,emar
+15014228,23292736,2122-09-02 07:54:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-09-02 11:45:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-09-02 11:45:00,Medication Route,PO,NaN,NaN,emar_detail
+15014228,23292736,2122-09-02 11:45:00,Medication Admin,OxyCODONE (Immediate Release),NaN,NaN,emar
+15014228,23292736,2122-09-02 15:40:00,Medication Route,,NaN,NaN,emar_detail
+15014228,23292736,2122-09-02 15:40:00,Medication Route,PO,NaN,NaN,emar_detail
+15014228,23292736,2122-09-02 15:40:00,Medication Admin,OxyCODONE (Immediate Release),NaN,NaN,emar
+15014228,23292736,2122-09-02 15:55:05,Transfer,discharge,NaN,NaN,transfers
